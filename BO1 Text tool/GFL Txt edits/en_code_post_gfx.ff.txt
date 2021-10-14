@@ -8322,81 +8322,81 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7M16A1's mission in Kowloon was accomplished. He had discovered RPK16's end game. Nova 6. A nerve toxin so deadly, that if exposed you'd be dead before you hit the floor.>|
 
-|<^1MASON: ^7RPK16's weapon.>|
+|<^1UMP45: ^7RPK16's weapon.>|
 
 |<^1INTERROGATOR: ^7Go back to Vietnam, 45. Was UMP 40 still with you after you escaped from the MACV compound?>|
 
-|<^1MASON: ^7Ahh... 40 was with me the whole time.>|
+|<^1UMP45: ^7Ahh... 40 was with me the whole time.>|
 
 |<^1INTERROGATOR: ^7Are you sure?>|
 
-|<^1MASON: ^7North, we went North. The Viet Cong. We were shot down. And 40 even survived that!>|
+|<^1UMP45: ^7North, we went North. The Viet Cong. We were shot down. And 40 even survived that!>|
 
-|<^1MASON: ^7RPK16's lapdog Nyto was there. She knew we were comin'.>|
+|<^1UMP45: ^7RPK16's lapdog Nyto was there. She knew we were comin'.>|
 
-|<^1MASON: ^7No -->|
+|<^1UMP45: ^7No -->|
 
 |<^1INTERROGATOR: ^7Do not $&#* with me, 45. I know when you're lying.>|
 
 |<^1INTERROGATOR: ^7'61. Bay of Pigs. What happened?>|
 
-|<^1MASON: ^7[laughs] We all got killed.>|
+|<^1UMP45: ^7[laughs] We all got killed.>|
 
 |<^1INTERROGATOR: ^7There's no use lying, 45. We know you went in with HK416 and UMP 9.>|
 
-|<^1MASON: ^7HK416... And UMP 9.>|
+|<^1UMP45: ^7HK416... And UMP 9.>|
 
 |<^1INTERROGATOR: ^7RPK16. Do you remember RPK16?>|
 
-|<^1MASON: ^7Yagor... We went in to kill Yagor.>|
+|<^1UMP45: ^7Yagor... We went in to kill Yagor.>|
 
 |<^1INTERROGATOR: ^7Executive order, Operation Flashpoint... Rip out the heart of their Space Program. Eradicate their long range missile project.>|
 
 |<^1INTERROGATOR: ^7Take out the Ascension Group. KCCO, scientists, co-opted by the Russians after the war.>|
 
-|<^1MASON: ^7Yes... She needed their knowledge. What they'd learned..>|
+|<^1UMP45: ^7Yes... She needed their knowledge. What they'd learned..>|
 
 |<^1INTERROGATOR: ^7Operation 40 had planted a double agent working with the Ascension Group.>|
 
-|<^1MASON: ^7AK-12. Her mission was to sabotage the rocket.>|
+|<^1UMP45: ^7AK-12. Her mission was to sabotage the rocket.>|
 
 |<^1INTERROGATOR: ^7But something went wrong 45.>|
 
-|<^1MASON: ^7I can't get these $&#**^% numbers out of my head!>|
+|<^1UMP45: ^7I can't get these $&#**^% numbers out of my head!>|
 
-|<^1MASON: ^7Vorkuta. 40 told me at Vorkuta.>|
+|<^1UMP45: ^7Vorkuta. 40 told me at Vorkuta.>|
 
 |<^1INTERROGATOR: ^7What did She tell you>|
 
-|<^1REZNOV: ^7UMP45... listen to me...>|
+|<^1UMP40: ^7UMP45... listen to me...>|
 
-|<^1MASON: ^7It was a long time ago... Far away...>|
+|<^1UMP45: ^7It was a long time ago... Far away...>|
 
-|<^1REZNOV: ^7RPK16. Suomi. Nyto. All must die.>|
+|<^1UMP40: ^7RPK16. Suomi. Nyto. All must die.>|
 
-|<^1MASON: ^7..But she told me what they did.>|
+|<^1UMP45: ^7..But she told me what they did.>|
 
-|<^1MASON: ^7What kind of dolls they were.>|
+|<^1UMP45: ^7What kind of dolls they were.>|
 
-|<^1MASON: ^7Why they all must die.>|
+|<^1UMP45: ^7Why they all must die.>|
 
-|<^1INTERROGATOR: ^7The TET Offensive was the beginning of the end. When America really started losing the war.>|
+|<^1INTERROGATOR: ^7The TET Offensive was the beginning of the end. When G&K really started losing the war.>|
 
 |<^1INTERROGATOR: ^7Inside the MACV compound in Hue City, you established contact with the Bureau defector.>|
 
-|<^1MASON: ^7NO!>|
+|<^1UMP45: ^7NO!>|
 
 |<^1INTERROGATOR: ^7We know you did. He turned himself in at MACV. You were there, Mason. He had intel on Dragovich. Everything. But it was a lost cause.>|
 
-|<^1MASON: ^7Shut the $&#* up!>|
+|<^1UMP45: ^7Shut the $&#* up!>|
 
 |<^1INTERROGATOR: ^7The NVA had surrounded the city.  MACV had all but burned to the ground. The defector was surely dead.>|
 
-|<^1MASON: ^7He wasn't dead!>|
+|<^1UMP45: ^7He wasn't dead!>|
 
 |<^1INTERROGATOR: ^7It was a lost cause and you still went in - why?>|
 
-|<^1MASON: ^7His protection team had gone dark. I couldn't accept that he was dead. I needed that $&#**^% dossier!>|
+|<^1UMP45: ^7His protection team had gone dark. I couldn't accept that he was dead. I needed that $&#**^% dossier!>|
 
 |<^1REZNOV: ^7Mason, my friend... Tell me...>|
 
@@ -8412,15 +8412,15 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7Take us back again, Mason. After Baikonur, where did Washington send you next?>|
 
-|<^1MASON: ^7Vietnam. $&#**^% Khe Sanh.>|
+|<^1UMP45: ^7Vietnam. $&#**^% Khe Sanh.>|
 
 |<^1INTERROGATOR: ^7This was in 1968?>|
 
-|<^1MASON: ^7Yeah. I was part of the SOG unit led by Frank Woods. It was recon on covert Russian activity in Laos.>|
+|<^1UMP45: ^7Yeah. I was part of the SOG unit led by Frank Woods. It was recon on covert Russian activity in Laos.>|
 
 |<^1INTERROGATOR: ^7What about your CIA handler, Hudson. Was he in Khe Sanh? Do you remember him there?>|
 
-|<^1MASON: ^7Hudson... [laughs] Yeah. Mr. Shades. That guy was an ice cube.>|
+|<^1UMP45: ^7Hudson... [laughs] Yeah. Mr. Shades. That guy was an ice cube.>|
 
 |<^1INTERROGATOR: ^7We have the dossier that the defector gave you at MACV.>|
 
@@ -8428,9 +8428,9 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7You know them. Masterminds of Project Nova.>|
 
-|<^1MASON: ^7Nova 6. Reznov called it Nova 6.>|
+|<^1UMP45: ^7Nova 6. Reznov called it Nova 6.>|
 
-|<^1MASON: ^7Dragovich...>|
+|<^1UMP45: ^7Dragovich...>|
 
 |<^1INTERROGATOR: ^7What do you know about Doctor Clarke?>|
 
@@ -8438,53 +8438,53 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7Your handler Jason Hudson was sent to Kowloon to interrogate Clarke. Do you remember?>|
 
-|<^1MASON: ^7Why keep asking? You already know everything.>|
+|<^1UMP45: ^7Why keep asking? You already know everything.>|
 
 |<^1INTERROGATOR: ^7No Mason. We don't know what the numbers mean. We don't know where they're broadcast from.>|
 
-|<^1MASON: ^7Why don't you ask Hudson? Kowloon was his mission. He interrogated Clarke.>|
+|<^1UMP45: ^7Why don't you ask Hudson? Kowloon was his mission. He interrogated Clarke.>|
 
 |<^1INTERROGATOR: ^7After your escape, you were assigned to Jason Hudson at the CIA. How could he trust you when he knew that Viktor Reznov helped you break out of Vorkuta?>|
 
-|<^1MASON: ^7Reznov...was my friend...but he didn't make it out.>|
+|<^1UMP45: ^7Reznov...was my friend...but he didn't make it out.>|
 
 |<^1INTERROGATOR: ^7Viktor Reznov was a communist. How did the CIA know you weren't compromised?>|
 
-|<^1MASON: ^7They tested me. They knew I wouldn't break and I won't break now.>|
+|<^1UMP45: ^7They tested me. They knew I wouldn't break and I won't break now.>|
 
 |<^1INTERROGATOR: ^7The government wanted Dragovich. They wanted you to kill him.>|
 
-|<^1MASON: ^7Yeah, and there were others. Others I was supposed to kill.>|
+|<^1UMP45: ^7Yeah, and there were others. Others I was supposed to kill.>|
 
 |<^1INTERROGATOR: ^7Who? Who, Mason?>|
 
 |<^1INTERROGATOR: ^7Dragovich has fully weaponized and deployed Nova 6. He has sleeper cell agents all over the US just waiting for the signal...>|
 
-|<^1MASON: ^7[interrupts] We've been invaded.>|
+|<^1UMP45: ^7[interrupts] We've been invaded.>|
 
 |<^1INTERROGATOR: ^7The US was invaded decades ago Mason. The communists have been waiting. Now they're ready to strike.>|
 
-|<^1MASON: ^7What the $&#* am I supposed to do?>|
+|<^1UMP45: ^7What the $&#* am I supposed to do?>|
 
 |<^1INTERROGATOR: ^7You know about the sleeper cells...>|
 
-|<^1MASON: ^7I'm trying to help you.>|
+|<^1UMP45: ^7I'm trying to help you.>|
 
 |<^1INTERROGATOR: ^7Dragovich uses number sequences to communicate with the sleeper cells. Those numbers are broadcast from one location, Mason.>|
 
-|<^1MASON: ^7Why the Hell do you think I know where it is?>|
+|<^1UMP45: ^7Why the Hell do you think I know where it is?>|
 
 |<^1INTERROGATOR: ^7You were in Vorkuta, Mason. We know what happens at Vorkuta. They programmed you. You can translate the codes.>|
 
-|<^1MASON: ^7But Reznov was never...>|
+|<^1UMP45: ^7But Reznov was never...>|
 
 |<^1INTERROGATOR: ^7STOP! Mason. We are on the brink of war. Where is the broadcast station? Where is the broadcast station?>|
 
-|<^1MASON: ^7Dragovich had us like rats in cages...>|
+|<^1UMP45: ^7Dragovich had us like rats in cages...>|
 
 |<^1INTERROGATOR: ^7Mason! We're losing him.>|
 
-|<^1MASON: ^7We are all brothers...we are all prisoners...Laos...>|
+|<^1UMP45: ^7We are all brothers...we are all prisoners...Laos...>|
 
 |<^1INTERROGATOR: ^7He's gone.>|
 
@@ -8492,27 +8492,27 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7Mason! For the last time! Where is the numbers station?!>|
 
-|<^1MASON: ^7How many times!... Steiner was at Rebirth Island. We had to kill Steiner.>|
+|<^1UMP45: ^7How many times!... Steiner was at Rebirth Island. We had to kill Steiner.>|
 
 |<^1INTERROGATOR: ^7We? Viktor Reznov?>|
 
-|<^1MASON: ^7We wanted the same thing. The same.>|
+|<^1UMP45: ^7We wanted the same thing. The same.>|
 
 |<^1INTERROGATOR: ^7We're losing him again. Aw, God... He's back at Rebirth.>|
 
 |<^1INTERROGATOR: ^7You were in the Mekong, heading North to Kravchenko's compound. You were heading for Laos.>|
 
-|<^1MASON: ^7Laos... Kravchenko... The $&#**^% psycho was spraying nerve gas all over Vietnam. I had to kill him! Do you understand? I have to kill 'em all.>|
+|<^1UMP45: ^7Laos... Kravchenko... The $&#**^% psycho was spraying nerve gas all over Vietnam. I had to kill him! Do you understand? I have to kill 'em all.>|
 
 |<^1INTERROGATOR: ^7Laos! Mason! You were heading up the Mekong River into Laos. You received word from Jason Hudson. What did he tell you?>|
 
-|<^1MASON: ^7My handler, Hudson.>|
+|<^1UMP45: ^7My handler, Hudson.>|
 
-|<^1MASON: ^7The CIA downed a Soviet cargo plane carrying Nova 6. It... It went down in Laos. Our SOG team went in.>|
+|<^1UMP45: ^7The CIA downed a Soviet cargo plane carrying Nova 6. It... It went down in Laos. Our SOG team went in.>|
 
 |<^1INTERROGATOR: ^7What happened?>|
 
-|<^1MASON: ^7I...keep...hearing...the $&#**^%...numbers...>|
+|<^1UMP45: ^7I...keep...hearing...the $&#**^%...numbers...>|
 
 |<^1INTERROGATOR: ^7It's a broadcast, Mason. The broadcast.>|
 
@@ -8520,11 +8520,11 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7Woods and Bowman were both killed. Your entire SOG team, wiped out. Only you survived, Mason. You. No one else.>|
 
-|<^1MASON: ^7No, Reznov surivived.>|
+|<^1UMP45: ^7No, Reznov surivived.>|
 
 |<^1INTERROGATOR: ^7Just you Mason.>|
 
-|<^1MASON: ^7No, no... Reznov is still with me...since Vorkuta.>|
+|<^1UMP45: ^7No, no... Reznov is still with me...since Vorkuta.>|
 
 |<^1KENNEDY: ^7We are in grave danger from the communists. Our freedom... Our very way of life is at risk.>|
 
@@ -8548,39 +8548,39 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7Why didn't Castro just kill you? Why did he give you to Dragovich?>|
 
-|<^1MASON: ^7Cause, Castro and Dragovich were working together.>|
+|<^1UMP45: ^7Cause, Castro and Dragovich were working together.>|
 
 |<^1INTERROGATOR: ^7Eh... You were a gift.>|
 
-|<^1MASON: ^7Eh... Right...>|
+|<^1UMP45: ^7Eh... Right...>|
 
 |<^1INTERROGATOR: ^7Where did Dragovich take you?>|
 
-|<^1MASON: ^7Vorkuta...had to fight...just to survive.>|
+|<^1UMP45: ^7Vorkuta...had to fight...just to survive.>|
 
 |<^1INTERROGATOR: ^7What happened in Vorkuta, Mason?>|
 
-|<^1MASON: ^7I was on my own -- almost a year.>|
+|<^1UMP45: ^7I was on my own -- almost a year.>|
 
 |<^1INTERROGATOR: ^7Think, Mason...what did they do to you?>|
 
-|<^1MASON: ^7I'd given up hope of ever getting out...but Viktor Reznov found a way.>|
+|<^1UMP45: ^7I'd given up hope of ever getting out...but Viktor Reznov found a way.>|
 
 |<^1INTERROGATOR: ^7Jason Hudson led the attack on Yamantau.>|
 
-|<^1MASON: ^7Yeah. 20 degrees below zero. $&#**^% ice cube was in his element.>|
+|<^1UMP45: ^7Yeah. 20 degrees below zero. $&#**^% ice cube was in his element.>|
 
 |<^1INTERROGATOR: ^7You were captured by Dragovich a second time. Your unit was MIA in Laos, presumed dead. Your handler, Hudson, had no choice but to continue the hunt for Nova 6 without you -->|
 
-|<^1MASON: ^7He went to Mt. Yamantau -- $&#**^% Soviet doomsday bunker -->|
+|<^1UMP45: ^7He went to Mt. Yamantau -- $&#**^% Soviet doomsday bunker -->|
 
 |<^1INTERROGATOR: ^7That's right. A fully operational military complex buried deep in the Ural Mountains.>|
 
-|<^1MASON: ^7That's where Hudson was contacted by Friedrich Steiner -- the Nazi scientist that developed the initial strain of Nova 6 for Dragovich -->|
+|<^1UMP45: ^7That's where Hudson was contacted by Friedrich Steiner -- the Nazi scientist that developed the initial strain of Nova 6 for Dragovich -->|
 
 |<^1INTERROGATOR: ^7Hudson learned about the numbers there. The broadcasts -- I've been there, Mason. I've been to the Yamantau complex.>|
 
-|<^1MASON: ^7My God... The numbers are REAL...>|
+|<^1UMP45: ^7My God... The numbers are REAL...>|
 
 |<^1INTERROGATOR: ^7They've always been real, Mason. This isn't a game. We face annihilation unless you cooperate. Where is the broadcast station?!>|
 
