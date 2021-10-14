@@ -8320,7 +8320,7 @@ Marketplace>|
 
 |<Join Reserved>|
 
-|<^1INTERROGATOR: ^7M16A1's mission in Kowloon was accomplished. He had discovered RPK16's end game. Nova 6. A nerve toxin so deadly, that if exposed you'd be dead before you hit the floor.>|
+|<^1INTERROGATOR: ^7M16A1's mission in Kowloon was accomplished. She had discovered RPK16's end game. Nova 6. A nerve toxin so deadly, that if exposed you'd be dead before you hit the floor.>|
 
 |<^1UMP45: ^7RPK16's weapon.>|
 
