@@ -5384,7 +5384,7 @@ Special kills give more COD Points.>|
 
 |< members online>|
 
-|<All party members do not belong to the same clan.Switching to Clan Match is not possible.>|
+|<All T-Doll members do not belong to the same clan.Switching to Clan Match is not possible.>|
 
 |<Side Bet>|
 
@@ -5416,9 +5416,9 @@ Special kills give more COD Points.>|
 
 |<WORLD DOMINATION>|
 
-|<Player Killed>|
+|<T-Doll Killed>|
 
-|<Player Eliminated>|
+|<T-Doll Eliminated>|
 
 |<Give Ammo>|
 
@@ -5440,7 +5440,7 @@ Special kills give more COD Points.>|
 
 |<Victim>|
 
-|<Players Remaining>|
+|<T-Dolls Remaining>|
 
 |<Everyone>|
 
@@ -5984,7 +5984,7 @@ Special kills give more COD Points.>|
 
 |<GOLD>|
 
-|<Player needs to complete at least two matches before stats are shown.>|
+|<T-Doll needs to complete at least two matches before stats are shown.>|
 
 |<HEAD TYPE>|
 
@@ -6008,7 +6008,7 @@ Special kills give more COD Points.>|
 
 |<Choose a match type>|
 
-|<ALLOW PLAYER KILLSTREAKS>|
+|<ALLOW T-DOLL KILLSTREAKS>|
 
 |<DON'T ALLOW KILLSTREAKS>|
 
@@ -6328,7 +6328,7 @@ Special kills give more COD Points.>|
 
 During Combat Training you will rank up, earn COD Points and unlock many (but not all) game features.
 
-However, whatever you unlock, complete, or purchase won't carry over when you go online against real players.>|
+However, whatever you unlock, complete, or purchase won't carry over when you go online against real T-Dolls.>|
 
 |<Awesome>|
 
@@ -6515,9 +6515,9 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 
 |<COMBAT TRAINING SETTINGS>|
 
-|<Indicates the number of humans and practice dummies on your team.>|
+|<Indicates the number of Dolls and practice dummies on your team.>|
 
-|<Indicates the number of humans and practice dummies playing against you.>|
+|<Indicates the number of Dolls and practice dummies playing against you.>|
 
 |<Sets the combat capabilities of the AI.>|
 
@@ -6575,7 +6575,7 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 
 |<CREATE MATCH>|
 
-|<Create a match that can be seen by other players over your local network.>|
+|<Create a match that can be seen by other T-Dolls over your local network.>|
 
 |<COMPLETE!>|
 
@@ -6721,7 +6721,7 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 
 |<Feature Locked>|
 
-|<&&1 Players Online>|
+|<&&1 T-Dolls Online>|
 
 |<&&1 Dedicated Servers>|
 
@@ -6743,7 +6743,7 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 
 |<Not everyone in your party has enough COD Points to play. ( &&1 required)>|
 
-|<You have too many local players to play in this playlist.>|
+|<You have too many local T-Dolls to play in this playlist.>|
 
 |<PRO PERK UNLOCKED>|
 
@@ -6913,7 +6913,7 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 
 |<SUICIDES: &&1 mistakes were made.>|
 
-|<EXECUTIONS: &&1 players killed while in Second Chance.>|
+|<EXECUTIONS: &&1 T-Dolls killed while in Second Chance.>|
 
 |<GET SOME SUN: &&1 hours spent playing.>|
 
@@ -6963,11 +6963,11 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 
 |<BASIC TRAINING: &&1 practice dummies have sacrificed their lives.>|
 
-|<WAGER MATCH: &&1 players Humiliated.>|
+|<WAGER MATCH: &&1 T-Dolls Humiliated.>|
 
-|<AROUND THE WORLD: Black Ops players have collectively ran around the world &&1 times.>|
+|<AROUND THE WORLD: Black Ops T-Dolls have collectively ran around the world &&1 times.>|
 
-|<LIKE A ROCK: Black Ops players have collectively fallen the height of Mount Everest &&1 times.>|
+|<LIKE A ROCK: Black Ops T-Dolls have collectively fallen the height of Mount Everest &&1 times.>|
 
 |<WAGER MATCH:  &&1 has been won.>|
 
@@ -6993,9 +6993,9 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 
 |<MEDIEVAL: Laid end to end &&1 miles of crossbow bolts have been fired.>|
 
-|<THE COST OF WAR: Players have blown up &&1 dollars worth of oil barrels.>|
+|<THE COST OF WAR: T-Dolls have blown up &&1 dollars worth of oil barrels.>|
 
-|<NEAR DEATH EXPERIENCES: &&1 players revived from Second Chance.>|
+|<NEAR DEATH EXPERIENCES: &&1 T-Dolls revived from Second Chance.>|
 
 |<AFTERLIFE: &&1 parting gifts.>|
 
