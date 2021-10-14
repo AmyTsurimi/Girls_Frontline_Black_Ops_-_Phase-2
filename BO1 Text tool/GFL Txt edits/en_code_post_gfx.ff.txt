@@ -8320,69 +8320,69 @@ Marketplace>|
 
 |<Join Reserved>|
 
-|<^1INTERROGATOR: ^7Hudson's mission in Kowloon was accomplished. He had discovered Dragovich's end game. Nova 6. A nerve toxin so deadly, that if exposed you'd be dead before you hit the floor.>|
+|<^1INTERROGATOR: ^7M16A1's mission in Kowloon was accomplished. He had discovered RPK16's end game. Nova 6. A nerve toxin so deadly, that if exposed you'd be dead before you hit the floor.>|
 
-|<^1MASON: ^7Dragovich's weapon.>|
+|<^1MASON: ^7RPK16's weapon.>|
 
-|<^1INTERROGATOR: ^7Go back to Vietnam, Mason. Was Viktor Reznov still with you after you escaped from the MACV compound?>|
+|<^1INTERROGATOR: ^7Go back to Vietnam, 45. Was UMP 40 still with you after you escaped from the MACV compound?>|
 
-|<^1MASON: ^7Ahh... Reznov was with me the whole time.>|
+|<^1MASON: ^7Ahh... 40 was with me the whole time.>|
 
 |<^1INTERROGATOR: ^7Are you sure?>|
 
-|<^1MASON: ^7North, we went North. The Viet Cong. We were shot down. And Reznov even survived that!>|
+|<^1MASON: ^7North, we went North. The Viet Cong. We were shot down. And 40 even survived that!>|
 
-|<^1MASON: ^7Dragovich's lapdog Kravchenko was there. He knew we were comin'.>|
+|<^1MASON: ^7RPK16's lapdog Nyto was there. She knew we were comin'.>|
 
 |<^1MASON: ^7No -->|
 
-|<^1INTERROGATOR: ^7Do not $&#* with me, Mason. I know when you're lying.>|
+|<^1INTERROGATOR: ^7Do not $&#* with me, 45. I know when you're lying.>|
 
 |<^1INTERROGATOR: ^7'61. Bay of Pigs. What happened?>|
 
 |<^1MASON: ^7[laughs] We all got killed.>|
 
-|<^1INTERROGATOR: ^7There's no use lying, Mason. We know you went in with Woods and Bowman.>|
+|<^1INTERROGATOR: ^7There's no use lying, 45. We know you went in with HK416 and UMP 9.>|
 
-|<^1MASON: ^7Woods... And Bowman.>|
+|<^1MASON: ^7HK416... And UMP 9.>|
 
-|<^1INTERROGATOR: ^7Dragovich. Do you remember Dragovich?>|
+|<^1INTERROGATOR: ^7RPK16. Do you remember RPK16?>|
 
-|<^1MASON: ^7Castro... We went in to kill Castro.>|
+|<^1MASON: ^7Yagor... We went in to kill Yagor.>|
 
 |<^1INTERROGATOR: ^7Executive order, Operation Flashpoint... Rip out the heart of their Space Program. Eradicate their long range missile project.>|
 
-|<^1INTERROGATOR: ^7Take out the Ascension Group. Nazis, scientists, co-opted by the Russians after the war.>|
+|<^1INTERROGATOR: ^7Take out the Ascension Group. KCCO, scientists, co-opted by the Russians after the war.>|
 
-|<^1MASON: ^7Yes... He needed their knowledge. What they'd learned...>|
+|<^1MASON: ^7Yes... She needed their knowledge. What they'd learned..>|
 
 |<^1INTERROGATOR: ^7Operation 40 had planted a double agent working with the Ascension Group.>|
 
-|<^1MASON: ^7Grigori Weaver. His mission was to sabotage the rocket.>|
+|<^1MASON: ^7AK-12. Her mission was to sabotage the rocket.>|
 
-|<^1INTERROGATOR: ^7But something went wrong Mason.>|
+|<^1INTERROGATOR: ^7But something went wrong 45.>|
 
 |<^1MASON: ^7I can't get these $&#**^% numbers out of my head!>|
 
-|<^1MASON: ^7Vorkuta. Reznov told me at Vorkuta.>|
+|<^1MASON: ^7Vorkuta. 40 told me at Vorkuta.>|
 
-|<^1INTERROGATOR: ^7What did he tell you?>|
+|<^1INTERROGATOR: ^7What did She tell you>|
 
-|<^1REZNOV: ^7Mason... listen to me...>|
+|<^1REZNOV: ^7UMP45... listen to me...>|
 
 |<^1MASON: ^7It was a long time ago... Far away...>|
 
-|<^1REZNOV: ^7Dragovich. Steiner. Kravchenko. All must die.>|
+|<^1REZNOV: ^7RPK16. Suomi. Nyto. All must die.>|
 
-|<^1MASON: ^7...But he told me what they did.>|
+|<^1MASON: ^7..But she told me what they did.>|
 
-|<^1MASON: ^7What kind of men they were...>|
+|<^1MASON: ^7What kind of dolls they were.>|
 
 |<^1MASON: ^7Why they all must die.>|
 
 |<^1INTERROGATOR: ^7The TET Offensive was the beginning of the end. When America really started losing the war.>|
 
-|<^1INTERROGATOR: ^7Inside the MACV compound in Hue City, you established contact with the Russian defector.>|
+|<^1INTERROGATOR: ^7Inside the MACV compound in Hue City, you established contact with the Bureau defector.>|
 
 |<^1MASON: ^7NO!>|
 
