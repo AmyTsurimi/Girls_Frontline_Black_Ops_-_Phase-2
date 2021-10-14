@@ -7003,13 +7003,13 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 
 |<PAYBACK: &&1 revenge kills.>|
 
-|<ET TU BRUTE?: &&1 players stabbed in the back.>|
+|<ET TU BRUTE?: &&1 T-Dolls stabbed in the back.>|
 
 |<BANK SHOT: &&1 "lucky shots" with the Tomahawk.>|
 
-|<TOTAL BUZZKILL: &&1 players have been stopped one short of a Killstreak.>|
+|<TOTAL BUZZKILL: &&1 T-Dolls have been stopped one short of a Killstreak.>|
 
-|<NOT JUST A KNIFE: &&1 players Skewered by the Ballistic Knife.>|
+|<NOT JUST A KNIFE: &&1 T-Dolls Skewered by the Ballistic Knife.>|
 
 |<INCOMING: &&1 Killstreaks called.>|
 
@@ -7027,7 +7027,7 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 
 |<BRAGGING RIGHTS: &&1 videos rendered.>|
 
-|<THE GRIND: Players have Prestiged &&1 times.>|
+|<THE GRIND: T-Dolls have Prestiged &&1 times.>|
 
 |<WAR PAINT: &&1 purchases of face paint.>|
 
@@ -7087,7 +7087,7 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 
 |<was kicked>|
 
-|<Cannot kick the host player.>|
+|<Cannot kick the host T-Doll.>|
 
 |<Server killed.>|
 
@@ -7359,7 +7359,7 @@ Please enter your Key Code in the Multiplayer Options/Enter Key Code menu and th
 
 |<Client Console>|
 
-|<Waiting for other players>|
+|<Waiting for other T-Dolls>|
 
 |<Join failed - game is about to end>|
 
@@ -7375,7 +7375,7 @@ Please enter your Key Code in the Multiplayer Options/Enter Key Code menu and th
 
 |<Not hosting>|
 
-|<There are not enough players to continue the game.>|
+|<There are not enough T-Dolls to continue the game.>|
 
 |<Disconnected>|
 
@@ -7417,7 +7417,7 @@ Please enter your Key Code in the Multiplayer Options/Enter Key Code menu and th
 
 |<&&1 has been banned from using this feature. Sign out this profile to use the feature.>|
 
-|<You have more local players than what this lobby supports.>|
+|<You have more local T-Dolls than what this lobby supports.>|
 
 |<An error occured while creating an online session.>|
 
@@ -7431,7 +7431,7 @@ Please enter your Key Code in the Multiplayer Options/Enter Key Code menu and th
 
 |<An error occurred while opening the screenshot.>|
 
-|<There are too many local players to join.>|
+|<There are too many local T-Dolls to join.>|
 
 |<Could not join because no guests are allowed.>|
 
@@ -7600,7 +7600,7 @@ Continue restart?>|
 
 |<&&1 found a death card>|
 
-|<You have bet on this player.>|
+|<You have bet on this T-Doll.>|
 
 |<Killed>|
 
@@ -7626,9 +7626,9 @@ Continue restart?>|
 
 |<Press^3 Sprint ^7to Clear Waypoint>|
 
-|<- Press^3 &&1 ^7to follow next player>|
+|<- Press^3 &&1 ^7to follow next T-Doll>|
 
-|<- Press^3 &&1 ^7to follow previous player>|
+|<- Press^3 &&1 ^7to follow previous T-Doll>|
 
 |<- Press^3 &&1 ^7to stop following>|
 
@@ -7765,7 +7765,7 @@ Marketplace>|
 
 |<Congratulations!>|
 
-|<You have unlocked 'Nazi Zombies' for solo and co-op play. Survive an onslaught of the Nazi undead army, and compare your stats with friends!>|
+|<You have unlocked 'KCCO E.L.I.D' for solo and co-op play. Survive an onslaught of the KCCO undead army, and compare your stats with friends!>|
 
 |<Press^3 ESC^7 to^3 Create a Class^7 and more.>|
 
@@ -7783,7 +7783,7 @@ Marketplace>|
 
 |<Fire Sale spawns all of the Mystery Boxes and slashes prices across the board!>|
 
-|<At the beginning of a new round players receive two grenades.>|
+|<At the beginning of a new round T-Dolls receive two grenades.>|
 
 |<Use all the tools at your disposal. Some attacks yield more points than shooting!>|
 
@@ -7793,13 +7793,13 @@ Marketplace>|
 
 |<Sometimes it is better to run than revive.>|
 
-|<Your explosives will not hurt other players, but can still hurt you!>|
+|<Your explosives will not hurt other T-Dolls, but can still hurt you!>|
 
 |<The Cymbal Monkey takes longer to arm than grenades.>|
 
 |<Someone down? Throw a Cymbal Monkey to buy some time!>|
 
-|<Reviving your teammate in Zombies takes more time than in Multiplayer. Don't let yourself get surrounded.>|
+|<Reviving your teammate in E.L.I.D takes more time than in Multiplayer. Don't let yourself get surrounded.>|
 
 |<Power up drops only last for a limited time. So get 'em while they're hot!>|
 
@@ -7811,7 +7811,7 @@ Marketplace>|
 
 |<A Winter's Howl can give you time to revive a downed teammate.>|
 
-|<Careful when you kill a zombie crawler: they leave behind a noxious surprise.>|
+|<Careful when you kill a E.L.I.D crawler: they leave behind a noxious surprise.>|
 
 |<Not all traps are created equal: some might be missing a piece or two...>|
 
@@ -7819,7 +7819,7 @@ Marketplace>|
 
 |<Rule Number 1:  Watch yo' back!>|
 
-|<To move up the Zombies leaderboards, you need to survive into the higher rounds.>|
+|<To move up the E.L.I.D leaderboards, you need to survive into the higher rounds.>|
 
 |<Which way we going? Up or down?>|
 
@@ -7827,13 +7827,13 @@ Marketplace>|
 
 |<Now you see him. Now you don't!>|
 
-|<The Mystery Box in Zombies is a gamble. You could get the most powerful weapon in the chest or end up with a spare pistol.>|
+|<The Mystery Box in E.L.I.D is a gamble. You could get the most powerful weapon in the chest or end up with a spare pistol.>|
 
 |<A zombie breach is nothing to get spooked about.  Pros keep their windows boarded.>|
 
 |<Visit Treyarch.com to go behind-the-scenes with the developers of 'Call of Duty: Black Ops'.>|
 
-|<The Ray Gun is one of the most powerful weapons to use against zombies.>|
+|<The Ray Gun is one of the most powerful weapons to use against E.L.I.D.>|
 
 |<Hack the terminal to gain access to Dead Ops Arcade.>|
 
@@ -7851,15 +7851,15 @@ Marketplace>|
 
 |<The Cosmic Silverback awaits your challenge in Dead Ops Arcade.>|
 
-|<Discovering The Armory in Dead Ops Arcade can equip your player with up to 5 chickens.>|
+|<Discovering The Armory in Dead Ops Arcade can equip your T-Doll with up to 5 chickens.>|
 
-|<In Dead Ops Arcade, being awarded the Fate Of Firepower will permanently upgrade your player's weapon.>|
+|<In Dead Ops Arcade, being awarded the Fate Of Firepower will permanently upgrade your T-Doll's weapon.>|
 
-|<In Dead Ops Arcade, being awarded the Fate Of Friendship will give your player a permanent companion and chickens will last longer.>|
+|<In Dead Ops Arcade, being awarded the Fate Of Friendship will give your T-Doll a permanent companion and chickens will last longer.>|
 
-|<In Dead Ops Arcade, being awarded the Fate Of Furious Feet will permanently give your player faster mobility and 3 speed boosts every round.>|
+|<In Dead Ops Arcade, being awarded the Fate Of Furious Feet will permanently give your T-Doll faster mobility and 3 speed boosts every round.>|
 
-|<In Dead Ops Arcade, being awarded the Fate Of Fortitude will make all pickups last longer and give your player a minimum 2x score bonus.>|
+|<In Dead Ops Arcade, being awarded the Fate Of Fortitude will make all pickups last longer and give your T-Doll a minimum 2x score bonus.>|
 
 |<The Cosmic Silverback has many brothers.>|
 
@@ -8013,9 +8013,9 @@ Marketplace>|
 
 |<Hold ^3R^7>|
 
-|<^3LEFT MOUSE^7 Follow next player>|
+|<^3LEFT MOUSE^7 Follow next T-Doll>|
 
-|<^3RIGHT MOUSE^7 Follow previous player>|
+|<^3RIGHT MOUSE^7 Follow previous T-Doll>|
 
 |<^3&&1^7 Boost>|
 
@@ -8181,9 +8181,9 @@ Marketplace>|
 
 |<City Not Specified>|
 
-|<If enabled, the match will start when the Min Players is reached.>|
+|<If enabled, the match will start when the Min T-Dolls is reached.>|
 
-|<The number of players required to start the game.>|
+|<The number of T-Dolls required to start the game.>|
 
 |<Press ^3SPACE^7 for 1st person view>|
 
@@ -8302,7 +8302,7 @@ Marketplace>|
 
 |<You have been kicked.>|
 
-|<You need at least one other player in the lobby to start the match.>|
+|<You need at least one other T-Doll in the lobby to start the match.>|
 
 |<Press ^3F10^7 to accept a game invite from ^3&&1^7>|
 
