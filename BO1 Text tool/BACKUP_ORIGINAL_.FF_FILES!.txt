@@ -1,0 +1,2 @@
+backup original .ff files - there is no simple way back after injection of your own text if you don't do this!
+for more info, see read_me.txt

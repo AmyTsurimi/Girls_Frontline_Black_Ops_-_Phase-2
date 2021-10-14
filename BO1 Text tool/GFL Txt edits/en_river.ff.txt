@@ -1,0 +1,860 @@
+|<Watch your head. >|
+
+|<Use ^3[{+frag}]^7 to fire missiles from Bowmans Position>|
+
+|<Use ^3[{+smoke}]^7 to fire missiles from Woods Position>|
+
+|<Press ^3[{+melee}]^7 to zoom in and out>|
+
+|<Press ^3[{+attack}]^7 to fire machine gun>|
+
+|<Press ^3[{+frag}]^7 to order Bowman to fire>|
+
+|<Press ^3[{+speed_throw}]^7 to fire missiles>|
+
+|<Use    to aim>|
+
+|<Use   to move
+>|
+
+|<^L1300 hours,^L ^C1February 11, 1968^C>|
+
+|<^C1Mason^C ^Land SOG team sent to retrieve Nova 6 from the wreckage.^L>|
+
+|<^LSoviet commercial cargo plane shot down over^L ^C1Laos. ^C>|
+
+|<^LConfirmation: Soviets are providing chemical weapons to the NVA.^L
+>|
+
+|<^LTransmission # 2-15-4-25. Designate: INDIA^L
+>|
+
+|<Pilot the boat>|
+
+|<Cut the rope on the bow>|
+
+|<Infiltrate the enemy base>|
+
+|<Reach the Chinook crash site>|
+
+|<Rescue the downed helicopter crew>|
+
+|<Save the pilot's life>|
+
+|<Defeat the enemy sniper>|
+
+|<Investigate crash site>|
+
+|<Get back into the boat!>|
+
+|<Escape!>|
+
+|<BOAT HP  >|
+
+|<Failed to engage the enemy patrol boat>|
+
+|<Press ^3[{+attack}]^7 to climb on boat>|
+
+|<Press ^3[{+activate}]^7 to drive vehicle>|
+
+|<Find a safe place to dock the boat>|
+
+|<Chinook Pilot>|
+
+|<Barnes>|
+
+|<Lewis>|
+
+|<Reznov>|
+
+|<Defend the crash site>|
+
+|<Cover Woods and Bowman as they get back to the boat>|
+
+|<Kill the NVA in the boat>|
+
+|<>|
+
+|<Hold ^3[{+activate}]^7 to tie rope>|
+
+|<Press ^3[{+melee}]^7 to cut rope>|
+
+|<Head for the rescue chopper>|
+
+|<Tie the rope>|
+
+|<Cut the rope>|
+
+|<Head up river to crash site>|
+
+|<Regroup at dock>|
+
+|<Take control of the boat>|
+
+|<Engage enemy targets>|
+
+|<Destroy missile launchers (3 of 3 remaining)>|
+
+|<Destroy missile launchers (2 of 3 remaining)>|
+
+|<Destroy missile launchers (1 of 3 remaining)>|
+
+|<Destroy missile launchers>|
+
+|<Regroup at the bridge>|
+
+|<Destroy the Anti-Aircraft gun>|
+
+|<Destroy the Anti-Aircraft guns>|
+
+|<Destroy the concrete bunker>|
+
+|<Destroy the ZPU>|
+
+|<Engage the armored patrol boat>|
+
+|<Regroup with American forces up river>|
+
+|<Regroup with forces on the shore>|
+
+|<Follow>|
+
+|<Drive>|
+
+|<Head to the Bridge, Airstrike Attack Imminent>|
+
+|<Warning incoming mortar attack>|
+
+|<>|
+
+|<Destroy>|
+
+|<Destroy enemy targets>|
+
+|<^1MASON: ^7That young kid didn't make it. 
+I swear to God that Woods was crying, but he never let us see no tears.>|
+
+|<^1MASON: ^7The CIA downed the cargo plane five klicks from here.>|
+
+|<^1WOODS: ^7We'd better get to the Nova 6 before the Soviets can clean it up.>|
+
+|<^1MASON: ^7All right... Let's move.>|
+
+|<^1WOODS: ^7That's our ride! Let's go!>|
+
+|<^1US MARINE: ^7I saw four of them! Where did they go?>|
+
+|<^1US MARINE: ^7Last chance...>|
+
+|<^1US MARINE: ^7He's all yours.>|
+
+|<^1US MARINE: ^7And that's for Wilson. He was only 18!>|
+
+|<^1PLATOON LEADER: ^7He's not gonna make it! GO GO GO!>|
+
+|<^1BOWMAN: ^7I've seen worse than him, and some of them made it!>|
+
+|<^1PLATOON LEADER: ^7Yeah, but what's gonna be left?>|
+
+|<^1US MARINE: ^7Move it, asshole!>|
+
+|<^1US MARINE: ^7Move it!>|
+
+|<^1WOODS: ^7MASON! Get on the boat!>|
+
+|<^1WOODS: ^7We need to get moving!>|
+
+|<^1BOWMAN: ^7MASON! On board, NOW!>|
+
+|<^1BOWMAN: ^7Stop wasting my time Mason. Get on board!>|
+
+|<^1US MARINE: ^7S.O.G, right? Right?>|
+
+|<^1WOODS: ^7They couldn't make it.>|
+
+|<^1WOODS: ^7Man the gun, don't get killed.>|
+
+|<^1US MARINE: ^7Sir.>|
+
+|<^1WOODS: ^7Alright...>|
+
+|<^1WOODS: ^7M202s. Bowman, starboard side, arm it up. Mason, you're driving.>|
+
+|<^1WOODS: ^7Let's see what they think of this.>|
+
+|<^1WOODS: ^7Let's rock it!>|
+
+|<^1MASON: ^7What about Reznov?>|
+
+|<^1WOODS: ^7What did you say?>|
+
+|<^1REZNOV: ^7I'll watch for snipers.>|
+
+|<^1WOODS: ^7Enemy contact dead ahead, they're shelling us. Mason, call out our targets. We'll wait for your signal. Hey kid.>|
+
+|<^1WOODS: ^7Remember what I said.>|
+
+|<^1BOWMAN: ^7We have 4 shots before we need to reload.>|
+
+|<^1WOODS: ^7Mason, spot targets for me! I'm waiting!>|
+
+|<^1WOODS: ^7Tell me where to fire Mason!>|
+
+|<^1WOODS: ^7I'm waiting for your signal Mason.>|
+
+|<^1WOODS: ^7Reloaded and ready! Waiting for targets.>|
+
+|<^1BOWMAN: ^7Mason, call out the targets!>|
+
+|<^1BOWMAN: ^7Where should I shoot Mason?>|
+
+|<^1BOWMAN: ^7Mason, I'm reloaded!>|
+
+|<^1BOWMAN: ^7Fuck Mason, gimme something to shoot at!>|
+
+|<^1BOWMAN: ^7Mason, gimme something to shoot at!>|
+
+|<^1WOODS: ^7Reloading!>|
+
+|<^1WOODS: ^7Reload.>|
+
+|<^1WOODS: ^7Wait, reloading!>|
+
+|<^1WOODS: ^7I'm out!>|
+
+|<^1WOODS: ^7Of out ammo!>|
+
+|<^1BOWMAN: ^7Reloadin'!>|
+
+|<^1BOWMAN: ^7Need more ammo!>|
+
+|<^1BOWMAN: ^7Gotta reload!>|
+
+|<^1BOWMAN: ^7Out. Reloadin'.>|
+
+|<^1BOWMAN: ^7OUT!>|
+
+|<^1MASON: ^7That was close!>|
+
+|<^1MASON: ^7I need to get to clear of this!>|
+
+|<^1MASON: ^7Dammit, they're everywhere!>|
+
+|<^1MASON: ^7Fuck, that almost sunk us!>|
+
+|<^1MASON: ^7That almost sunk us!>|
+
+|<^1WOODS: ^7Mason, we can't take much more of this!>|
+
+|<^1WOODS: ^7Evasive action!>|
+
+|<^1WOODS: ^7We almost lost Bowman!>|
+
+|<^1WOODS: ^7Heavy fire!>|
+
+|<^1BOWMAN: ^7Get us out of here Mason!>|
+
+|<^1BOWMAN: ^7They're all over the place!>|
+
+|<^1BOWMAN: ^7Fuck!>|
+
+|<^1BOWMAN: ^7Damn!>|
+
+|<^1BOWMAN: ^7Mason, step on it!>|
+
+|<^1WOODS: ^7It's all over!>|
+
+|<^1WOODS: ^7We're going down!>|
+
+|<^1BOWMAN: ^7We're sinkin'!>|
+
+|<^1BOWMAN: ^7Woods!!!>|
+
+|<^1MASON: ^7We're burning!>|
+
+|<^1MASON: ^7We're taking water.>|
+
+|<^1WOODS: ^7No Mason, they're ours!>|
+
+|<^1WOODS: ^7What are you doing! They're our soldiers!>|
+
+|<^1WOODS: ^7Mason, you're killing our own men!>|
+
+|<^1WOODS: ^7Friendly fire! Friendly fire!>|
+
+|<^1BOWMAN: ^7Watch out, they're ours. They're our men!>|
+
+|<^1BOWMAN: ^7Stop firing Mason. You're killing our own troops!>|
+
+|<^1BOWMAN: ^7Mason NO, they're our fucking soldiers.>|
+
+|<^1BOWMAN: ^7Mason NO, they're our soldiers.>|
+
+|<^1BOWMAN: ^7CEASE FIRE! CEASE FIRE! Friendlies!>|
+
+|<^1WOODS: ^7Heads up. Enemy camp ahead, on the left. RPGs!>|
+
+|<^1REZNOV: ^7Mason, fire your main gun!>|
+
+|<^1WOODS: ^7Yeah, fucking tear 'em up!>|
+
+|<^1WOODS: ^7Tear 'em up!>|
+
+|<^1REZNOV: ^7Show no mercy!>|
+
+|<^1MASON: ^7Tower up ahead!>|
+
+|<^1WOODS: ^7She's coming down!>|
+
+|<^1WOODS: ^7Mortar fire! Mobile missle launchers up ahead. Three of them.>|
+
+|<^1BOWMAN: ^7They're on the move!>|
+
+|<^1WOODS: ^7Incoming!>|
+
+|<^1WOODS: ^7Mason, evasive!>|
+
+|<^1WOODS: ^7Punch it Mason!>|
+
+|<^1BOWMAN: ^7Mortar!>|
+
+|<^1BOWMAN: ^7Watch out!>|
+
+|<^1BOWMAN: ^7Heads down!>|
+
+|<^1REZNOV: ^7Hard to starboard, Mason!>|
+
+|<^1REZNOV: ^7Obliterate them!>|
+
+|<^1REZNOV: ^7Brace for impact!>|
+
+|<^1MASON: ^7It's gonna be close!>|
+
+|<^1MASON: ^7Watch out!>|
+
+|<^1WOODS: ^7Wrong way Mason! We gotta take out the mortars!>|
+
+|<^1WOODS: ^7No, Mason, go the other way. Take out the launchers!>|
+
+|<^1WOODS: ^7Save it Mason. We need to take out those launchers first!>|
+
+|<^1WOODS: ^7Save it for the mobiles.>|
+
+|<^1BOWMAN: ^7No! We gotta destroy those fuckin' mortars.>|
+
+|<^1BOWMAN: ^7No! We gotta destroy those mortars.>|
+
+|<^1BOWMAN: ^7Not yet Mason. We need to take out those missile launchers.>|
+
+|<^1WOODS: ^7That's one of them down!>|
+
+|<^1WOODS: ^7One down!>|
+
+|<^1MASON: ^7Yeah! Right on the money.>|
+
+|<^1BOWMAN: ^7Bulls-eye!>|
+
+|<^1REZNOV: ^7Great shot! One more left!>|
+
+|<^1MASON: ^7Come on!>|
+
+|<^1WOODS: ^7That's the last of them! Alright!>|
+
+|<^1BOWMAN: ^7S.O.G!>|
+
+|<^1REZNOV: ^7Good work, my friend.>|
+
+|<^1US MARINE: ^7You did it!>|
+
+|<^1WOODS: ^7Nice one Mason! Now head for that barricade blocking the river, our boys will take care of it!>|
+
+|<^1BOWMAN: ^7Hell yeah! WOO!>|
+
+|<^1WOODS: ^7Multiple targets! Tower straight ahead, RPGs to the right. Kid, keep your head down!>|
+
+|<^1REZNOV: ^7Perfect shot! It's collapsing!>|
+
+|<^1WOODS: ^7Shred those bastards!>|
+
+|<^1US MARINE: ^7Way to go!>|
+
+|<^1REZNOV: ^7It's just like back in Vorkuta Mason!>|
+
+|<^1US MARINE: ^7Another tower!>|
+
+|<^1BOWMAN: ^7Another one down, baby!>|
+
+|<^1WOODS: ^7Fuck! ZSU quad fifty to the left. He'll tear us to shreds!>|
+
+|<^1WOODS: ^7ZSU quad fifty to the left. He'll tear us to shreds!>|
+
+|<^1WOODS: ^7Shit, we lost one! Mason, give it to 'em.>|
+
+|<^1WOODS: ^7We lost one! Mason, give it to 'em.>|
+
+|<^1REZNOV: ^7Mason, what are you waiting for? Fire!>|
+
+|<^1WOODS: ^7That was a bitch!>|
+
+|<^1WOODS: ^7That was a pain!>|
+
+|<^1WOODS: ^7Two more towers dead ahead! Movement on both flanks.>|
+
+|<^1REZNOV: ^7Blow them to hell and then right back, Mason!>|
+
+|<^1BOWMAN: ^7They ain't got shit!>|
+
+|<^1BOWMAN: ^7They ain't got nothin'!>|
+
+|<^1US MARINE: ^7Sergeant, another ZSU!>|
+
+|<^1WOODS: ^7Alright! Watch it, there might be some more of them.>|
+
+|<^1WOODS: ^7Bridge dead ahead. This one's easy.>|
+
+|<^1REZNOV: ^7Watch them burn!>|
+
+|<^1WOODS: ^7Sampans! Don't let them get close. Kid, shred those fuckers.>|
+
+|<^1WOODS: ^7Sampans! Don't let them get close. Kid, shred those bastards.>|
+
+|<^1WOODS: ^7One more!>|
+
+|<^1WOODS: ^7Yeah, I think that's the last of them!>|
+
+|<^1WOODS: ^7ZSU up on that ridge! Get on him!>|
+
+|<^1BOWMAN: ^7Lights out, mother fucker!>|
+
+|<^1BOWMAN: ^7Lights out, bastard!>|
+
+|<^1WOODS: ^7Two more Sampans. You know what to do.>|
+
+|<^1WOODS: ^7One left!>|
+
+|<^1REZNOV: ^7Dasvidanya!>|
+
+|<^1WOODS: ^7Another ZSU! How many more of these fucking things are there?>|
+
+|<^1WOODS: ^7Another ZSU!>|
+
+|<^1MASON: ^7That's gotta be the last of them.>|
+
+|<^1WOODS: ^7What the hell is that?>|
+
+|<^1MASON: ^7Give it all you got!>|
+
+|<^1WOODS: ^7That was their stronghold. We got them on the run.>|
+
+|<^1WOODS: ^7Something big's on its way...this is it boys.>|
+
+|<^1WOODS: ^7NVA! PT boat! Aim for the back, the engine is at the back!>|
+
+|<^1BOWMAN: ^7Don't just sit there Mason, that thing'll tear us to pieces.>|
+
+|<^1WOODS: ^7He's on fire! Keep at it.>|
+
+|<^1WOODS: ^7We hit the engine!>|
+
+|<^1WOODS: ^7He's spewing oil. The engine's blown, finish him NOW!>|
+
+|<^1WOODS: ^7Smoked him! Take him out! Now!>|
+
+|<^1WOODS: ^7Turn back Mason. We have to destroy that boat.>|
+
+|<^1WOODS: ^7Mason, we can't leave yet. We have to destroy that boat!>|
+
+|<^1REZNOV: ^7Use those buildings for cover Mason!>|
+
+|<^1BOWMAN: ^7We got him! We got him!>|
+
+|<^1MASON: ^7That all they got?>|
+
+|<^1WOODS: ^7Dammit!>|
+
+|<^1US PILOT: ^7Wolf 10, this is Rescue 1. We have you in sight. Sector is overrun, we're pulling you out.>|
+
+|<^1WOODS: ^7Roger that. They're airliftin' us out. Mason, that's the rally point.>|
+
+|<^1WOODS: ^7Dammit... Sorry about that kid...>|
+
+|<^1WOODS: ^7Mason, head for the RP!>|
+
+|<^1WOODS: ^7We're out of time. Now Mason, before it's too late!>|
+
+|<^1US PILOT: ^7Rescue 1, this is Centurion 5. Beaucoup movement. Abort evac, there's no time!>|
+
+|<^1US PILOT: ^7Negative. We have SOG down there, they'd do it for us. We're going in.>|
+
+|<^1WOODS: ^7CH-47. We gotta make it quick. The Chinook's gonna airlift us to LZ Delta Tango.>|
+
+|<^1BOWMAN: ^7Woods, movement! East river. I got it.>|
+
+|<^1US PILOT: ^7Wolf 10, we're in position. Centurions, light em up!>|
+
+|<^1US PILOT: ^7Rescue 1, pull out! Pull out now. We can't hold them.>|
+
+|<^1US PILOT: ^7I know.>|
+
+|<^1WOODS: ^7Mason!>|
+
+|<^1WOODS: ^7Let's go.>|
+
+|<^1US PILOT: ^7We're hit, we're hit! Wolf 10, cut the cables, we're going down, we're going down. Cut the cables!>|
+
+|<^1US PILOT: ^7I can't hold it!>|
+
+|<^1US PILOT: ^7Brace for impact!>|
+
+|<^1US PILOT: ^7Rescue 1 is down. Charlie's retreated to the tree line.>|
+
+|<^1WOODS: ^7Roger, Centurion. Can you stay with us?>|
+
+|<^1US PILOT: ^7Can do easy, Wolf 10. Proceed up river, we got your back.>|
+
+|<^1WOODS: ^7Bowman, take point. Mason, you got the wheel.>|
+
+|<^1WOODS: ^7Charlie's gone for now, but he'll be back. Stay awake, keep your eyes open.>|
+
+|<^1US PILOT: ^7No movement anywhere. Something's up. We're gonna scout ahead and see what's going on.>|
+
+|<^1WOODS: ^7Roger that. Stay in touch.>|
+
+|<^1MASON: ^7Don't like the look of this. Could be a trap.>|
+
+|<^1WOODS: ^7Don't blink.>|
+
+|<^1US PILOT: ^7All clear here. How we looking down there Wolf 10?>|
+
+|<^1WOODS: ^7Nothing so far...wait. Something in the trees.>|
+
+|<^1BOWMAN: ^7Whatever happened, we just missed it.>|
+
+|<^1WOODS: ^7We got a downed bird here. Talk to me.>|
+
+|<^1US PILOT: ^7There's nothing out here.>|
+
+|<^1WOODS: ^7Bullshit!>|
+
+|<^1WOODS: ^7No way!>|
+
+|<^1REZNOV: ^7The plane must be close Mason. Kravchenko is near.>|
+
+|<^1US PILOT: ^7I'm at a canyon half a Klick north of your position. I'm holding here, Centurions 3 and 4 are on patrol. Still no contact.>|
+
+|<^1WOODS: ^7I'm not buying it. They're up there just waiting for us.>|
+
+|<^1MASON: ^7Bowman, what happened?>|
+
+|<^1BOWMAN: ^7There's nothin' here.>|
+
+|<^1WOODS: ^7Right.>|
+
+|<^1US PILOT: ^7I see you Wolf 10. Welcome to paradise.>|
+
+|<^1US PILOT: ^7Nothing behind you. Keep it steady. Uh, wait a second. I'm getting' something. Hang tight.>|
+
+|<^1REZNOV: ^7I feel it. Kravchenko's near.>|
+
+|<^1BOWMAN: ^7Say again?>|
+
+|<^1MASON: ^7Kravchenko. He must be near.>|
+
+|<^1WOODS: ^7I fucking hope so.>|
+
+|<^1WOODS: ^7I hope so.>|
+
+|<^1US PILOT: ^7They've found it, just ahead. Patching you through.>|
+
+|<^1US PILOT: ^7I have visual confirmation. Ground Zero. Bodies and cargo all over the place. I say again,...>|
+
+|<^1US PILOT: ^7That's your plane Wolf 10. I'm bugging out, see you on the other side.>|
+
+|<^1WOODS: ^7This is it. Remember our orders, those commie bastards are here somewhere.>|
+
+|<^1REZNOV: ^7Finally Mason. Our key to Kravchenko, Steiner, Dragovich.>|
+
+|<^1US PILOT: ^7Wolf 10 this is Centurion 3. Follow me, you can land over here.>|
+
+|<^1WOODS: ^7Mason, head for the shore. We don't have much time.>|
+
+|<^1WOODS: ^7Mason, we don't have time to waste!>|
+
+|<^1WOODS: ^7What are you waiting for?>|
+
+|<^1WOODS: ^7Get to shore Mason!>|
+
+|<^1US PILOT: ^7I have limited ground support. Dropping off now.>|
+
+|<^1US MARINE: ^7We're all yours, sir! Where do you want us?>|
+
+|<^1WOODS: ^7Have one of your guys guard the boat. The rest of you men, follow my lead. NOW!>|
+
+|<^1US PILOT: ^7I'll stay low and cover. You got movement on the ground. Get ready.>|
+
+|<^1WOODS: ^7Follow me and stay together. Shoot anything that moves.>|
+
+|<^1US PILOT: ^7Movement! Centurions 4 and 5, air support now!>|
+
+|<^1US PILOT: ^7Activity! They're heading right for you.>|
+
+|<^1WOODS: ^7We don't see anything. Where are they?>|
+
+|<^1US PILOT: ^7Enemy helicopters incoming! Russian Hinds, three of...>|
+
+|<^1US PILOT: ^7They were just waiting for us... [static]>|
+
+|<^1US PILOT: ^7Centurion 4 to base. Come in. Base come in. We're getting... [static]>|
+
+|<^1WOODS: ^7Spetznaz!>|
+
+|<^1WOODS: ^7Don't quit now! The Hinds are gone! We still got a chance.>|
+
+|<^1BOWMAN: ^7They're retreatin'! We got 'em on the run!>|
+
+|<^1WOODS: ^7He'll be back.>|
+
+|<^1WOODS: ^7That's why the Hinds went away. They can't leave any evidence.>|
+
+|<^1MASON: ^7The cargo must have been Nova 6. Kravchenko wouldn't go to all this trouble for nothing.>|
+
+|<^1WOODS: ^7That's the last of them.>|
+
+|<^1WOODS: ^7We'll have to climb that wing to reach the fuselage.>|
+
+|<^1MASON: ^7I'll go first.>|
+
+|<^1BOWMAN: ^7Take it easy Mason.>|
+
+|<^1WOODS: ^7I'll stabilize at this end.>|
+
+|<^1WOODS: ^7Easy. Easy.>|
+
+|<^1BOWMAN: ^7What happened?>|
+
+|<^1WOODS: ^7The chemical weapon.>|
+
+|<^1MASON: ^7Nova 6. Must have dispersed after the crash.>|
+
+|<^1WOODS: ^7Grenade launchers, China Lakes. What the hell are the Russians doin' with American weapons?>|
+
+|<^1BOWMAN: ^7Must be some kind of setup.>|
+
+|<^1BOWMAN: ^7Nova 6 is all gone, but see here. Map of the area. That's gotta be Kravchenko's compound. Deep inside Laos.>|
+
+|<^1REZNOV: ^7Kravchenko. He must die.>|
+
+|<^1MASON: ^7Kravchenko. He must die.>|
+
+|<^1BOWMAN: ^7Okay Mason, let's go.>|
+
+|<^1WOODS: ^7Down there. Look!>|
+
+|<^1WOODS: ^7Bowman, Sniper Rifle. Mason, use the China Lake. Blow these fuckers to Kingdom Come.>|
+
+|<^1WOODS: ^7Bowman, Sniper Rifle. Mason, use the China Lake. Blow these guys to Kingdom Come.>|
+
+|<^1MASON: ^7You got it.>|
+
+|<^1WOODS: ^7Mason! Down there, enemy PT boat. They're trying to sink our PBR.  Use your China Lake! Destroy their PT boat.>|
+
+|<^1BOWMAN: ^7Mason, use the grenade launcher. Destroy that boat!>|
+
+|<^1WOODS: ^7They've almost sunk our boat!>|
+
+|<^1WOODS: ^7It's all over. Our boat's sinking.>|
+
+|<^1WOODS: ^7Fuck! The Hinds are back!>|
+
+|<^1WOODS: ^7The Hinds are back!>|
+
+|<^1REZNOV: ^7Brace yourself Mason!>|
+
+|<^1WOODS: ^7Arrrrrrggggghhhhhhhhhh!>|
+
+|<^1WOODS: ^7Bowman, Mason. We made it. Defensive positions, now.>|
+
+|<^1WOODS: ^7Sniper rifles. Hit the pilot, it's our only chance!>|
+
+|<^1WOODS: ^7Great shot, Mason!>|
+
+|<^1BOWMAN: ^7It's not getting any easier. Woods, what do we do?>|
+
+|<^1WOODS: ^7Take as many as we can with us.>|
+
+|<^1BOWMAN: ^7You got it,.>|
+
+|<^1US PILOT: ^7Sorry we're late boys. Couldn't warn you in case Charlie was listening. We'll take it from here.>|
+
+|<^1WOODS: ^7What are we waiting for?>|
+
+|<^1MASON: ^7Dragovich...Kravchenko...>|
+
+|<^1KRAVCHENKO: ^7From Vorkuta.>|
+
+|<^1DRAGOVICH: ^7It's been too long Mason.>|
+
+|<^1DRAGOVICH: ^7We must make up for lost time.>|
+
+|<^1WOODS: ^7Mason!  Take out those snipers!>|
+
+|<^1WOODS: ^7Clear - Move up.>|
+
+|<^1WOODS: ^7Push forward!>|
+
+|<^1BOWMAN: ^7Move up!>|
+
+|<^1WOODS: ^7Look out!!!>|
+
+|<^1WOODS: ^7We're pinned down here!>|
+
+|<^1BOWMAN: ^7We're pinned down here!>|
+
+|<^1WOODS: ^7Snipers in the trees!>|
+
+|<^1WOODS: ^7Check high, snipers!>|
+
+|<^1WOODS: ^7In the tree - sniper!>|
+
+|<^1BOWMAN: ^7In the tree - sniper!>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<ˆˆ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+

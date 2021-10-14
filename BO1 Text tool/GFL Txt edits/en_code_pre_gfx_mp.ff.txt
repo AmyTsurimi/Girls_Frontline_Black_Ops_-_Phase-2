@@ -1,0 +1,116 @@
+|<e>|
+
+|<You have achieved a new proficiency:>|
+
+|<Class>|
+
+|<SMG>|
+
+|<CQB>|
+
+|<Assault>|
+
+|<LMG>|
+
+|<Sniper>|
+
+|<Proficiency>|
+
+|<Rifleman>|
+
+|<Close-Quarters>|
+
+|<Grenadier>|
+
+|<Default Assault>|
+
+|<Default Light Gunner>|
+
+|<Default Heavy Gunner>|
+
+|<Support>|
+
+|<Recon>|
+
+|<Marksman>|
+
+|<Sharpshooter>|
+
+|<Expert>|
+
+|<SOG CLASSES>|
+
+|<OPPOSITION CLASSES>|
+
+|<Light Gunner>|
+
+|<Heavy Gunner>|
+
+|<Close Assault>|
+
+|<CUSTOM 1>|
+
+|<CUSTOM 2>|
+
+|<CUSTOM 3>|
+
+|<CUSTOM 4>|
+
+|<CUSTOM 5>|
+
+|<Demolitionist>|
+
+|<Infiltrator>|
+
+|<Specialist>|
+
+|<Pointman>|
+
+|<Infantryman>|
+
+|<Veteran>|
+
+|<Avenger>|
+
+|<Enforcer>|
+
+|<Guardian>|
+
+|<M1Garand>|
+
+|<Custom 6>|
+
+|<Custom 7>|
+
+|<Custom 8>|
+
+|<Custom 9>|
+
+|<Custom 10>|
+
+|<Prestige index 1>|
+
+|<Prestige index 2>|
+
+|<Prestige index 3>|
+
+|<Prestige index 4>|
+
+|<Prestige index 5>|
+
+|<Unlocked at Prestige Level &&1.>|
+
+|<CUSTOM 6>|
+
+|<CUSTOM 7>|
+
+|<CUSTOM 8>|
+
+|<CUSTOM 9>|
+
+|<CUSTOM 10>|
+
+|<Unclassified at Prestige Level &&1.>|
+
+|<Purchase &&1 to view challenge.>|
+

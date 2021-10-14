@@ -1,0 +1,569 @@
+|<NOM4D>|
+
+|<All users must have the same game version to play System Link games. Please sign into Xbox LIVE to ensure that you have the latest update to the game.>|
+
+|<Save game data is incompatible with the current version of the game. You may continue from the beginning of your most recent mission or exit to the menus.>|
+
+|<Alternative Color Scheme>|
+
+|<The game versions are incompatible for online play in this mode.>|
+
+|<SERVER NAME>|
+
+|<MAXIMUM PLAYERS>|
+
+|<MINIMUM PING>|
+
+|<MAXIMUM PING>|
+
+|<PASSWORD>|
+
+|<AUTO-BALANCE TEAMS>|
+
+|<ALLOW VOTING>|
+
+|<PRE-MATCH>|
+
+|<PRE-MATCH MINPLAYERS>|
+
+|<Toggle Friend Comparison>|
+
+|<GAME>|
+
+|<COOPERATIVE>|
+
+|<LAPTOP or SMALL SPEAKERS>|
+
+|<Controls will be restored to the game defaults.>|
+
+|<This is the name of your server.>|
+
+|<Players below the minimum ping will not be able to join.>|
+
+|<Players above the maximum ping will not be able to join.>|
+
+|<This is the password required to join your server.>|
+
+|<Communicate with voice chat in-game.>|
+
+|<Teams will always be evenly split based on player count.>|
+
+|<Allow players to vote for game mode and map or to kick a player.>|
+
+|<Play no points, no XP Free-For-All until the match starts.>|
+
+|<The number of players required for Pre-Match to end and for the Match to start.>|
+
+|<The maximum number of players that can join.>|
+
+|<Secure your server against cheaters.>|
+
+|<Left Mouse to Pan>|
+
+|<Mouse Wheel to Zoom>|
+
+|<CONNECTING>|
+
+|<You have been banned from this server.>|
+
+|<You have no recent game invites.>|
+
+|<^3F2^7>|
+
+|<^3F4^7 Toggle Hud>|
+
+|<^3F1^7 Toggle Controls>|
+
+|<^3LA^7>|
+
+|<^3RA^7>|
+
+|<^3DN^7>|
+
+|<^3UP^7>|
+
+|<Your stats could not be validated.>|
+
+|<Your playlist data is older than the host's.  You must restart the game in order to get the new playlist data.>|
+
+|<Your playlist data is newer than the host's.  You will be unable to play with them until they restart to get the new playlists.>|
+
+|<Auto kicked by reserved slot.>|
+
+|<Cannot switch teams at this time.>|
+
+|<Team changes are allowed for &&1 seconds.>|
+
+|<Shader Warming...>|
+
+|<SHADER WARMING>|
+
+|<TEAM CHANGE>|
+
+|<Team change is allowed>|
+
+|<KEEP BALANCED TEAMS>|
+
+|<Team changes are only allowed when the balance is kept>|
+
+|<TEAM-UP PERIOD>|
+
+|<Initial time period where team changes are allowed and teams are auto-balanced.>|
+
+|<COLOR FRIENDS IN TEAM>|
+
+|<This demo is running the mod ^3&&1^7.
+You need to load the mod before you can watch the demo.>|
+
+|<This film is running the mod ^3&&1^7.
+You need to load the mod before you can watch the film.>|
+
+|<You are running the mod ^3&&1^7.
+You need to unload the mod before you can watch the demo.>|
+
+|<You are running the mod ^3&&1^7.
+You need to unload the mod before you can watch the film.>|
+
+|<RADAR ALWAYS ON>|
+
+|<Enemies always show up on the radar.>|
+
+|<PRE MATCH TIMER>|
+
+|<Change the amount of time before the game starts.>|
+
+|<&&1 hours remaining before access is granted.>|
+
+|<&&1 days remaining before access is granted.>|
+
+|<This console has been permanently banned from playing on the Call of Duty: Black Ops servers. For more information, visit www.callofduty.com/blackops/help.>|
+
+|<This console has been temporarily banned from playing on the Call of Duty: Black Ops servers. For more information, visit www.callofduty.com/blackops/help.>|
+
+|<This console has been permanently banned from using this feature. For more information, visit www.callofduty.com/blackops/help.>|
+
+|<This console has been temporarily banned from using this feature. For more information, visit www.callofduty.com/blackops/help.>|
+
+|<&&1 has been permanently banned from the Call of Duty: Black Ops servers due to detection of unauthorized content. Visit www.callofduty.com/blackops/help.>|
+
+|<&&1 has been temporarily banned from the Call of Duty: Black Ops servers due to detection of unauthorized content. Visit www.callofduty.com/blackops/help.>|
+
+|<&&1 has been permanently banned from playing on the Call of Duty: Black Ops servers. For more information, visit www.callofduty.com/blackops/help.>|
+
+|<&&1 has been temporarily banned from playing on the Call of Duty: Black Ops servers. For more information, visit www.callofduty.com/blackops/help.>|
+
+|<&&1 has been permanently banned from using this feature. For more information, visit www.callofduty.com/blackops/help.>|
+
+|<&&1 has been temporarily banned from using this feature. For more information, visit www.callofduty.com/blackops/help.>|
+
+|<You have been banned from appearing on this Leaderboard.>|
+
+|<Your stats have been reset for violations of the Call of Duty: Black Ops Online Security Policy. For more information, visit www.callofduty.com/blackops/help.>|
+
+|<score>|
+
+|<ping>|
+
+|<name>|
+
+|<Invalid Gamertag>|
+
+|<This console has been temporarily banned from the Call of Duty: Black Ops servers due to detection of unauthorized content. Visit www.callofduty.com/blackops/help.>|
+
+|<This console has been permanently banned from the Call of Duty: Black Ops servers due to detection of unauthorized content. Visit www.callofduty.com/blackops/help.>|
+
+|<Cannot auto-download game file:
+^3&&1^7
+Server has too many download sessions at the moment. Please try again later.>|
+
+|<Testing matches: &&1.&&2% - &&3/&&4 good games>|
+
+|<Downloading Game Settings>|
+
+|<Connecting...>|
+
+|<Select to purchase and download.>|
+
+|<You have not met any players recently.>|
+
+|<You have no friends.>|
+
+|<You have reached the maximum number of markers allowed.>|
+
+|<You cannot place two or more markers at the same point in the timeline.>|
+
+|<Free Roam Mode>|
+
+|<Edit Camera Mode>|
+
+|<Dolly Camera>|
+
+|<Package is bought and downloaded.>|
+
+|<Purchased, select to download.>|
+
+|<ASCENSION>|
+
+|<The risen dead have overtaken a Soviet cosmodrome and all Hell has broken loose. The countdown to the zombie apocalypse has begun.>|
+
+|<Edit Dolly Camera Marker # &&1>|
+
+|<Speed Settings>|
+
+|<Remove Marker>|
+
+|<Remove All Markers>|
+
+|<Are you sure you want to remove all the camera markers?>|
+
+|<CALL OF THE DEAD>|
+
+|<A shipwrecked crew of fearless explorers is hopelessly stranded in an abandoned Siberian outpost. Their dream of discovering the true origins of the mysterious Element 115 unravels into a Hellish nightmare.>|
+
+|<You have switched to the Dolly Camera, but you have not placed any markers. Make sure you place markers in the Edit Camera Mode. >|
+
+|<Play as guest>|
+
+|<PlayStation®Store>|
+
+|<STORE>|
+
+|<MAP PACKS>|
+
+|<AVATARS>|
+
+|<THEMES>|
+
+|<FREE>|
+
+|<PURCHASE CONFIRMATION>|
+
+|<Reposition Camera>|
+
+|<Camera Marker # &&1>|
+
+|<Speed Mode>|
+
+|<Manual>|
+
+|<Fixed>|
+
+|<Linear>|
+
+|<Speed - &&1x>|
+
+|<PREVIEW CAMERA &&1>|
+
+|<CAMERA &&1>|
+
+|<^3RIGHT MOUSE^7 Previous free camera mode>|
+
+|<^3LEFT MOUSE^7 Next free camera mode>|
+
+|<One or more members of your party has a strict or moderate NAT which may impact matchmaking.>|
+
+|<Fetching...>|
+
+|<Shangri-La>|
+
+|<SHANGRI-LA>|
+
+|<A legendary shrine lost in an exotic jungle, where the undead lurk within a treacherous labyrinth of underground caverns, deadly traps and dark secrets.>|
+
+|<Classic Zombie Pack>|
+
+|<First Strike Pack>|
+
+|<Escalation Pack>|
+
+|<Annihilation Pack>|
+
+|<Rezurrection Pack>|
+
+|<Team Deathmatch with limited HUD, extra bullet damage, friendly fire enabled.>|
+
+|<Every man for himself. Limited HUD. Extra bullet damage. No health regen. No Tactical Insertions.>|
+
+|<You get a Crossbow, a Ballistic Knife, and a Tomahawk. Kill players to score points. Get Tomahawk kills to reset enemy scores to zero. Good luck.>|
+
+|<One bullet in the chamber, a knife, three lives, and instant kills. Players receive a bullet after each kill.>|
+
+|<Kill players with your weapon to advance to the next weapon. First to get a kill with each weapon wins.>|
+
+|<Weapons cycle every 45 seconds. Kill players to score points. Gain Perks for getting Killstreaks.>|
+
+|<Q: &&1>|
+
+|<UNMODDED BLACK OPS>|
+
+|<Unload currently loaded mods>|
+
+|<You are about to switch to:>|
+
+|<Mod loaded from: >|
+
+|<Moon>|
+
+|<MOON>|
+
+|<I believe that this nation should commit itself to achieving the goal, before this decade is out, of landing a man on the moon and returning him safely to the Earth. (JFK, 1961)>|
+
+|<No Man's Land>|
+
+|<Time Survived>|
+
+|<ZOMBIES SOUNDTRACK>|
+
+|<FREE OFFER>|
+
+|<Visit >|
+
+|< to download the Call of Duty: Zombies Soundtrack plus 3 bonus tracks!>|
+
+|<Offer Code: >|
+
+|<Visit callofduty.com/blackops/dlc/zombies to download the Call of Duty: Zombies Soundtrack plus 3 bonus tracks!>|
+
+|<CONTROL THE HQ LOCATION>|
+
+|<CAPTURE THE HQ>|
+
+|<DESTROY THE HQ>|
+
+|<DEFEND THE HQ>|
+
+|<Failure to communicate with host.>|
+
+|<ROUND ENDING KILLCAM>|
+
+|<Hold ^3&&1^7 to use the zip line>|
+
+|<Elevator out of service>|
+
+|<Hold ^3&&1^7 to use elevator>|
+
+|<Hold ^3&&1^7 to call elevator>|
+
+|<Hold ^3&&1^7 to operate door>|
+
+|<Maximum weight limit exceeded>|
+
+|<Discovery>|
+
+|<Airbase>|
+
+|<Trainwreck>|
+
+|<Cubatown>|
+
+|<Cargo>|
+
+|<Berlin Wall>|
+
+|<Kowloon>|
+
+|<Stadium>|
+
+|<AIRBASE>|
+
+|<TRAINWRECK>|
+
+|<CUBATOWN>|
+
+|<CARGO>|
+
+|<BERLIN WALL>|
+
+|<KOWLOON>|
+
+|<STADIUM>|
+
+|<Unlock the mysteries of this abandoned German research station in Antarctica.>|
+
+|<Beware of no man's land as you battle over control of the Berlin Wall.>|
+
+|<Sniping spots and sneaky pathways on the stormy rooftops of Kowloon City.>|
+
+|<Frenzied combat in and around the hockey rink at Chance Stadium.>|
+
+|<Downloadable content must be purchased to use this playlist.>|
+
+|<Not everyone in your party has required content to play this map.>|
+
+|<GAME MODES>|
+
+|<Customize your own rules for the game mode.>|
+
+|<NO VOTE ALLOWED>|
+
+|<CALL OF DUTY: ELITE>|
+
+|<CONNECT>|
+
+|<Form groups & clans with your friends or meet new Call of Duty players.>|
+
+|<COMPETE>|
+
+|<Win prizes & glory in official leagues & events for players of all skill levels.>|
+
+|<IMPROVE>|
+
+|<Access intel & elevate your game - stats, heat maps, expert tips & more.>|
+
+|<JOIN UP.>|
+
+|<Enter a valid email address to get on the beta invite list.>|
+
+|<Email addresses are deleted weekly. Call of Duty ELITE is available only in English at this time.>|
+
+|<REGISTER FOR A FIRST LOOK AT CALL OF DUTY: ELITE>|
+
+|<SUBMIT EMAIL>|
+
+|<EDIT EMAIL ADDRESS>|
+
+|<MAPS>|
+
+|<DLC MAPS>|
+
+|<Thank you for joining Call of Duty: ELITE. You will receive instructions to complete your membership at the email address provided. For more information, visit CallofDuty.com/Elite.>|
+
+|<INVALID EMAIL>|
+
+|<Stockpile>|
+
+|<STOCKPILE>|
+
+|<Fight over the tight interiors and long roads of a rural Soviet town.>|
+
+|<Hotel>|
+
+|<HOTEL>|
+
+|<Battle to control the rooftop of a swanky Cuban hotel.>|
+
+|<Silo>|
+
+|<SILO>|
+
+|<Conflict erupts at a missile launch facility. Lots of close engagements and flank routes.>|
+
+|<To compete in this Prestige Leaderboard you must have at least Prestiged once and have a cool  &&1 to spend.>|
+
+|<One or more members of your party do not have this map. >|
+
+|<Zoo>|
+
+|<ZOO>|
+
+|<Be ready for long-range firefights in this abandoned Soviet zoo.>|
+
+|<Convoy>|
+
+|<CONVOY>|
+
+|<Intense combat in the aftermath of a Soviet ambush on American soil.>|
+
+|<Hangar 18>|
+
+|<HANGAR 18>|
+
+|<Soviet forces have infiltrated a highly classified U.S. facility.>|
+
+|<Drive-In>|
+
+|<DRIVE-IN>|
+
+|<Close-quarter fights and powerful overwatches at an abandoned outdoor cinema.>|
+
+|<Firebase>|
+
+|<FIREBASE>|
+
+|<Rumble in a Firebase.>|
+
+|<Hazard>|
+
+|<HAZARD>|
+
+|<Keep an eye out for snipers as you battle up and down the fairway of this cliffside golf course.>|
+
+|<Salvage>|
+
+|<SALVAGE>|
+
+|<Two sides struggle for supremecy in a salvage yard.>|
+
+|<Snow Mine>|
+
+|<SNOW MINE>|
+
+|<Winter combat in a deserted mine. Great for objective-based game modes.>|
+
+|<War Museum>|
+
+|<WAR MUSEUM>|
+
+|<Battle for control of the museum. Intense interior firefights.>|
+
+|<DISCOVERY>|
+
+|<Hide DLC Content>|
+
+|<HARDCORE TDM>|
+
+|<6.5 MINUTES>|
+
+|<Show DLC Content>|
+
+|<DLC Content>|
+
+|<Owned>|
+
+|<Purchased>|
+
+|<I have>|
+
+|<^3F5^7 Insert Camera Marker>|
+
+|<^3F5^7 Edit Camera Marker>|
+
+|<^3F5^7 Place Camera Marker>|
+
+|<Steam authorization failed.>|
+
+|<You do not have this map. You can get this map by downloading the content packs from Steam Store.>|
+
+|<You are missing some files referenced by the server:
+^3&&1^7
+Go to the Multiplayer options menu to allow downloads.>|
+
+|<This file is different from the server:
+
+ ^3&&1^7>|
+
+|<A mod is required to use this cheat>|
+
+|<DISABLE EMBLEMS>|
+
+|<Local file exists with wrong checksum>|
+
+|<Local file exists with wrong filesize>|
+
+|<This account has been permanently banned from playing on the Call of Duty: Black Ops servers.>|
+
+|<NO MAN'S LAND (SOLO)>|
+
+|<Call of Duty: Zombies Soundtrack plus 3 bonus tracks are available at your game installation folder, under 'Soundtrack' subfolder.>|
+
+|<Open Soundtrack Folder>|
+
+|<Unknown>|
+
+|<You do not have this map. You can get this map by downloading the content packs from Steam Store.
+
+ You need: ^3&&1^7
+>|
+
+|<Zip Line>|
+

@@ -1,0 +1,273 @@
+|<$>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<ˆˆ>|
+
+|<Game Over>|
+
+|<You made it to Round &&1>|
+
+|<Round: &&1>|
+
+|<Round &&1 is Complete>|
+
+|<Bonus Room Discovered>|
+
+|<Challenge Round>|
+
+|<Prison Break!>|
+
+|<Creepy Crawlers>|
+
+|<Who Cried Wolf?>|
+
+|<Down Pour!>|
+
+|<Choose Your Path>|
+
+|<Cosmic Silver Back>|
+
+|<The Fates have awarded the gift of Furious Feet>|
+
+|<The Fates have awarded the gift of Firepower>|
+
+|<The Fates have awarded the gift of Friendship
+>|
+
+|<The Fates have awarded the gifts of Fortune and Fortitude
+>|
+
+|<The Room of Fate>|
+
+|<Choose an exit and seal your destiny>|
+
+|<The Fates will not wait forever>|
+
+|<Your destiny has been decided>|
+
+|<Boss Round>|
+
+|<The Cosmic Silverback>|
+
+|<VICTORY!>|
+
+|<The Cosmic Silverback, DEFEATED!>|
+
+|<. . . . Or was he . . . . >|
+
+|<Step on Teleporter to Enter a New Arena
+>|
+
+|<Stampede!>|
+
+|<The Cosmic Silverback has fled!  Give chase!>|
+
+|<Or step on the teleport pad for some basic instructions.>|
+
+|<Instructions>|
+
+|<The ultimate goal of this game is to confront the vile Cosmic Silverback and avenge the death of the princess.>|
+
+|<The Cosmic Silverback will not make your journey easy.  Between you and him is an army of undead.>|
+
+|<Do not despair! Along the way you will find powerful weapons and riches to aid in your battle.>|
+
+|<Use  to move your player.>|
+
+|<Use  to fire your weapon.>|
+
+|<Press the  to drop a tactical bomb to eliminate a large area of enemies.>|
+
+|<Press the  to use a speed boost.  Handy for getting out of tight situations.>|
+
+|<To replenish your tactical bomb inventory, pickup items which look like these bombs.
+They will be stored for later use.>|
+
+|<Similar to the tactical bomb replenishment, you can bank speed boosts.  I will spawn a few in.  
+Notice how they will be banked.>|
+
+|<You will encounter treasure along the way.  Pick it up whenever you can.  >|
+
+|<The treasure adds to your score multiplier.  Every &&1 points, you will earn an extra life.>|
+
+|<You will see a number of weapons and special items.  Pick them up!  Each is beneficial and powerful in its own way.>|
+
+|<Go now towards the exit arrow and good luck in your quest to defeat the Cosmic Silverback.>|
+
+|<ZOMBIETRON>|
+
+|<Page &&1 of &&2>|
+
+|<Time to relax!>|
+
+|<We're rich!>|
+
+|<My treasure!>|
+
+|<Oh no!>|
+
+|<NOOOOOOO!!>|
+
+|<HA HA HA!>|
+
+|<@$*K!>|
+
+|<Winner!>|
+
+|<Am I dead?>|
+
+|<Oh yeah!>|
+
+|<What the?!>|
+
+|<Not bad...>|
+
+|<Big Money!>|
+
+|<Next time!>|
+
+|<Big Prizes!!>|
+
+|<Me back!>|
+
+|<Bye Bye!>|
+
+|<<GRUMBLE>>|
+
+|<PRESS ^3[{+activate}]^7 TO SKIP>|
+
+|<PRESS ^3[{+activate}]^7 FOR NEXT PAGE>|
+
+|<WINNER CAN PRESS ^3[{+activate}]^7 TO SKIP>|
+
+|<Abominable Martyr>|
+
+|<Fish In A Barrel>|
+
+|<Score: &&1>|
+
+|<1st: &&1>|
+
+|<2nd: &&1>|
+
+|<3rd: &&1>|
+
+|<4th: &&1>|
+
+|<&&1>|
+
+|<The Armory Discovered>|
+
+|<m/€>|
+
+|<mà€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿq‰€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿõ€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<q‰€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿõ€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<õ€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<™l€¥…€i–€>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<ÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<(ÿÿÿÿÿÿÿÿ>|
+
+|<*ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<"ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<(ÿÿÿÿÿÿÿÿ>|
+
+|<*ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<"ÿÿÿÿÿÿÿÿ>|
+
+|<%>|
+
+|<>|
+
+|<'>|
+
+|<>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_c_ger_honorguard_zombie_body1>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_c_ger_honorguard_zombie_linen>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_c_ger_honorguard_zombie_lthr>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_c_ger_honorguard_zombie_metal>|
+

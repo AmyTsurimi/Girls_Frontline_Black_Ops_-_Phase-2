@@ -1,0 +1,578 @@
+|<Maj. Thomas>|
+
+|<^LTransmission # 9-19. Designate: SIERRA^L>|
+
+|<^C1Beale AFB, Calif.^C>|
+
+|<^LBlackbird over watch underway, codename:  BIGEYE^L>|
+
+|<^LOperation lead^L ^C1Captain Mosely^C>|
+
+|<^L0500 hours,^L ^C1February 18, 1968^C>|
+
+|<Locate Kilo One>|
+
+|<Move squad east>|
+
+|<Press ^3[{+attack}]^7 to fire engines>|
+
+|<Pull back ^3[{+movestick}]^7 to lift off>|
+
+|<Press ^3[{+activate}]^7 to mark enemy location>|
+
+|<Enemy Location>|
+
+|<Press ^3[{+gostand}]^7 to command the squad>|
+
+|<Use ^3[{+lookstick}]^7 to control the camera>|
+
+|<Press ^3[{+speed_throw}]^7 to zoom camera view in>|
+
+|<Press ^3[{+attack}]^7 to zoom camera view out>|
+
+|<Press ^3[{+activate}]^7 to exit>|
+
+|<Support>|
+
+|<Kilo One>|
+
+|<Get Kilo One to safety>|
+
+|<safe house>|
+
+|<Eliminate enemies by the jeep>|
+
+|<Eliminate>|
+
+|<Clear the barracks>|
+
+|<Clear>|
+
+|<Regroup on the ridge>|
+
+|<Cover>|
+
+|<Press ^3[{+melee}]^7 to command squad to dig in>|
+
+|<Clear barracks and destroy com link>|
+
+|<Barracks>|
+
+|<Keep Kilo One safe from >|
+
+|<Destroy internal comms>|
+
+|<Plant charge>|
+
+|<Detonate>|
+
+|<Insertion Point>|
+
+|<Regroup>|
+
+|<Guide Kilo One to the insertion point>|
+
+|<Hold ^3[{+activate}]^7 to plant explosives>|
+
+|<Press ^3[{+attack}]^7 to detonate>|
+
+|<Guide Kilo One to the safe house.>|
+
+|<Command the squad to dig in to evade the patrol.>|
+
+|<Command the squad to dig in to evade the convoy.>|
+
+|<Keep squad off of the road to avoid being hit by vehicles>|
+
+|<Order the squad to eliminate the guards.>|
+
+|<^1CAPT. MOSELY: ^7K.A.D, this is BigEye 6 requesting take off.>|
+
+|<^1COMMAND: ^7BigEye 6, cleared for takeoff runway four.>|
+
+|<^1CAPT. MOSELY: ^7K.A.D., Confirm refuel with KC-135 in Sector Bravo Six Niner.>|
+
+|<^1COMMAND: ^7Affirmative BigEye 6, KC-135 is in the sector. They will meet you there.>|
+
+|<^1COMMAND: ^7BigEye 6, you have the sky.>|
+
+|<^1CAPT. MOSELY: ^7Copy K.A.D. My sky.>|
+
+|<^1MAJ. NEITSCH: ^7Systems check complete. Takeoff power... Mark. Your aircraft sir.>|
+
+|<^1CAPT. MOSELY: ^7Copy.>|
+
+|<^1CAPT. MOSELY: ^7K.A.D., we are rolling.>|
+
+|<^1COMMAND: ^7Copy BigEye.>|
+
+|<^1CAPT. MOSELY: ^7And... we have velocity.>|
+
+|<^1CAPT. MOSELY: ^7V-1. Rotate.>|
+
+|<^1MAJ. NEITSCH: ^7V-1. Check.>|
+
+|<^1CAPT. MOSELY: ^7Gear away.>|
+
+|<^1MAJ. NEITSCH: ^7Gear away. Check.>|
+
+|<^1CAPT. MOSELY: ^7K.A.D. this is BigEye, we are away.>|
+
+|<^1MAJ. NEITSCH: ^7Affirmative. I got 'em.>|
+
+|<^1MAJ. NEITSCH: ^7Kilo One this is Bigeye 6, I have you on the TRP.>|
+
+|<^1HUDSON: ^7Roger that Bigeye 6. We have zero visibility on the ground. We need you to guide us to the comms relay.>|
+
+|<^1MAJ. NEITSCH: ^7Check your target indicator.>|
+
+|<^1CAPT. MOSELY: ^7Use your target indicator to find Kilo One on the tac, C.P.>|
+
+|<^1CAPT. MOSELY: ^7Tac Recon I see enemy vehicles inbound. Get the squad off the road.>|
+
+|<^1CAPT. MOSELY: ^7Looks like there's a structure to the North. Get them inside, C.P.>|
+
+|<^1MAJ. NEITSCH: ^7They're passing by the house.>|
+
+|<^1MAJ. NEITSCH: ^7Wait, no. Enemy has stopped in front of the house.>|
+
+|<^1MAJ. NEITSCH: ^7Enemy infantry incoming... Take them out.>|
+
+|<^1MAJ. NEITSCH: ^7Enemy coming inside. Exit through the rear and take cover on the bluff behind the structure. Position marked on tac. Go now.>|
+
+|<^1MAJ. NEITSCH: ^7Enemy vehicle ahead on the side of the road. On the tac. Move.>|
+
+|<^1MAJ. NEITSCH: ^7Kilo One - the road is hot.  Exit through the rear of the building.>|
+
+|<^1MAJ. NEITSCH: ^7That's a negative Kilo One.>|
+
+|<^1MAJ. NEITSCH: ^7Negative Kilo One.>|
+
+|<^1MAJ. NEITSCH: ^7Kilo - Two targets headed your way.>|
+
+|<^1MAJ. NEITSCH: ^7Take them out.>|
+
+|<^1MAJ. NEITSCH: ^7Good job, move up.>|
+
+|<^1CAPT. MOSELY: ^7C.P. - I see large patrol inbound.>|
+
+|<^1MAJ. NEITSCH: ^7Kilo, stop and drop.>|
+
+|<^1HUDSON: ^7Holding position.>|
+
+|<^1MAJ. NEITSCH: ^7Confirmed Kilo One - You are out of sight.>|
+
+|<^1MAJ. NEITSCH: ^7All clear, Kilo One.>|
+
+|<^1MAJ. NEITSCH: ^7Move your squad on to the barracks. First objective is inside.>|
+
+|<^1HUDSON: ^7Roger that, Bigeye - Stacking up.>|
+
+|<^1MAJ. NEITSCH: ^7Coming up on the Barracks. Multiple targets inside, breach and clear Kilo One.>|
+
+|<^1HUDSON: ^7Roger that, Bigeye.>|
+
+|<^1HUDSON: ^7Internal comms line cut.  Base is dark.  Moving to second objective.>|
+
+|<^1MAJ. NEITSCH: ^7Roger that Kilo One.>|
+
+|<^1MAJ. NEITSCH: ^7Kilo One we have Infantry inbound - I count at least six targets. Too hot.>|
+
+|<^1MAJ. NEITSCH: ^7Stop and drop.  Stay out of sight.>|
+
+|<^1HUDSON: ^7Roger that, Bigeye... digging in.>|
+
+|<^1MAJ. NEITSCH: ^7Kilo move North.>|
+
+|<^1HUDSON: ^7Roger, moving North.>|
+
+|<^1MAJ. NEITSCH: ^7Kilo, proceed to the North.>|
+
+|<^1HUDSON: ^7Roger that, we're moving.>|
+
+|<^1MAJ. NEITSCH: ^7Kilo head North, over.>|
+
+|<^1HUDSON: ^7Understood, heading North.>|
+
+|<^1MAJ. NEITSCH: ^7To the South, Kilo.>|
+
+|<^1HUDSON: ^7Roger.>|
+
+|<^1MAJ. NEITSCH: ^7South coordinates marked.>|
+
+|<^1HUDSON: ^7Got it, moving South.>|
+
+|<^1MAJ. NEITSCH: ^7Kilo move South.>|
+
+|<^1HUDSON: ^7On our way, over.>|
+
+|<^1MAJ. NEITSCH: ^7Kilo you need to move East.>|
+
+|<^1HUDSON: ^7We're moving.>|
+
+|<^1MAJ. NEITSCH: ^7Move East.>|
+
+|<^1HUDSON: ^7Roger that.>|
+
+|<^1MAJ. NEITSCH: ^7Kilo, head to the East.>|
+
+|<^1HUDSON: ^7Roger that Bigeye.>|
+
+|<^1MAJ. NEITSCH: ^7Move West, Kilo One.>|
+
+|<^1HUDSON: ^7We are moving West Bigeye.>|
+
+|<^1MAJ. NEITSCH: ^7Kilo I need you moving West.>|
+
+|<^1HUDSON: ^7Roger that. Moving.>|
+
+|<^1MAJ. NEITSCH: ^7Kilo move West.>|
+
+|<^1MAJ. NEITSCH: ^7Two targets sighted. Kill them.>|
+
+|<^1MAJ. NEITSCH: ^7Kilo I have two targets on Tac. Lose them.>|
+
+|<^1MAJ. NEITSCH: ^7Three enemies in range. Eliminate them.>|
+
+|<^1HUDSON: ^7Roger. Initiating contact.>|
+
+|<^1MAJ. NEITSCH: ^7Contact. Three targets. Drop them.>|
+
+|<^1HUDSON: ^7We're on it Bigeye.>|
+
+|<^1MAJ. NEITSCH: ^7Multiple contacts in sight. Fire at will.>|
+
+|<^1HUDSON: ^7We got it Bigeye.>|
+
+|<^1MAJ. NEITSCH: ^7Multiple targets. Engage the enemy.>|
+
+|<^1HUDSON: ^7Roger that, moving in.>|
+
+|<^1MAJ. NEITSCH: ^7Kilo you have company, take them out.>|
+
+|<^1HUDSON: ^7Roger. We got 'em.>|
+
+|<^1MAJ. NEITSCH: ^7Moving vehicle on Tac, it's a truck. Take it out.>|
+
+|<^1HUDSON: ^7Roger. Taking out the truck.>|
+
+|<^1MAJ. NEITSCH: ^7Vehicle inbound. Looks like a jeep.>|
+
+|<^1HUDSON: ^7We see it. Initiating contact.>|
+
+|<^1MAJ. NEITSCH: ^7Enemy vehicles in range. Stop them.>|
+
+|<^1HUDSON: ^7Understood Bigeye. Stand by.>|
+
+|<^1MAJ. NEITSCH: ^7Good job Kilo.>|
+
+|<^1MAJ. NEITSCH: ^7Kilo you are clear.>|
+
+|<^1MAJ. NEITSCH: ^7Area's clear. Good work.>|
+
+|<^1MAJ. NEITSCH: ^7You're in the clear. Nice job.>|
+
+|<^1MAJ. NEITSCH: ^7You nailed it.>|
+
+|<^1MAJ. NEITSCH: ^7Objective complete.>|
+
+|<^1MAJ. NEITSCH: ^7Nice work Kilo One.>|
+
+|<^1MAJ. NEITSCH: ^7Nice sweep. We're moving on.>|
+
+|<^1MAJ. NEITSCH: ^7Area secure. Top work.>|
+
+|<^1CAPT. MOSELY: ^7C.P. multiple targets on the road! Get Kilo out of there!>|
+
+|<^1MAJ. NEITSCH: ^7Kilo, you have hostiles inbound. You need to vanish right now!>|
+
+|<^1HUDSON: ^7Get down! Get down!>|
+
+|<^1MAJ. NEITSCH: ^7K.A.D - Kilo One neutralized.>|
+
+|<^1MAJ. NEITSCH: ^7Kilo One?  Come in Kilo One..>|
+
+|<^1MAJ. NEITSCH: ^7K.A.D - Kilo One. KIA.>|
+
+|<^1HUDSON: ^7Roger. Engaging target.>|
+
+|<^1HUDSON: ^7Understood. Taking him down.>|
+
+|<^1HUDSON: ^7On the move, Bigeye.>|
+
+|<^1HUDSON: ^7On it.>|
+
+|<^1CAPT. MOSELY: ^7That's a negative C.P.>|
+
+|<^1CAPT. MOSELY: ^7Belay that C.P.>|
+
+|<^1CAPT. MOSELY: ^7Negative.>|
+
+|<^1WEAVER: ^7Flashbang!>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<€H>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+

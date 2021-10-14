@@ -1,0 +1,11334 @@
+|<The rendered clip will be lost if you cancel this operation. Are you sure you want to continue?>|
+
+|<Recommendation request already sent>|
+
+|<No capable game host found. Please try again.>|
+
+|<Until Match Begins>|
+
+|<Highest Difficulty Completed :>|
+
+|<MISSION OBJECTIVES>|
+
+|<A neutral bomb is in the center of the level and teams fight to destroy the enemy team's objective. First team to successfully bomb the enemy objective wins.>|
+
+|<GAME SETUP>|
+
+|<Veteran>|
+
+|<Hard>|
+
+|<Normal>|
+
+|<Easy>|
+
+|<Hardcore>|
+
+|<Difficulty>|
+
+|<GAME RULES>|
+
+|<Using Multiple Video Cards>|
+
+|<Yes>|
+
+|<MULTIPLAYER>|
+
+|<Quit>|
+
+|<OPTIONS>|
+
+|<Options>|
+
+|<COLLECTIBLES>|
+
+|<Save/Load Game>|
+
+|<Load Game>|
+
+|<NEW GAME>|
+
+|<Training>|
+
+|<Back To Game>|
+
+|<You are currently in a game>|
+
+|<Do you wish to continue?>|
+
+|<Choose Your Skill Level>|
+
+|<RECRUIT>|
+
+|<REGULAR>|
+
+|<HARDENED>|
+
+|<VETERAN>|
+
+|<Back>|
+
+|<Start training?>|
+
+|<Switch to Multiplayer?>|
+
+|<No>|
+
+|<Save Game List>|
+
+|<Show Auto Saves>|
+
+|<Show Manual Saves>|
+
+|<Name>|
+
+|<Date>|
+
+|<Save As:>|
+
+|<Delete>|
+
+|<Load>|
+
+|<LOADED>|
+
+|<Save>|
+
+|<Delete selected save game?>|
+
+|<Overwrite existing file?>|
+
+|<OK>|
+
+|<You must specify a filename!>|
+
+|<Are you sure you want to quit?>|
+
+|<Controls>|
+
+|<LOOK>|
+
+|<Look>|
+
+|<MOVE>|
+
+|<Move>|
+
+|<Shoot>|
+
+|<Save/Interact>|
+
+|<Control Defaults>|
+
+|<System>|
+
+|<GRAPHICS>|
+
+|<Graphics>|
+
+|<SOUND>|
+
+|<Sound>|
+
+|<Performance>|
+
+|<Driver Info>|
+
+|<OPTIMAL SYSTEM SETTINGS>|
+
+|<Optimal System Settings>|
+
+|<CREDITS>|
+
+|<Reset to Default>|
+
+|<Each setting will be restored>|
+
+|<to its default value.>|
+
+|<Are you sure?>|
+
+|<Your controls are now set>|
+
+|<to their original default values.>|
+
+|<Close>|
+
+|<Options - System>|
+
+|<Set Recommended>|
+
+|<Quality>|
+
+|<Quality:  Recommended>|
+
+|<Video Mode>|
+
+|<Color Depth>|
+
+|<Full Screen>|
+
+|<Geometric Detail>|
+
+|<Character Textures>|
+
+|<General Textures>|
+
+|<Texture Filter>|
+
+|<Texture Quality>|
+
+|<Nvidia Distance Fog>|
+
+|<BRIGHTNESS>|
+
+|<Language>|
+
+|<Apply Language Change>|
+
+|<Apply>|
+
+|<Your settings are now set>|
+
+|<Look Up>|
+
+|<Look Down>|
+
+|<Mouse Look>|
+
+|<Center View>|
+
+|<Free Look>|
+
+|<Invert Mouse>|
+
+|<Smooth Mouse>|
+
+|<Mouse Sensitivity>|
+
+|<Show Objectives/Scores>|
+
+|<Use>|
+
+|<Quick Save>|
+
+|<Quick Load>|
+
+|<Screenshot>|
+
+|<Forward>|
+
+|<Backpedal>|
+
+|<Move Left>|
+
+|<Move Right>|
+
+|<Lean Left>|
+
+|<Lean Right>|
+
+|<Stand>|
+
+|<Crouch>|
+
+|<Prone>|
+
+|<Jump/Stance Up>|
+
+|<Stance Down>|
+
+|<Stance Up>|
+
+|<Toggle Crouch>|
+
+|<Toggle Prone>|
+
+|<Hold Down Crouch>|
+
+|<Hold Down Prone>|
+
+|<Turn Left>|
+
+|<Turn Right>|
+
+|<Strafe>|
+
+|<Wall Marks>|
+
+|<Ejecting Brass>|
+
+|<Dynamic Lights>|
+
+|<Low Quality Sky>|
+
+|<Sync Every Frame>|
+
+|<Nvidia fog type>|
+
+|<Attack>|
+
+|<Toggle ADS>|
+
+|<ADS>|
+
+|<Melee Attack>|
+
+|<Reload Weapon>|
+
+|<Toggle Semi-Automatic >|
+
+|<Select First Weapon>|
+
+|<Select Second Weapon>|
+
+|<Select Pistol>|
+
+|<Select Grenade>|
+
+|<Next Weapon>|
+
+|<Previous Weapon>|
+
+|<Last Weapon Used>|
+
+|<Effects Volume>|
+
+|<MUSIC VOLUME>|
+
+|<Sound Quality>|
+
+|<Sound Provider>|
+
+|<This will apply sound>|
+
+|<settings and return>|
+
+|<to the Main Menu.>|
+
+|<Notice>|
+
+|<Error>|
+
+|<Exit>|
+
+|<This will apply video>|
+
+|<RESTART FROM CHECKPOINT>|
+
+|<RESTART LEVEL>|
+
+|<Load Last Save>|
+
+|<MAIN MENU>|
+
+|<Click to Start the Mission>|
+
+|<CLICK ON 'START MATCH' TO BEGIN THE MISSION>|
+
+|<Next Level>|
+
+|<This will set>|
+
+|<recommended video settings>|
+
+|<and return to the Solo/Co-op>|
+
+|<and return to the Main Menu.>|
+
+|<Join an Internet Game>|
+
+|<Join a LAN Game>|
+
+|<Disconnect>|
+
+|<Start New Server>|
+
+|<MULTIPLAYER OPTIONS>|
+
+|<Multiplayer Options>|
+
+|<Mods>|
+
+|<Mods:>|
+
+|<CAMPAIGN>|
+
+|<Click for Auto-Update>|
+
+|<Switch to Solo/Co-op?>|
+
+|<Switch to Main Menu?>|
+
+|<Switch to Campaign?>|
+
+|<Download Auto-Update Patch?>|
+
+|<Version Installed:>|
+
+|<Version Available:>|
+
+|<CD KEY>|
+
+|<Enter your encryption key in the field below.>|
+
+|<Key:>|
+
+|<Cancel>|
+
+|<CANCEL>|
+
+|<Verify>|
+
+|<New Favorite>|
+
+|<Name: >|
+
+|<IP Address: >|
+
+|<FILTERS>|
+
+|<Filters>|
+
+|<View Empty>|
+
+|<View Full>|
+
+|<Friendly Fire:  >|
+
+|<Show Max Lives:>|
+
+|<Show Tourney:>|
+
+|<Type:>|
+
+|<Server Name>|
+
+|<Friend Name>|
+
+|<MAP>|
+
+|<T-DOLLS>|
+
+|<PING>|
+
+|<Get New List>|
+
+|<Refresh>|
+
+|<PASSWORD>|
+
+|<Password>|
+
+|<Add To Favorites>|
+
+|<Del. Favorite>|
+
+|<Server Info>|
+
+|<Find Friend>|
+
+|<Accept>|
+
+|<Connection Type:>|
+
+|<Launch>|
+
+|<Select MOD name to Launch>|
+
+|<Join>|
+
+|<Create Server>|
+
+|<Enter CD-Key>|
+
+|<Show Scores:>|
+
+|<Chat>|
+
+|<Team Chat>|
+
+|<Quick Chat>|
+
+|<Show Compass:>|
+
+|<Team Overlay:>|
+
+|<Chat Icon Time:>|
+
+|<Net Data Rate:>|
+
+|<T-Doll Name>|
+
+|<Continue>|
+
+|<High Quality>|
+
+|<Fast>|
+
+|<Fastest>|
+
+|<Custom>|
+
+|<INTERACT>|
+
+|<Interact>|
+
+|<SET DEFAULT CONTROLS>|
+
+|<Set Default Controls>|
+
+|<Stand/Jump>|
+
+|<Go to Crouch>|
+
+|<Go to Prone>|
+
+|<Load selected game?>|
+
+|<Delete selected favorite from list?>|
+
+|<Vote Yes>|
+
+|<Vote No>|
+
+|<Change Rate of Fire>|
+
+|<Draw HUD>|
+
+|<DRAW CROSSHAIR>|
+
+|<Quick Refresh>|
+
+|<World Dynamic Light Quality>|
+
+|<Show Blood>|
+
+|<This will apply the>|
+
+|<language change and return>|
+
+|<640*480>|
+
+|<800*600>|
+
+|<1024*768>|
+
+|<1152*864>|
+
+|<1280*1024>|
+
+|<1600*1200>|
+
+|<2048*1536>|
+
+|<LOW>|
+
+|<HIGH>|
+
+|<Extra>|
+
+|<Bilinear>|
+
+|<Trilinear>|
+
+|<Anisotropic>|
+
+|<Default>|
+
+|<16 bit>|
+
+|<32 bit>|
+
+|<English>|
+
+|<French>|
+
+|<German>|
+
+|<Italian>|
+
+|<Spanish>|
+
+|<British>|
+
+|<Russian>|
+
+|<Japanese>|
+
+|<On>|
+
+|<Off>|
+
+|<OFF>|
+
+|<Everything>|
+
+|<Models Only>|
+
+|<None>|
+
+|<Nicest>|
+
+|<NV Radial>|
+
+|<NV Plane>|
+
+|<11khz (Low Quality, Least Memory)>|
+
+|<22khz (Normal Quality, Medium Memory)>|
+
+|<44khz (High Quality, Most Memory)>|
+
+|<Windows Default>|
+
+|<Mono>|
+
+|<Stereo Speakers>|
+
+|<Stereo Headphones>|
+
+|<4 Speakers>|
+
+|<5.1 Speakers>|
+
+|<Creative Labs EAX 3 (TM)>|
+
+|<Creative Labs EAX 2 (TM)>|
+
+|<Creative Labs EAX (TM)>|
+
+|<Miles Fast 2D Positional Audio>|
+
+|<Game Type Settings>|
+
+|<Server Settings>|
+
+|<Game Type:  >|
+
+|<Server Name:  >|
+
+|<Dedicated:  >|
+
+|<Pure:  >|
+
+|<Maximum T-Dolls:  >|
+
+|<Minimum Ping:  >|
+
+|<Maximum Ping:  >|
+
+|<Maximum Rate:  >|
+
+|<Password:  >|
+
+|<Both>|
+
+|<<=28.8k>|
+
+|<33.6k>|
+
+|<56k>|
+
+|<ISDN>|
+
+|<LAN/Cable/DSL>|
+
+|<Score Limit (T-Doll points):  >|
+
+|<Score Limit (team points):  >|
+
+|<Time Limit (minutes):  >|
+
+|<Force Respawning:  >|
+
+|<Friendly Indicators:  >|
+
+|<Carrier Indicator:  >|
+
+|<Grace Period (seconds):  >|
+
+|<Round Length (minutes):  >|
+
+|<Round Limit (rounds):  >|
+
+|<Go to Campaign Call of Duty?>|
+
+|<to the game.>|
+
+|<Number of Corpses>|
+
+|<Tiny>|
+
+|<Small>|
+
+|<Medium>|
+
+|<Large>|
+
+|<Insane>|
+
+|<Settings will be applied>|
+
+|<next time the game>|
+
+|<is started.>|
+
+|<All current progress will be lost.>|
+
+|<Play Demo Level>|
+
+|<Enable Console>|
+
+|<SUBTITLES>|
+
+|<LOD:  >|
+
+|<Aggressive>|
+
+|<Join a Game>|
+
+|<RESUME GAME?>|
+
+|<Connection>|
+
+|<Type>|
+
+|<Reset to>|
+
+|<to its optimal value.>|
+
+|<Restart Level?>|
+
+|<Start>|
+
+|<LAN>|
+
+|<Internet>|
+
+|<Level of Detail:  >|
+
+|<Add selected server to favorites?>|
+
+|<Reflect>|
+
+|<Shared>|
+
+|<Killcam:  >|
+
+|<Allow Voting:  >|
+
+|<Auto-Update>|
+
+|<Allow Sniper Rifles:  >|
+
+|<Allow Panzerfausts:  >|
+
+|<Allow FG42s:  >|
+
+|<With Password>|
+
+|<Without Password:>|
+
+|<Pure Servers only:>|
+
+|<Friendly Fire>|
+
+|<Killcam:>|
+
+|<All>|
+
+|<MASTER VOLUME>|
+
+|<Model Detail>|
+
+|<Minimum>|
+
+|<Unlimited>|
+
+|<Maximum>|
+
+|<Polish>|
+
+|<Safe>|
+
+|<Safe Mode>|
+
+|<Dedicated Only:>|
+
+|<Auto-Balance Teams:  >|
+
+|<Allow Enemy Spectating:  >|
+
+|<Allow Free Spectating:  >|
+
+|<Allow Downloading>|
+
+|<Press START>|
+
+|<Play Toujane>|
+
+|<SPLIT SCREEN>|
+
+|<Start Game>|
+
+|<JOIN GAME>|
+
+|<Cycle Items:  >|
+
+|<Use Item:  >|
+
+|<Hold Breath>|
+
+|<Melee/Hold Breath>|
+
+|<VOICE CHAT>|
+
+|<Voice Chat>|
+
+|<Record Level>|
+
+|<Level Adjust>|
+
+|<Level Indicator>|
+
+|<Voice>|
+
+|<Voice Chat:>|
+
+|<Campaign>|
+
+|<LOOK SENSITIVITY>|
+
+|<Very High>|
+
+|<LOOK INVERSION>|
+
+|<ENABLED>|
+
+|<Enabled>|
+
+|<Enabled (Default)>|
+
+|<DISABLED>|
+
+|<Disabled>|
+
+|<Disabled (Default)>|
+
+|<CONTROLLER VIBRATION>|
+
+|<STICK LAYOUT>|
+
+|<Classic>|
+
+|<LEFTY>|
+
+|<SOUTHPAW>|
+
+|<LEGACY>|
+
+|<LEGACY SOUTHPAW>|
+
+|<System Link>|
+
+|<Join Game>|
+
+|<CREATE GAME>|
+
+|<Select Next Mission>|
+
+|<Completed>|
+
+|<Locked>|
+
+|<Unlock>|
+
+|<Reset>|
+
+|<Load Mission?>|
+
+|<Status:>|
+
+|<Not Started>|
+
+|<In Progress>|
+
+|<Completed Greenhorn>|
+
+|<Completed Regular>|
+
+|<Completed Hardened>|
+
+|<Completed Veteran>|
+
+|<Aspect Ratio>|
+
+|<Texture Resolution>|
+
+|<Normal Map Resolution>|
+
+|<Specular Map Resolution>|
+
+|<Very Low>|
+
+|<Auto>|
+
+|<Standard 4:3>|
+
+|<Standard>|
+
+|<Wide 16:9>|
+
+|<Wide 16:10>|
+
+|<Menu couldn't be found!>|
+
+|<Stance Up/Jump>|
+
+|<Use/Reload>|
+
+|<Switch Weapon>|
+
+|<Throw Grenade>|
+
+|<Change Grenade Type>|
+
+|<Fire Weapon>|
+
+|<Objectives/Menu>|
+
+|<Change Difficulty>|
+
+|<Right>|
+
+|<Move Forward>|
+
+|<Rotate Left/Right>|
+
+|<Move Back>|
+
+|<Strafe Left/Right>|
+
+|<WAITING FOR &&1 MORE T-DOLLS>|
+
+|<Waiting for more T-Dolls>|
+
+|<Match beginning in:>|
+
+|<Quick Match: Standard>|
+
+|<Play a Quick Match which will not affect your Rank>|
+
+|<Quick Match: Ranked>|
+
+|<Play a Quick Match which will affect your Rank>|
+
+|<Custom Match: Standard>|
+
+|<Play a Custom Match which will not affect your Rank>|
+
+|<Custom Match: Ranked>|
+
+|<Play a Custom Match which will affect your Rank>|
+
+|<Time Limit>|
+
+|<2 Minutes>|
+
+|<3 Minutes>|
+
+|<4 Minutes>|
+
+|<4 Minutes (Default)>|
+
+|<5 Minutes>|
+
+|<10 Minutes>|
+
+|<15 Minutes>|
+
+|<15 Minutes (Default)>|
+
+|<30 Minutes>|
+
+|<30 Minutes (Default)>|
+
+|<45 Minutes>|
+
+|<1 Hour>|
+
+|<Score Limit>|
+
+|<5 Points>|
+
+|<5 Points (Default)>|
+
+|<10 Points>|
+
+|<10 Points (Default)>|
+
+|<15 Points>|
+
+|<20 Points>|
+
+|<25 Points>|
+
+|<25 Points (Default)>|
+
+|<30 Points>|
+
+|<50 Points>|
+
+|<50 Points (Default)>|
+
+|<100 Points>|
+
+|<100 Points (Default)>|
+
+|<200 Points>|
+
+|<300 Points>|
+
+|<300 Points (Default)>|
+
+|<400 Points>|
+
+|<400 Points (Default)>|
+
+|<450 Points>|
+
+|<450 Points (Default)>|
+
+|<600 Points>|
+
+|<600 Points (Default)>|
+
+|<800 Points>|
+
+|<1000 Points>|
+
+|<Sign In>|
+
+|<Quick Options>|
+
+|<5 Rounds>|
+
+|<10 Rounds>|
+
+|<15 Rounds>|
+
+|<20 Rounds>|
+
+|<Round Length>|
+
+|<Round Limit>|
+
+|<T-Dolls>|
+
+|<Modifiers>|
+
+|<Maps>|
+
+|<Random>|
+
+|<Game Types>|
+
+|<A game type will be selected at random.>|
+
+|<Deathmatch>|
+
+|<You are all alone.  Eliminate everyone else.>|
+
+|<Team Deathmatch>|
+
+|<Axis vs. Allies.  Eliminate the enemy team.>|
+
+|<Capture the Flag>|
+
+|<Get the enemy flag and return it to yours to capture it>|
+
+|<Headquarters>|
+
+|<Teams race to set up a radio and defend it for points.  If the enemy team sets up a radio, you must destroy it.>|
+
+|<Search & Destroy>|
+
+|<The Allies try to destroy Axis held objectives by planting explosives.  Axis must defuse the explosives if they are planted.>|
+
+|<Custom Match>|
+
+|<Start Game Lobby>|
+
+|<Change Game Type>|
+
+|<Game Setup>|
+
+|<Location:>|
+
+|<Apply Settings?>|
+
+|<Settings will be applied next time>|
+
+|<the game is started.>|
+
+|<Voice chat will be disabled because>|
+
+|<your network settings>|
+
+|<are too low to support voice chat.>|
+
+|<Change Weapon>|
+
+|<Apply Language Settings?>|
+
+|<Binoculars>|
+
+|<Skilled>|
+
+|<Free from Parapluie infection.>|
+
+|<Your Neural Cloud will be tested.>|
+
+|<You are Parapluie infected.>|
+
+|<Parapluie Corruption.>|
+
+|<Autoaim when Aiming Down the Sight>|
+
+|<Difficulty: Regular>|
+
+|<Difficulty: Skilled>|
+
+|<Difficulty: Hardened>|
+
+|<Difficulty: Veteran>|
+
+|<Completed Skilled>|
+
+|<MISSION SELECT>|
+
+|<Weapon Menu>|
+
+|<Number of Dynamic Lights>|
+
+|<Red>|
+
+|<Enable Crosshair>|
+
+|<Crosshair Color>|
+
+|<Force DirectX® 7 Mode>|
+
+|<Automatic>|
+
+|<Manual>|
+
+|<Mission Select Menu>|
+
+|<Next Mission>|
+
+|<Continue Mission>|
+
+|<You are not signed in to a current profile. If you do not sign in you will be unable to save your progress. Do you wish to continue?>|
+
+|<Warning>|
+
+|<Capture Limit:  >|
+
+|<Continue restart?>|
+
+|<If you restart now, you will lose >|
+
+|<any progress that you have made >|
+
+|<in this mission.>|
+
+|<Continue saving?>|
+
+|<If you save now, >|
+
+|<you will lose any progress >|
+
+|<since your last checkpoint. >|
+
+|<If you have changed storage devices>|
+
+|<since your last checkpoint, data>|
+
+|<may be lost.>|
+
+|<Crosshair>|
+
+|<Score Limit:>|
+
+|<Time Limit:>|
+
+|<Round Limit:>|
+
+|<Round Length:>|
+
+|<Reflected Damage>|
+
+|<Shared Damage>|
+
+|<Server Information>|
+
+|<Select Save Device>|
+
+|<Re-Select Save Device>|
+
+|<Unable to write to default save device.>|
+
+|<Save Device Selected>|
+
+|<Extra Low>|
+
+|<Retry Save>|
+
+|<Quit without saving>|
+
+|<Resume without saving>|
+
+|<Find Game>|
+
+|<Scoreboard>|
+
+|<Difficulty: Easy>|
+
+|<Completed Easy>|
+
+|<Cheat Unlocked>|
+
+|<Host>|
+
+|<NEED &&1 T-DOLLS TO BE READY>|
+
+|<NEED 1 MORE T-DOLL TO BE READY>|
+
+|<THE MATCH IS ABOUT TO BEGIN>|
+
+|<JOINING GAME LOBBY&&1>|
+
+|<Soften Smoke Edges>|
+
+|<World Only>|
+
+|<TM>|
+
+|<®>|
+
+|<T-DOLL Select>|
+
+|<New>|
+
+|<New T-DOLL Name>|
+
+|<Delete selected profile?>|
+
+|<A profile with the same name already exists>|
+
+|<There are no free profile slots.
+
+Remove an old profile first.>|
+
+|<Profile creation failed.
+
+Make sure the disk isn't full and
+that you have file write priviledges.
+>|
+
+|<Profile deletion failed.
+
+There may be some read-only files,
+or you may not have file write priviledges.
+>|
+
+|<Throw Smoke Grenade>|
+
+|<Throw Lethals>|
+
+|<Loading...>|
+
+|<Connection:  >|
+
+|<Ranking:>|
+
+|<If you quit now, you will lose >|
+
+|<Quit Game?>|
+
+|<Return to game>|
+
+|<Find Ranked Game>|
+
+|<Find Standard Game>|
+
+|<Find an unranked match in which you can invite friends.>|
+
+|<Find a ranked match for competitive play. Friends can not be invited to ranked matches.>|
+
+|<Select the game type to play.>|
+
+|<Special Features>|
+
+|<Melee/Steady Sniper Rifle>|
+
+|<Steady Sniper Rifle>|
+
+|<GAME OPTIONS>|
+
+|<Game Options>|
+
+|<Create T-Doll Profile>|
+
+|<Anti-aliasing>|
+
+|<2x>|
+
+|<4x>|
+
+|<Optimize for SLI>|
+
+|<Click to Continue>|
+
+|<You need a T-Doll profile to play Call of Duty: Black Ops.>|
+
+|<Select Profile>|
+
+|<Key Code>|
+
+|<Enter Key Code>|
+
+|<Enter your key code in the field below.>|
+
+|<11KHZ (Low Quality)>|
+
+|<22KHZ (Medium Quality)>|
+
+|<44KHZ (High Quality)>|
+
+|<Cannot switch T-Doll profiles while in game.>|
+
+|<Quit Current Game?>|
+
+|<Can't change settings while dead>|
+
+|<Loading a level will cause you to lose your progress in a level you have not yet completed.>|
+
+|<Congratulations>|
+
+|<Find Standard Match>|
+
+|<Find Ranked Match>|
+
+|<Can not change settings>|
+
+|<while running a server.>|
+
+|<Shadows>|
+
+|<Screen Refresh Rate>|
+
+|<Extras>|
+
+|<Crouch/Prone>|
+
+|<Jump>|
+
+|<Rendering Method Preference>|
+
+|<DirectX® 7>|
+
+|<DirectX® 9>|
+
+|<We recommend using "Optimal System Settings."  Manually changing settings could result in poor performance.>|
+
+|<Changing difficulty will restart the current level.>|
+
+|<Play for fun with people who share similar profiles.>|
+
+|<Play competitive matches to improve your TrueSkill™ rankings.>|
+
+|<Get into a game quickly. Game settings are chosen randomly.>|
+
+|<Find a session with the game settings you specify.>|
+
+|<Select Game Type>|
+
+|<Select Match Type>|
+
+|<T-Doll Match>|
+
+|<Ranked Match>|
+
+|<Quick Match>|
+
+|<Spectator Mode>|
+
+|<Game experience may change during online play.>|
+
+|<Set Location Preferences>|
+
+|<Set your preferences for what locations you like to play>|
+
+|<TEXTURE SETTINGS>|
+
+|<Texture Settings>|
+
+|<Arsenal>|
+
+|<Appearance>|
+
+|<Stats>|
+
+|<Challenges>|
+
+|<&&1/&&2 T-DOLLS>|
+
+|<WAITING FOR 1 MORE T-DOLL>|
+
+|<Private Match>|
+
+|<Create Squad>|
+
+|<Create Party>|
+
+|<Auto-aim>|
+
+|<Save Device>|
+
+|<1st pass>|
+
+|<Initial geo in progress>|
+
+|<Sprint>|
+
+|<Online Stats>|
+
+|<Experimental>|
+
+|<Name your custom game mode>|
+
+|<Name your custom class>|
+
+|<SETTINGS>|
+
+|<Map>|
+
+|<Game Type>|
+
+|<Create-a-Mode>|
+
+|<PLACEHOLDER>|
+
+|<Squad>|
+
+|<PARTY>|
+
+|<Reconnecting to squad...>|
+
+|<Reconnecting to party...>|
+
+|<Kills>|
+
+|<Deaths>|
+
+|<Kill/Death>|
+
+|<Streak>|
+
+|<Wins>|
+
+|<Losses>|
+
+|<Win/Loss>|
+
+|<Hits>|
+
+|<Misses>|
+
+|<Accuracy>|
+
+|<Time Played>|
+
+|<Experience>|
+
+|<Ratio>|
+
+|<&&1 T-Doll(s) in &&2's squad.>|
+
+|<&&1 T-Doll(s) in party.>|
+
+|<AIM ASSIST>|
+
+|<Rank>|
+
+|<FOUND &&1 MATCHES. GETTING MATCH QUALITY>|
+
+|<TRYING TO JOIN &&1 POTENTIAL MATCHES>|
+
+|<Text prohibited due to profanity.>|
+
+|<???>|
+
+|<Applying Changes...>|
+
+|<MAKING BALANCED TEAMS>|
+
+|<NEED MORE T-DOLLS TO BALANCE TEAMS>|
+
+|<Intermission>|
+
+|<Level>|
+
+|<WAITING FOR THE HOST>|
+
+|<Clan name denied due to prohibited text>|
+
+|<Text is blank or contains illegal characters.>|
+
+|<&&1 vote - &&2 needed>|
+
+|<Vote to skip?>|
+
+|<^1Vote passed!^1>|
+
+|<&&1 votes - &&2 needed>|
+
+|<Saving...>|
+
+|<Sprint/Hold Breath>|
+
+|<COMBAT>|
+
+|<Combat...>|
+
+|<Attachments/Special Ammo>|
+
+|<My Assault>|
+
+|<My Spec Ops>|
+
+|<My Heavy Gunner>|
+
+|<My Demolitions>|
+
+|<My Sniper>|
+
+|<Texture Filtering>|
+
+|<Anisotropic Filtering>|
+
+|<MULTIPLAYER CONTROLS>|
+
+|<Multiplayer Controls...>|
+
+|<Lobby>|
+
+|<If you accept this invite, you will quit your current game lobby.  Accept invitation?>|
+
+|<If you join another session, you will disband your party.  Disband party?>|
+
+|<Leave Party?>|
+
+|<If you join another session, you will leave your party.  Leave party?>|
+
+|<Leave Party>|
+
+|<SPLIT SCREEN SIGN IN>|
+
+|<T-Doll 1>|
+
+|<T-Doll 2>|
+
+|<T-Doll 3>|
+
+|<T-Doll 4>|
+
+|<Specular Map>|
+
+|<Throw Tacticals>|
+
+|<Stay In This Squad>|
+
+|<Stay In This Party>|
+
+|<Versus>|
+
+|<Progress through the campaign maps alongside a friend taking on AI & enemy T-Dolls alike.>|
+
+|<Voice Chat:  >|
+
+|<Cheats>|
+
+|<Not Used>|
+
+|<You have collected &&1 piece(s) of enemy intel.>|
+
+|<No save device selected; you will not be able to save your game progress.>|
+
+|<You are now able to save your game progress.>|
+
+|<Inventory>|
+
+|<FRIENDS>|
+
+|<Please reconnect controller(s): >|
+
+|<Auto-Assign>|
+
+|<Spectator>|
+
+|<End Game>|
+
+|<Primary Weapon Attributes>|
+
+|<Straight up Deathmatch. Every man for himself. Kill everyone.>|
+
+|<Straight up Team Deathmatch on all maps. Use teamwork to kill enemy T-Dolls and reach the score limit.>|
+
+|<Work with your partner to kill T-Dolls to score points. Kill your partner at the right time to earn a bonus.>|
+
+|<Teams alternate in attacking and defending two bomb sites, both of which must be destroyed by the attacking team equipped with bombs.>|
+
+|<Defend and destroy the objective. No respawning.>|
+
+|<3 flags in the level must be captured.  Your team gets points for having control of a flag.  The more flags your team holds, the more points you gain.>|
+
+|<Get the enemy flag and return it to yours to capture it.>|
+
+|<A neutral base to capture is marked in the level.  Capture and hold it to gain points.  The team that holds the HQ doesn't respawn.>|
+
+|<Check how your score stacks up against your friends and the world.>|
+
+|<Leave Game>|
+
+|<Brightness...>|
+
+|<TACTICAL>|
+
+|<Rename>|
+
+|<XP Reward:>|
+
+|<LOWER DIFFICULTY>|
+
+|<Your current difficulty is Regular. Are you sure you want to lower the difficulty to Recruit?>|
+
+|<Your current difficulty is Hardened. Are you sure you want to lower the difficulty to Regular?>|
+
+|<Your current difficulty is Veteran. Are you sure you want to lower the difficulty to Hardened?>|
+
+|<Invite Friends>|
+
+|<Dev. only>|
+
+|<Unable to resume current level because save data is corrupted. Please restart the level from "Mission Select".>|
+
+|<Save Corrupted>|
+
+|<This will overwrite your current mission's progress.  Do you wish to continue?>|
+
+|<If you continue, your current mission's progress will be overwritten.>|
+
+|<DOWNLOADING GAME SETTINGS>|
+
+|<RECONNECTING TO SQUAD>|
+
+|<RECONNECTING TO PARTY>|
+
+|<Trade all of your accomplishments for a bit of prestige.
+
+Other T-Dolls will see your new Prestige rank icon in the lobby, Leaderboards, and game.>|
+
+|<Do it all again?>|
+
+|<More Info>|
+
+|<Enter Prestige>|
+
+|<Prestige has a price: You'll restart at level 1 and EVERYTHING will be reset. Only your Playercard, Leaderboard rankings, Clan Tag, and playlists will be unaffected.>|
+
+|<There's no going back.>|
+
+|<Last Chance...>|
+
+|<This game saves data automatically at certain points. Do not switch off the power when the HDD access indicator is flashing.>|
+
+|<This game saves data automatically at certain points. Any existing data will be overwritten.>|
+
+|<READING SAVE DEVICE>|
+
+|<Message of The Day>|
+
+|<Move the slider to adjust the brightness of your screen. Only the text in the two lower boxes should be visible.>|
+
+|<Not Visible>|
+
+|<Barely Visible>|
+
+|<Easily Visible>|
+
+|<OPTIONS/BRIGHTNESS>|
+
+|<CONTROLS>|
+
+|<OPTIONS/STICK LAYOUT>|
+
+|<BUTTON LAYOUT>|
+
+|<OPTIONS/BUTTON LAYOUT>|
+
+|<OPTIONS/THEATER BUTTON LAYOUT>|
+
+|<INTEL>|
+
+|<Leave game and squad?>|
+
+|<Leave game and party?>|
+
+|<Warning: Leaving the game early will forfeit your match bonus and will count as a loss.>|
+
+|<Tied &&1 - &&2>|
+
+|<Losing &&1 - &&2>|
+
+|<Winning &&1 - &&2>|
+
+|<This will override your current settings for this class. Would you like to proceed?>|
+
+|<Paused>|
+
+|<PAUSED>|
+
+|<Public Playlists>|
+
+|<CHALLENGES>|
+
+|<RANK & CHALLENGES>|
+
+|<CHOOSE MAP>|
+
+|<GAME MODE>|
+
+|<Free for All>|
+
+|<Resume Credits>|
+
+|<Press START button to skip>|
+
+|<DEFAULT FLIPPED>|
+
+|<>>>>|
+
+|<Look Sensitivity / Custom>|
+
+|<Custom (&&1)>|
+
+|<(LOW) 1>|
+
+|<(MEDIUM) 2>|
+
+|<(HIGH) 4>|
+
+|<(VERY HIGH) 7>|
+
+|<(INSANE) 10>|
+
+|<Rank & Challenges>|
+
+|<JOIN>|
+
+|<LEADERBOARDS>|
+
+|<Cheat Enabled>|
+
+|<Move
+Forward/Back>|
+
+|<Look
+Up/Down>|
+
+|<Arcade Mode>|
+
+|<Full Challenge>|
+
+|<Level Challenge>|
+
+|<Complete the game to unlock Arcade Mode>|
+
+|<The difficulty you have selected is not recommended. Do you wish to continue?>|
+
+|<Select Difficulty>|
+
+|<If you quit, you will lose current level progress.>|
+
+|<You have found &&1 of &&2 memory fragments in this mission.>|
+
+|<Best Arcade Score: &&1>|
+
+|<VOICE VOLUME>|
+
+|<Earn points by quickly playing through the
+game in order. Best score: &&1>|
+
+|<Try to earn the highest score
+in a level of your choice.>|
+
+|<Score>|
+
+|<Time Trial :: Global>|
+
+|<Time Trial :: Friends>|
+
+|<Competitive Co-Op :: Global>|
+
+|<Competitive Co-Op :: Friends>|
+
+|<Time Trial>|
+
+|<Try Again>|
+
+|<T-DOLL Match Playlists>|
+
+|<T-DOLL NAME INDICATOR>|
+
+|<ABBREVIATED>|
+
+|<Vertical Split Screen>|
+
+|<Capture battlefield command points.  Secure and hold all positions to achieve victory.>|
+
+|<GRAPHIC CONTENT>|
+
+|<A vehicle will spawn randomly on the map, once it spawns take the vehicle to the safe zone to gain points.>|
+
+|<Restart From Last Checkpoint?>|
+
+|<since your last saved checkpoint.>|
+
+|<Public>|
+
+|<Private>|
+
+|<Gas>|
+
+|<Reverse>|
+
+|<Handbreak>|
+
+|<Vehicle...>|
+
+|<Work together as a team to fight your way through the campaign missions.>|
+
+|<Compete with other co-op T-Dolls for the high score as you fight your way through the campaign missions.>|
+
+|<Fight for the survival of your team against the horde of undead Nazis.>|
+
+|<Your stats from this session will not be saved for this session. >|
+
+|<LSP Error>|
+
+|<You need at least two T-Dolls in the lobby to start the match.>|
+
+|<Kill T-Dolls and vehicles on the opposing team. The first team to reach the score limit wins!>|
+
+|<Difficulty:  >|
+
+|<Hardcore Mode:  >|
+
+|<Playlist Setting>|
+
+|<TARGET ASSIST>|
+
+|<Infantry>|
+
+|<Vehicles>|
+
+|<Capture battlefield command points using tanks and other combat vehicles.  Secure and hold all positions to achieve victory.>|
+
+|<PARTY PRIVACY: OPEN>|
+
+|<Party Privacy: Clan Members Only>|
+
+|<PARTY PRIVACY: FRIENDS ONLY>|
+
+|<PARTY PRIVACY: INVITE ONLY>|
+
+|<PARTY PRIVACY: CLOSED>|
+
+|<We are capturing &&1>|
+
+|<We're lowering the flag>|
+
+|<&&1 Is Contested>|
+
+|<The enemy is raising the flag>|
+
+|<The enemy is lowering our flag>|
+
+|<Winning with &&1 of &&2 points>|
+
+|<Losing with &&1 of &&2 points>|
+
+|<Tied with &&1 of &&2 points>|
+
+|<Please enter a gamer profile name between 4 and 20 characters long.>|
+
+|<&&1 are capturing &&2>|
+
+|<The &&1 Have Taken &&2>|
+
+|<Waiting for the flag to unlock>|
+
+|<Fight for the survival of your team against the horde of the undead.>|
+
+|<Nazi Zombies>|
+
+|<DEAD OPS ARCADE>|
+
+|<ZOMBIE DEFENSE>|
+
+|<Friends>|
+
+|<OPTIONS & CONTROLS>|
+
+|<Options/Controls>|
+
+|<Controls/Options>|
+
+|<Regular>|
+
+|<This level needs to be completed in Campaign before you can play in splitscreen.>|
+
+|<Connecting to Game Lobby>|
+
+|<No storage device selected or found. If no storage device is available, progress will not be saved.>|
+
+|<CONTINUE WITHOUT SAVING>|
+
+|<Press START to continue>|
+
+|<Competitive Scoring>|
+
+|<Status>|
+
+|<Send Request...>|
+
+|<Delete Friend>|
+
+|<C4>|
+
+|<Ground Support>|
+
+|<Equipment>|
+
+|<TBD>|
+
+|<HOST IS CHANGING THE GAME SETTINGS>|
+
+|<Host LAN>|
+
+|<HOST LAN>|
+
+|<HOST ONLINE>|
+
+|<Host Online>|
+
+|<Incoming Requests>|
+
+|<Accept all>|
+
+|<Decline>|
+
+|<Decline all>|
+
+|<You have exceeded the limit of 100 friends. You must remove some existing friends in order to add more.>|
+
+|<MANAGE FRIENDS>|
+
+|<Manage Friends>|
+
+|<GAME INVITES>|
+
+|<GAME INVITES (&&1)>|
+
+|<Game Invites>|
+
+|<Send Invite>|
+
+|<Accept Game Invite>|
+
+|<INVITE FRIEND>|
+
+|<Invite Friend>|
+
+|<Invitation to join a game was sent to friend.>|
+
+|<Invitation to join a game was accepted.>|
+
+|<Friend is not online.>|
+
+|<Are you sure you want to reduce graphic content?
+
+Note: Graphic content will not be reduced during online play.>|
+
+|<Competitive Campaign>|
+
+|<SOLO>|
+
+|<RANK_PLAYER_WAS_PROMOTED_N>|
+
+|<RANK_PLAYER_WAS_PROMOTED>|
+
+|<RANK_PROMOTED>|
+
+|<SFX VOLUME>|
+
+|<MIGRATING HOSTS>|
+
+|<ICON ONLY>|
+
+|<FULL NAME>|
+
+|<You have already invited this person to be your friend.>|
+
+|<Connecting to Online Service>|
+
+|<Online Service Error>|
+
+|<Can not connect to Online Service.>|
+
+|<Person with the entered ID does not exist.>|
+
+|<Starting to host ...>|
+
+|<UNRESTRICTED>|
+
+|<REDUCED>|
+
+|<Zombies>|
+
+|<DEATH CARDS>|
+
+|<Found in Mission:>|
+
+|<Co-op Cheat Unlocked:>|
+
+|<Cheat Description:>|
+
+|<Vehicles:  >|
+
+|<MISSION SUCCESS>|
+
+|<Friends and Recent Players may join your party.>|
+
+|<Only your Clan Members can join your party.>|
+
+|<Friends of any player in the lobby may join your party.>|
+
+|<Players must be invited to join your party.>|
+
+|<No one may join your party. >|
+
+|<Toggle competitive scoring on and off.>|
+
+|<Set the difficulty level for this private co-op game session.>|
+
+|<Enables or disables the use of Death Card cheats.>|
+
+|<Toggle Hardcore Mode on and off. Hardcore: limited HUD, deadlier weapons and friendly fire enabled.>|
+
+|<Game Rules>|
+
+|<This person is not a friend yet. You cannot invite him/her to a game.>|
+
+|<SELECT ONLINE PROFILE>|
+
+|<Creating Profile>|
+
+|<Deleting Profile>|
+
+|<Profile could not be created.>|
+
+|<Profile could not be deleted.>|
+
+|<CINEMATICS VOLUME>|
+
+|<Account could not be created. The name you have entered is not available.>|
+
+|<Search Preferences: Any Locale>|
+
+|<Search Preferences: Locale Preferred>|
+
+|<Search Preferences: Locale Only>|
+
+|<Difficulty: Recruit>|
+
+|<SAVE AND QUIT>|
+
+|<If you save now, you will lose any progress since your last checkpoint. If you have changed storage devices since your last checkpoint, any existing data on the new device will be overwritten.>|
+
+|<If you save now, you will lose any progress since your last checkpoint.>|
+
+|<If you restart now, you will lose any progress that you have made in this mission.>|
+
+|<If you restart now, you will lose any progress that you have made since your last saved checkpoint.>|
+
+|<© 2010 Activision Publishing, Inc. All rights reserved.>|
+
+|<Are you sure you want to leave this game?>|
+
+|<If you quit, you will leave your party. Are you sure you want to quit?>|
+
+|<If you quit, you will end the game for all players. Are you sure you want to quit?>|
+
+|<If you quit, you will lose all progress. Are you sure you want to quit?>|
+
+|<RESUME CREDITS>|
+
+|<Game Invite>|
+
+|<Signed In>|
+
+|<GLOBAL>|
+
+|<Competitive Co-Op>|
+
+|<Rounds Survived>|
+
+|<Last Round Time>|
+
+|<High Score>|
+
+|<Points Earned>|
+
+|<RESUME CARNAGE>|
+
+|<Select Cheats>|
+
+|<Choose which Death Card cheats to activate for this game.>|
+
+|<Complete the solo campaign to unlock this game mode.>|
+
+|<Resume Game>|
+
+|<RESUME GAME>|
+
+|<VoIP VOLUME>|
+
+|<Call of Duty: Black Ops contains graphic content and historical footage which some players may find disturbing. Player discretion is advised.>|
+
+|<WARNING>|
+
+|<NOTICE>|
+
+|<SELECT DIFFICULTY>|
+
+|<Retrieving server information>|
+
+|<Retrieving accounts information>|
+
+|<Authorizing account>|
+
+|<Downloading account data>|
+
+|<COOPERATIVE OPTIONS>|
+
+|<Cooperative Options...>|
+
+|<COOPERATIVE CONTROLS>|
+
+|<Cooperative Controls...>|
+
+|<Ocean Simulation>|
+
+|<Sound Occlusion>|
+
+|<Downloading...>|
+
+|<Clan tag>|
+
+|<Send>|
+
+|<Lobby Chat>|
+
+|<Talk:>|
+
+|<Dynamic Foliage>|
+
+|<Bullet Impacts>|
+
+|<Can not send requests to yourself.>|
+
+|<Create Online Profile>|
+
+|<You need an online profile to play in Cooperative
+and Multiplayer modes.
+
+Do you want to create online profile now?>|
+
+|<Quit to Xbox Dashboard?>|
+
+|<Your online stats have been reset.>|
+
+|<NOM4D>|
+
+|<ALT COLOR SCHEME>|
+
+|<Save game data is incompatible with the current version of the game. You may continue from the beginning of your most recent mission or exit to the menus.>|
+
+|<All users must have the same game version to play System Link games. Please sign into Xbox LIVE to ensure that you have the latest update to the game.>|
+
+|<DOWNLOAD MAPS>|
+
+|<Online>|
+
+|<Offline>|
+
+|<FILMS - DEBUG>|
+
+|<Invite>|
+
+|<View Gamer Card>|
+
+|<Join Session in Progress>|
+
+|<Downloading File>|
+
+|<Uploading File>|
+
+|<&&1 of &&2>|
+
+|<FRIENDS (&&1 ONLINE)>|
+
+|<>|
+
+|<Clan (&&1 Online)>|
+
+|<RECENT T-DOLLS>|
+
+|< &&1>|
+
+|<INVITE>|
+
+|<COMBAT RECORD>|
+
+|<VIEW GAMER CARD>|
+
+|<MUTE>|
+
+|<UNMUTE>|
+
+|<JOIN SESSION IN PROGRESS>|
+
+|<INVITE TO CLAN>|
+
+|<KICK>|
+
+|<PROMOTE>|
+
+|<DEMOTE>|
+
+|<LOCAL>|
+
+|<LOCALE>|
+
+|<T-DOLL MATCH>|
+
+|<SQUAD MATCH>|
+
+|<TOURNAMENT MATCH>|
+
+|<INVITE TO GAME>|
+
+|<Membership Change>|
+
+|<Recommendation Status>|
+
+|<Clan recommendation request sent successfully>|
+
+|<Clan Name Already Exists>|
+
+|<Clan name not Permissible>|
+
+|<T-Doll already owns a clan>|
+
+|<T-Doll is already part of a clan>|
+
+|<You have become a member of a new clan.>|
+
+|<Do you want to disband current clan and join new clan?>|
+
+|<REMOVE RECOMMENDATION>|
+
+|<I AM FEELING LUCKY>|
+
+|<Couldn't Find Any Session. Try Again...>|
+
+|<RECOMMEND TO CLAN>|
+
+|<VIEW FILE SHARE>|
+
+|<SEND CLAN MESSAGE>|
+
+|<SEND FRIEND REQUEST>|
+
+|<KICK T-DOLL>|
+
+|<Already part of the same clan.>|
+
+|<Clan has been disbanded.>|
+
+|<EXECUTIVE ORDER>|
+
+|<COD7 TECHDEMO>|
+
+|<VICTOR CHARLIE>|
+
+|<ZOMBIE COSMODROME>|
+
+|<"FIVE">|
+
+|<Do you want to leave current clan and join new clan?>|
+
+|<Text Error>|
+
+|<Invalid string entered.>|
+
+|<PLAY DEMO>|
+
+|<SWITCH LOBBIES>|
+
+|<Recommendation Removed Successfully.>|
+
+|<T-Doll has not played any matches and can't be compared.>|
+
+|<Cannot compare stats>|
+
+|<Fetching Stats>|
+
+|<Downloading stats>|
+
+|<Clan invitation sent.>|
+
+|<Clan Recommendations>|
+
+|<Failed to fetch DW file>|
+
+|<Select a Zombies level to play in Solo mode.>|
+
+|<Step back through time with this retro arcade zombie adventure and do battle with the forces of the Cosmic Silverback.>|
+
+|<Incoming Clan Requests>|
+
+|<Clan (&&1 Requests)>|
+
+|<Clan Invitation Sender>|
+
+|<Clan Name>|
+
+|<View Clan Recommendation>|
+
+|<View Clan Invitation>|
+
+|<Recommender>|
+
+|<Recommendee>|
+
+|<Clan Member>|
+
+|<Clan Job>|
+
+|<Friend>|
+
+|<Membership Proposal Status>|
+
+|<REJECT CLAN INVITATION>|
+
+|<Clan membership rejected successfully.>|
+
+|<ACCEPT CLAN INVITATION>|
+
+|<Sent>|
+
+|<SENDING INVITE>|
+
+|<GETTING CLAN INFO>|
+
+|<T-Doll is not part of a clan.>|
+
+|<Clan Invite Sent.>|
+
+|<Special Operations>|
+
+|<Play through special operations with a friend.>|
+
+|<LOCKING IN BETS!>|
+
+|<CHECKING FOR INSUFFICIENT FUNDS>|
+
+|<SCOREBOARD>|
+
+|<END OF GAME>|
+
+|<START NEW SERVER>|
+
+|<FIND GAME>|
+
+|<MODS>|
+
+|<QUIT>|
+
+|<Clan invitation received.>|
+
+|<THE DEFECTOR>|
+
+|<In Country>|
+
+|<REVELATIONS>|
+
+|<S.O.G.>|
+
+|<U.S.D.D.>|
+
+|<PAYBACK>|
+
+|<REBIRTH>|
+
+|<WMD>|
+
+|<LISTENING LEVEL>|
+
+|<SPEAKER SETUP>|
+
+|<QUIET>|
+
+|<LOUD>|
+
+|<TV>|
+
+|<STEREO>|
+
+|<THEATRE>|
+
+|<SAFE AREA>|
+
+|<SKILL TREE>|
+
+|<Are you sure that you want to purchase &&1?
+Cost &&2CP  - you have &&3CP.>|
+
+|<CONFIRM PURCHASE>|
+
+|<Loadout>|
+
+|<Class Bonus>|
+
+|<Armor>|
+
+|<VORKUTA>|
+
+|<PROJECT NOVA>|
+
+|<CRASH SITE>|
+
+|<OPERATION 40>|
+
+|<TIME REMAINING>|
+
+|<Play / Pause>|
+
+|<Start/Stop Record 
+(Hold for Screenshot)>|
+
+|<Switch Camera>|
+
+|<Toggle Hud>|
+
+|<Next T-Doll>|
+
+|<Previous T-Doll>|
+
+|<Playback Speed
+(Pressure Sensitive)>|
+
+|<Increase Playback Speed>|
+
+|<Decrease Playback Speed>|
+
+|<Pause / Menu>|
+
+|<Jump Back>|
+
+|<FILMS>|
+
+|<Record Film:  >|
+
+|<End Film>|
+
+|<&&1 Mods>|
+
+|<Contracts & Killstreaks>|
+
+|<CONTRACTS & KILLSTREAKS>|
+
+|<Killstreaks>|
+
+|<Deathstreaks>|
+
+|<Contracts>|
+
+|<Map vote locked in>|
+
+|<Game starting in &&1>|
+
+|<Select Muzzle Kit>|
+
+|<Select Sights>|
+
+|<Select Under Barrel>|
+
+|<Select Clip>|
+
+|<Select Camo>|
+
+|<Author: &&1>|
+
+|<Duration: &&1 mins>|
+
+|<Uploaded Films>|
+
+|<Recently Played Games>|
+
+|<Film Details>|
+
+|<Duration>|
+
+|<Uploaded By>|
+
+|<Content Server Down>|
+
+|<My Library>|
+
+|<Mods: &&1>|
+
+|<Author>|
+
+|<Film List>|
+
+|<VIEW FILM LIST>|
+
+|<Report Bad Spawn>|
+
+|<Could not unmute player>|
+
+|<Your current preferences allow you to talk to friends only.>|
+
+|<Your current preferences do not allow you to talk to anybody.>|
+
+|<The player has been muted from the Gamer card, and must be unmuted from there.>|
+
+|<REDEMPTION>|
+
+|<Primary Weapon>|
+
+|<Sights>|
+
+|<Under Barrel>|
+
+|<Clip>|
+
+|<Muzzle Kit>|
+
+|<Camo>|
+
+|<Berlin>|
+
+|<NUMBERS>|
+
+|<CONFIRM SALE>|
+
+|<Are you sure that you want to sell &&1?
+Sell price &&2CP.>|
+
+|<MUTATORS>|
+
+|<PLAYER ABILITIES>|
+
+|<AWARDS AND TITLES>|
+
+|<Awards And Titles>|
+
+|<Reward:>|
+
+|<XP>|
+
+|<Purchase Top Attach Point>|
+
+|<Purchase Bottom Attach Point>|
+
+|<Purchase Clip Attach Point>|
+
+|<Purchase Muzzle Attach Point>|
+
+|<Top Attach Point>|
+
+|<Bottom Attach Point>|
+
+|<Clip Attach Point>|
+
+|<Muzzle Attach Point>|
+
+|<This is the attach point on the top of the weapon.>|
+
+|<This is the attach point under the barrel of the weapon.>|
+
+|<This is the attach point on the clip of the weapon.>|
+
+|<This is the attach point on the muzzle of the weapon.>|
+
+|<KINO DER TOTEN>|
+
+|<Mutators>|
+
+|<No Perks>|
+
+|<No Traps>|
+
+|<No Magic Box>|
+
+|<No Revive>|
+
+|<No Powerups>|
+
+|<No Reloads>|
+
+|<No Boards>|
+
+|<Fog Match>|
+
+|<Quick Start>|
+
+|<Headshots Only>|
+
+|<No Dogs>|
+
+|<Dogs Only>|
+
+|<Double Money>|
+
+|<Susceptible>|
+
+|<Power Shot>|
+
+|<Insufficient funds. You do not have enough  to play a wager match game.>|
+
+|<WINNING>|
+
+|<LOSING>|
+
+|<TIED>|
+
+|<Multiplayer>|
+
+|<Local>|
+
+|<Mini Map[Easy Mode]>|
+
+|<ZOMBIES>|
+
+|<BLACK OPS>|
+
+|<ENTER STORE>|
+
+|<STORE>|
+
+|<Cost>|
+
+|<GETTING STORE DATA>|
+
+|<Save and Continue>|
+
+|<Name As>|
+
+|<Discard>|
+
+|<Keep Segment>|
+
+|<Winning>|
+
+|<Tied>|
+
+|<Losing>|
+
+|<Pending Friend Request>|
+
+|<Received Friend Request>|
+
+|<Preview Segment>|
+
+|<EDIT PLAYERCARD>|
+
+|<Select Layer>|
+
+|<Jump Forward>|
+
+|<Slow Motion>|
+
+|<Fast Forward>|
+
+|<Digital>|
+
+|<Badbot>|
+
+|<Jump To Start>|
+
+|<Theater Button Layout>|
+
+|<FILE SHARE>|
+
+|<File Transfer Complete>|
+
+|<MY FILE SHARE>|
+
+|<LIBRARY>|
+
+|<DATE / TIME>|
+
+|<LENGTH>|
+
+|<Size>|
+
+|<AUTHOR>|
+
+|<RECENT GAMES>|
+
+|<Week>|
+
+|<Month>|
+
+|<Year>|
+
+|<Highest Rated>|
+
+|<Most Watched>|
+
+|<Film>|
+
+|<Me>|
+
+|<Me and Friends>|
+
+|<Funny>|
+
+|<KILLS>|
+
+|<Headshot>|
+
+|<Fail>|
+
+|<Timespan>|
+
+|<Sort>|
+
+|<Tag>|
+
+|<Using &&1 of &&2 available slots.>|
+
+|<Assists>|
+
+|<Show Clan Tag>|
+
+|<Show Emblem>|
+
+|<Facepaint Pattern>|
+
+|<Facepaint Color>|
+
+|<Select Reticle>|
+
+|<Select Lens>|
+
+|<&&1 MB>|
+
+|<&&1 KB>|
+
+|<COMBAT RECORD LOCKED>|
+
+|<Connecting...>|
+
+|<Camo Locked>|
+
+|<Reticles Locked>|
+
+|<Lenses Locked>|
+
+|<Gun Tag Locked>|
+
+|<Gun Emblem Locked>|
+
+|<Manage Segments>|
+
+|<Cut>|
+
+|<Fade>|
+
+|<Segment>|
+
+|<Upload Clip ( &&1 Segments )>|
+
+|<Transition: >|
+
+|<What would you like to do with this segment?>|
+
+|<KILLSTREAKS>|
+
+|<CONTRACTS>|
+
+|<USER CREATED CONTENT>|
+
+|<Files (Films, Clips and Screenshots) the player has stored for posterity.>|
+
+|<COMMUNITY>|
+
+|<Rename and place in File Share>|
+
+|<Description>|
+
+|<Place in My File Share>|
+
+|<Go to Theater>|
+
+|<Download>|
+
+|<New text>|
+
+|<MY PLAYERCARD>|
+
+|<&&1's 
+PLAYERCARD>|
+
+|<PLAYERCARD>|
+
+|<Classified>|
+
+|<Save Screenshot>|
+
+|<You have reached the maximum number of segments you can record in your clip. Please delete any segments through the Manage Segments section in your ingame pause menu if you want to record further segments.>|
+
+|<You have an unsaved clip.>|
+
+|<Choose Slot>|
+
+|<Empty Slot>|
+
+|<My Recent Games>|
+
+|<MY RECENT GAMES>|
+
+|<Recommend>|
+
+|<Remove>|
+
+|<Joining session in progress>|
+
+|<Auto Join>|
+
+|<AUTO JOIN>|
+
+|<Failed to join your friend's session, auto join when possible?>|
+
+|<CONTINUE TO AUTO JOIN>|
+
+|<Switching Lobbies will cancel Auto Join or you can continue your attempt to auto join >|
+
+|<'s game.>|
+
+|< >|
+
+|<The game is full, but you can try to auto join.  This will disband your current party and put you in the auto join lobby.>|
+
+|<We were unable to auto join.  The most common reason is that another T-Doll took the available space.  You can continue to try to autojoin or cancel the auto joining and be returned to matchmaking.>|
+
+|<CONFIRM AUTO JOIN>|
+
+|<Auto join >|
+
+|<?  This will disband your current party and put you in the Auto Join lobby.>|
+
+|<AUTO JOIN NO LONGER AVAILABLE>|
+
+|< can no longer be auto joined because they are no longer signed into XboxLive.  This will close the auto join lobby and return you to the main menu.>|
+
+|<Would you like to automatically join your friend when they become joinable?>|
+
+|<Waiting to auto join >|
+
+|<Waiting for a free spot&&1>|
+
+|<Game type: &&1
+Map: &&2
+Match type: &&3
+>|
+
+|<Time remaining: &&1
+Highest score: &&2>|
+
+|<Time remaining: &&1
+&&2 score: &&3
+&&4 score: &&5>|
+
+|<Round: &&1 of &&2
+Time remaining in round: &&3
+&&4 rounds won: &&5
+&&6 rounds won: &&7
+>|
+
+|<Auto joining...>|
+
+|<Do you want to leave the auto join lobby?>|
+
+|<Are you sure you want to empty this slot?>|
+
+|<Are you sure you want to replace this slot?>|
+
+|<Cannot upload the clip. The total duration of the clip should be at least 1 second long. >|
+
+|<RENDER CLIP>|
+
+|<Privacy>|
+
+|<CANCEL DOWNLOAD>|
+
+|<Downloading>|
+
+|<Select package to purchase and download. >|
+
+|<REPORT PLAYER>|
+
+|<OFFENSIVE LANGUAGE>|
+
+|<Player used offensive language.>|
+
+|<OFFENSIVE EMBLEM>|
+
+|<Player has an offensive emblem.>|
+
+|<CHEATING>|
+
+|<Player cheated.>|
+
+|<BOOSTER>|
+
+|<Report a player you suspect is boosting.>|
+
+|<What would you like to do with this file?>|
+
+|<Select for Playback>|
+
+|<View>|
+
+|<Copy to File Share>|
+
+|<EMPTY LAYER>|
+
+|<SELECT IMAGE>|
+
+|<LOCKED>|
+
+|<PURCHASE LAYER>|
+
+|<PURCHASE>|
+
+|<LAYER &&1>|
+
+|<SELECT>|
+
+|<Films>|
+
+|<Clips>|
+
+|<Screenshots>|
+
+|<Filter>|
+
+|<Loading..>|
+
+|<&&1 on &&2>|
+
+|<Average Rating>|
+
+|<Edit Info>|
+
+|<Time>|
+
+|<Game Mode>|
+
+|<A network error occurred while downloading.>|
+
+|<A network error occurred while uploading.>|
+
+|<A network error occurred while transferring.>|
+
+|<Discard Segment>|
+
+|<Name Segment>|
+
+|<Kill>|
+
+|<Death>|
+
+|<Killstreak>|
+
+|<Perk>|
+
+|<Weapon>|
+
+|<Grenade>|
+
+|<Melee>|
+
+|<RANKED>|
+
+|<UNRANKED>|
+
+|<RECENT>|
+
+|<FAVORITES>|
+
+|<WAGER>|
+
+|<SERVER BROWSER>|
+
+|<REGION>|
+
+|<MODE>|
+
+|<SERVERS>|
+
+|<Save Information>|
+
+|<REPORT BAD SPAWN>|
+
+|<END GAME>|
+
+|<LEAVE GAME>|
+
+|<IN PROGRESS>|
+
+|<Your clip was successfully uploaded.>|
+
+|<Your clip upload has failed.>|
+
+|<Your clip has reached its maximum size. Please delete any segments through the Manage Segments section in your ingame pause menu if you want to record further segments.>|
+
+|<CLIPS>|
+
+|<SCREENSHOTS>|
+
+|<Choose Filter>|
+
+|<Custom Games>|
+
+|<CUSTOM GAMES>|
+
+|<Rate Film>|
+
+|<Preparing>|
+
+|<Save Clip>|
+
+|<End Film without Saving>|
+
+|<EDIT PLAYERCARD / EMBLEM / &&1>|
+
+|<SAVE PLAYERCARD CHANGES?>|
+
+|<SAVE AND EXIT>|
+
+|<DO NOT SAVE>|
+
+|<Edit the placement and color of the layer &&1.>|
+
+|<Select a unique Background for your Playercard.>|
+
+|<Select an image for layer &&1.>|
+
+|<Purchase layer &&1.>|
+
+|<End Clip>|
+
+|<Game Volume / Listening Level>|
+
+|<Game Volume / Speaker Setup>|
+
+|<OPTIONS/AUDIO SETTINGS>|
+
+|<Speed Boost>|
+
+|<Tactical Bomb>|
+
+|<Fire>|
+
+|<Segment &&1: >|
+
+|<Empty>|
+
+|<Total Clip Duration: &&1 mins>|
+
+|<Are you sure you want to delete this segment?>|
+
+|<Are you sure you want to delete all the segments?>|
+
+|<CHARLIE>|
+
+|<We could not find any results matching that criteria.>|
+
+|<Edit Information>|
+
+|<File Information Updated>|
+
+|<File Upload Complete>|
+
+|<NO SALE>|
+
+|<You cannot sell your &&1 because it is still equipped.>|
+
+|<Found in:>|
+
+|<DEFAULT>|
+
+|<Cannot Access File Share>|
+
+|<CUSTOM>|
+
+|<Cannot Access Community>|
+
+|<Operation 40: Undertake a daring assassination attempt during the Bay of Pigs invasion.>|
+
+|<Escape from Vorkuta; a brutal Soviet Labor Camp in northern Russia.>|
+
+|<Back on US soil, meet with senior officials to discuss the threat posed by General Dragovich.>|
+
+|<Infiltrate the Baikonur Cosmodrome and eliminate Dragovich and the Ascension scientists.>|
+
+|<Head to Vietnam and work with old allies to investigate Soviet presence in the region.>|
+
+|<At the height of the TET offensive, enter the MACV building to secure vital intelligence on Soviet plans for the region.>|
+
+|<Investigate the extent of Project Nova by interrogating one of Dragovich's former associates.>|
+
+|<Search for evidence of Soviet presence within the villages of Northern Vietnam.>|
+
+|<Journey by river into Laotian territory, in search of Dragovich's compound.>|
+
+|<Strike at the heart of Project Nova, deep behind enemy lines.>|
+
+|<Torture at the hands of the enemy only feeds the hunger for revenge.>|
+
+|<Learn of the origins of Project Nova.>|
+
+|<Infiltrate the Project Nova Research labs and capture Dr Steiner.>|
+
+|<Uncover the truth.>|
+
+|<Destroy the numbers station and kill Dragovich before Project Nova is initiated.>|
+
+|<Your screenshot upload has failed.>|
+
+|<Your screenshot was successfully uploaded.>|
+
+|<SPECIAL OPERATIONS>|
+
+|<VERSUS CO-OP>|
+
+|<FREE CAMERA>|
+
+|<3RD PERSON>|
+
+|<1ST PERSON>|
+
+|<RECORD>|
+
+|<SCREENSHOT>|
+
+|<THEATER BUTTON LAYOUT>|
+
+|<Battle the undead in this theatrical installment of "Zombies". New twists and clues could uncover the final plan. It's show time!
+>|
+
+|<Interplanetary zombie action!   Day 1 DLC content.>|
+
+|<The Pentagon is under attack!  Washington is going to DEFCON 1 in this installment of "Zombies".>|
+
+|<YES>|
+
+|<NO>|
+
+|<Uploading Rendered Clip>|
+
+|<&&1d &&2h &&3m &&4s>|
+
+|<&&1h &&2m &&3s>|
+
+|<&&1m &&2s>|
+
+|<&&1s>|
+
+|<How would you like to view your Challenges?>|
+
+|<Highest Reward>|
+
+|<Percentage Complete>|
+
+|<EXPERT/MARKSMAN>|
+
+|<LIFETIME>|
+
+|<Nearest to Completion>|
+
+|<Unlocked>|
+
+|<Purchased>|
+
+|<Affordable>|
+
+|<FILTER EMBLEM IMAGES>|
+
+|<No Images Match Filter>|
+
+|<Emblem>|
+
+|<Background>|
+
+|<EDIT PLAYERCARD / BACKGROUND>|
+
+|<EDIT PLAYERCARD / SELECT IMAGE>|
+
+|<&&1 Image(s) Found>|
+
+|<Files I am included in>|
+
+|<There are no recent games currently available. Play some matches and check again later.>|
+
+|<There are no recent games currently available.>|
+
+|<Filter by type>|
+
+|<Filter by availability>|
+
+|<DIFFICULTY>|
+
+|<Do you want to play Call of Duty®: Black Ops ? >|
+
+|<COMBAT TIPS>|
+
+|<Welcome to Call of Duty:  Black Ops>|
+
+|<Please configure your system for the optimal experience.
+
+These settings can be changed at any time from the OPTIONS menu.>|
+
+|<Call of Duty: Black Ops contains graphic content and historical footage which some players may find disturbing. Player discretion is advised.
+
+Would you like to enable graphic content?>|
+
+|<SERVER SETTINGS>|
+
+|<HOST>|
+
+|<TYPE>|
+
+|<Welcome to Call of Duty: Black Ops>|
+
+|<Follow these steps to configure the game for optimal viewing. You can change these settings at any time through the OPTIONS menu.>|
+
+|<MY MOVIE>|
+
+|<Load a Film or Clip to the Theater from your File Share or the Community. Render it into a movie and share it with your friends and the world.>|
+
+|<Load a Film or Clip to the Theater from your File Share to render it into a movie.>|
+
+|<Rate Clip>|
+
+|<Edit game mode.>|
+
+|<Edit server settings.>|
+
+|<Sort By>|
+
+|<Most Recent>|
+
+|<&&1 has not selected a Film or Clip.>|
+
+|<&&1 CHALLENGES>|
+
+|<ENTER EMAIL ADDRESS>|
+
+|<Total Votes>|
+
+|<Rate Screenshot>|
+
+|<Pre-Match>|
+
+|<Pre-Match Minplayers>|
+
+|<LOWER TO RECRUIT>|
+
+|<LOWER TO REGULAR>|
+
+|<LOWER TO HARDENED>|
+
+|<Toggle inversion of your view pitch.>|
+
+|<Enable or disable your controller vibration.>|
+
+|<Adjust your stick layout.>|
+
+|<Adjust your button layout.>|
+
+|<Adjust your theater button layout.>|
+
+|<Toggle target assist when aiming at enemies.>|
+
+|<Adjust the sensitivity of your controller's sticks.>|
+
+|<Toggle between multiple name configurations for friendlies and enemies.>|
+
+|<Adjust the margins of the in-game HUD both vertically and horizontally.>|
+
+|<Adjust the volume of in-game voice, sound effects and music.>|
+
+|<Adjust the brightness of your screen.>|
+
+|<AUDIO SETTINGS>|
+
+|<Adjusts the volume of voices in the game.>|
+
+|<Adjusts the volume of the music in the game.>|
+
+|<Adjusts the volume of the sound effects in the game.>|
+
+|<Adjusts the overall volume of the game.>|
+
+|<Adjusts the volume of the VoIP in the game.>|
+
+|<Use this setting if you will be listening to the game at a low volume.>|
+
+|<Use this setting if you will be listening to the game at a loud volume.>|
+
+|<Use this setting if you are listening to the game through internal television speakers.>|
+
+|<Use this setting if you are listening to the game through external amplified speakers.>|
+
+|<Theater Party>|
+
+|<Getting Playercard>|
+
+|<View CoD Playercard>|
+
+|<of 6>|
+
+|<of 18>|
+
+|<Your Rating>|
+
+|<STEREOSCOPIC 3D>|
+
+|<Toggle Crosshair>|
+
+|<Toggle Stereoscopic 3D on or off.>|
+
+|<ON>|
+
+|<Adjusts the Cinematics Volume of the game.>|
+
+|<Enable or disable the subtitles for the game.>|
+
+|<Enable or disable aim assist for targeting enemies.>|
+
+|<View Credits.>|
+
+|<Warning: Leaving the game early will forfeit your buy-in.>|
+
+|<Sort order set to>|
+
+|<Change the graphical content of the game.>|
+
+|<Cannot Access Recent Games>|
+
+|<The file you are looking for might have been removed, modified, or is temporarily unavailable.>|
+
+|<Find Ranked, Unranked, Wager matches, and more in the Server Browser.>|
+
+|<RANKED MATCH>|
+
+|<Join a Ranked Match.>|
+
+|<OPERATIONS>|
+
+|<PLAY>|
+
+|<NUMBER OF TIMES RATED>|
+
+|<Select file for playback, removal or info editing.>|
+
+|<Fill this slot with a recent game or film via the 'My Recent Games' or 'Community' pages.>|
+
+|<SLOT EMPTY>|
+
+|<DEATHS>|
+
+|<Select this match for playback in the Theater or save it to your File Share.>|
+
+|<DRAW>|
+
+|<VICTORY>|
+
+|<DEFEAT>|
+
+|<SURROUND HEADPHONES>|
+
+|<Use this setting if you are listening to the game through headphones.>|
+
+|<Wager Match Disconnection>|
+
+|<If the remaining players do not successfully complete the Wager Match, your buy-in will be refunded shortly.>|
+
+|<CLASSIFIED>|
+
+|<Load a Film or Clip from your File Share, Recent Games, or the Community screen.>|
+
+|<NUMBER OF VOTES>|
+
+|<You are not part of an Xbox LIVE Party.>|
+
+|<XBOX LIVE PARTY>|
+
+|<SAVE INFORMATION>|
+
+|<Declassified after 1 more image purchase.>|
+
+|<Declassified after &&1 more image purchases.>|
+
+|<Declassified affer &&1 more background purchases.>|
+
+|<Declassified after 1 more background purchase.>|
+
+|<SENT>|
+
+|<UPDATED>|
+
+|<TRANSFER COMPLETE>|
+
+|<SAVED>|
+
+|<Searching...>|
+
+|<LOAD MULTIPLAYER BY DEFAULT>|
+
+|<Toggle starting the game in Campaign or Multiplayer.>|
+
+|<Brightness>|
+
+|<Settings>|
+
+|<Player Name Indicator>|
+
+|<Everyone in your party has joined the game.>|
+
+|<You need at least one non local player in the lobby to start the match.>|
+
+|<Screenshot processing failed.>|
+
+|<of>|
+
+|<Xbox LIVE PARTY>|
+
+|<VIDEO MODE>|
+
+|<FULL SCREEN>|
+
+|<TEXTURE QUALITY>|
+
+|<MOUSE LOOK>|
+
+|<CENTER VIEW>|
+
+|<FREE LOOK>|
+
+|<INVERT MOUSE>|
+
+|<SMOOTH MOUSE>|
+
+|<MOUSE SENSITIVITY>|
+
+|<SHOW OBJECTIVES/SCORES>|
+
+|<USE>|
+
+|<QUICK SAVE>|
+
+|<FORWARD>|
+
+|<BACKPEDAL>|
+
+|<MOVE LEFT>|
+
+|<MOVE RIGHT>|
+
+|<LEAN LEFT>|
+
+|<LEAN RIGHT>|
+
+|<CROUCH>|
+
+|<PRONE>|
+
+|<JUMP/STANCE UP>|
+
+|<STANCE DOWN>|
+
+|<STANCE UP>|
+
+|<TOGGLE CROUCH>|
+
+|<TOGGLE PRONE>|
+
+|<TURN LEFT>|
+
+|<TURN RIGHT>|
+
+|<STRAFE>|
+
+|<SYNC EVERY FRAME>|
+
+|<ATTACK>|
+
+|<RELOAD WEAPON>|
+
+|<CHAT>|
+
+|<TEAM CHAT>|
+
+|<QUICK CHAT>|
+
+|<PLAYER NAME>|
+
+|<NORMAL>|
+
+|<STAND/JUMP>|
+
+|<GO TO CROUCH>|
+
+|<GO TO PRONE>|
+
+|<VOTE YES>|
+
+|<VOTE NO>|
+
+|<DRAW HUD>|
+
+|<EXTRA>|
+
+|<BILINEAR>|
+
+|<TRILINEAR>|
+
+|<NUMBER OF CORPSES>|
+
+|<ENABLE CONSOLE>|
+
+|<ALLOW DOWNLOADING>|
+
+|<LEVEL INDICATOR>|
+
+|<VOICE CHAT:>|
+
+|<ASPECT RATIO>|
+
+|<TEXTURE RESOLUTION>|
+
+|<NORMAL MAP RESOLUTION>|
+
+|<SPECULAR MAP RESOLUTION>|
+
+|<AUTO>|
+
+|<STANDARD 4:3>|
+
+|<WIDE 16:9>|
+
+|<WIDE 16:10>|
+
+|<WEAPON MENU>|
+
+|<ENABLE CROSSHAIR>|
+
+|<AUTOMATIC>|
+
+|<MANUAL>|
+
+|<STEADY SNIPER RIFLE>|
+
+|<ANTI-ALIASING>|
+
+|<2X>|
+
+|<4X>|
+
+|<SHADOWS>|
+
+|<SCREEN REFRESH RATE>|
+
+|<SPRINT>|
+
+|<ATTACHMENTS/SPECIAL AMMO>|
+
+|<TEXTURE FILTERING>|
+
+|<ANISOTROPIC FILTERING>|
+
+|<GROUND SUPPORT>|
+
+|<EQUIPMENT>|
+
+|<SOUND OCCLUSION>|
+
+|<BULLET IMPACTS>|
+
+|<ACCEPT GAME INVITE>|
+
+|<ADD TO FAVORITES>|
+
+|<LOOK UP>|
+
+|<LOOK DOWN>|
+
+|<MELEE ATTACK>|
+
+|<SWITCH WEAPON>|
+
+|<SPRINT/HOLD BREATH>|
+
+|<TOGGLE ADS>|
+
+|<THROW LETHALS>|
+
+|<THROW TACTICALS>|
+
+|<Show other players' rank icon, rank, Clan Tag and name when in game.>|
+
+|<Show only players' names.>|
+
+|<Show only players' rank icon and rank.>|
+
+|<Show player's rank icon, rank, Clan Tag and name in color-blind friendly colors.>|
+
+|<ERROR>|
+
+|<GAME STARTING IN &&1>|
+
+|<You must purchase layer &&1 first.>|
+
+|<Toggle crosshairs on or off (3D only).>|
+
+|<STEREOSCOPIC 3D SETTINGS>|
+
+|<Active Shutter Stereoscopic 3D. 3D TV Required.>|
+
+|<CONTINUE>|
+
+|<You have too many players in your party to enter the Theater.>|
+
+|<Rate Game>|
+
+|<Playing Call of Duty: Black Ops>|
+
+|<Game invite from &&1>|
+
+|<TINY>|
+
+|<SMALL>|
+
+|<MEDIUM>|
+
+|<LARGE>|
+
+|<INSANE>|
+
+|<8X>|
+
+|<16X>|
+
+|<Uploading Game Recording>|
+
+|<Legal Notice>|
+
+|<The recording of your game will be lost if you cancel this operation. Are you sure you want to continue?>|
+
+|<Recommended max players: &&1>|
+
+|<SYSTEM INFO>|
+
+|<INFO CURRENTLY NOT AVAILABLE>|
+
+|<VERSION NUMBER: &&1>|
+
+|<CONNECTIVITY INFORMATION: &&1>|
+
+|<NAT TYPE: &&1>|
+
+|<OPEN>|
+
+|<MODERATE>|
+
+|<STRICT>|
+
+|<CUSTOMER SUPPORT LINK: &&1>|
+
+|<BANDWIDTH: &&1>|
+
+|<IP ADDRESS: &&1>|
+
+|<EXTERNAL:>|
+
+|<INTERNAL:>|
+
+|<GEOGRAPHICAL REGION: &&1>|
+
+|<http://www.callofduty.com/blackops/help>|
+
+|<YOURS>|
+
+|<CONNECTING>|
+
+|<There are no items in the store at this time.>|
+
+|<Joining game lobby&&1>|
+
+|<Found &&1 matches. Getting match quality...>|
+
+|<Trying to join &&1 potential matches...>|
+
+|<Migrating hosts...>|
+
+|<Host is changing the game settings...>|
+
+|<Time remaining>|
+
+|<Need &&1 players to be ready...>|
+
+|<Need 1 more player to be ready...>|
+
+|<Waiting for 1 more player...>|
+
+|<The match is about to begin...>|
+
+|<Waiting for &&1 more players...>|
+
+|<Need more players to balance teams...>|
+
+|<Making balanced teams...>|
+
+|<Locking in bets!>|
+
+|<Checking for insufficient funds...>|
+
+|<Waiting for the host...>|
+
+|<Your clip has been successfully uploaded! Visit &&1 to watch your clip and view others from the Call of Duty community.>|
+
+|<Your previously rendered clip will be overwritten. Are you sure you want to continue?>|
+
+|<Downloading Game Settings>|
+
+|<Please read the information below before continuing the game!>|
+
+|<The story of this game takes place in the fictional world resembling Vietnam, Cuba, USSR and other real world countries of 1960s. All the game events are totally fictional. Any coincidence with real world persons or events is unintended and accidental. By no means, the game authors didn't set a task for themselves to esteem or appraise any real historical or political events, actions, decisions, behavior or attitude of the real world persons or ethnic, political or other people groups including states. Authors, developers and distributors disclaim any responsibility for individual customers' perception or interpretation of the game. The game contains cruelty and violence scenes, harsh language and alcohol and tobacco references. If you believe that the content of the game can conflict with your religious, political or other views or attitudes, offense or humiliate your dignity, or cause you to feel fear or other undesirable emotions, please refrain from continuing this game.  If you press [A, X, enter], you confirm thereby that you've read this warning, are aware of what you can see during the game and willfully want to continue the game. To return to the main menu, please press [B, O, !=enter].>|
+
+|<PC Network>|
+
+|<Clan Settings>|
+
+|<Press^3 &&1 ^7for friends>|
+
+|<You were logged out of the PC Network>|
+
+|<This server only allows players from certain clans to play here.>|
+
+|<Clan Info>|
+
+|<Edit Clan Info>|
+
+|<End of match>|
+
+|<You must sign in before you can play Call of Duty.>|
+
+|<The user &&1 does not have proper permissions for that operation>|
+
+|<You must be signed in to the PC Network to play online matches.>|
+
+|<Press^3 &&1 ^7to View Player's Gamer Card>|
+
+|<Press^3 &&1 ^7to view gamer>|
+
+|<Press^3 &&1 ^7to Gamer Card>|
+
+|<Press^3 &&1 ^7to Submit Review>|
+
+|<Online service is disabled on your PC Network account due to parental control restrictions.>|
+
+|<Unable to join game session>|
+
+|<The party is no longer active>|
+
+|<Press^3 &&1 ^7to Sign In To Profile>|
+
+|<Press^3 &&1 ^7to Sign In Profile>|
+
+|<Press^3 &&1 ^7to Join Game>|
+
+|<Press^3 &&1 ^7to Leave Game>|
+
+|<Press^3 &&1 ^7to Change Users>|
+
+|<Press^3 &&1 ^7to Change Profile>|
+
+|<Split Screen Sign In>|
+
+|<Not signed in to a profile>|
+
+|<Signed in as: &&1>|
+
+|<Press^3 &&1 ^7to Find Game Lobby>|
+
+|<Press^3 &&1 ^7to find game>|
+
+|<Your playlist data is older than the host's.  You must restart the game in order to get the new playlist data.>|
+
+|<Your playlist data is newer than the host's.  You will be unable to play with them until they restart to get the new playlists.>|
+
+|<Game lobby closed>|
+
+|<Leave Lobby?>|
+
+|<Leave party?>|
+
+|<Leave squad?>|
+
+|<Leave lobby and party?>|
+
+|<Your profile was signed out>|
+
+|<Press^3 &&1 ^7to Kick Player>|
+
+|<Kick &&1?>|
+
+|<Error while registering local client with online arbitration system.>|
+
+|<Press^3 &&1 ^7to Leave Party>|
+
+|<End Party?>|
+
+|<End Squad?>|
+
+|<Press^3 &&1 ^7to party details>|
+
+|<Press^3 &&1 ^7to friends>|
+
+|<Press^3 &&1 ^7to invite friends>|
+
+|<Press^3 &&1 ^7to KICK PLAYER>|
+
+|<VIEW PROFILE>|
+
+|<View Profile>|
+
+|<Kick>|
+
+|<Leaderboards>|
+
+|<No network connection detected. You must have an active network connection to play online or over a local network.>|
+
+|<Unable to connect to Activision Matchmaking (Error &&1)>|
+
+|<Lobby is by Invitation Only>|
+
+|<Chat is disabled on your PC Network account due to parental control restrictions.>|
+
+|<Unable to join game session in progress>|
+
+|<Press^3 &&1 ^7to Playercard>|
+
+|<New Contracts will be available in>|
+
+|< Wins Vote>|
+
+|<No Attachment>|
+
+|<ACOG Sight>|
+
+|<ACOG SIGHT>|
+
+|<Enhanced zoom ACOG sight.>|
+
+|<Full Auto Upgrade>|
+
+|<FULL AUTO UPGRADE>|
+
+|<Upgrades to full auto firing.>|
+
+|<Bolt Action>|
+
+|<BOLT ACTION>|
+
+|<3 Round Burst>|
+
+|<3 ROUND BURST>|
+
+|<Free Fire or Aircraft Lock-On>|
+
+|<FREE FIRE OR AIRCRAFT LOCK-ON>|
+
+|<Damage>|
+
+|<DAMAGE>|
+
+|<Done>|
+
+|<Double Barrel>|
+
+|<DOUBLE BARREL>|
+
+|<Dual Mag>|
+
+|<DUAL MAG>|
+
+|<Taped magazines for a quicker first reload.>|
+
+|<Dual Wield>|
+
+|<DUAL WIELD>|
+
+|<Hip fire two weapons.>|
+
+|<Red Dot Sight>|
+
+|<RED DOT SIGHT>|
+
+|<Replace the iron sights with a precision Red Dot sight.>|
+
+|<Extended Mag>|
+
+|<EXTENDED MAG>|
+
+|<Larger magazines.>|
+
+|<Fire Rate>|
+
+|<FIRE RATE>|
+
+|<Flamethrower>|
+
+|<FLAMETHROWER>|
+
+|<An under barrel attachment that shoots flames.>|
+
+|<Fully Automatic>|
+
+|<FULLY AUTOMATIC>|
+
+|<Grenade Launcher>|
+
+|<GRENADE LAUNCHER>|
+
+|<An under barrel attachment that shoots grenades.>|
+
+|<Grip>|
+
+|<GRIP>|
+
+|<Stabilizes weapon and reduces kick.>|
+
+|<Infrared Scope>|
+
+|<INFRARED SCOPE>|
+
+|<Enhanced zoom infrared scope.>|
+
+|<Aircraft Lock-On Only>|
+
+|<AIRCRAFT LOCK-ON ONLY>|
+
+|<Low Power Scope>|
+
+|<LOW POWER SCOPE>|
+
+|<Enhanced zoom low power scope.>|
+
+|<Masterkey>|
+
+|<MASTERKEY>|
+
+|<Masterkeys>|
+
+|<An under barrel shotgun attachment.>|
+
+|<Mobility>|
+
+|<MOBILITY>|
+
+|<Fires Unguided Rockets>|
+
+|<FIRES UNGUIDED ROCKETS>|
+
+|<Pump Action>|
+
+|<PUMP ACTION>|
+
+|<Range>|
+
+|<RANGE>|
+
+|<Reflex Sight>|
+
+|<REFLEX SIGHT>|
+
+|<Replace the iron sights with a precision Reflex sight.>|
+
+|<Revolver>|
+
+|<REVOLVER>|
+
+|<Rapid Fire>|
+
+|<RAPID FIRE>|
+
+|<Increased rate of fire.>|
+
+|<Semi-automatic>|
+
+|<Semi-automatic (Single Fire)>|
+
+|<Suppressor>|
+
+|<SUPPRESSOR>|
+
+|<Invisible from radar when firing, reduced muzzle flash, but less range.>|
+
+|<Single Shot>|
+
+|<SINGLE SHOT>|
+
+|<Single Shot with Rechamber>|
+
+|<SINGLE SHOT WITH RECHAMBER>|
+
+|<Snub Nose>|
+
+|<SNUB NOSE>|
+
+|<A shorter barrel with more accuracy and slightly less damage.>|
+
+|<Speed Reloader>|
+
+|<SPEED RELOADER>|
+
+|<Speed reloader for a revolver.>|
+
+|<Upgraded Iron Sights>|
+
+|<UPGRADED IRON SIGHTS>|
+
+|<Upgraded iron sights for better aiming down the sights.>|
+
+|<Variable Zoom>|
+
+|<VARIABLE ZOOM>|
+
+|<Sniper rifle attachment that allows for adjustable zoom.>|
+
+|<Shotguns>|
+
+|<SHOTGUNS>|
+
+|<Projectiles>|
+
+|<PROJECTILES>|
+
+|<BLACK MARKET>|
+
+|<SABOTAGE (CUSTOM)>|
+
+|<SEARCH & DESTROY (CUSTOM)>|
+
+|<Team Hardpoint>|
+
+|<Team Hardpoint (Custom)>|
+
+|<War>|
+
+|<War (Custom)>|
+
+|<DOMINATION (CUSTOM)>|
+
+|<Aquisition>|
+
+|<Squad Warfare>|
+
+|<Onslaught>|
+
+|<King of the Hill>|
+
+|<HARDCORE TEAM DEATHMATCH>|
+
+|<HARDCORE FREE-FOR-ALL>|
+
+|<Main Menu>|
+
+|<Team>|
+
+|<View Map>|
+
+|<CALL VOTE>|
+
+|<American>|
+
+|<Spetsnaz>|
+
+|<SOG>|
+
+|<Opposition>|
+
+|<Spectate>|
+
+|<MP40>|
+
+|<1. American>|
+
+|<2. American>|
+
+|<1. Russian>|
+
+|<2. Russian>|
+
+|<1. Auto-Assign>|
+
+|<2. Auto-Assign>|
+
+|<3. Auto-Assign>|
+
+|<2. Spectate>|
+
+|<4. Spectate>|
+
+|<CHANGE MAP>|
+
+|<3. Change Map>|
+
+|<Change Game Type/Map>|
+
+|<4. Change Game Type/Map>|
+
+|<Kick Player>|
+
+|<5. Kick Player>|
+
+|<Ok>|
+
+|<Accuracy:
+Damage:
+Mobility:>|
+
+|<The MP40 submachine gun is an effective room clearing weapon. It has a relatively minimal muzzle climb even when fired fully automatic in extended bursts.>|
+
+|<Temporary Ban>|
+
+|<Temporarily Ban Player>|
+
+|<Next Map>|
+
+|<2. Next Map>|
+
+|<Change Gametype/Map>|
+
+|<Enable Voting>|
+
+|<Reconnect Limit>|
+
+|<Restart Map>|
+
+|<1. Restart Map>|
+
+|<Weapon while American>|
+
+|<Weapon while Russian>|
+
+|<Players Using:>|
+
+|<Press (A) to Continue>|
+
+|<PUNKBUSTER>|
+
+|<You must enable PunkBuster on the client to connect to a PunkBuster enabled server.
+Enable PunkBuster and connect?>|
+
+|<You must enable PunkBuster on the client before starting a non-dedicated server.
+Enable PunkBuster and start?>|
+
+|<PunkBuster:>|
+
+|<PunkBuster:  >|
+
+|<1. Change Weapon>|
+
+|<2. Change Team>|
+
+|<3. Mute Players>|
+
+|<4. Call Vote>|
+
+|<5. Leave Game>|
+
+|<Change Team>|
+
+|<CHANGE TEAM>|
+
+|<Leave Game?>|
+
+|<Stick Layout:>|
+
+|<Button Layout:>|
+
+|<Look Sensitivity:>|
+
+|<Look Inversion:>|
+
+|<Controller Vibration:>|
+
+|<End Game?>|
+
+|<Russian Weapons>|
+
+|<American Weapons>|
+
+|<Teams>|
+
+|<1. Yes>|
+
+|<2. No>|
+
+|<MUTE PLAYERS>|
+
+|<Enable Voice Chat>|
+
+|<Disable Voice Chat>|
+
+|<End Round>|
+
+|<Menu>|
+
+|<INVITE FRIENDS>|
+
+|<Squad Invite>|
+
+|<Party Invite>|
+
+|<AFTER ACTION REPORT>|
+
+|<&&1 XP>|
+
+|<RANK>|
+
+|<&&1/&&2>|
+
+|<Sabotage (Hot Potato)>|
+
+|<Acquisition>|
+
+|<MATCH BONUS>|
+
+|<Challenge Completed>|
+
+|<Match Bonus>|
+
+|<TOTAL XP EARNED>|
+
+|<XP Required>|
+
+|<Next Rank>|
+
+|<Weapon:>|
+
+|<Perk:>|
+
+|<Challenge:>|
+
+|<Camo:>|
+
+|<Attachment:>|
+
+|<Feature:>|
+
+|<START MATCH>|
+
+|<SCORE>|
+
+|<Level &&1>|
+
+|<ASSISTS>|
+
+|<BEST STREAK>|
+
+|<WINS>|
+
+|<RATIO>|
+
+|<ACCURACY>|
+
+|<ELITE>|
+
+|<FINISHING MOVES>|
+
+|<Player>|
+
+|<TIME PLAYED>|
+
+|<Time played>|
+
+|<LEVEL>|
+
+|<Score (Global)>|
+
+|<Score (Friends)>|
+
+|<Kills (Global)>|
+
+|<Kills (Friends)>|
+
+|<Accuracy (Global)>|
+
+|<Accuracy (Friends)>|
+
+|<Wins (Global)>|
+
+|<Wins (Friends)>|
+
+|<CLAN TAG>|
+
+|<PRESTIGE MODE>|
+
+|<Your Custom Classes>|
+
+|<Perk 1>|
+
+|<Perk 2>|
+
+|<Perk 3>|
+
+|<Primary>|
+
+|<PRIMARY>|
+
+|<Secondary>|
+
+|<SECONDARY>|
+
+|<PRIMARY WEAPONS>|
+
+|<SECONDARY WEAPONS>|
+
+|<Side Arm>|
+
+|<Offhand Grenade>|
+
+|<Spectating:>|
+
+|<Allow Killcam:>|
+
+|<Force Respawn:>|
+
+|<Friendly Fire:>|
+
+|<Number of Lives:>|
+
+|<Respawn Delay:>|
+
+|<Max Health:>|
+
+|<Health Regeneration:>|
+
+|<Allow Sprint:>|
+
+|<HEADSHOTS>|
+
+|<Headshots Only:>|
+
+|<Allow Perks:>|
+
+|<Hardcore Mode>|
+
+|<Bomb Timer:>|
+
+|<Bomb Plant Time:>|
+
+|<Bomb Defuse Time:>|
+
+|<Multi-Bomb Mode:>|
+
+|<Hot Potato Mode:>|
+
+|<Number of Rounds:>|
+
+|<Round Switch:>|
+
+|<Change Rules>|
+
+|<Message of the Day>|
+
+|<Player Options>|
+
+|<Select a match type and join an online game.>|
+
+|<Only the party host can find games.>|
+
+|<Host a custom game where you can play with your friends.>|
+
+|<Only the squad leader can start a private match.>|
+
+|<Only the party host can start a private match.>|
+
+|<Unlocked at level 4.>|
+
+|<Customize your Weapons, Perks, Equipment, and more within a set of loadouts.>|
+
+|<Challenges, Clan Tag, Player Stats and Leaderboards.>|
+
+|<Invite friends to your squad.>|
+
+|<Invite friends to your party.>|
+
+|<Open player options menu.>|
+
+|<Start the match.>|
+
+|<Only the lobby host can start the match.>|
+
+|<Change map, game type and rules.>|
+
+|<Only the lobby host can change the game options.>|
+
+|<Choose a different map.>|
+
+|<Choose a different Game Mode.>|
+
+|<Edit the rules for this match.>|
+
+|<Invite friends to your game.>|
+
+|<PUBLIC MATCH>|
+
+|<Public Match>|
+
+|<Unlocked at level &&2.>|
+
+|<Maximum squad size of &&1>|
+
+|<Maximum party size of &&1>|
+
+|<Unable to initialize Punkbuster.  Punkbuster is disabled.>|
+
+|<Prestige>|
+
+|<Call Vote>|
+
+|<Vote>|
+
+|<Choose Class>|
+
+|<CHANGE GAME MODE>|
+
+|<Join-in-progress: Allowed>|
+
+|<Join-in-progress: Not Allowed>|
+
+|<Death Streak>|
+
+|<Squad Perk>|
+
+|<Bronze>|
+
+|<Silver>|
+
+|<Gold>|
+
+|<Delete Me>|
+
+|<Golden>|
+
+|<Assault Rifles>|
+
+|<Submachine Guns>|
+
+|<Heavy Machine Guns>|
+
+|<Light Machine Guns>|
+
+|<Sniper Rifles>|
+
+|<Rename Class>|
+
+|<CHOOSE A TEAM>|
+
+|<Toggle to allow friends to join session in progress.>|
+
+|<Pistol>|
+
+|<Sniper Rifle>|
+
+|<Assault Rifle>|
+
+|<Submachine Gun>|
+
+|<Shotgun>|
+
+|<Light Machine Gun>|
+
+|<You have unlocked...>|
+
+|<New Challenges>|
+
+|<Compare your statistics to the rest of the world.>|
+
+|<Complete Challenges to gain XP rewards and weapon addons.>|
+
+|<Unlocked at level 5.>|
+
+|<Set your Clan Tag.>|
+
+|<Unlocked at level 11.>|
+
+|<Gain prestige... at a price.>|
+
+|<Unlocked once level 50 is completed.>|
+
+|<Compare your win/loss record to your friends and the world.>|
+
+|<See your total kills, deaths, k/d ratio, and best kill streak.>|
+
+|<Find out how well you're doing with your shot placement.>|
+
+|<End the session for all players?>|
+
+|<CHOOSE CLASS>|
+
+|<Custom Classes>|
+
+|<Default Classes>|
+
+|<Perks & Inventory>|
+
+|<Vote to Skip>|
+
+|<Vote to skip current selection. If passed, you can't vote to skip the next one.>|
+
+|<Vote Cast>|
+
+|<Second Chance!>|
+
+|<PLAYER OPTIONS>|
+
+|<GAMEPLAY OPTIONS>|
+
+|<TEAM OPTIONS>|
+
+|<2 LIVES>|
+
+|<1 LIFE>|
+
+|<UNLIMITED>|
+
+|<NUMBER OF LIVES>|
+
+|<RESPAWN DELAY>|
+
+|<NONE>|
+
+|<5 SECONDS>|
+
+|<MAX HEALTH>|
+
+|<MINISCULE>|
+
+|<HALF>|
+
+|<DOUBLE>|
+
+|<HEALTH REGENERATION>|
+
+|<ALLOW SPRINT>|
+
+|<SLOW>|
+
+|<SPECTATING>|
+
+|<3 LIVES>|
+
+|<5 LIVES>|
+
+|<9 LIVES>|
+
+|<10 SECONDS>|
+
+|<15 SECONDS>|
+
+|<30 SECONDS>|
+
+|<TEAM ONLY>|
+
+|<FREE>|
+
+|<PLAYERS ONLY>|
+
+|<RADAR ALWAYS ON>|
+
+|<ALLOW KILLCAM>|
+
+|<FORCE RESPAWN>|
+
+|<FRIENDLY FIRE>|
+
+|<REFLECT>|
+
+|<SHARED>|
+
+|<HEADSHOTS ONLY>|
+
+|<ALLOW PERKS>|
+
+|<OLD SCHOOL MODE>|
+
+|<HARDCORE MODE>|
+
+|<ALLOW KILL STREAKS>|
+
+|<TIME LIMIT>|
+
+|<5 MINUTES>|
+
+|<10 MINUTES>|
+
+|<15 MINUTES>|
+
+|<20 MINUTES>|
+
+|<30 MINUTES>|
+
+|<SCORE LIMIT>|
+
+|<CAPTURE LIMIT>|
+
+|<1 FLAG>|
+
+|<3 FLAGS>|
+
+|<5 FLAGS>|
+
+|<7 FLAGS>|
+
+|<10 FLAGS>|
+
+|<15 FLAGS>|
+
+|<3 POINTS>|
+
+|<5 POINTS>|
+
+|<10 POINTS>|
+
+|<20 POINTS>|
+
+|<30 POINTS>|
+
+|<100 POINTS>|
+
+|<200 POINTS>|
+
+|<250 POINTS>|
+
+|<300 POINTS>|
+
+|<500 POINTS>|
+
+|<700 POINTS>|
+
+|<1000 POINTS>|
+
+|<50 POINTS>|
+
+|<750 POINTS>|
+
+|<3000 POINTS>|
+
+|<7000 POINTS>|
+
+|<1500 POINTS>|
+
+|<2500 POINTS>|
+
+|<5000 POINTS>|
+
+|<7500 POINTS>|
+
+|<10000 POINTS>|
+
+|<15000 POINTS>|
+
+|<HQ LIFETIME>|
+
+|<3 MINUTES>|
+
+|<2 MINUTES>|
+
+|<1.5 MINUTES>|
+
+|<1 MINUTE>|
+
+|<HQ ACTIVATE DELAY>|
+
+|<INSTANT>|
+
+|<CLASSIC HQ MODE>|
+
+|<45 SECONDS>|
+
+|<BOMB TIMER>|
+
+|<PLANT TIME>|
+
+|<1 SECOND>|
+
+|<2.5 SECONDS>|
+
+|<7.5 SECONDS>|
+
+|<DEFUSE TIME>|
+
+|<HOT POTATO>|
+
+|<ROUND LIMIT>|
+
+|<1 ROUND>|
+
+|<2 ROUNDS>|
+
+|<3 ROUNDS>|
+
+|<4 ROUNDS>|
+
+|<5 ROUNDS>|
+
+|<6 ROUNDS>|
+
+|<7 ROUNDS>|
+
+|<8 ROUNDS>|
+
+|<9 ROUNDS>|
+
+|<ROUND SWITCH>|
+
+|<NEVER>|
+
+|<EVERY ROUND>|
+
+|<EVERY 2 ROUNDS>|
+
+|<EVERY 3 ROUNDS>|
+
+|<EVERY 4 ROUNDS>|
+
+|<ROUND LENGTH>|
+
+|<2.5 MINUTES>|
+
+|<8 MINUTES>|
+
+|<MULTI BOMB>|
+
+|<150 POINTS>|
+
+|<FAST>|
+
+|<Recommended Max Players: &&1>|
+
+|<WAVE SPAWN DELAY>|
+
+|<1 POINT>|
+
+|<4 POINTS>|
+
+|<8 POINTS>|
+
+|<12 POINTS>|
+
+|<24 POINTS>|
+
+|<SHARED BOMB TIMER>|
+
+|<Lobby is full.>|
+
+|<Mute Players>|
+
+|<2 POINTS>|
+
+|<FIND MATCH>|
+
+|<Press START on second controller to sign-in and enable splitscreen>|
+
+|<Rifles>|
+
+|<You have been banned from this game type for team killing. Play more Free-for-all to unlock again.>|
+
+|<Aperture Sight>|
+
+|<Survival>|
+
+|<Hardcore Survival>|
+
+|<ARCADE SCORING>|
+
+|<COMPETITIVE>|
+
+|<COOPERATIVE>|
+
+|<EASY>|
+
+|<HARD>|
+
+|<PIN-UPS>|
+
+|<Telescopic Sight>|
+
+|<Only the party host can set the privacy.>|
+
+|<Set Party Privacy>|
+
+|<Set party privacy settings.>|
+
+|<Party join options are set here.>|
+
+|<FRIENDS ONLY>|
+
+|<CLOSED>|
+
+|<Seelow>|
+
+|<INVITE ONLY>|
+
+|<PRESTIGE LEADERBOARDS>|
+
+|<Join Squad>|
+
+|<Leave Squad>|
+
+|<Create/Join Squad>|
+
+|<Placeholder Flag E>|
+
+|<Placeholder Flag D>|
+
+|<Placeholder Flag C>|
+
+|<Placeholder Flag B>|
+
+|<Placeholder Flag A>|
+
+|<Player Squad Options>|
+
+|<Invite Received>|
+
+|<Perks>|
+
+|<Play online to earn Experience (XP) and COD Points () to acquire new Weapons, Equipment, Perks, Killstreaks, and more.>|
+
+|<Leave with Party>|
+
+|<FLAG RETURN TIME>|
+
+|<60 SECONDS>|
+
+|<120 SECONDS>|
+
+|<FLAG RESPAWN TIME>|
+
+|<TOUCH RETURN>|
+
+|<DELAYED>|
+
+|<ENEMY CARRIER ON RADAR>|
+
+|<SEARCH PREFERENCES>|
+
+|<LOCALE ONLY>|
+
+|<Sawed off>|
+
+|<Already selected.>|
+
+|<K/D Spread>|
+
+|<&&1 called/&&2 kills>|
+
+|<&&1 called>|
+
+|<KILLED BY>|
+
+|<LOBBY LEADERBOARD>|
+
+|<View how you stack up against the other players in your lobby.>|
+
+|<PARTY PRIVACY>|
+
+|<Matchmaking will look for the best results regardless of location.>|
+
+|<Matchmaking will look for players in your location and nearby locations before expanding the search for a match. This may slow down search times.>|
+
+|<Matchmaking will only search for players in your location or nearby locations. This may slow down search times.>|
+
+|<LOCALE STATUS>|
+
+|<LOCALE ONLY STATUS>|
+
+|<Revives>|
+
+|<Times Down>|
+
+|<NEUTRAL_FLAG TIME>|
+
+|<FINAL FIGHT TIME LIMIT>|
+
+|<READY UP>|
+
+|<Vote to start the current selected map. If the required percentage of vote is passed, then the game countdown will begin>|
+
+|<PRIVATE MATCH>|
+
+|<Only the squad leader can start a custom match.>|
+
+|<Only the party host can start a custom match.>|
+
+|<WEB STATS>|
+
+|<Dogs>|
+
+|<Artillery>|
+
+|<Recon Plane>|
+
+|<NEMESIS>|
+
+|<Vehicle Map: No>|
+
+|<Vehicle Map: Yes>|
+
+|<Squads>|
+
+|<You are &&1 Squad Leader.>|
+
+|<You are in &&1 Squad.>|
+
+|<You are a Lone Wolf.>|
+
+|<Leader>|
+
+|<Prestige Classes>|
+
+|<Locked at &&1 (Lv&&2)>|
+
+|<DOMINATION>|
+
+|<Domination>|
+
+|<FREE-FOR-ALL>|
+
+|<Free-For-All>|
+
+|<TEAM DEATHMATCH>|
+
+|<SEARCH & DESTROY>|
+
+|<HEADQUARTERS>|
+
+|<CAPTURE THE FLAG>|
+
+|<SABOTAGE>|
+
+|<Sabotage>|
+
+|<DEMOLITION>|
+
+|<Demolition>|
+
+|<20 SECONDS>|
+
+|<40 SECONDS>|
+
+|<50 SECONDS>|
+
+|<NORMAL CAPTURE TIME>|
+
+|<MOMENTUM>|
+
+|<25 POINTS>|
+
+|<70 POINTS>|
+
+|<90 POINTS>|
+
+|<MOMENTUM POINTS>|
+
+|<BLITZKRIEG TIME>|
+
+|<Vehicle Perk>|
+
+|<READY>|
+
+|<XP NEEDED>|
+
+|<SERVICE REPORT>|
+
+|<&&1  TEAM DEATHMATCH  &&2>|
+
+|<&&1  FREE-FOR-ALL  &&2>|
+
+|<&&1  SABOTAGE  &&2>|
+
+|<&&1  SEARCH & DESTROY  &&2>|
+
+|<&&1  CAPTURE THE FLAG  &&2>|
+
+|<&&1  DOMINATION  &&2>|
+
+|<&&1  DEMOLITION  &&2>|
+
+|<&&1  HEADQUARTERS  &&2>|
+
+|<&&1  HARDCORE TEAM DEATHMATCH  &&2>|
+
+|<&&1  HARDCORE FREE-FOR-ALL  &&2>|
+
+|<&&1  HARDCORE SABOTAGE  &&2>|
+
+|<&&1  HARDCORE SEARCH & DESTROY  &&2>|
+
+|<&&1  HARDCORE CAPTURE THE FLAG  &&2>|
+
+|<&&1  HARDCORE DOMINATION  &&2>|
+
+|<&&1  HARDCORE DEMOLITION  &&2>|
+
+|<&&1  HARDCORE HEADQUARTERS  &&2>|
+
+|<&&1  ALL TIME  &&2>|
+
+|<&&1  MONTHLY  &&2>|
+
+|<&&1  WEEKLY  &&2>|
+
+|<EVERYONE>|
+
+|<LOBBY>|
+
+|<Unlocked for Collector's Edition owners. (Limited time only.)>|
+
+|<Link your game ID to an account on www.callofduty.com to join the Call of Duty community and compare stats with your friends.>|
+
+|<Here's how:
+- Create an account or sign in
+- Choose "Link Account"
+- Enter your unique VIP number>|
+
+|<Complete the solo campaign to unlock this playlist.>|
+
+|<DOWNLOADING...>|
+
+|<No Data>|
+
+|<Invite Friends To Squad>|
+
+|<Join &&1 Squad?>|
+
+|<CREATE A CLASS>|
+
+|<BARRACKS>|
+
+|<Imperial Army>|
+
+|<Wehrmacht>|
+
+|<Mission Loadout>|
+
+|<Kill Streaks :>|
+
+|<KILL STREAKS>|
+
+|<Death Streak :>|
+
+|<Downloadable content is damaged.>|
+
+|<It appears as though the persistent rank data for '&&4' has been corrupted. Your rank has been restored to the most recently stored backup: &&1 Lvl &&2 Prestige &&3.>|
+
+|<It appears as though the persistent rank data for '&&4' has been corrupted. Your rank has been restored to the most recently stored backup: &&1 Lvl &&2.>|
+
+|<&&2 disabled!
+&&1 does not have the map pack.>|
+
+|<Array>|
+
+|<Berlin Wall>|
+
+|<Havana>|
+
+|<Cracked>|
+
+|<Grid>|
+
+|<Discovery>|
+
+|<Hotel>|
+
+|<Icebreaker>|
+
+|<Jungle>|
+
+|<Landing>|
+
+|<Summit>|
+
+|<Cosmopocalypse>|
+
+|<COSMOPOCALYPSE>|
+
+|<Nuketown>|
+
+|<Munich>|
+
+|<Roof Tops>|
+
+|<Sandstorm>|
+
+|<Shipyard>|
+
+|<Underwater>|
+
+|<Uranium>|
+
+|<Wasteland>|
+
+|<ARRAY>|
+
+|<BERLIN WALL>|
+
+|<LAUNCH>|
+
+|<HAVANA>|
+
+|<CRACKED>|
+
+|<DISCOVERY>|
+
+|<GRID>|
+
+|<HAVANA (delete me)>|
+
+|<HOTEL>|
+
+|<ICEBREAKER>|
+
+|<JUNGLE>|
+
+|<LANDING>|
+
+|<SUMMIT>|
+
+|<MUNICH>|
+
+|<NUKETOWN>|
+
+|<ROOF TOPS>|
+
+|<SANDSTORM>|
+
+|<SHIPYARD>|
+
+|<UNDERWATER>|
+
+|<URANIUM>|
+
+|<WASTELAND>|
+
+|<CREATE CLAN>|
+
+|<Enter Clan Details>|
+
+|<LEAVE CLAN>|
+
+|<DISBAND CLAN>|
+
+|<SET CLAN MOTD>|
+
+|<Do you really want to Disband Clan?>|
+
+|<Do you really want to Leave Clan?>|
+
+|<Do you really want to promote clan member?>|
+
+|<Do you really want to demote clan member?>|
+
+|<Do you really want to kick clan member?>|
+
+|<Leave without Party>|
+
+|<Disband Private Lobby>|
+
+|<CLAN MEMBERS ONLY>|
+
+|<Leave>|
+
+|<Are you sure you want to give ownership to sergeant?>|
+
+|<Crisis>|
+
+|<Hanoi>|
+
+|<Port>|
+
+|<Radiation>|
+
+|<Tech Demo>|
+
+|<Firing Range>|
+
+|<Black Ops>|
+
+|<NVA>|
+
+|<CRISIS>|
+
+|<HANOI>|
+
+|<PORT>|
+
+|<RADIATION>|
+
+|<TECH DEMO>|
+
+|<FIRING RANGE>|
+
+|<CLAN NAME>|
+
+|<CLAN DESCRIPTION>|
+
+|<&&1 Fire Main Gun>|
+
+|<&&1 Hand Brake>|
+
+|<&&1 Boost>|
+
+|<&&1 Fire Special>|
+
+|<CLAN EMBLEM>|
+
+|<MULTI EVENT>|
+
+|<Wager  over a single match.>|
+
+|<Wager  in a tournament for a change to win big!>|
+
+|<You do not have enough COD Points to play. ( &&1 required)>|
+
+|<Total Prize Pool: &&1 >|
+
+|<Your Wagers>|
+
+|<WINNINGS>|
+
+|<Net Earnings>|
+
+|<Total >|
+
+|<You advanced to tier &&1!>|
+
+|<You failed to advance.>|
+
+|<Last Met>|
+
+|<Days>|
+
+|<Hours>|
+
+|<Minutes>|
+
+|<Ago>|
+
+|<CLAN HEADQUARTERS>|
+
+|<START LOBBY>|
+
+|<JOIN ON PLAYER>|
+
+|<BULLETIN BOARD>|
+
+|<CLAN MANAGEMENT>|
+
+|<MEMBERSHIP>|
+
+|<ACTIVE>|
+
+|<QUIT FROM CLAN>|
+
+|<Edit the clan emblem to represent how your clan rolls. This will be displayed whenever your clan ID is displayed so make it good.>|
+
+|<By Invitation, or Open. If set to "Open", then players join without an invitation.>|
+
+|<On,Off. If advertised show in "Find Clan" browser.>|
+
+|<Set description of the clan. It is limited to 140 characters.>|
+
+|<Clan members can use this button to quit the current clan.>|
+
+|<Clan leader will use this option to disband the entire clan.>|
+
+|<This option is used to set the MOTD for the clan. It will be displayed under announcement.>|
+
+|<This option is used to enter name for the clan.>|
+
+|<* Only clan leader can edit emblem for the clan.>|
+
+|<* Only clan leader can edit it.>|
+
+|<* Clan leader and administrator can change it.>|
+
+|<* Only clan leader can set it.>|
+
+|<* Only clan leader will be able to disband the clan.>|
+
+|<* Anyone apart from clan leader can take this option for quitting clan.>|
+
+|<Emblem Editor>|
+
+|<Membership Type>|
+
+|<Advertise Status>|
+
+|<Clan Description>|
+
+|<Quit Clan>|
+
+|<Disband Clan>|
+
+|<Set MOTD>|
+
+|<CLAN MATCH>|
+
+|<FIND A CLAN TO JOIN>|
+
+|<About Clan Match>|
+
+|<Clan Match is only available to player who are in a clan. Start a clan or go find one to join!>|
+
+|<CLAN HQ>|
+
+|<CAREER>|
+
+|<TOTAL XP>|
+
+|<Games>|
+
+|<KILL / DEATH (RATIO)>|
+
+|<NEXT LEVEL:>|
+
+|<Full Loadout>|
+
+|<Announcement:>|
+
+|<alive>|
+
+|<Buy In:>|
+
+|<Entry Fee>|
+
+|<Reward Pool>|
+
+|<1st Place
+2nd Place
+3rd Place>|
+
+|<The winning team splits the reward pool.>|
+
+|<Earn  for each kill.  
+Special kills give more COD Points.>|
+
+|<Multi Event: Tier &&1 of &&2>|
+
+|<Single Event>|
+
+|<FIND CLAN MATCH>|
+
+|<CLAN MATCH PLAYLISTS>|
+
+|< members online>|
+
+|<All party members do not belong to the same clan.Switching to Clan Match is not possible.>|
+
+|<Side Bet>|
+
+|<Who will be the last one standing?>|
+
+|<Bet: >|
+
+|<Insufficient Funds>|
+
+|<Bet Placed>|
+
+|<RC Car Race>|
+
+|<RC CAR RACE>|
+
+|<Assassins vs. Cowboys>|
+
+|<ASSASSINS VS. COWBOYS>|
+
+|<Assassins>|
+
+|<Cowboys>|
+
+|<Paranoid>|
+
+|<PARANOID>|
+
+|<World Domination>|
+
+|<WORLD DOMINATION>|
+
+|<Player Killed>|
+
+|<Player Eliminated>|
+
+|<Give Ammo>|
+
+|<Give Score>|
+
+|<Points>|
+
+|<Bullets>|
+
+|<Play Sound>|
+
+|<Enable Spy Plane>|
+
+|<Set Header>|
+
+|<Set Sub-Header>|
+
+|<Killer>|
+
+|<Victim>|
+
+|<Players Remaining>|
+
+|<Everyone>|
+
+|<Create New Rule>|
+
+|<One in the Chamber>|
+
+|<ONE IN THE CHAMBER>|
+
+|<Rock, Paper, Scissors>|
+
+|<ROCK, PAPER, SCISSORS>|
+
+|<Oddball>|
+
+|<ODDBALL>|
+
+|<REGULAR MAP>|
+
+|<NEXT RANDOM MAP>|
+
+|<PREVIOUS MAP>|
+
+|< on >|
+
+|<Next Random Map>|
+
+|<You have &&1 >|
+
+|<Play resuming in &&1...>|
+
+|<Specialties>|
+
+|<You may equip 2 specialties at a time.>|
+
+|<Vote for Next>|
+
+|<Vote for Previous>|
+
+|<Vote for Random Map>|
+
+|<Map voting in progress>|
+
+|<You may activate up to 3 killstreaks at a time.>|
+
+|<You may activate 1 Deathstreak at a time.>|
+
+|<Requirement>|
+
+|<BUY>|
+
+|<CANCEL PURCHASE>|
+
+|<COD Points Available>|
+
+|<Balance After Purchase>|
+
+|<Desert Brown>|
+
+|<Army Green>|
+
+|<Red Tiger>|
+
+|<Blue Tiger>|
+
+|<Hour>|
+
+|<Minute>|
+
+|<MINUTE>|
+
+|<Less Than A Minute>|
+
+|<Day>|
+
+|<Pistols>|
+
+|<Equip the Ghillie Suit with Camo Facepaint, a sniper rifle, and a pistol>|
+
+|<&&1 alive>|
+
+|<Contract Slots:>|
+
+|<SELECT A CONTRACT>|
+
+|<Available Contracts:>|
+
+|<This Contract is active.>|
+
+|<COMPLETE>|
+
+|<COMPLETED>|
+
+|<&&1 / &&2  (&&3%)>|
+
+|<All progress toward the selected Contract will be lost!>|
+
+|<BUY / REPLACE CONTRACT>|
+
+|<This Contract has expired.>|
+
+|<This Contract has been completed.>|
+
+|<EXPIRED>|
+
+|<Game time left>|
+
+|<THEATER>|
+
+|<Leave Film?>|
+
+|<End Film?>|
+
+|<START FILM>|
+
+|<Render Clip>|
+
+|<Start Film>|
+
+|<SELECT FILM>|
+
+|<Villa>|
+
+|<VILLA>|
+
+|<SELL>|
+
+|<CANCEL SALE>|
+
+|<Balance After Sale>|
+
+|<WEAPONS>|
+
+|<&&1 One In The Chamber &&2>|
+
+|<&&1 Rock, Paper, Scissors &&2>|
+
+|<&&1 Flag Rush &&2>|
+
+|<&&1 Waypoint Flag Rush &&2>|
+
+|<Cash Pot>|
+
+|<CASH POT>|
+
+|<Create a Class.>|
+
+|<LIFETIME EARNINGS>|
+
+|<WAGER MATCH EARNINGS>|
+
+|<GAMES PLAYED>|
+
+|<IN THE MONEY>|
+
+|<MULTI EVENTS PLAYED>|
+
+|<MULTI EVENTS WON>|
+
+|<WAGERS (TOP 3)>|
+
+|<MATCHES>|
+
+|<FAVORITE WEAPON>|
+
+|<Winners split all bets.>|
+
+|<&&1 Cash Pot &&2>|
+
+|<HC FFA>|
+
+|<FFA>|
+
+|<HC TDM>|
+
+|<TDM>|
+
+|<HC SAB>|
+
+|<SAB>|
+
+|<HARDCORE SABOTAGE>|
+
+|<HC S&D>|
+
+|<S&D>|
+
+|<HARDCORE SEARCH & DESTROY>|
+
+|<HC CTF>|
+
+|<CTF>|
+
+|<HARDCORE CAPTURE THE FLAG>|
+
+|<HC DOM>|
+
+|<DOM>|
+
+|<HARDCORE DOMINATION>|
+
+|<HC HQ>|
+
+|<HQ>|
+
+|<HARDCORE DEMOLITION>|
+
+|<HC DEM>|
+
+|<DEM>|
+
+|<HARDCORE HEADQUARTERS>|
+
+|<TOTAL WINNINGS>|
+
+|<TOTAL BUY IN>|
+
+|<LAST 10 MATCHES>|
+
+|<KILL / DEATH RATIO (LAST 5 GAMES)>|
+
+|<RECENT PERFORMANCE>|
+
+|<SUMMARY>|
+
+|<HIT LOCATION HEATMAP>|
+
+|<TOTAL DEATHS USING>|
+
+|<TOTAL KILLS>|
+
+|<TIMES KILLED BY>|
+
+|<KILLED BY GRENADE AND EQUIPMENT>|
+
+|<GRENADE AND EQUIPMENT KILLS>|
+
+|<GRENADE AND EQUIPMENT USAGE>|
+
+|<CLASS PREFERENCES>|
+
+|<PREFERRED MATCH TYPES>|
+
+|<MATCH PERFORMANCE>|
+
+|<KILLS WITH>|
+
+|<KILLSTREAKS USED>|
+
+|<WAGER EARNINGS>|
+
+|<CONTRACTS/KILLSTREAKS>|
+
+|<PERSONAL BESTS>|
+
+|<BEST SCORE>|
+
+|<Best Score>|
+
+|<Longest Killstreak>|
+
+|<LONGEST KILLSTREAK>|
+
+|<Longest killstreak>|
+
+|<Longest Deathstreak>|
+
+|<ASSIST POINTS>|
+
+|<Assist Points>|
+
+|<REVIVES>|
+
+|<Create a match to play with your friends. Save and share your own custom game rules.>|
+
+|<Gamble your COD Points () against other players in special game modes.>|
+
+|<Watch Films with your friends and create Clips to share with the community.>|
+
+|<Play with a friend on the same system.>|
+
+|<Play a custom game over the local network.>|
+
+|<Earnings Statement>|
+
+|<Total Pot:>|
+
+|<Sticks and Stones>|
+
+|<STICKS AND STONES>|
+
+|<RETURN ON INVESTMENT >|
+
+|<CONTRACTS PURCHASED>|
+
+|<AMOUNT SPENT>|
+
+|<AMOUNT EARNED>|
+
+|<AWARD>|
+
+|<FAILED>|
+
+|<TOTAL WINS>|
+
+|<TOTAL LOSSES>|
+
+|<COMBAT SUMMARY>|
+
+|<BEST KILL STREAK>|
+
+|<Arctic Black Ops>|
+
+|<Arctic Spetsnaz>|
+
+|<Urban Black Ops>|
+
+|<Urban Spetsnaz>|
+
+|<Custom Damage Settings>|
+
+|<Custom Health Settings>|
+
+|<Custom Movement Settings>|
+
+|<PLANTS>|
+
+|<DEFUSES>|
+
+|<PICKUPS>|
+
+|<DEFENDS>|
+
+|<CAPTURES>|
+
+|<RETURNS>|
+
+|<DESTRUCTIONS>|
+
+|<WAGER MATCH>|
+
+|<No Clan Tag>|
+
+|<NO CLAN TAG>|
+
+|<Clan Tag>|
+
+|<No Emblem>|
+
+|<NO EMBLEM>|
+
+|<EMBLEM>|
+
+|<No Color>|
+
+|<NO COLOR>|
+
+|<RED>|
+
+|<Green>|
+
+|<GREEN>|
+
+|<Blue>|
+
+|<BLUE>|
+
+|<Yellow>|
+
+|<YELLOW>|
+
+|<Pink>|
+
+|<PINK>|
+
+|<Teal>|
+
+|<TEAL>|
+
+|<Black>|
+
+|<BLACK>|
+
+|<Gray>|
+
+|<GRAY>|
+
+|<Dot>|
+
+|<RETICLE DEFAULT>|
+
+|<Semi-Circles>|
+
+|<Lines With Dot>|
+
+|<Hollow Circle>|
+
+|<Smiley Face>|
+
+|<Arrows Horizontal>|
+
+|<Arrows Vertical>|
+
+|<Arrows With Dot>|
+
+|<Bones>|
+
+|<Burst>|
+
+|<Circle Within A Circle>|
+
+|<Circle>|
+
+|<Circle Outline>|
+
+|<Circle Outline With Dot>|
+
+|<Circle With Crosshairs>|
+
+|<Circle With Outer Lines>|
+
+|<Circle With Inner Lines>|
+
+|<Circle With Arrows>|
+
+|<Circle With Triangles>|
+
+|<Outer Crosshairs>|
+
+|<Small Crosshairs>|
+
+|<Large Crosshairs>|
+
+|<Crosshairs>|
+
+|<Crosshairs With Dot>|
+
+|<Diamond>|
+
+|<Diamond Outline>|
+
+|<Heart>|
+
+|<Skull>|
+
+|<Square>|
+
+|<Square Outline>|
+
+|<Square With Crosshairs>|
+
+|<Star>|
+
+|<Three Dots>|
+
+|<Treyarch>|
+
+|<Triangle>|
+
+|<Outer Triangles>|
+
+|<X>|
+
+|<X With Dot>|
+
+|<Yin Yang>|
+
+|<Clear Lens>|
+
+|<DEFAULT LENS>|
+
+|<Red Lens>|
+
+|<RED LENS>|
+
+|<Blue Lens>|
+
+|<BLUE LENS>|
+
+|<Green Lens>|
+
+|<GREEN LENS>|
+
+|<Orange Lens>|
+
+|<ORANGE LENS>|
+
+|<Yellow Lens>|
+
+|<YELLOW LENS>|
+
+|<Dusty>|
+
+|<DUSTY>|
+
+|<Ice>|
+
+|<ICE>|
+
+|<Olive>|
+
+|<OLIVE>|
+
+|<Nevada>|
+
+|<NEVADA>|
+
+|<Sahara>|
+
+|<SAHARA>|
+
+|<ERDL>|
+
+|<ERDLN>|
+
+|<Tiger>|
+
+|<TIGER>|
+
+|<BERLIN>|
+
+|<Warsaw>|
+
+|<WARSAW>|
+
+|<Siberia>|
+
+|<SIBERIA>|
+
+|<Yukon>|
+
+|<YUKON>|
+
+|<Woodland>|
+
+|<WOODLAND>|
+
+|<Flora>|
+
+|<FLORA>|
+
+|<GOLD>|
+
+|<Player needs to complete at least two matches before stats are shown.>|
+
+|<HEAD TYPE>|
+
+|<PERK 1>|
+
+|<PERK 2>|
+
+|<GRENADES>|
+
+|<PERKS>|
+
+|<APPEARANCE>|
+
+|<LOADOUT>|
+
+|<Your COD Points>|
+
+|<Progress>|
+
+|<Kills Required>|
+
+|<Choose a match type>|
+
+|<ALLOW PLAYER KILLSTREAKS>|
+
+|<DON'T ALLOW KILLSTREAKS>|
+
+|<CUSTOM KILLSTREAKS>|
+
+|<Killstreak Mode>|
+
+|<Custom Killstreak &&1:>|
+
+|<Custom Class>|
+
+|<Lethal>|
+
+|<LETHAL>|
+
+|<Tactical>|
+
+|<PRIMARY WEAPON>|
+
+|<ATTACHMENTS>|
+
+|<PERSONALIZE>|
+
+|<BUY 2ND ATTACH POINT>|
+
+|<SUBMACHINE GUNS>|
+
+|<ASSAULT RIFLES>|
+
+|<LIGHT MACHINE GUNS>|
+
+|<SNIPER RIFLES>|
+
+|<PISTOLS>|
+
+|<LAUNCHERS>|
+
+|<SPECIALS>|
+
+|<Launcher>|
+
+|<Special>|
+
+|<Launchers>|
+
+|<Specials>|
+
+|<SCORE PER>|
+
+|<Personalize your Playercard. Unlock and purchase new images and layers for more customization.>|
+
+|<&&1 has not unlocked Combat Record yet.>|
+
+|<View a breakdown of your online career. This includes Weapons, Killstreaks, Contracts, and more.>|
+
+|<View and manage your File Share slots.>|
+
+|<View your current progress across all categories of Challenges. >|
+
+|<Browse through the online games you played in the last 7 days.>|
+
+|<Render a Clip up to &&1 seconds long to a file.>|
+
+|<Customize the text and color of your four-letter Clan Tag.>|
+
+|<View the all-time, monthly, and weekly rankings. Compare your own rank against your friends or the world.>|
+
+|<View all time, monthly, and weekly rankings of the best players in the world.>|
+
+|<Entering Prestige Mode resets you to Rank 1 and costs you all your gear, but earns you respect and new unlocks.>|
+
+|<EARNINGS>|
+
+|<BUY-INS>|
+
+|<PRACTICE DUMMIES>|
+
+|<3>|
+
+|<5>|
+
+|<7>|
+
+|<9>|
+
+|<11>|
+
+|<13>|
+
+|<15>|
+
+|<Adds practice dummies>|
+
+|<17>|
+
+|<Cooldown>|
+
+|<Reward>|
+
+|<^3&&1 XP>|
+
+|<of time alive in game>|
+
+|<Expiration>|
+
+|<NEXT>|
+
+|<PREV>|
+
+|<RANDOM>|
+
+|<Vote for:>|
+
+|<WAITING TO AUTO JOIN>|
+
+|<AWARDS>|
+
+|<UNLOCKS>|
+
+|<OTHER BONUSES>|
+
+|<^3&&1 XP ^7NEEDED>|
+
+|<GOT>|
+
+|<NEED>|
+
+|<BEST>|
+
+|<NEW WEAPON UNLOCKED>|
+
+|<NEW FEATURE UNLOCKED>|
+
+|<BUY AND EQUIP>|
+
+|<CHALLENGE(S)>|
+
+|<You did not beat any of your personal bests.>|
+
+|<You did not complete any Challenges.>|
+
+|<You do not have any active Contracts.>|
+
+|<You cannot complete Contracts in private maches.>|
+
+|<BUY DUAL WIELD>|
+
+|<&&1 thrown>|
+
+|<&&1 tossed>|
+
+|<&&1 poisoned>|
+
+|<&&1 flashed>|
+
+|<&&1 stunned>|
+
+|<&&1 used>|
+
+|<&&1 deployed>|
+
+|<&&1 spawns>|
+
+|<HEAT MAP>|
+
+|<Gun Game>|
+
+|<GUN GAME>|
+
+|<Op 40>|
+
+|<Tropas>|
+
+|<SELECT RECENTLY PLAYED MATCH>|
+
+|<To compete in this Prestige Leaderboard you must have at least Prestiged once and have a cool  &&1 to spend.>|
+
+|<I am rich and famous>|
+
+|<Just show me the Leaderboard already>|
+
+|<Cancel, I'll make it one day.>|
+
+|<Contracts complete!>|
+
+|<Challenges complete!>|
+
+|<30000 POINTS>|
+
+|<NONE SELECTED>|
+
+|<Sharpshooter>|
+
+|<SHARPSHOOTER>|
+
+|<No New Awards>|
+
+|<&&1 &&2 >|
+
+|<Contracts Completed>|
+
+|<Contract Completed>|
+
+|<New Personal Best>|
+
+|<New Personal Bests>|
+
+|<Challenges Completed>|
+
+|<Your Deaths Only>|
+
+|<Deaths Only>|
+
+|<No recent matches found.>|
+
+|<No heatmap data available for current match. >|
+
+|<Change your team, auto-assign, or be a spectator.>|
+
+|<Choose your team, auto-assign to a team, or watch the action as a spectator.>|
+
+|<SPECTATOR>|
+
+|<AUTO-ASSIGN>|
+
+|<TROPAS>|
+
+|<SPETSNAZ>|
+
+|<COMBAT TRAINING>|
+
+|<Play versus the Practice Dummies either with or without your friends. It's good practice for playing competitively.>|
+
+|<ENEMIES>|
+
+|<1>|
+
+|<2>|
+
+|<4>|
+
+|<6>|
+
+|<8>|
+
+|<10>|
+
+|<Edit Clan Tag>|
+
+|<Red Clan Tag>|
+
+|<Add a red color to your Clan Tag.>|
+
+|<Green Clan Tag>|
+
+|<Add a green color to your Clan Tag.>|
+
+|<Blue Clan Tag>|
+
+|<Add a blue color to your Clan Tag.>|
+
+|<Cyan Clan Tag>|
+
+|<Add a cyan color to your Clan Tag.>|
+
+|<Magenta Clan Tag>|
+
+|<Add a magenta color to your Clan Tag.>|
+
+|<Animating 'o' Clan Tag>|
+
+|<Animating '+' Clan Tag>|
+
+|<Rotating Clan Tag (Left)>|
+
+|<Rotating Clan Tag (Right)>|
+
+|<Cylon Name Color>|
+
+|<Carousel Name Color>|
+
+|<Bouncing name>|
+
+|<Color Cycle Name>|
+
+|<Yellow Clan Tag>|
+
+|<Add a yellow color to your Clan Tag.>|
+
+|<IN PROGRESS (&&1 OF &&2)>|
+
+|<Doubled Down>|
+
+|<Double Down>|
+
+|<&&1 more needed to increase buy-ins to  &&2>|
+
+|<Buy-ins have been increased to  &&1!>|
+
+|<CAMO>|
+
+|<RETICLE>|
+
+|<LENS>|
+
+|<BUY CLAN TAG>|
+
+|<BUY EMBLEM>|
+
+|<BUY AND SELECT>|
+
+|<Leave Clip?>|
+
+|<End Clip?>|
+
+|<Combat Training is a way to simulate playing multiplayer with your friends.
+
+During Combat Training you will rank up, earn COD Points and unlock many (but not all) game features.
+
+However, whatever you unlock, complete, or purchase won't carry over when you go online against real players.>|
+
+|<Awesome>|
+
+|<Rampage>|
+
+|<Bug>|
+
+|<Bayonet>|
+
+|<&&1d>|
+
+|<&&1h>|
+
+|<&&1m>|
+
+|<XP AWARD>|
+
+|<Change the game mode to a traditional or custom rule set.>|
+
+|<EARNINGS REPORT>|
+
+|<COD POINTS EARNED>|
+
+|<CAREER WINNINGS>|
+
+|<YOUR TOP WEAPON>|
+
+|<YOU PLACED &&1>|
+
+|<1ST>|
+
+|<2ND>|
+
+|<3RD>|
+
+|<4TH>|
+
+|<5TH>|
+
+|<6TH>|
+
+|<BACKSTABS>|
+
+|<LONGSHOTS>|
+
+|<HUMILIATIONS>|
+
+|<SHARPSHOOTER            KILLS>|
+
+|<x3 KILLS>|
+
+|<STICKS>|
+
+|<KILL STREAK>|
+
+|<SHARPSHOOTER KILLS>|
+
+|<Select a slot to copy &&1 to.>|
+
+|<Are you sure you want to overwrite &&1 with &&2 ?>|
+
+|<Snow covered landscape. Good for snipers and long range firefights.>|
+
+|<Streets of Vietnam. Close engagements in and out of war-torn buildings.>|
+
+|<Hidden missile facility in Cuba. Intense indoor and outdoor battles.>|
+
+|<Military practice facility. Hectic Domination games.>|
+
+|<Soviet intelligence station. Fantastic Headquarters matches.>|
+
+|<Fight in the infamous prison camp. Fierce Capture the Flag matches.>|
+
+|<Cuban city. An abundance of tactical street fights.>|
+
+|<Great vertical gameplay along a river valley in Vietnam.>|
+
+|<Battle at the launch pad of this cosmodrome. Perfect for any game mode.>|
+
+|<Nuclear testing grounds. Lots of fast paced action.>|
+
+|<Uranium processing plant. Excellent objective gameplay.>|
+
+|<Research facility on a snowy mountain. Fight from all angles.>|
+
+|<Cuban estate. Good corridors for long range firefights.>|
+
+|<Abandoned Soviet base. Perfect for team games.>|
+
+|<DURATION>|
+
+|<PERK 3>|
+
+|<SECONDARY WEAPON>|
+
+|<Map Size>|
+
+|<PREFERENCES>|
+
+|<MERCENARY CONTRACTS>|
+
+|<OPERATIONS CONTRACTS>|
+
+|<SPECIALIST CONTRACTS>|
+
+|<Not Yet Complete>|
+
+|<This Contract will be unlocked at level &&1.>|
+
+|<You may purchase this Contract again in>|
+
+|<Contracts for getting kills and Killstreaks.>|
+
+|<Contracts for specific game modes and playlists.>|
+
+|<Contracts for Headshots, secondary weapons, grenades, and special objectives.>|
+
+|<&&1  &&2  &&3>|
+
+|<MATCH XP>|
+
+|<Declassified after &&1 more &&2 purchases.>|
+
+|<You are about to deselect Warlord and this will remove all of your attachments from your primary weapon. Are you sure?>|
+
+|<Pick a game mode and join a match online.>|
+
+|<Quickly move to another lobby. This includes your party, if you have one.>|
+
+|<Customize your Weapons, Perks, and Equipment within a set of loadouts.>|
+
+|<Purchase Contracts to earn more Experience (XP) and COD Points ().>|
+
+|<Set up your rewards for earning multiple kills without dying.>|
+
+|<Edit your Playercard, manage your File Share, view Challenges and more.>|
+
+|<Begin the game.>|
+
+|<Select from a list of maps broken down by name, description, and size.>|
+
+|<Play the Film or Clip you have selected.>|
+
+|<Browse Films, Clips, Screenshots and Custom Game Modes.>|
+
+|<Score Per 
+  Minute>|
+
+|<Per Minute>|
+
+|<Captures>|
+
+|<Destructions>|
+
+|<Defends>|
+
+|<Plants>|
+
+|<Defuses>|
+
+|<Returns>|
+
+|<Destroys>|
+
+|<WEEKLY>|
+
+|<ALL TIME>|
+
+|<MONTHLY>|
+
+|<FILTER>|
+
+|<Filter set to>|
+
+|<and>|
+
+|<OP 40>|
+
+|<PRO>|
+
+|<SMG>|
+
+|<View selected player's info.>|
+
+|<COMBAT TRAINING SETTINGS>|
+
+|<Indicates the number of humans and practice dummies on your team.>|
+
+|<Indicates the number of humans and practice dummies playing against you.>|
+
+|<Sets the combat capabilities of the AI.>|
+
+|<If this option is enabled combat tips will be displayed in the kill cam.>|
+
+|<If this option is enabled the AI will be populated with names from your friends list.>|
+
+|<Are you sure you want to revert all your Combat Training settings?>|
+
+|<RETICLE COLOR>|
+
+|<Purple>|
+
+|<Orange>|
+
+|<You will lose all progress toward your current Contract.>|
+
+|<The selected weapon has no attachments.>|
+
+|<Equip a Red Dot Sight or Reflex Sight to customize the reticle.>|
+
+|<Equip a Red Dot Sight or Reflex Sight to customize the reticle color.>|
+
+|<Equip a Red Dot Sight or Reflex Sight to customize the lens.>|
+
+|<Increase the buy-ins from  &&1 to  &&2>|
+
+|<CALL OF DUTY: BLACK OPS>|
+
+|<Email Entry>|
+
+|<Please enter the email address you would like associated with Call of Duty: Black Ops Multiplayer.>|
+
+|<Please enter a valid email address>|
+
+|<pistol>|
+
+|<submachine gun>|
+
+|<assault rifle>|
+
+|<launcher>|
+
+|<sniper rifle>|
+
+|<shotgun>|
+
+|<light machine gun>|
+
+|<face paint>|
+
+|<Declassified after &&1 more &&2 purchase.>|
+
+|<Find a match on your local network.>|
+
+|<CREATE MATCH>|
+
+|<Create a match that can be seen by other players over your local network.>|
+
+|<COMPLETE!>|
+
+|<START CLIP>|
+
+|<Start Clip>|
+
+|<Play the Clip you have selected for playback.>|
+
+|<SAVE TO FILESHARE>|
+
+|<Save the current Film or Clip to your fileshare.>|
+
+|<Select Friend to Compare>|
+
+|<BEACHHEAD BETA>|
+
+|<Email accepted.>|
+
+|<Email rejected.>|
+
+|<Thank you for participating in the Beachhead Beta program.>|
+
+|<The email you have entered does not appear to be valid.  Please check for errors and try again.>|
+
+|<Edit Email Address>|
+
+|<FUNDS RETURNED>|
+
+|<You have been refunded  &&1 from previous wager matches that failed to complete.>|
+
+|<EDIT GAME OPTIONS>|
+
+|<Customize and save your own rules for the game mode.>|
+
+|<Title>|
+
+|<TITLE>|
+
+|<DOUBLE DOWN>|
+
+|<DOUBLED DOWN>|
+
+|<Not enough data.>|
+
+|<You must complete a minimum of 5 games to show up in the Weekly Leaderboards, 25 games for the Monthly Leaderboards and 50 games to show up in the All-Time Leaderboards.>|
+
+|<PgUp>|
+
+|<PgDn>|
+
+|<Home>|
+
+|<DESCRIPTION>|
+
+|<REWARD>|
+
+|<EXPIRATION>|
+
+|<PROGRESS>|
+
+|<KILLS REQUIRED>|
+
+|<BASIC>|
+
+|<ENEMIES HIT LAST 10 GAMES>|
+
+|<MAP SIZE>|
+
+|<STABS>|
+
+|<HATCHETS>|
+
+|<Survived>|
+
+|<Stabs>|
+
+|<Hatchets>|
+
+|<Setbacks>|
+
+|<x2 Score>|
+
+|<SETBACKS>|
+
+|<&&1 SCORE ( LAST 10 MATCHES )>|
+
+|<SURVIVED>|
+
+|<x2 SCORE>|
+
+|<Comparing with:>|
+
+|<View Challenges for &&1.>|
+
+|<Upgrade to Pro Version>|
+
+|<In order to be ranked on this Leaderboard you must play a minimum of &&1 ranked games. You have played &&2.>|
+
+|<Complete>|
+
+|<Expired>|
+
+|<CREATE CLAN TAG>|
+
+|<CLAN TAG COLOR>|
+
+|<EDIT CLAN TAG>|
+
+|<Not applicable in Combat Training.>|
+
+|<MEDALS>|
+
+|<HOST MIGRATION>|
+
+|<Hardcore Free-For-All>|
+
+|<Hardcore Team Deathmatch>|
+
+|<Hardcore Search & Destroy>|
+
+|<Hardcore Headquarters>|
+
+|<Hardcore Capture the Flag>|
+
+|<Hardcore Sabotage>|
+
+|<Hardcore Domination>|
+
+|<Hardcore Demolition>|
+
+|<GRENADES & EQUIPMENT>|
+
+|<POSITION>|
+
+|<Last met &&1 day(s) ago>|
+
+|<Last met &&1 hour(s) ago>|
+
+|<Last met &&1 min(s) ago>|
+
+|<Last met less than a minute ago>|
+
+|<Feature Locked>|
+
+|<&&1 Players Online>|
+
+|<&&1 Dedicated Servers>|
+
+|<GUN>|
+
+|<SAS>|
+
+|<OIC>|
+
+|<SHP>|
+
+|<Change the game mode.>|
+
+|<You don't have enough COD Points to double down. ( &&1 required)>|
+
+|<Headshots>|
+
+|<No guests are allowed in this playlist.>|
+
+|<Not everyone in your party has enough COD Points to play. ( &&1 required)>|
+
+|<You have too many local players to play in this playlist.>|
+
+|<PRO PERK UNLOCKED>|
+
+|<Connecting to new host>|
+
+|<LEVEL &&1>|
+
+|<CONTRACTS PAID>|
+
+|<CHALLENGES COMPLETE>|
+
+|<Flamethrowers>|
+
+|<Grenade Launchers>|
+
+|<Explosive>|
+
+|<Explosives>|
+
+|<You have achieved a new proficiency:>|
+
+|<Class>|
+
+|<CQB>|
+
+|<Assault>|
+
+|<LMG>|
+
+|<Sniper>|
+
+|<Proficiency>|
+
+|<Rifleman>|
+
+|<Close-Quarters>|
+
+|<Grenadier>|
+
+|<Default Assault>|
+
+|<Default Light Gunner>|
+
+|<Default Heavy Gunner>|
+
+|<Support>|
+
+|<Recon>|
+
+|<Marksman>|
+
+|<Expert>|
+
+|<SOG CLASSES>|
+
+|<OPPOSITION CLASSES>|
+
+|<Light Gunner>|
+
+|<Heavy Gunner>|
+
+|<Close Assault>|
+
+|<CUSTOM 1>|
+
+|<CUSTOM 2>|
+
+|<CUSTOM 3>|
+
+|<CUSTOM 4>|
+
+|<CUSTOM 5>|
+
+|<Demolitionist>|
+
+|<Infiltrator>|
+
+|<Specialist>|
+
+|<Pointman>|
+
+|<Infantryman>|
+
+|<Avenger>|
+
+|<Enforcer>|
+
+|<Guardian>|
+
+|<M1Garand>|
+
+|<Custom 6>|
+
+|<Custom 7>|
+
+|<Custom 8>|
+
+|<Custom 9>|
+
+|<Custom 10>|
+
+|<Prestige index 1>|
+
+|<Prestige index 2>|
+
+|<Prestige index 3>|
+
+|<Prestige index 4>|
+
+|<Prestige index 5>|
+
+|<Unlocked at Prestige Level &&1.>|
+
+|<CUSTOM 6>|
+
+|<CUSTOM 7>|
+
+|<CUSTOM 8>|
+
+|<CUSTOM 9>|
+
+|<CUSTOM 10>|
+
+|<Unclassified at Prestige Level &&1.>|
+
+|<Purchase &&1 to view challenge.>|
+
+|<COD>|
+
+|<CLAN>|
+
+|<COUNTERS>|
+
+|<^5&&1^7 completed the &&2 Challenge.>|
+
+|<^5&&1^7 now has Prestige Level &&2.>|
+
+|<^5&&1^7 has been promoted to the rank of ^3&&2^7.>|
+
+|<^5&&1^7 completed the level &&2 in Campaign.>|
+
+|<^5&&1^7 is now a member of the ^3&&2^7 clan.>|
+
+|<Visit www.CallOfDuty.com for news and updates!>|
+
+|<^5&&1^7 created the ^3&&2^7 clan.>|
+
+|<^5&&1^7 disbanded the ^3&&2^7 clan.>|
+
+|<&&1 has Prestiged.>|
+
+|<&&1 reached level &&2.>|
+
+|<&&1 has created a new Playercard Emblem.>|
+
+|<&&1 unlocked: &&2>|
+
+|<&&1 made a new Clip.>|
+
+|<&&1 is sharing a screenshot.>|
+
+|<&&1 uploaded a custom game mode.>|
+
+|<&&1 has completed the Challenge: &&2, &&3 &&4.>|
+
+|<&&1 has completed the Contract: &&2.>|
+
+|<SUICIDES: &&1 mistakes were made.>|
+
+|<EXECUTIONS: &&1 players killed while in Second Chance.>|
+
+|<GET SOME SUN: &&1 hours spent playing.>|
+
+|<GAMES PLAYED: &&1 total games.>|
+
+|<GOING FOR BROKE: &&1 COD Points spent playing Black Ops.>|
+
+|<FILLING GRAVEYARD: Black Ops total kill count is &&1% of the world population.>|
+
+|<BLOODY PULP: &&1 headshots.>|
+
+|<TEAM PLAYERS: &&1 offensive and defensive medals.>|
+
+|<LEARN TO SHARE: &&1 care packages shared.>|
+
+|<Number of people who tried to give us cash to get in the Beta: Classified>|
+
+|<HELPING HAND: &&1 assists.>|
+
+|<FLAG DEPOSIT: &&1 flags have been captured.>|
+
+|<DENIED: &&1 flags were returned.>|
+
+|<BURN IT DOWN: &&1 Headquarters have been destroyed.>|
+
+|<SEIZED CONTROL: &&1 Headquarters have been captured.>|
+
+|<THE BLUE WIRE: &&1 bombs defused.>|
+
+|<SEARCH AND DESTROY: &&1 bombs planted.>|
+
+|<CAPITALISM: Black Ops have destroyed &&1 objectives in Sabotage.>|
+
+|<SOVIET AGGRESSION: The Communists have destroyed &&1 objectives in Sabotage.>|
+
+|<OBLITERATED: &&1 bomb sites destroyed in Demolition.>|
+
+|<RESISTANCE: &&1 bomb sites have been protected in Demolition.>|
+
+|<NO EXCUSES: &&1 Contracts have been failed.>|
+
+|<EASY MONEY: Contracts have paid out  &&1.>|
+
+|<CONTRACTS: &&1 Contracts have been passed.>|
+
+|<MILESTONES: &&1 Challenges have been completed.>|
+
+|<BASIC TRAINING: &&1 practice dummies have sacrificed their lives.>|
+
+|<WAGER MATCH: &&1 players Humiliated.>|
+
+|<AROUND THE WORLD: Black Ops players have collectively ran around the world &&1 times.>|
+
+|<LIKE A ROCK: Black Ops players have collectively fallen the height of Mount Everest &&1 times.>|
+
+|<WAGER MATCH:  &&1 has been won.>|
+
+|<GOING FOR BROKE:  &&1 has been spent.>|
+
+|<GOING FOR BROKE: &&1% of the GDP of Ireland in USD has been spent.>|
+
+|<GOING FOR BROKE: &&1% of the GDP of Bulgaria in USD has been spent.>|
+
+|<GOING FOR BROKE: &&1% of the GDP of India in USD has been spent.>|
+
+|<GOING FOR BROKE: &&1% of the GDP of the United States has been spent.>|
+
+|<GOING FOR BROKE: &&1% of the world GDP in USD has been spent.>|
+
+|<COMBAT TRAINING: &&1 matches played.>|
+
+|<FRAGGED: &&1 metric tons of frag grenades thrown.>|
+
+|<PLASTIC EXPLOSIVES: &&1 metric tons of C4 thrown.>|
+
+|<AMMUNITION: &&1 billion shots fired.>|
+
+|<MEDIEVAL: Laid end to end &&1 miles of crossbow bolts have been fired.>|
+
+|<THE COST OF WAR: Players have blown up &&1 dollars worth of oil barrels.>|
+
+|<NEAR DEATH EXPERIENCES: &&1 players revived from Second Chance.>|
+
+|<AFTERLIFE: &&1 parting gifts.>|
+
+|<COMEBACK: &&1 dry spells broken.>|
+
+|<PAYBACK: &&1 revenge kills.>|
+
+|<ET TU BRUTE?: &&1 players stabbed in the back.>|
+
+|<BANK SHOT: &&1 "lucky shots" with the Tomahawk.>|
+
+|<TOTAL BUZZKILL: &&1 players have been stopped one short of a Killstreak.>|
+
+|<NOT JUST A KNIFE: &&1 players Skewered by the Ballistic Knife.>|
+
+|<INCOMING: &&1 Killstreaks called.>|
+
+|<DENIED OPERATIONS: &&1 Killstreaks destroyed.>|
+
+|<INTENDED CASUALTIES: &&1 deaths by Killstreak rewards.>|
+
+|<DESTRUCTION DERBY: &&1 cars destroyed.>|
+
+|<CLAN PRIDE: &&1 created.>|
+
+|<TRY AGAIN: &&1 invalid clan tags rejected.>|
+
+|<HOMEMADE: &&1 files uploaded by users.>|
+
+|<BRAGGING RIGHTS: &&1 videos rendered.>|
+
+|<THE GRIND: Players have Prestiged &&1 times.>|
+
+|<WAR PAINT: &&1 purchases of face paint.>|
+
+|<INSIGNIA: &&1 Emblems created.>|
+
+|<PATRON OF THE ARTS: &&1 gun camo's purchased.>|
+
+|<THIS IS MY GUN: &&1 gun personalizations purchased.>|
+
+|<STAMP COLLECTOR: &&1 Emblem images purchased.>|
+
+|<EMBLEMS: &&1 layers purchased.>|
+
+|<MY RULES: &&1 custom games created.>|
+
+|<Server is full.>|
+
+|<Waiting for new key. Press ESCAPE to cancel or BACKSPACE to clear>|
+
+|<Press ENTER or CLICK to change>|
+
+|<Waiting for response from Master Server>|
+
+|<Getting info for &&1 servers (ESC to cancel)>|
+
+|<Refresh Time: &&1>|
+
+|<Key code appears to be valid.>|
+
+|<Key code does not appear to be valid.>|
+
+|<The lastsave game seems to have been deleted. Load a different save game from the Load Game menu, or start a new game.>|
+
+|<Favorite list is full.>|
+
+|<Added favorite server.>|
+
+|<Downloading Update: &&1>|
+
+|<Connecting to &&1>|
+
+|<Awaiting connection...&&1>|
+
+|<Awaiting challenge...&&1>|
+
+|<Awaiting gamestate>|
+
+|<SAY TEAM>|
+
+|<SAY>|
+
+|<Game Saved>|
+
+|<Kicked>|
+
+|<You were kicked for unsportsmanlike conduct>|
+
+|<was kicked>|
+
+|<Cannot kick the host player.>|
+
+|<Server killed.>|
+
+|<Server quit>|
+
+|<Client told to disconnect from its own listen server.>|
+
+|<end of game>|
+
+|<Server didn't have CD>|
+
+|<Restarting server due to time wrapping>|
+
+|<Restarting server due to &&1 wrapping.>|
+
+|<Invalid download from update server>|
+
+|<Could not download &&1 because autodownloading is disabled on the client.
+
+You will need to get this file elsewhere before you can connect to this server, or set autodownload to Yes in your settings.>|
+
+|<Cannot auto-download game IWD file &&1.>|
+
+|<Could not download &&1 because autodownloading is disabled on the server.
+
+You will need to get this file elsewhere before you can connect to this pure server.>|
+
+|<Could not download &&1 because autodownloading is disabled on the server.
+
+Set autodownload to No in your settings and you might be able to connect if you do have the file.>|
+
+|<File &&1 not found on server for autodownloading.>|
+
+|<Game session no longer available>|
+
+|<Impure client detected. Invalid .IWD files referenced!>|
+
+|<Lost reliable commands>|
+
+|<Cannot validate pure client!>|
+
+|<Server command overflow>|
+
+|<Timed out>|
+
+|<Server message overflow>|
+
+|<Favorites>|
+
+|<Source:     &&1>|
+
+|<Filter: &&1>|
+
+|<(no savegames)>|
+
+|<Awaiting key code authorization>|
+
+|<Server Disconnected - &&1>|
+
+|<Server Disconnected>|
+
+|<Miles sound system initialization failed.
+The single player game does not work properly without sound.
+Make sure you have your sound card's latest drivers and DirectX installed.>|
+
+|<Couldn't load &&1>|
+
+|<Make sure Call of Duty is run from the correct folder.>|
+
+|<Out of memory.>|
+
+|<Hunk data failed to allocate &&1 megs.>|
+
+|<Could not load OpenGL.  Make sure that you have the latest drivers for your video card from the manufacturer's web site.>|
+
+|<Could not register a window class. This is a Microsoft Windows(TM) error. You may need to reboot.>|
+
+|<Could not create a window. This is a Microsoft Windows(TM) error. You may need to reboot.>|
+
+|<You should install the latest drivers for your video card, being sure to uninstall the old drivers first.  If you already have the latest drivers, you should completely uninstall the drivers and then reinstall them.  This fixes most problems.  If the game still doesn't work, it may be that your video card does not have the minimum features required.  Please check the readme for more information, including a list of supported video cards.>|
+
+|<Your video card appears to be missing one or more features required to run Call of Duty.>|
+
+|<OpenGL 1.3 multitexture found, but it failed to initialize.>|
+
+|<OpenGL 1.3 multitexture found, but it doesn't allow multiple textures.>|
+
+|<GL_ARB_multitexture found, but it failed to initialize.>|
+
+|<GL_ARB_multitexture found, but it doesn't allow multiple textures.>|
+
+|<Your version of Microsoft Windows(TM) does not support Call of Duty.>|
+
+|<Couldn't initialize refresh>|
+
+|<Error reading from journal file>|
+
+|<Error writing to journal file>|
+
+|<&&1 not found.>|
+
+|<Couldn't configure:>|
+
+|<hunkusage.dat file is corrupt.>|
+
+|<Cannot create &&1.>|
+
+|<Cannot write to &&1.>|
+
+|<Cannot write to hunkusage.dat, check disk full.>|
+
+|<Client command overflow>|
+
+|<A reliable command was cycled out.>|
+
+|<Requested a command not received.>|
+
+|<Key Code is not valid.
+Please enter your Key Code in the Multiplayer Options/Enter Key Code menu and then try connecting to the server again.>|
+
+|<Map &&1 has the wrong version number.>|
+
+|<should be>|
+
+|<Invalid game folder>|
+
+|<Game code(&&1) failed Pure Server check>|
+
+|<Could not start process: &&1>|
+
+|<Could not open url: '&&1'>|
+
+|<Server fatal crashed:>|
+
+|<Key Code in use. Please try reconnecting later.>|
+
+|<Server is not a demo server.>|
+
+|<Server is a different version:
+&&1>|
+
+|<No or bad challenge for address.>|
+
+|<Server is for high ping players only.>|
+
+|<Server is for low ping players only.>|
+
+|<Disconnected from server>|
+
+|<Jan>|
+
+|<Feb>|
+
+|<Mar>|
+
+|<Apr>|
+
+|<May>|
+
+|<Jun>|
+
+|<Jul>|
+
+|<Aug>|
+
+|<Sep>|
+
+|<Oct>|
+
+|<Nov>|
+
+|<Dec>|
+
+|<IP Address>|
+
+|<Game Name>|
+
+|<Version>|
+
+|<Protocol Version>|
+
+|<num>|
+
+|<Ping>|
+
+|<Max Ping>|
+
+|<Min Ping>|
+
+|<Max Rate>|
+
+|<Flood Protect>|
+
+|<Allow Anonymous>|
+
+|<Max Clients>|
+
+|<Private Clients>|
+
+|<Mod>|
+
+|<Killcam>|
+
+|<GB>|
+
+|<MB>|
+
+|<KB>|
+
+|<bytes>|
+
+|<hr>|
+
+|<min>|
+
+|<sec>|
+
+|<Downloading:>|
+
+|<Estimated time left:>|
+
+|<Transfer rate:>|
+
+|<estimating>|
+
+|<copied>|
+
+|<Bad server address.>|
+
+|<Bad Key Code.>|
+
+|<Lost connection to host>|
+
+|<Password Protected>|
+
+|<This server is already a favorite server.>|
+
+|<Pure Server>|
+
+|<Server name is empty.>|
+
+|<Server address is empty.>|
+
+|<Anti Lag>|
+
+|<Disconnected due to transmission error>|
+
+|<Checkpoint Reached>|
+
+|<The game session is no longer available.>|
+
+|<Unable to join game session. Game session may no longer be available.>|
+
+|<The match has ended>|
+
+|<Connection to host has been lost>|
+
+|<Network connection lost>|
+
+|<Synchronizing game settings...>|
+
+|<Error synchronizing game settings>|
+
+|<The content that you are attempting to load cannot be found or is from an incorrect region. Please ensure that your disc is clean and that you have the correct downloadable content.>|
+
+|<There was a problem reading your data. Please ensure all storage devices are connected properly and your game disc is clean.>|
+
+|<Compass Enemies>|
+
+|<Client Console>|
+
+|<Waiting for other players>|
+
+|<Join failed - game is about to end>|
+
+|<Unable to connect.  Duplicate qport on server.>|
+
+|<left the game>|
+
+|<You are banned for the game session>|
+
+|<Can not join a game in progress>|
+
+|<Synchronizing>|
+
+|<Not hosting>|
+
+|<There are not enough players to continue the game.>|
+
+|<Disconnected>|
+
+|<Ready>|
+
+|<Connecting>|
+
+|<Challenging>|
+
+|<Loading>|
+
+|<online>|
+
+|<offline>|
+
+|<pending>|
+
+|<You have selected an invalid film or clip.>|
+
+|<An error occurred while processing this film or clip.>|
+
+|<Loading Film>|
+
+|<Severe security alert. Please contact Treyarch at dbunting@treyarch.com>|
+
+|<Please contact Treyarch at dbunting@treyarch.com>|
+
+|<Security Alert>|
+
+|<COD_MULTIPLAYER>|
+
+|<An error occured while connecting to the server.>|
+
+|<The Call of Duty: Black Ops server is not available at this time. Please try again later or visit http://www.callofduty.com/blackops/status for updates.>|
+
+|<Loading Clip>|
+
+|<&&1 has been banned from playing on the Call of Duty: Black Ops servers. Sign in with another profile to play online.>|
+
+|<&&1 has been banned from using this feature. Sign out this profile to use the feature.>|
+
+|<You have more local players than what this lobby supports.>|
+
+|<An error occured while creating an online session.>|
+
+|<Migration limit reached>|
+
+|<Migration failed. Dropped by host.>|
+
+|<Host Migration aborted. No good host available.>|
+
+|<Could not join match because host migration was in progress.>|
+
+|<An error occurred while opening the screenshot.>|
+
+|<There are too many local players to join.>|
+
+|<Could not join because no guests are allowed.>|
+
+|<No available sessions were found. Please try your search again.>|
+
+|<An error occured while connecting to the host.>|
+
+|<An error occured while connecting to the game host.>|
+
+|<Lost connection to host. Please try again.>|
+
+|<Your name must contain at least 4 alphanumeric characters and can not be already used in the server.>|
+
+|<This user is currently logged in elsewhere.>|
+
+|<&&1 has been permanently banned from playing on the Call of Duty: Black Ops servers. For more information, visit www.callofduty.com/blackops/help.>|
+
+|<&&1 has been temporarily banned from playing on the Call of Duty: Black Ops servers. For more information, visit www.callofduty.com/blackops/help.>|
+
+|<&&1 hours remaining before access is granted.>|
+
+|<&&1 days remaining before access is granted.>|
+
+|<&&1 has been temporarily banned from using this feature. For more information, visit www.callofduty.com/blackops/help.>|
+
+|<Your stats could not be validated.>|
+
+|<needs to be revived.>|
+
+|<You revived &&1>|
+
+|<Can't voice chat as a spectator.>|
+
+|<Your complaint has been filed>|
+
+|<Complaint dismissed>|
+
+|<Server Host cannot be complained against>|
+
+|<You were team-killed by the Server Host>|
+
+|<File complaint against &&1 for team-killing?>|
+
+|<Press^3 &&1 ^7for YES, or^3 &&2 ^7for No>|
+
+|<VOTE>|
+
+|<following>|
+
+|<Killed &&1>|
+
+|<TEAMMATE>|
+
+|<unknown>|
+
+|<Mission Objectives>|
+
+|<renamed to>|
+
+|<Connection Interrupted>|
+
+|<&&1>|
+
+|<Spectators>|
+
+|<for>|
+
+|<died>|
+
+|<melee>|
+
+|<suicide>|
+
+|<falling>|
+
+|<crush>|
+
+|<drown>|
+
+|<slime>|
+
+|<Waiting for server to load new map>|
+
+|<head shot>|
+
+|<Prone Blocked>|
+
+|<Can't Go Prone With This Weapon>|
+
+|<Health>|
+
+|<Listen Server>|
+
+|<This weapon has no alternate mode to switch to.>|
+
+|<Revived by &&1>|
+
+|<Killed by &&1>|
+
+|<Save and quit>|
+
+|<If you save now, you will lose any progress 
+since your last checkpoint. 
+
+Continue saving?>|
+
+|<If you restart now, you will lose 
+any progress that you have made 
+in this mission
+
+Continue restart?>|
+
+|<Would you like to save your game progress?>|
+
+|<Objective Below>|
+
+|<Objective Above>|
+
+|<Squad leader cancelled the command>|
+
+|<Attack command issued by squad leader>|
+
+|<Regroup command issued by squad leader>|
+
+|<Defend command issued by squad leader>|
+
+|<Squad leader changed ! Your new squad leader is >|
+
+|<Your squad has been disbanded. You are now a lone wolf.>|
+
+|<has joined squad>|
+
+|<has left squad>|
+
+|<kicked you from squad>|
+
+|<has invited you to squad>|
+
+|<has sent you a game invite.>|
+
+|<has accepted your friendship proposal.>|
+
+|<has cancelled their request for friendship.>|
+
+|<has revoked their friendship.>|
+
+|<has rejected your friendship proposal.>|
+
+|<wants to be your friend.>|
+
+|<is offline>|
+
+|<is online>|
+
+|<Downs>|
+
+|<&&1 has taken the lead>|
+
+|<You have created squad>|
+
+|<You have joined squad>|
+
+|<You have left squad>|
+
+|<You are now a lone wolf.>|
+
+|<&&1 found a death card>|
+
+|<You have bet on this player.>|
+
+|<Killed>|
+
+|<Team Killed>|
+
+|<Killed By>|
+
+|<Team Killed By>|
+
+|<COD Points>|
+
+|<Mistakes were made.>|
+
+|<Press^3 &&1 ^7to Defend>|
+
+|<Press^3 &&1 ^7to Regroup>|
+
+|<Press^3 Fire ^7to set Squad Waypoint>|
+
+|<Select a target location for your squad>|
+
+|<Press^3 ESC ^7to Back Out>|
+
+|<Press^3 Sprint ^7to Clear Waypoint>|
+
+|<- Press^3 &&1 ^7to follow next player>|
+
+|<- Press^3 &&1 ^7to follow previous player>|
+
+|<- Press^3 &&1 ^7to stop following>|
+
+|<Press^3 &&1 ^7to jump>|
+
+|<Press^3 &&1 ^7to stand>|
+
+|<Press^3 &&1 ^7to crouch>|
+
+|<Press^3 &&1 ^7to go prone>|
+
+|<Press ^3 &&1 ^7to swap for>|
+
+|<Press^3 &&1 ^7to mount your weapon>|
+
+|<Press^3 &&1 ^7to  >|
+
+|<Hold the^3 &&1 ^7key to steady>|
+
+|<Press ^3 &&1 ^7to use the Flak 88 gun>|
+
+|<Press ^3 &&1 ^7to pick up>|
+
+|<[&&1] throw back>|
+
+|<Press ^3 &&1 ^7to use the Flak Vierling>|
+
+|<Press ^3 &&1 ^7to commandeer the .30 cal>|
+
+|<Press ^3 &&1 ^7to commandeer the MG42>|
+
+|<Press ^3[{+activate}]^7 to skip>|
+
+|<Press  ^3[{+activate}]^7 to spawn>|
+
+|<Press  ^3[{+activate}]^7 to respawn>|
+
+|<Press ^3 &&1 ^7to use>|
+
+|<Press ^3 &&1 ^7to drop>|
+
+|<Hold ^3 &&1 ^7to plant explosives  >|
+
+|<Hold ^3 &&1 ^7to defuse explosives  >|
+
+|<Press^3 &&1 ^7to use your binoculars to sight distant targets.>|
+
+|<Hold^3 &&1 ^7to turn the base of the tank to line up with the turret.>|
+
+|<Press^3 &&1 ^7to use your binoculars.>|
+
+|<While looking through the binoculars press ^3 &&1 ^7to call in artillery.>|
+
+|<Save and Quit>|
+
+|<^3&&1^7 Reload>|
+
+|<Low Ammo>|
+
+|<Press^3 &&1 ^7to pick up Stopping Power>|
+
+|<Press^3 &&1 ^7to pick up Juggernaut>|
+
+|<Press^3 &&1 ^7to pick up Double Tap>|
+
+|<Press^3 &&1 ^7to pick up Second Chance>|
+
+|<Press^3 &&1 ^7to pick up Martyrdom>|
+
+|<Press^3 &&1 ^7to pick up Sleight of Hand>|
+
+|<Press ^3[{+attack}]^7 to call in Rolling Thunder>|
+
+|<Press ^3[{+attack}]^7 to call in Artillery>|
+
+|<Press ^3[{+attack}]^7 to call in Napalm Strike>|
+
+|<Press ^3[{+attack}]^7 to call in Attack Helicopter>|
+
+|<Press ^3[{+attack}]^7 to Target (&&1 remaining)>|
+
+|<Hold ^3[{+activate}]^7 Coward's way out>|
+
+|<An error occurred while reading the stats data.>|
+
+|<Play Online>|
+
+|<LAN Party>|
+
+|<After Action Report>|
+
+|<Press^3 &&1 ^7to mantle tank>|
+
+|<Press^3 &&1 ^7to enter vehicle gunner position>|
+
+|<Press^3 &&1 ^7to ride vehicle>|
+
+|<Press^3 &&1 ^7to drive vehicle>|
+
+|<Test Levels>|
+
+|<Unable to access save device. Please make sure that you have a valid User Profile (PC Online acount. Use "Tools" in the PC Launcher).>|
+
+|<ONLINE>|
+
+|<PC Online>|
+
+|<You do not have this map. You can get this map by downloading map packs from PC Online Marketplace>|
+
+|<PC Online
+Marketplace>|
+
+|<Lock>|
+
+|<Search Preferences>|
+
+|<LAN LOBBY>|
+
+|<Reset To Default>|
+
+|<Press ^3  &&1 ^7to switch seats>|
+
+|<Press ^3  &&1 ^7to Cover>|
+
+|<Press ^3 &&1 ^7for Coaxial MG>|
+
+|<Press ^3 &&1 ^7 for Boost>|
+
+|<^3 &&1 ^7Third Person View>|
+
+|<^3 &&1 ^7First Person View>|
+
+|<Access this in co-op game settings.>|
+
+|<Congratulations!>|
+
+|<You have unlocked 'Nazi Zombies' for solo and co-op play. Survive an onslaught of the Nazi undead army, and compare your stats with friends!>|
+
+|<Press^3 ESC^7 to^3 Create a Class^7 and more.>|
+
+|<In the War game mode it's all about momentum, capture the indicated points on the map to achieve victory.>|
+
+|<Watch the Treyarch message of the day for important up-to-date information about Call of Duty: Black Ops.>|
+
+|<You don't have to look at a window to board it up.>|
+
+|<If red reticles mean enemy and green reticles mean friendly, what could blue reticles mean...?>|
+
+|<Quick Revive in Solo Mode works a little different than Co-Op Mode.>|
+
+|<Pile in! Teleporters work for the whole team not just an individual.>|
+
+|<Fire Sale spawns all of the Mystery Boxes and slashes prices across the board!>|
+
+|<At the beginning of a new round players receive two grenades.>|
+
+|<Use all the tools at your disposal. Some attacks yield more points than shooting!>|
+
+|<After Pack-a-Punch, even the weakest weapons become something special.>|
+
+|<Is Insta-Kill on? Stab, don't shoot!>|
+
+|<Sometimes it is better to run than revive.>|
+
+|<Your explosives will not hurt other players, but can still hurt you!>|
+
+|<The Cymbal Monkey takes longer to arm than grenades.>|
+
+|<Someone down? Throw a Cymbal Monkey to buy some time!>|
+
+|<Reviving your teammate in Zombies takes more time than in Multiplayer. Don't let yourself get surrounded.>|
+
+|<Power up drops only last for a limited time. So get 'em while they're hot!>|
+
+|<Manhattan DOWN!!!!>|
+
+|<Don't text message while cooking a grenade, you'll regret it...>|
+
+|<Having trouble in Solo? Grab some friends and try the level in Co-Op.>|
+
+|<A Winter's Howl can give you time to revive a downed teammate.>|
+
+|<Careful when you kill a zombie crawler: they leave behind a noxious surprise.>|
+
+|<Not all traps are created equal: some might be missing a piece or two...>|
+
+|<When the Hounds are released, find a corner and dig in for the fight.>|
+
+|<Rule Number 1:  Watch yo' back!>|
+
+|<To move up the Zombies leaderboards, you need to survive into the higher rounds.>|
+
+|<Which way we going? Up or down?>|
+
+|<I'm not buying that door!>|
+
+|<Now you see him. Now you don't!>|
+
+|<The Mystery Box in Zombies is a gamble. You could get the most powerful weapon in the chest or end up with a spare pistol.>|
+
+|<A zombie breach is nothing to get spooked about.  Pros keep their windows boarded.>|
+
+|<Visit Treyarch.com to go behind-the-scenes with the developers of 'Call of Duty: Black Ops'.>|
+
+|<The Ray Gun is one of the most powerful weapons to use against zombies.>|
+
+|<Hack the terminal to gain access to Dead Ops Arcade.>|
+
+|<Discovering the Room Of Fate in Dead Ops Arcade will greatly enhance your chances of defeating the Cosmic Silverback.>|
+
+|<In Dead Ops Arcade, chickens will make valuable companions.>|
+
+|<You can use explosive rounds to blow cows up in Dead Ops Arcade.>|
+
+|<Collecting treasure in Dead Ops Arcade increases your score multiplier.>|
+
+|<In Dead Ops Arcade, you are given an extra life every 200,000 points.>|
+
+|<Dead Ops Arcade supports up to 4 players.   >|
+
+|<The Cosmic Silverback awaits your challenge in Dead Ops Arcade.>|
+
+|<Discovering The Armory in Dead Ops Arcade can equip your player with up to 5 chickens.>|
+
+|<In Dead Ops Arcade, being awarded the Fate Of Firepower will permanently upgrade your player's weapon.>|
+
+|<In Dead Ops Arcade, being awarded the Fate Of Friendship will give your player a permanent companion and chickens will last longer.>|
+
+|<In Dead Ops Arcade, being awarded the Fate Of Furious Feet will permanently give your player faster mobility and 3 speed boosts every round.>|
+
+|<In Dead Ops Arcade, being awarded the Fate Of Fortitude will make all pickups last longer and give your player a minimum 2x score bonus.>|
+
+|<The Cosmic Silverback has many brothers.>|
+
+|<In Dead Ops Arcade, gems are a rare find.  The larger the gem, the bigger the increase to your score multiplier!>|
+
+|<Each setting will be restored to its default value, are you sure?>|
+
+|<Your control settings have been reset.>|
+
+|<This will restore all system settings to default, are you sure?>|
+
+|<To change Speaker Config you need to change the default playback device in your Windows Sound settings, and restart the game.>|
+
+|<7.1 Speakers>|
+
+|<Go>|
+
+|<Enable PunkBuster?>|
+
+|<Ping too high>|
+
+|<Ping too low>|
+
+|<This key is already being used by another computer.>|
+
+|<This person is already your friend.>|
+
+|<You must be Online to access this feature.>|
+
+|<Invitation to join game has been sent to>|
+
+|<Create>|
+
+|<Add...>|
+
+|<Enter Friend's name.>|
+
+|<Are you sure you want to remove>|
+
+|<Friend Limit Exceeded>|
+
+|<Friend Offline>|
+
+|<Invite Sent>|
+
+|<Invite Accepted>|
+
+|<Request Already Sent>|
+
+|<Invalid ID>|
+
+|<Invite Unavailable>|
+
+|<Already Friends>|
+
+|<Not Online>|
+
+|<Invitation Sent>|
+
+|<To change the Record Level you need to change the Recording Controls in your Windows Sound settings.>|
+
+|<Tank Controls>|
+
+|<New version available, to download visit www.callofduty.com/update>|
+
+|<DEFAULT SYSTEM SETTINGS>|
+
+|<Default System Settings>|
+
+|<Low>|
+
+|<High>|
+
+|<SPECTATOR VIEW MODE>|
+
+|<- Press^3 &&1 ^7for Third Person View>|
+
+|<- Press^3 &&1 ^7for First Person View>|
+
+|<CHANGE STANCE>|
+
+|<Login Required>|
+
+|<You must log in to this profile before deleting it.>|
+
+|<Click ^3&&1^7 to zoom>|
+
+|<Clear Killstreaks>|
+
+|<Clear Specialties>|
+
+|<Lobby Leaderboard>|
+
+|<Change Filter>|
+
+|<Hold ^3&&1^7 to boost>|
+
+|<Hold ^3&&1^7 to detonate>|
+
+|<Hold ^3&&1^7 for Ammo OR Double Tap ^3[{+reload}]^7 to Try Again>|
+
+|<Hold ^3&&1^7 for Counter-Spy Plane OR Double Tap ^3[{+reload}]^7 to Try Again>|
+
+|<Hold ^3&&1^7 for Death Machine OR Double Tap ^3[{+reload}]^7 to Try Again>|
+
+|<Hold ^3&&1^7 for Grim Reaper OR Double Tap ^3[{+reload}]^7 to Try Again>|
+
+|<Hold ^3&&1^7 for Valkyrie OR Double Tap ^3[{+reload}]^7 to Try Again>|
+
+|<Hold ^3&&1^7 for Spy Plane OR Double Tap ^3[{+reload}]^7 to Try Again>|
+
+|<Hold ^3&&1^7 for RC-XD OR Double Tap ^3[{+reload}]^7 to Try Again>|
+
+|<Hold ^3&&1^7 for Rolling Thunder OR Double Tap ^3[{+reload}]^7 to Try Again>|
+
+|<Hold ^3&&1^7 for Mortar OR Double Tap ^3[{+reload}]^7 to Try Again>|
+
+|<Hold ^3&&1^7 for Sentry Gun OR Double Tap ^3[{+reload}]^7 to Try Again>|
+
+|<Hold ^3&&1^7 for SAM Turret OR Double Tap ^3[{+reload}]^7 to Try Again>|
+
+|<Hold ^3&&1^7 for Napalm OR Double Tap ^3[{+reload}]^7 to Try Again>|
+
+|<Hold ^3&&1^7 for Blackbird OR Double Tap ^3[{+reload}]^7 to Try Again>|
+
+|<Hold ^3&&1^7 for Attack Helicopter OR Double Tap ^3[{+reload}]^7 to Try Again>|
+
+|<Hold ^3&&1^7 for Dogs OR Double Tap ^3[{+reload}]^7 to Try Again>|
+
+|<Hold ^3&&1^7 for Gunship OR Double Tap ^3[{+reload}]^7 to Try Again>|
+
+|<Hold ^3&&1^7 for Chopper Gunner OR Double Tap ^3[{+reload}]^7 to Try Again>|
+
+|<^3SPACE^7>|
+
+|<^3R^7>|
+
+|<^3F3^7>|
+
+|<^3F2^7 Toggle Hud>|
+
+|<^3F4^7 Toggle Controls>|
+
+|<^3PD^7>|
+
+|<^3PU^7>|
+
+|<^3LA^7>|
+
+|<^3RA^7>|
+
+|<Hold ^3R^7>|
+
+|<^3LEFT MOUSE^7 Follow next player>|
+
+|<^3RIGHT MOUSE^7 Follow previous player>|
+
+|<^3&&1^7 Boost>|
+
+|<^3&&1^7 Detonate>|
+
+|<^3&&1^7 Handbrake>|
+
+|<^3MOUSE^7 Steering>|
+
+|<^3[{+forward}]^7/^3[{+back}]^7 Forward/Reverse>|
+
+|<^3LEFT MOUSE^7 Zoom In>|
+
+|<^3RIGHT MOUSE^7 Zoom Out>|
+
+|<^3W,A,S,D^7 Pan>|
+
+|<Press^3 &&1 ^7to Place Turret>|
+
+|<Two plastic explosive devices that are detonated remotely with the clacker or by double-tapping ^3[{+activate}]^7.>|
+
+|<^3LEFT MOUSE^7 skip>|
+
+|<Press Enter to Continue>|
+
+|<Press Any Key>|
+
+|<Earnings Report>|
+
+|<Apply Filter>|
+
+|<Compare Friend>|
+
+|<My File Share>|
+
+|<Learn More>|
+
+|<Cancel / Clear>|
+
+|<USE EQUIPMENT>|
+
+|<Edit Game Options>|
+
+|<Edit>|
+
+|<Copy Class>|
+
+|<Gun Stats>|
+
+|<Gun Attributes>|
+
+|<Clear Attachments>|
+
+|<Esc>|
+
+|<Sell Back>|
+
+|<ROUNDS SURVIVED>|
+
+|<HIGH SCORE>|
+
+|<Scale>|
+
+|<Rotate>|
+
+|<Flip>|
+
+|<Clear>|
+
+|<Outline>|
+
+|<Party Privacy / Search Preferences>|
+
+|<Party Privacy Preferences>|
+
+|<GAMEPAD OPTIONS>|
+
+|<ENABLE GAMEPAD>|
+
+|<GAMEPAD>|
+
+|<Controller Vibration>|
+
+|<Place Game in My File Share>|
+
+|<USE FRIEND NAMES>|
+
+|<View Playercard>|
+
+|<Place equipment using ^3[{+actionslot 1}]^7.>|
+
+|<Remote camera view that is toggled on and off with ^3[{+actionslot 1}]^7.>|
+
+|<Change Transition>|
+
+|<Move Segment>|
+
+|<Clear All>|
+
+|<Select Segment>|
+
+|<Place Segment>|
+
+|<Delete Segment>|
+
+|<Preview Clip>|
+
+|<Move the arrows to adjust the safe area to fit your display.>|
+
+|<SERVER NAME>|
+
+|<MINIMUM PING>|
+
+|<MAXIMUM PING>|
+
+|<ALLOW VOTING>|
+
+|<Select a previous match>|
+
+|<Save or View a Game>|
+
+|<Save to File Share>|
+
+|<Press ^3[{+gostand}]^7 to cancel Tactical Insertion>|
+
+|<ALTERNATIVE COLORS>|
+
+|<Revert Changes>|
+
+|<Save Segment>|
+
+|<Press ^3[{+back}]^7 to lift off>|
+
+|<Press ^3[{+forward}]^7 to get up>|
+
+|<Press ESC to Exit>|
+
+|<Steam authorization failed.>|
+
+|<Cheat detected.>|
+
+|<Steam connect failed.>|
+
+|<Failed to join Steam lobby.>|
+
+|<Failed to join friend's game.>|
+
+|<Must be signed in to Steam in Online mode to play.>|
+
+|<Disconnected from Steam.>|
+
+|<Official Wager Match>|
+
+|<Official Server>|
+
+|<Non-Official Server>|
+
+|<Valve Anti-Cheat Enabled>|
+
+|<Valve Anti-Cheat Disabled>|
+
+|<Public Server>|
+
+|<City Not Specified>|
+
+|<If enabled, the match will start when the Min Players is reached.>|
+
+|<The number of players required to start the game.>|
+
+|<Press ^3SPACE^7 for 1st person view>|
+
+|<Press ^3SPACE^7 for 3rd person view>|
+
+|<Press ^3SPACE^7 for Free Cam>|
+
+|<Move Segment Left>|
+
+|<Move Segment Right>|
+
+|<^3[{+gas}]^7 to accelerate>|
+
+|<^3[{+attack}]^7 to shoot>|
+
+|<CONFIRM BUY-IN>|
+
+|<Buy In: &&1>|
+
+|<This is the cost to join the server.>|
+
+|<Insufficient COD Points>|
+
+|<You do not have enough COD Points to play (&&1)>|
+
+|<Invite to Game>|
+
+|<View Challenges for &&1
+^3RIGHT MOUSE^7>|
+
+|<Upgrade to Pro Version
+^3RIGHT MOUSE^7>|
+
+|<Toggle Pro Perks ^3RIGHT MOUSE^7>|
+
+|<Press ^3[{+activate}]^7 to Use Computer>|
+
+|<Use  ^3[{+movestick}]^7 to move>|
+
+|<Use ^3[{+movestick}]^7 to move / strafe>|
+
+|<>|
+
+|<>|
+
+|<Use ^3[{+lookstick}]^7 to aim>|
+
+|<Use  ^3[{+lookstick}]^7  to aim>|
+
+|<Use  ^3[{+movestick}]^7 to move
+>|
+
+|<Use ^3[{+lookstick}]^7 to guide the missile in flight>|
+
+|<Invalid name, already in use, or reserved>|
+
+|<GAME SETTINGS>|
+
+|<MULTIPLAYER SETTINGS>|
+
+|<Use  ^3[{+movestick}]^7 to control the camera>|
+
+|<FIRE (ATTACK)>|
+
+|<TACTICAL BOMB (THROW LETHALS)>|
+
+|<SPEED BOOST (STAND/JUMP)>|
+
+|<Hold ^3[{+back}]^7 to ready sling and release to fire>|
+
+|<Double Tap ^3[{+activate}]^7 to Detonate>|
+
+|<This is the name of your server.>|
+
+|<Indicates the minimum ping required to play on  your server.>|
+
+|<Indicates the maximum ping allowed to play on your server.>|
+
+|<This is the password required to join your server.>|
+
+|<Indicates whether or not voice chat will be enabled on your server.>|
+
+|<FIELD OF VIEW>|
+
+|<SOUND DEVICE>|
+
+|<LAPTOP \ SMALL SPEAKERS>|
+
+|<Use this setting if you are playing with either internal\laptop speakers, or a small external amplified speaker system.>|
+
+|<LARGE EXTERNAL SPEAKERS>|
+
+|<Use this setting if you are playing with bigger powered external speakers.>|
+
+|<HEADPHONES>|
+
+|<Use this setting if you are playing with Headphones.>|
+
+|<Use this setting if you are listening at a quiet volume level.>|
+
+|<Use this setting if you are listening at a loud volume level.>|
+
+|<VALVE ANTI-CHEAT>|
+
+|<Left Mouse = Move>|
+
+|<Left + Right Mouse or Mouse Wheel = Zoom>|
+
+|<Your friends may join your party.>|
+
+|<Note - Gamepad only active during gameplay.>|
+
+|<Could not join match>|
+
+|<View Your Rating>|
+
+|<You have been kicked.>|
+
+|<You need at least one other player in the lobby to start the match.>|
+
+|<Press ^3F10^7 to accept a game invite from ^3&&1^7>|
+
+|<Press ^3[{acceptInvitation}]^7 to accept a game invite from ^3&&1^7.>|
+
+|<Official Ranked Server>|
+
+|<Ranked Server>|
+
+|<Wager Match>|
+
+|<Unranked Server>|
+
+|<&&1 Servers>|
+
+|<Join Reserved>|
+
+|<^1INTERROGATOR: ^7Hudson's mission in Kowloon was accomplished. He had discovered Dragovich's end game. Nova 6. A nerve toxin so deadly, that if exposed you'd be dead before you hit the floor.>|
+
+|<^1MASON: ^7Dragovich's weapon.>|
+
+|<^1INTERROGATOR: ^7Go back to Vietnam, Mason. Was Viktor Reznov still with you after you escaped from the MACV compound?>|
+
+|<^1MASON: ^7Ahh... Reznov was with me the whole time.>|
+
+|<^1INTERROGATOR: ^7Are you sure?>|
+
+|<^1MASON: ^7North, we went North. The Viet Cong. We were shot down. And Reznov even survived that!>|
+
+|<^1MASON: ^7Dragovich's lapdog Kravchenko was there. He knew we were comin'.>|
+
+|<^1MASON: ^7No -->|
+
+|<^1INTERROGATOR: ^7Do not $&#* with me, Mason. I know when you're lying.>|
+
+|<^1INTERROGATOR: ^7'61. Bay of Pigs. What happened?>|
+
+|<^1MASON: ^7[laughs] We all got killed.>|
+
+|<^1INTERROGATOR: ^7There's no use lying, Mason. We know you went in with Woods and Bowman.>|
+
+|<^1MASON: ^7Woods... And Bowman.>|
+
+|<^1INTERROGATOR: ^7Dragovich. Do you remember Dragovich?>|
+
+|<^1MASON: ^7Castro... We went in to kill Castro.>|
+
+|<^1INTERROGATOR: ^7Executive order, Operation Flashpoint... Rip out the heart of their Space Program. Eradicate their long range missile project.>|
+
+|<^1INTERROGATOR: ^7Take out the Ascension Group. Nazis, scientists, co-opted by the Russians after the war.>|
+
+|<^1MASON: ^7Yes... He needed their knowledge. What they'd learned...>|
+
+|<^1INTERROGATOR: ^7Operation 40 had planted a double agent working with the Ascension Group.>|
+
+|<^1MASON: ^7Grigori Weaver. His mission was to sabotage the rocket.>|
+
+|<^1INTERROGATOR: ^7But something went wrong Mason.>|
+
+|<^1MASON: ^7I can't get these $&#**^% numbers out of my head!>|
+
+|<^1MASON: ^7Vorkuta. Reznov told me at Vorkuta.>|
+
+|<^1INTERROGATOR: ^7What did he tell you?>|
+
+|<^1REZNOV: ^7Mason... listen to me...>|
+
+|<^1MASON: ^7It was a long time ago... Far away...>|
+
+|<^1REZNOV: ^7Dragovich. Steiner. Kravchenko. All must die.>|
+
+|<^1MASON: ^7...But he told me what they did.>|
+
+|<^1MASON: ^7What kind of men they were...>|
+
+|<^1MASON: ^7Why they all must die.>|
+
+|<^1INTERROGATOR: ^7The TET Offensive was the beginning of the end. When America really started losing the war.>|
+
+|<^1INTERROGATOR: ^7Inside the MACV compound in Hue City, you established contact with the Russian defector.>|
+
+|<^1MASON: ^7NO!>|
+
+|<^1INTERROGATOR: ^7We know you did. He turned himself in at MACV. You were there, Mason. He had intel on Dragovich. Everything. But it was a lost cause.>|
+
+|<^1MASON: ^7Shut the $&#* up!>|
+
+|<^1INTERROGATOR: ^7The NVA had surrounded the city.  MACV had all but burned to the ground. The defector was surely dead.>|
+
+|<^1MASON: ^7He wasn't dead!>|
+
+|<^1INTERROGATOR: ^7It was a lost cause and you still went in - why?>|
+
+|<^1MASON: ^7His protection team had gone dark. I couldn't accept that he was dead. I needed that $&#**^% dossier!>|
+
+|<^1REZNOV: ^7Mason, my friend... Tell me...>|
+
+|<^1REZNOV: ^7What is left to believe in, when you are betrayed by your own?>|
+
+|<^1REZNOV: ^7When all that you are, all that you have done, is buried beneath the lies and the deceit of corrupt men.>|
+
+|<^1REZNOV: ^7I will die in this wretched place... The only thing that keeps me alive is the thirst for Vengeance.>|
+
+|<^1REZNOV: ^7They must be stopped, Mason.>|
+
+|<^1REZNOV: ^7Dragovich... Steiner... Kravchenko... All MUST die...>|
+
+|<^1INTERROGATOR: ^7Take us back again, Mason. After Baikonur, where did Washington send you next?>|
+
+|<^1MASON: ^7Vietnam. $&#**^% Khe Sanh.>|
+
+|<^1INTERROGATOR: ^7This was in 1968?>|
+
+|<^1MASON: ^7Yeah. I was part of the SOG unit led by Frank Woods. It was recon on covert Russian activity in Laos.>|
+
+|<^1INTERROGATOR: ^7What about your CIA handler, Hudson. Was he in Khe Sanh? Do you remember him there?>|
+
+|<^1MASON: ^7Hudson... [laughs] Yeah. Mr. Shades. That guy was an ice cube.>|
+
+|<^1INTERROGATOR: ^7We have the dossier that the defector gave you at MACV.>|
+
+|<^1INTERROGATOR: ^7We've ID'd all of Dragovich's men. Kravchenko, Steiner, Clarke.>|
+
+|<^1INTERROGATOR: ^7You know them. Masterminds of Project Nova.>|
+
+|<^1MASON: ^7Nova 6. Reznov called it Nova 6.>|
+
+|<^1MASON: ^7Dragovich...>|
+
+|<^1INTERROGATOR: ^7What do you know about Doctor Clarke?>|
+
+|<^1INTERROGATOR: ^7We know that Clarke was the chemical engineer who helped formulated Nova 6. Malignant narcissist. Degenerate prodigy.>|
+
+|<^1INTERROGATOR: ^7Your handler Jason Hudson was sent to Kowloon to interrogate Clarke. Do you remember?>|
+
+|<^1MASON: ^7Why keep asking? You already know everything.>|
+
+|<^1INTERROGATOR: ^7No Mason. We don't know what the numbers mean. We don't know where they're broadcast from.>|
+
+|<^1MASON: ^7Why don't you ask Hudson? Kowloon was his mission. He interrogated Clarke.>|
+
+|<^1INTERROGATOR: ^7After your escape, you were assigned to Jason Hudson at the CIA. How could he trust you when he knew that Viktor Reznov helped you break out of Vorkuta?>|
+
+|<^1MASON: ^7Reznov...was my friend...but he didn't make it out.>|
+
+|<^1INTERROGATOR: ^7Viktor Reznov was a communist. How did the CIA know you weren't compromised?>|
+
+|<^1MASON: ^7They tested me. They knew I wouldn't break and I won't break now.>|
+
+|<^1INTERROGATOR: ^7The government wanted Dragovich. They wanted you to kill him.>|
+
+|<^1MASON: ^7Yeah, and there were others. Others I was supposed to kill.>|
+
+|<^1INTERROGATOR: ^7Who? Who, Mason?>|
+
+|<^1INTERROGATOR: ^7Dragovich has fully weaponized and deployed Nova 6. He has sleeper cell agents all over the US just waiting for the signal...>|
+
+|<^1MASON: ^7[interrupts] We've been invaded.>|
+
+|<^1INTERROGATOR: ^7The US was invaded decades ago Mason. The communists have been waiting. Now they're ready to strike.>|
+
+|<^1MASON: ^7What the $&#* am I supposed to do?>|
+
+|<^1INTERROGATOR: ^7You know about the sleeper cells...>|
+
+|<^1MASON: ^7I'm trying to help you.>|
+
+|<^1INTERROGATOR: ^7Dragovich uses number sequences to communicate with the sleeper cells. Those numbers are broadcast from one location, Mason.>|
+
+|<^1MASON: ^7Why the Hell do you think I know where it is?>|
+
+|<^1INTERROGATOR: ^7You were in Vorkuta, Mason. We know what happens at Vorkuta. They programmed you. You can translate the codes.>|
+
+|<^1MASON: ^7But Reznov was never...>|
+
+|<^1INTERROGATOR: ^7STOP! Mason. We are on the brink of war. Where is the broadcast station? Where is the broadcast station?>|
+
+|<^1MASON: ^7Dragovich had us like rats in cages...>|
+
+|<^1INTERROGATOR: ^7Mason! We're losing him.>|
+
+|<^1MASON: ^7We are all brothers...we are all prisoners...Laos...>|
+
+|<^1INTERROGATOR: ^7He's gone.>|
+
+|<^1INTERROGATOR: ^7Dragovich's sleeper cells are on US soil. Nova 6 is weaponized. They will use it. Moscow has gone dark. We are out of options. A pre-emptive strike on Russia is prepared. The President WILL authorize.>|
+
+|<^1INTERROGATOR: ^7Mason! For the last time! Where is the numbers station?!>|
+
+|<^1MASON: ^7How many times!... Steiner was at Rebirth Island. We had to kill Steiner.>|
+
+|<^1INTERROGATOR: ^7We? Viktor Reznov?>|
+
+|<^1MASON: ^7We wanted the same thing. The same.>|
+
+|<^1INTERROGATOR: ^7We're losing him again. Aw, God... He's back at Rebirth.>|
+
+|<^1INTERROGATOR: ^7You were in the Mekong, heading North to Kravchenko's compound. You were heading for Laos.>|
+
+|<^1MASON: ^7Laos... Kravchenko... The $&#**^% psycho was spraying nerve gas all over Vietnam. I had to kill him! Do you understand? I have to kill 'em all.>|
+
+|<^1INTERROGATOR: ^7Laos! Mason! You were heading up the Mekong River into Laos. You received word from Jason Hudson. What did he tell you?>|
+
+|<^1MASON: ^7My handler, Hudson.>|
+
+|<^1MASON: ^7The CIA downed a Soviet cargo plane carrying Nova 6. It... It went down in Laos. Our SOG team went in.>|
+
+|<^1INTERROGATOR: ^7What happened?>|
+
+|<^1MASON: ^7I...keep...hearing...the $&#**^%...numbers...>|
+
+|<^1INTERROGATOR: ^7It's a broadcast, Mason. The broadcast.>|
+
+|<^1INTERROGATOR: ^7You killed Kravchenko. You obliterated their base. Mason?>|
+
+|<^1INTERROGATOR: ^7Woods and Bowman were both killed. Your entire SOG team, wiped out. Only you survived, Mason. You. No one else.>|
+
+|<^1MASON: ^7No, Reznov surivived.>|
+
+|<^1INTERROGATOR: ^7Just you Mason.>|
+
+|<^1MASON: ^7No, no... Reznov is still with me...since Vorkuta.>|
+
+|<^1KENNEDY: ^7We are in grave danger from the communists. Our freedom... Our very way of life is at risk.>|
+
+|<^1DRAGOVICH: ^7Our plan to strike at the very heart of the West is now in motion.>|
+
+|<^1REZNOV: ^7He must be stopped, Mason.>|
+
+|<^1MCNAMARA: ^7He has no fear. No conscience. No weakness.>|
+
+|<^1STEINER: ^7All across America, Dragovich has sleeper cells waiting for the signal to release the Nova 6.>|
+
+|<^1KENNEDY: ^7I'm told that you are the very best that we have. Anywhere.>|
+
+|<^1REZNOV: ^7Dragovich... Kravchenko... Steiner...>|
+
+|<^1KENNEDY: ^7You will need to be.>|
+
+|<^1REZNOV: ^7These 'men' must die...>|
+
+|<^1KENNEDY: ^7Mr. Mason...>|
+
+|<^1INTERROGATOR: ^7Why didn't Castro just kill you? Why did he give you to Dragovich?>|
+
+|<^1MASON: ^7Cause, Castro and Dragovich were working together.>|
+
+|<^1INTERROGATOR: ^7Eh... You were a gift.>|
+
+|<^1MASON: ^7Eh... Right...>|
+
+|<^1INTERROGATOR: ^7Where did Dragovich take you?>|
+
+|<^1MASON: ^7Vorkuta...had to fight...just to survive.>|
+
+|<^1INTERROGATOR: ^7What happened in Vorkuta, Mason?>|
+
+|<^1MASON: ^7I was on my own -- almost a year.>|
+
+|<^1INTERROGATOR: ^7Think, Mason...what did they do to you?>|
+
+|<^1MASON: ^7I'd given up hope of ever getting out...but Viktor Reznov found a way.>|
+
+|<^1INTERROGATOR: ^7Jason Hudson led the attack on Yamantau.>|
+
+|<^1MASON: ^7Yeah. 20 degrees below zero. $&#**^% ice cube was in his element.>|
+
+|<^1INTERROGATOR: ^7You were captured by Dragovich a second time. Your unit was MIA in Laos, presumed dead. Your handler, Hudson, had no choice but to continue the hunt for Nova 6 without you -->|
+
+|<^1MASON: ^7He went to Mt. Yamantau -- $&#**^% Soviet doomsday bunker -->|
+
+|<^1INTERROGATOR: ^7That's right. A fully operational military complex buried deep in the Ural Mountains.>|
+
+|<^1MASON: ^7That's where Hudson was contacted by Friedrich Steiner -- the Nazi scientist that developed the initial strain of Nova 6 for Dragovich -->|
+
+|<^1INTERROGATOR: ^7Hudson learned about the numbers there. The broadcasts -- I've been there, Mason. I've been to the Yamantau complex.>|
+
+|<^1MASON: ^7My God... The numbers are REAL...>|
+
+|<^1INTERROGATOR: ^7They've always been real, Mason. This isn't a game. We face annihilation unless you cooperate. Where is the broadcast station?!>|
+
+|<^1KENNEDY: ^7For time and the world do not stand still. Change is the law of life. And those who look only to the past or the present are certain to miss the future.>|
+
+|<^1KENNEDY: ^7I said, 'are certain to miss the future'!>|
+
+|<^1CASTRO: ^7[laughs] Coño... I missed that.>|
+
+|<^1MCNAMARA: ^7Prime Minister Castro, this missile crisis was the last straw. We almost blew ourselves up. Now we invited you here today...>|
+
+|<^1KENNEDY: ^7In good faith!>|
+
+|<^1MCNAMARA: ^7...in good faith, to sort this thing out.>|
+
+|<^1CASTRO: ^7And why is he here? He lost!>|
+
+|<^1KENNEDY: ^7As I always say, forgive your enemies, but remember their names. >|
+
+|<^1KENNEDY: ^7Now gentlemen, as I like to think, in the long history of the world, that there are only a few generations...>|
+
+|<^1NIXON: ^7Sounds like someone breaking in...>|
+
+|<^1KENNEDY: ^7Just the storm, Dick. Sit down.>|
+
+|<^1NIXON: ^7Oh my God!>|
+
+|<^1MCNAMARA: ^7It appears the Pentagon has been breached.>|
+
+|<^1KENNEDY: ^7Zombies. Gentlemen, at times like these our capacity to retaliate must be and has to be massive, to deter all forms of aggression.>|
+
+|<^1KENNEDY: ^7Gentlemen, lock and load!>|
+
+|<^1CASTRO: ^7Viva la Revolucion.>|
+
+|<^1MCNAMARA: ^7Any last words, Mr. President?>|
+
+|<^1NIXON: ^7Yes Jack, any superlative words of inspiration for your humble troops?>|
+
+|<^1KENNEDY: ^7Do not pray for easy lives, my friends. Pray to be stronger men.>|
+
+|<^1RICHTOFAN: ^7[static] Entry 741021!>|
+
+|<^1RICHTOFAN: ^7Perhaps the station will hold the key to the real goals of group 935. I still do not trust my unconventional allies, but they are of great use to me. But, I digress. >|
+
+|<^1RICHTOFAN: ^7Who would have thought the MDT was capable of time travel.
+How many stations does this group have? Where did that little girl disappear to? >|
+
+|<^1RICHTOFAN: ^7Only time will tell what new questions await us in this... THEATER OF THE DAMNED! [static]>|
+
+|<OR>|
+
+|<UNBOUND>|
+
+|<TAB>|
+
+|<ENTER>|
+
+|<ESCAPE>|
+
+|<SPACE>|
+
+|<BACKSPACE>|
+
+|<UP ARROW>|
+
+|<DOWN ARROW>|
+
+|<LEFT ARROW>|
+
+|<RIGHT ARROW>|
+
+|<ALT>|
+
+|<CTRL>|
+
+|<SHIFT>|
+
+|<CAPS LOCK>|
+
+|<INS>|
+
+|<DEL>|
+
+|<PAGE DOWN>|
+
+|<PAGE UP>|
+
+|<HOME>|
+
+|<END>|
+
+|<LEFT MOUSE>|
+
+|<RIGHT MOUSE>|
+
+|<MIDDLE MOUSE>|
+
+|<MOUSE 4>|
+
+|<MOUSE 5>|
+
+|<WHEEL UP>|
+
+|<WHEEL DOWN>|
+
+|<JOYSTICK 1>|
+
+|<JOYSTICK 2>|
+
+|<JOYSTICK 3>|
+
+|<JOYSTICK 4>|
+
+|<JOYSTICK 5>|
+
+|<JOYSTICK 6>|
+
+|<JOYSTICK 7>|
+
+|<JOYSTICK 8>|
+
+|<JOYSTICK 9>|
+
+|<JOYSTICK 10>|
+
+|<JOYSTICK 11>|
+
+|<JOYSTICK 12>|
+
+|<JOYSTICK 13>|
+
+|<JOYSTICK 14>|
+
+|<JOYSTICK 15>|
+
+|<JOYSTICK 16>|
+
+|<JOYSTICK 17>|
+
+|<JOYSTICK 18>|
+
+|<JOYSTICK 19>|
+
+|<JOYSTICK 20>|
+
+|<JOYSTICK 21>|
+
+|<JOYSTICK 22>|
+
+|<JOYSTICK 23>|
+
+|<JOYSTICK 24>|
+
+|<JOYSTICK 25>|
+
+|<JOYSTICK 26>|
+
+|<JOYSTICK 27>|
+
+|<JOYSTICK 28>|
+
+|<JOYSTICK 29>|
+
+|<JOYSTICK 30>|
+
+|<JOYSTICK 31>|
+
+|<JOYSTICK 32>|
+
+|<AUXILIARY 1>|
+
+|<AUXILIARY 2>|
+
+|<AUXILIARY 3>|
+
+|<AUXILIARY 4>|
+
+|<AUXILIARY 5>|
+
+|<AUXILIARY 6>|
+
+|<AUXILIARY 7>|
+
+|<AUXILIARY 8>|
+
+|<AUXILIARY 9>|
+
+|<AUXILIARY 10>|
+
+|<AUXILIARY 11>|
+
+|<AUXILIARY 12>|
+
+|<AUXILIARY 13>|
+
+|<AUXILIARY 14>|
+
+|<AUXILIARY 15>|
+
+|<AUXILIARY 16>|
+
+|<F1>|
+
+|<F2>|
+
+|<F3>|
+
+|<F4>|
+
+|<F5>|
+
+|<F6>|
+
+|<F7>|
+
+|<F8>|
+
+|<F9>|
+
+|<F10>|
+
+|<F11>|
+
+|<F12>|
+
+|<KP HOME>|
+
+|<KP UP ARROW>|
+
+|<KP PAGE UP>|
+
+|<KP LEFT ARROW>|
+
+|<KP 5>|
+
+|<KP RIGHT ARROW>|
+
+|<KP END>|
+
+|<KP DOWN ARROW>|
+
+|<KP PAGE DOWN>|
+
+|<KP ENTER>|
+
+|<KP INS>|
+
+|<KP DEL>|
+
+|<KP SLASH>|
+
+|<KP MINUS>|
+
+|<KP PLUS>|
+
+|<NUM LOCK>|
+
+|<KP STAR>|
+
+|<KP EQUALS>|
+
+|<PAUSE>|
+
+|<SEMICOLON>|
+
+|<COMMAND>|
+
+|<Motion Sensor>|
+
+|<Tactical ground-based sensor that detects enemy movement within its radius.>|
+
+|<AK47>|
+
+|<AK47 ACOG>|
+
+|<Fully automatic with high power. Effective at medium range.>|
+
+|<AK47 Multiple Attachments>|
+
+|<AK47 Dual Mag>|
+
+|<AK47 Red Dot>|
+
+|<AK47 Extended Mag>|
+
+|<AK47 Flamethrower>|
+
+|<AK47 Grenade Launcher>|
+
+|<AK47 Grip>|
+
+|<AK47 IR>|
+
+|<AK47 Masterkey>|
+
+|<AK47 Reflex>|
+
+|<AK47 Suppressor>|
+
+|<AK74u>|
+
+|<AK74u ACOG>|
+
+|<Fully automatic with high power. Effective at short to medium range.>|
+
+|<AK74u Multiple Attachments>|
+
+|<AK74u Dual Mag>|
+
+|<AK74u Red Dot>|
+
+|<AK74u Extended Mag>|
+
+|<AK74u Grenade Launcher>|
+
+|<AK74u Grip>|
+
+|<AK74u Reflex>|
+
+|<AK74u Rapid Fire>|
+
+|<AK74u Suppressor>|
+
+|<ASP>|
+
+|<Semi-automatic with low capacity and power. Effective at close range.>|
+
+|<ASP Dual Wield>|
+
+|<AUG>|
+
+|<AUG ACOG>|
+
+|<Fully automatic bullpup rifle. Effective at close to medium range.>|
+
+|<AUG Multiple Attachments>|
+
+|<AUG Dual Mag>|
+
+|<AUG Extended Mag>|
+
+|<AUG Red Dot>|
+
+|<AUG Flamethrower>|
+
+|<AUG Grenade Launcher>|
+
+|<AUG IR>|
+
+|<AUG Masterkey>|
+
+|<AUG Reflex>|
+
+|<AUG Suppressor>|
+
+|<Camera Spike>|
+
+|<China Lake>|
+
+|<Pump action grenade launcher>|
+
+|<Claymore>|
+
+|<Directional anti-personnel mine that triggers a proximity-based explosion.>|
+
+|<Hold ^3&&1^7 to Pick Up Claymore>|
+
+|<Commando>|
+
+|<Commando ACOG>|
+
+|<Fully automatic. Effective at medium to long range.>|
+
+|<Commando Multiple Attachments>|
+
+|<Commando Dual Mag>|
+
+|<Commando Red Dot>|
+
+|<Commando Extended Mag>|
+
+|<Commando Flamethrower>|
+
+|<Commando Grenade Launcher>|
+
+|<Commando IR>|
+
+|<Commando Masterkey>|
+
+|<Commando Reflex>|
+
+|<Commando Suppressor>|
+
+|<Crossbow>|
+
+|<Crossbow ACOG>|
+
+|<Bow mounted on a stock that shoots projectile bolts. Effective at medium to long range.>|
+
+|<Crossbow Explosive Tip>|
+
+|<Bow mounted on a stock that shoots explosive bolts. Effective at medium to long range.>|
+
+|<Crossbow Variable Zoom>|
+
+|<CZ75>|
+
+|<CZ75 Full-Auto>|
+
+|<Semi-automatic with medium capacity and power. Effective at close range.>|
+
+|<CZ75 Multiple Attachments>|
+
+|<CZ75 Dual Wield>|
+
+|<CZ75 Full-Auto Dual Wield>|
+
+|<Semi-automatic dual wielded CZ75 pistols. Effective at close range.>|
+
+|<CZ75 Extended Mag>|
+
+|<CZ75 Suppressor>|
+
+|<CZ75 Upgraded Sights>|
+
+|<Dragunov>|
+
+|<Dragunov ACOG>|
+
+|<Semi-automatic sniper rifle. Effective at long range.>|
+
+|<Dragunov Multiple Attachments>|
+
+|<Dragunov Extended Mag>|
+
+|<Dragunov IR>|
+
+|<Dragunov Suppressor>|
+
+|<Dragunov Variable Zoom>|
+
+|<Enfield>|
+
+|<Enfield ACOG>|
+
+|<Fully-automatic bullpup assault rifle. Effective at medium range.>|
+
+|<Enfield Multiple Attachments>|
+
+|<Enfield Dual Mag>|
+
+|<Enfield Red Dot>|
+
+|<Enfield Extended Mag>|
+
+|<Enfield Flamethrower>|
+
+|<Enfield Grenade Launcher>|
+
+|<Enfield Grip>|
+
+|<Enfield IR>|
+
+|<Enfield Masterkey>|
+
+|<Enfield Reflex>|
+
+|<Enfield Suppressor>|
+
+|<Famas>|
+
+|<Famas ACOG>|
+
+|<Famas Multiple Attachments>|
+
+|<Famas Dual Mag>|
+
+|<Famas Red Dot>|
+
+|<Famas Extended Mag>|
+
+|<Famas Flamethrower>|
+
+|<Famas Grenade Launcher>|
+
+|<Famas Grip>|
+
+|<Famas IR>|
+
+|<Famas Masterkey>|
+
+|<Famas Reflex>|
+
+|<Famas Suppressor>|
+
+|<Flashbang>|
+
+|<Two flash grenades that blind targets, impair hearing, and temporarily disable enemy equipment and turrets.>|
+
+|<Python and Flashlight>|
+
+|<Tokarev and Flashlight>|
+
+|<FN FAL>|
+
+|<FN FAL ACOG>|
+
+|<Single-fire with high power. Effective at medium to long range.>|
+
+|<FN FAL Multiple Attachments>|
+
+|<FN FAL Dual Mag>|
+
+|<FN FAL Red Dot>|
+
+|<FN FAL Extended Mag>|
+
+|<FN FAL Flamethrower>|
+
+|<FN FAL Grenade Launcher>|
+
+|<FN FAL IR>|
+
+|<FN FAL Masterkey>|
+
+|<FN FAL Reflex>|
+
+|<FN FAL Suppressor>|
+
+|<Frag>|
+
+|<Fragmentation grenade that causes lethal radius damage.>|
+
+|<G11>|
+
+|<Experimental three round burst fire. Effective at close to medium range.>|
+
+|<G11 Multiple Attachments>|
+
+|<G11 Low Power Scope>|
+
+|<G11 Variable Zoom>|
+
+|<Galil>|
+
+|<Galil ACOG>|
+
+|<Semi-automatic with three round burst fire. Effective at medium to long range.>|
+
+|<Galil Multiple Attachments>|
+
+|<Galil Dual Mag>|
+
+|<Galil Red Dot>|
+
+|<Galil Extended Mag>|
+
+|<Galil Flamethrower>|
+
+|<Galil Grenade Launcher>|
+
+|<Galil IR>|
+
+|<Galil Masterkey>|
+
+|<Galil Reflex>|
+
+|<Galil Suppressor>|
+
+|<Gas Mask>|
+
+|<Hold ^3&&1^7 to Pick Up Item>|
+
+|<Tomahawk>|
+
+|<Retrievable throwing hatchet that causes instant death on impact.>|
+
+|<Press and Hold^3 &&1 ^7to Pick Up Tomahawk>|
+
+|<Hands>|
+
+|<HK21>|
+
+|<HK21 ACOG>|
+
+|<Fully automatic with high power. Effective at medium to long range.>|
+
+|<HK21 Multiple Attachments>|
+
+|<HK21 Red Dot>|
+
+|<HK21 Drum Mag>|
+
+|<HK21 IR>|
+
+|<HK21 Reflex>|
+
+|<HS10>|
+
+|<Semi-automatic combat shotgun. Effective at close range.>|
+
+|<HS10 Dual Wield>|
+
+|<Stakeout>|
+
+|<Pump-action combat shotgun. Effective at close range.>|
+
+|<Stakeout Multiple Attachments>|
+
+|<Stakeout Grip>|
+
+|<Kiparis>|
+
+|<Kiparis ACOG>|
+
+|<Fully automatic with high rate of fire. Effective at close range.>|
+
+|<Kiparis Multiple Attachments>|
+
+|<Kiparis Dual Wield>|
+
+|<Fully automatic dual wielded Kiparis guns. Effective at close range.>|
+
+|<Kiparis Red Dot>|
+
+|<Kiparis Extended Mag>|
+
+|<Kiparis Grip>|
+
+|<Kiparis Reflex>|
+
+|<Kiparis Rapid Fire>|
+
+|<Kiparis Suppressor>|
+
+|<Knife>|
+
+|<Ballistic Knife>|
+
+|<A knife that can fire its blade as a projectile.>|
+
+|<Karambit Knife>|
+
+|<Prison Knife>|
+
+|<SOG Knife>|
+
+|<KS-23>|
+
+|<L96A1>|
+
+|<L96A1 ACOG>|
+
+|<Single-fire with high power. Effective at long range.>|
+
+|<L96A1 Multiple Attachments>|
+
+|<L96A1 Extended Mag>|
+
+|<L96A1 IR>|
+
+|<L96A1 Suppressor>|
+
+|<L96A1 Variable Zoom>|
+
+|<Listening Device>|
+
+|<Aircraft Lock-on Required>|
+
+|<M14>|
+
+|<M14 ACOG>|
+
+|<M14 Multiple Attachments>|
+
+|<M14 Red Dot>|
+
+|<M14 Extended Mag>|
+
+|<M14 Flamethrower>|
+
+|<M14 Grenade Launcher>|
+
+|<M14 Grip>|
+
+|<M14 IR>|
+
+|<M14 Masterkey>|
+
+|<M14 Reflex>|
+
+|<M14 Suppressor>|
+
+|<M16>|
+
+|<M16 ACOG>|
+
+|<M16 Multiple Attachments>|
+
+|<M16 Dual Mag>|
+
+|<M16 Red Dot>|
+
+|<M16 Extended Mag>|
+
+|<M16 Flamethrower>|
+
+|<M16 Grenade Launcher>|
+
+|<M16 IR>|
+
+|<M16 Masterkey>|
+
+|<M16 Reflex>|
+
+|<M16 Suppressor>|
+
+|<M1911>|
+
+|<M1911 Multiple Attachments>|
+
+|<M1911 Dual Wield>|
+
+|<Semi-automatic dual wielded M1911 pistols. Effective at close range.>|
+
+|<M1911 Extended Mag>|
+
+|<M1911 Suppressor>|
+
+|<M1911 Upgraded Sights>|
+
+|<Grim Reaper>|
+
+|<Anti-personal free fire and anti-aircraft lock-on semi-auto missile launcher.>|
+
+|<Valkyrie Rockets>|
+
+|<M60>|
+
+|<M60 ACOG>|
+
+|<M60 Big Ammo>|
+
+|<M60 Multiple Attachments>|
+
+|<M60 Red Dot>|
+
+|<M60 Grip>|
+
+|<M60 IR>|
+
+|<M60 Reflex>|
+
+|<M72 LAW>|
+
+|<Rocket launcher.>|
+
+|<MAC11>|
+
+|<MAC11 Multiple Attachments>|
+
+|<MAC11 Dual Wield>|
+
+|<Fully automatic dual wielded Mac11 guns. Effective at close range.>|
+
+|<MAC11 Red Dot>|
+
+|<MAC11 Extended Mag>|
+
+|<MAC11 Grip>|
+
+|<MAC11 Reflex>|
+
+|<MAC11 Rapid Fire>|
+
+|<MAC11 Suppressor>|
+
+|<Makarov>|
+
+|<Makarov Multiple Attachments>|
+
+|<Makarov Dual Wield>|
+
+|<Semi-automatic dual wielded Makarov pistols. Effective at close range.>|
+
+|<Makarov Extended Mag>|
+
+|<Makarov Suppressor>|
+
+|<Makarov Upgraded Sights>|
+
+|<Death Machine>|
+
+|<Model 1887>|
+
+|<Mosin Nagant>|
+
+|<Mosin Nagant Scoped>|
+
+|<MP40 Bling'd>|
+
+|<MP5K>|
+
+|<MP5K ACOG>|
+
+|<Fully automatic with good accuracy. Effective at close to medium range.>|
+
+|<MP5K Multiple Attachments>|
+
+|<MP5K Dual Wield>|
+
+|<Fully automatic dual wielded MP5K guns. Effective at close range.>|
+
+|<MP5K Red Dot>|
+
+|<MP5K Extended Mag>|
+
+|<MP5K Reflex>|
+
+|<MP5K Rapid Fire>|
+
+|<MP5K Suppressor>|
+
+|<MPL>|
+
+|<MPL ACOG>|
+
+|<MPL Multiple Attachments>|
+
+|<MPL Dual Mag>|
+
+|<MPL Dual Wield>|
+
+|<Fully automatic dual wielded MPL guns. Effective at close range.>|
+
+|<MPL Red Dot>|
+
+|<MPL Extended Mag>|
+
+|<MPL Grip>|
+
+|<MPL Reflex>|
+
+|<MPL Rapid Fire>|
+
+|<MPL Suppressor>|
+
+|<No Ammo>|
+
+|<No Equipment Available>|
+
+|<No Lethal Grenades Remaining>|
+
+|<No Smoke Grenades Remaining>|
+
+|<No Tactical Grenades Remaining>|
+
+|<Not Enough Clearance>|
+
+|<Decoy>|
+
+|<Distraction device that simulates enemy gunfire and radar indicators.>|
+
+|<Panzerschreck>|
+
+|<PM63>|
+
+|<PM63 Multiple Attachments>|
+
+|<PM63 Dual Wield>|
+
+|<Fully automatic dual wielded PM63 guns. Effective at close range.>|
+
+|<PM63 Extended Mag>|
+
+|<PM63 Folding Stock>|
+
+|<PM63 Rapid Fire>|
+
+|<PM63 Suppressor>|
+
+|<PPSH>|
+
+|<PSG1>|
+
+|<PSG1 ACOG>|
+
+|<Semi-automatic high power sniper rifle. Effective at long range.>|
+
+|<PSG1 Multiple Attachments>|
+
+|<PSG1 Extended Mag>|
+
+|<PSG1 IR>|
+
+|<PSG1 Suppressor>|
+
+|<PSG1 Variable Zoom>|
+
+|<Python>|
+
+|<Python ACOG>|
+
+|<High powered revolver. Effective at close range.>|
+
+|<Python Multiple Attachments>|
+
+|<Python Dual Wield>|
+
+|<Semi-automatic dual wielded Python pistols. Effective at close range.>|
+
+|<Python Speed Reloader>|
+
+|<Python Snub Nose>|
+
+|<Ray Gun>|
+
+|<Olympia>|
+
+|<Double-barrel over/under shotgun. Effective at medium to close range.>|
+
+|<RPK>|
+
+|<RPK ACOG>|
+
+|<RPK Drum Mag>|
+
+|<Fully automatic with good power and quick fire rate. Effective at medium to long range.>|
+
+|<RPK Multiple Attachments>|
+
+|<RPK Dual Mag>|
+
+|<RPK Red Dot>|
+
+|<RPK IR>|
+
+|<RPK Reflex>|
+
+|<RPK Metal Receiver>|
+
+|<RPG>|
+
+|<The desc that you're looking for is in platform.st.>|
+
+|<Press and Hold^3 &&1 ^7to Pick Up C4>|
+
+|<Jammer>|
+
+|<Electronic jamming device that disables nearby enemy radar and equipment.>|
+
+|<Sentry Gun Airdrop Marker>|
+
+|<Signal Flare>|
+
+|<Skorpion>|
+
+|<Skorpion Multiple Attachments>|
+
+|<Skorpion Dual Wield>|
+
+|<Fully automatic dual wielded Skorpion guns. Effective at close range.>|
+
+|<Skorpion Extended Mag>|
+
+|<Skorpion Grip>|
+
+|<Skorpion Rapid Fire>|
+
+|<Skorpion Suppressor>|
+
+|<Smoke Grenade>|
+
+|<SPAS-12>|
+
+|<Dragon's Breath>|
+
+|<SPAS-12 Multiple Attachments>|
+
+|<SPAS-12 Suppressor>|
+
+|<Spectre>|
+
+|<Spectre ACOG>|
+
+|<Spectre Multiple Attachments>|
+
+|<Spectre Red Dot>|
+
+|<Spectre Extended Mag>|
+
+|<Spectre Grip>|
+
+|<Spectre Rapid Fire>|
+
+|<Spectre Reflex>|
+
+|<Spectre Suppressor>|
+
+|<Sten>|
+
+|<STG44>|
+
+|<Semtex>|
+
+|<Plastic explosive grenade that sticks to targets before detonating.>|
+
+|<Stoner63>|
+
+|<Stoner63 ACOG>|
+
+|<Stoner63 Multiple Attachments>|
+
+|<Stoner63 Extended Mag>|
+
+|<Stoner63 Red Dot>|
+
+|<Stoner63 IR>|
+
+|<Stoner63 Reflex>|
+
+|<Strela-3>|
+
+|<Anti-vehicle, lock-on heatseeking missile launcher.>|
+
+|<Concussion>|
+
+|<Two stun grenades that slow movement, disorient targets, and temporarily disable enemy equipment and turrets.>|
+
+|<Care Package>|
+
+|<Ammo Station Airdrop Marker>|
+
+|<Syrette>|
+
+|<Nova Gas>|
+
+|<A gas grenade that blurs vision, impairs movement and damages health over time.>|
+
+|<Tactical Insertion>|
+
+|<Drop-zone beacon that allows you to place your next spawn point. Unavailable in Free-For-All game modes.>|
+
+|<Target too close>|
+
+|<The Undead Zapper>|
+
+|<Thompson>|
+
+|<Thundergun>|
+
+|<Tokarev>|
+
+|<SAM Airdrop Marker>|
+
+|<Uzi>|
+
+|<Uzi ACOG>|
+
+|<Uzi Multiple Attachments>|
+
+|<Uzi Dual Wield>|
+
+|<Fully automatic dual wielded Uzi guns. Effective at close range.>|
+
+|<Uzi Red Dot>|
+
+|<Uzi Extended Mag>|
+
+|<Uzi Grip>|
+
+|<Uzi Rapid Fire>|
+
+|<Uzi Reflex>|
+
+|<Uzi Suppressor>|
+
+|<WA2000>|
+
+|<WA2000 ACOG>|
+
+|<WA2000 Multiple Attachments>|
+
+|<WA2000 Extended Mag>|
+
+|<WA2000 IR>|
+
+|<WA2000 Suppressor>|
+
+|<WA2000 Variable Zoom>|
+
+|<Walther P38>|
+
+|<Willy Pete>|
+
+|<Smoke screen grenade that causes a small amount of damage on detonation.>|
+
+|<BRAAAINS...>|
+
+|<Select Equipment>|
+
+|<Cannot place turret at this location.>|
+
+|<Hold ^3&&1^7 to Pick Up Knife>|
+
+|<Get &&1 &&2 kills.>|
+
+|<Kill &&1 enemies with this equipment.>|
+
+|<Kill &&1 enemies within 5 seconds of spawning off a Tactical Insertion.>|
+
+|<Get &&1 kills with this weapon attachment.>|
+
+|<Get &&1 kills with this weapon attachment while in ADS.>|
+
+|<Get &&1 Multi-kills with this weapon class.>|
+
+|<Kill &&1 total enemy players or aircraft with this weapon class.>|
+
+|<Kill &&1 enemy players or aircraft with this weapon.>|
+
+|<Kill &&1 enemy aircraft with this weapon.>|
+
+|<Cannot Plant Here>|
+
+|<Cannot equip this weapon while prone.>|
+
+|<autosave>|
+
+|<Begin Game Autosave>|
+
+|<No Name Specified>|
+
+|<"Never in the field of human conflict was so much owed by so many to so few." - Winston Churchill>|
+
+|<"Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill>|
+
+|<"In war there is no prize for the runner-up." - General Omar Bradley>|
+
+|<"There never was a good war or a bad peace." - Benjamin Franklin>|
+
+|<"It is fatal to enter any war without the will to win it." - General Douglas MacArthur>|
+
+|<"In war, you win or lose, live or die-and the difference is just an eyelash." - General Douglas MacArthur>|
+
+|<"Untutored courage is useless in the face of educated bullets." - General George S. Patton>|
+
+|<"May God have mercy upon my enemies, because I won't." - General George S. Patton>|
+
+|<"So long as there are men there will be wars." - Albert Einstein>|
+
+|<"In modern war... you will die like a dog for no good reason." - Ernest Hemingway>|
+
+|<"Therefore, whoever wishes for peace, let him prepare for war." - Vegetius>|
+
+|<"The real war will never get in the books." - Walt Whitman>|
+
+|<"There is nothing good in war. Except its ending." - Abraham Lincoln>|
+
+|<"The death of one man is a tragedy. The death of millions is a statistic." - Joseph Stalin>|
+
+|<"Death solves all problems - no man, no problem." - Joseph Stalin>|
+
+|<"In the Soviet army it takes more courage to retreat than advance." - Joseph Stalin>|
+
+|<"The object of war is not to die for your country but to make the other bastard die for his." - General George S. Patton>|
+
+|<"It is foolish and wrong to mourn the men who died. Rather we should thank God that such men lived." - General George S. Patton>|
+
+|<"Never think that war, no matter how necessary, nor how justified, is not a crime." - Ernest Hemingway>|
+
+|<"War is fear cloaked in courage." - Gen. William C. Westmoreland>|
+
+|<"All wars are civil wars, because all men are brothers." - Francois Fenelon>|
+
+|<"I have never advocated war except as a means of peace." - Ulysses S. Grant>|
+
+|<"Older men declare war. But it is the youth that must fight and die." - Herbert Hoover>|
+
+|<"Only the dead have seen the end of the war." - Plato>|
+
+|<"War does not determine who is right - only who is left." - Bertrand Russell>|
+
+|<"Death is nothing, but to live defeated and inglorious is to die daily." - Napoleon Bonaparte>|
+
+|<"Patriots always talk of dying for their country and never of killing for their country." - Bertrand Russell>|
+
+|<"All that is necessary for evil to succeed is for good men to do nothing." - Edmund Burke, British statesman and philosopher>|
+
+|<"It is well that war is so terrible, or we should get too fond of it." - Robert E. Lee>|
+
+|<"A soldier will fight long and hard for a bit of colored ribbon." - Napoleon Bonaparte>|
+
+|<"He who fears being conquered is sure of defeat." - Napoleon Bonaparte>|
+
+|<"You must not fight too often with one enemy, or you will teach him all your art of war." - Napoleon Bonaparte>|
+
+|<"The real and lasting victories are those of peace, and not of war." - Ralph Waldo Emerson>|
+
+|<"If we don't end war, war will end us." - H. G. Wells>|
+
+|<"From my rotting body, flowers shall grow and I am in them and that is eternity." - Edvard Munch>|
+
+|<"He who did well in war just earns the right to begin doing well in peace." - Robert Browning>|
+
+|<"More than an end to war, we want an end to the beginnings of all wars." - Franklin D. Roosevelt>|
+
+|<"There is nothing so likely to produce peace as to be well prepared to meet the enemy." - George Washington>|
+
+|<"Never yield to force; never yield to the apparently overwhelming might of the enemy." - Winston Churchill>|
+
+|<"War is delightful to those who have not experienced it." - Erasmus>|
+
+|<"War is as much a punishment to the punisher as it is to the sufferer." - Thomas Jefferson>|
+
+|<"War would end if the dead could return." - Stanley Baldwin>|
+
+|<"You can't say civilization don't advance - for in every war, they kill you in a new way." - Will Rogers>|
+
+|<"In peace the sons bury their fathers, but in war the fathers bury their sons." - Croesus>|
+
+|<"We make war that we may live in peace." - Aristotle>|
+
+|<"The quickest way of ending a war is to lose it." - George Orwell>|
+
+|<"The only winner in the War of 1812 was Tchaikovsky." - Solomon Short>|
+
+|<"If you are going through hell...keep going." - Winston Churchill>|
+
+|<"In peace, as a wise man, he should make suitable preparation for war." - Horace>|
+
+|<"War is cruel and you cannot refine it." - William Tecumseh Sherman>|
+
+|<"In war, there are no unwounded soldiers." - Jose Narosky>|
+
+|<"The essence of war is violence. Moderation in war is imbecility." - John Arbuthnot Fisher>|
+
+|<"Soldiers usually win the battles and generals get the credit for them." - Napoleon Bonaparte>|
+
+|<"I don't know whether war is an interlude during peace, or peace is an interlude during war." - Georges Clemenceau>|
+
+|<"No one can guarantee success in war, but only deserve it." - Winston Churchill>|
+
+|<"The military don't start wars. Politicians start wars." - Gen. William Westmoreland>|
+
+|<"If you know the enemy and know yourself, you need not fear the result of a hundred battles." - Sun-Tzu>|
+
+|<"In war, truth is the first casualty." - Aeschylus>|
+
+|<"All warfare is based on deception." - Sun Tzu>|
+
+|<"A leader leads by example not by force." - Sun Tzu>|
+
+|<"Let your plans be dark and as impenetratable as night, and when you move, fall like a thunderbolt." - Sun Tzu>|
+
+|<"We sleep safely in our beds because rough men stand ready in the night to visit violence on those who would harm us." - George Orwell>|
+
+|<"If a man does his best, what else is there?" - General George S. Patton>|
+
+|<"There are only two forces in the world, the sword and the spirit. In the long run the sword will always be conquered by the spirit." - Napoleon Bonaparte>|
+
+|<"When the pin is pulled, Mr. Grenade is not our friend." - U.S. Army Training Notice>|
+
+|<"Some people live an entire lifetime and wonder if they have ever made a difference in the world, but the Marines don't have that problem." - Ronald Reagan>|
+
+|<"Freedom is not free, but the U.S. Marine Corps will pay most of your share." - Ned Dolan>|
+
+|<"The deadliest weapon in the world is a Marine and his rifle!" - General John J. Pershing>|
+
+|<"It is generally inadvisable to eject directly over the area you just bombed." - U.S. Air Force Manual>|
+
+|<"Five second fuses only last three seconds." - Infantry Journal>|
+
+|<"Anyone, who truly wants to go to war, has never truly been there before!" - Larry Reeves>|
+
+|<"Tracers work both ways." - U.S. Army Ordnance>|
+
+|<"If the enemy is in range, so are you." - Infantry Journal>|
+
+|<"Try to look unimportant; they may be low on ammo." - Infantry Journal>|
+
+|<"If your attack is going too well, you're walking into an ambush." - Infantry Journal>|
+
+|<"The truth of the matter is that you always know the right thing to do. The hard part is doing it." - General Norman Schwarzkopf>|
+
+|<"Any soldier worth his salt should be anti-war. And yet there are things still worth fighting for." - General Norman Schwarzkopf>|
+
+|<"If we can't persuade nations with comparable values of the merits of our cause, we'd better reexamine our reasoning." - Robert McNamara>|
+
+|<"Friendly fire - isn't." - Unknown>|
+
+|<"Teamwork is essential, it gives them other people to shoot at." - Unknown>|
+
+|<"Incoming fire has the right of way." - Unknown>|
+
+|<"The bursting radius of a hand-grenade is always one foot greater than your jumping range." - Unknown>|
+
+|<"A ship without Marines is like a garment without buttons." - Admiral David D. Porter, USN>|
+
+|<"I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones." - Albert Einstein>|
+
+|<"Mankind must put an end to war, or war will put an end to mankind." - John F. Kennedy>|
+
+|<"My first wish is to see this plague of mankind, war, banished from the earth." - George Washington>|
+
+|<"Nearly all men can stand adversity, but if you want to test a man's character, give him power." - Abraham Lincoln>|
+
+|<You are a traitor to your brothers!>|
+
+|<Friendly fire will not be tolerated!>|
+
+|<You shot a team mate!>|
+
+|<The star on your compass marks your next objective>|
+
+|<Destroy the 'Flakpanzer' Anti-Aircraft Tanks. [&&1 remaining]>|
+
+|<Debrief with Captain Foley at the crossroads.>|
+
+|<This door cannot be opened. You never need to try to open closed doors.>|
+
+|<EXPLOSIVES PLANTED. STAND BACK!>|
+
+|<To pickup ammo from another weapon, walk close to it or look at it and press USE^3 &&1^7.>|
+
+|<You move slower while leaning.>|
+
+|<You can't carry anymore grenades.>|
+
+|<Picked up some Stielhandgranates.>|
+
+|<Look for the glowing marker on the German anti-aircraft vehicle.>|
+
+|<Clear the building with the Machine Guns in it.>|
+
+|<Take the left flank.>|
+
+|<Click FIRE to Skip.>|
+
+|<Use the Panzerfaust anti-tank weapons behind the bunker to destroy the tanks.>|
+
+|<You are too far from your radio man to use artillery.>|
+
+|<Eliminate the Flak 88 crews.>|
+
+|<Eliminate the Flak 88 crews. [&&1 remaining]>|
+
+|<You were killed by an explosive bolt.>|
+
+|<You were killed by a grenade.
+Watch out for the grenade danger indicator.>|
+
+|<You died holding a grenade for too long.>|
+
+|<Holding ^3[{+frag}]^7 allows you to cook off live grenades.>|
+
+|<You were killed by an exploding vehicle.
+Vehicles on fire are likely to explode.>|
+
+|<You were killed by an exploding barrel.
+Red barrels will explode when shot.>|
+
+|<x2>|
+
+|<x3>|
+
+|<+>|
+
+|<->|
+
+|<+%s>|
+
+|<-%s>|
+
+|<+$>|
+
+|<-$>|
+
+|<$>|
+
+|<Press and hold^3 &&1 ^7to secure the enemy intelligence.>|
+
+|<You have found enemy intel.>|
+
+|<&&1/30 pieces of enemy intel found.>|
+
+|<&&1/45 pieces of enemy intel found.>|
+
+|<&&1/60 pieces of enemy intel found.>|
+
+|<You have found &&1 enemy intel pts.>|
+
+|<&&1 pieces of enemy intel remain.>|
+
+|<&&1 piece of enemy intel remains.>|
+
+|<End of current level.>|
+
+|<Press ^3[{+actionslot 2}]^7 to use C4.>|
+
+|<Press ^3[{+actionslot 1}]^7 to use Night Vision Goggles.>|
+
+|<Press ^3[{+actionslot 1}]^7 to disable Night Vision Goggles.>|
+
+|<Press ^3[{+actionslot 3}]^7 to use the M203 Grenade Launcher.>|
+
+|<Close Air Support standing by!>|
+
+|<Close Air Support standing by! Press ^3[{+actionslot 4}]^7.>|
+
+|<Armor can only be damaged
+by C4 and rockets.>|
+
+|<Press ^3[{+gostand}]^7 to >|
+
+|<Press ^3[{weapnext}]^7 to switch to your M21 Sniper Rifle>|
+
+|<Press ^3[{+actionslot 4}]^7 to use claymores.>|
+
+|<Press and hold^3 &&1 ^7to use>|
+
+|<Avoid the radiation zones.
+Listen for the clicks of the Geiger counter.>|
+
+|<Pull ^3[{+attack}]^7 to plant claymores.>|
+
+|<:>|
+
+|<Press ^3[{+throw}]^7 to throw C4.>|
+
+|<Press ^3[{+toggleads_throw}]^7 to throw C4.>|
+
+|<Pull ^3[{+speed_throw}]^7 to throw C4.>|
+
+|<Press ^3[{+speed_throw}]^7 to throw C4.>|
+
+|<Difficulty Bonus>|
+
+|<x&&1>|
+
+|<Round Bonus>|
+
+|<x>|
+
+|<You are one suicide away from getting kicked>|
+
+|<You have been penalized for committing suicide>|
+
+|<You were kicked for committing too many suicides>|
+
+|<WARNING: You will be kicked for a low negative score>|
+
+|<&&1 was kicked>|
+
+|<Mission Score>|
+
+|<Bonus Completed>|
+
+|<Bonus Expired>|
+
+|<NEW HIGH SCORE!>|
+
+|<TOTAL SCORE:>|
+
+|<TIME REMAINING:>|
+
+|<Hardest to Kill +&&1>|
+
+|<Most Revives +&&1>|
+
+|<Most Headshots +&&1>|
+
+|<You were killed by a tank shell!>|
+
+|<Press ^3[{+melee}]^7 to melee>|
+
+|<Hold ^3[{+activate}]^7 to open door>|
+
+|<Hold^3 &&1 ^7to acquire Intel>|
+
+|<Intel Acquired>|
+
+|<Found %1 of %2 intel.>|
+
+|<You shot a civilian, watch your fire!>|
+
+|<You were killed by a moving vehicle.>|
+
+|<Press^3 &&1 ^7to see your objectives.>|
+
+|<Double tap [&&1] to go prone>|
+
+|<Hold down [&&1] to go prone>|
+
+|<Press^3 &&1 ^7to aim down the sight>|
+
+|<Hold down [&&1] to aim down the sight>|
+
+|<Press^3 &&1 ^7to stand up from prone>|
+
+|<Double tap [&&1] to stand from prone>|
+
+|<Press^3 &&1 ^7to switch to grenades>|
+
+|<Press^3 &&1 ^7to do a melee attack>|
+
+|<Wait for the dog to bite to grab its throat. ^3([{+melee}])^7 >|
+
+|<Melee the dog before it bites to grab its throat. ^3([{+melee}])^7 >|
+
+|<Melee the dog right when it bites to grab its throat. ^3([{+melee}])^7 >|
+
+|<Press ^3([{+melee}])^7>|
+
+|<Look at the explosives spot and press^3 &&1 ^7to plant the explosives.>|
+
+|<Press USE^3 &&1 ^7to lean out of the window>|
+
+|<Look at your first objective and press USE^3 &&1 ^7to retrieve>|
+
+|<Press your Move Left key^3 &&1 ^7to move left.>|
+
+|<Press your Move Right key^3 &&1 ^7to move right.>|
+
+|<Press your Move Forward key^3 &&1 ^7to move forward.>|
+
+|<Press your Move Back key^3 &&1 ^7to move backwards.>|
+
+|<Press^3 &&1 ^7to check your current objective.>|
+
+|<You now have two weapons. Press^3 &&1 ^7to switch to your second weapon.>|
+
+|<Press^3 &&1 ^7to switch to your grenades.>|
+
+|<Approach the cinder block wall and press your USE key^3 &&1 ^7to plant the explosives.>|
+
+|<Press^3 &&1 ^7to crouch.>|
+
+|<Press^3 &&1 ^7a second time to stand up from crouch.>|
+
+|<Hold down [&&1] to crouch.>|
+
+|<Press^3 &&1 ^7to switch from crouch from prone.>|
+
+|<Press^3 &&1 ^7to stand up.>|
+
+|<Let go of [&&1] to stop crouching.>|
+
+|<If this makes you go prone, double tap [&&1].>|
+
+|<Double tap [&&1] to stand up from crouch.>|
+
+|<Single tap [&&1] to stand from crouch.>|
+
+|<Let go of [&&1] to come out of prone.>|
+
+|<Press^3 &&1 ^7a second time to stop aiming down the sight.>|
+
+|<Press^3 &&1 ^7to switch to your first weapon.>|
+
+|<Press^3 &&1 ^7to switch to your second weapon.>|
+
+|<HOLD USE [&&1] to swap your current weapon for another that you are looking at.>|
+
+|<To pickup a weapon, look at it and press USE^3 &&1 ^7.>|
+
+|<While standing, press^3 &&1 ^7to jump.>|
+
+|<Hold down [&&1] to lean to the left.>|
+
+|<Hold down [&&1] to lean to the right.>|
+
+|<Press^3 &&1 ^7to pick up the grenades.>|
+
+|<Press^3 &&1 ^7to plant the explosives.>|
+
+|<Press^3 &&1 ^7to pick up the documents.>|
+
+|<Press^3 &&1 ^7to pick up the explosives.>|
+
+|<Press^3 &&1 ^7to pick up the patrol log.>|
+
+|<Press^3 &&1 ^7to activate the elevator.>|
+
+|<Press^3 &&1 ^7to reload at any time.>|
+
+|<Look through your binoculars by pressing^3 &&1 ^7.>|
+
+|<Press^3 &&1 ^7to take the explosives.>|
+
+|<Press ^3[{+binoculars}]^7 to look through your binoculars and direct artillery.>|
+
+|<Press ^3[{+breath_binoculars}]^7 to look through your binoculars and direct artillery.>|
+
+|<Press ^3[{+activate}]^7 to call in Artillery.>|
+
+|<Press^3 &&1 ^7>|
+
+|<Press^3 &&1 ^7to pickup the Panzerschreck.>|
+
+|<Press^3 &&1 ^7to use the radio.>|
+
+|<Press^3 &&1 ^7to plant the IR beacon.>|
+
+|<To plant C4, approach the glowing objective marker and hold ^3[{+activate}]^7.>|
+
+|<Hold^3 &&1 ^7to pickup the pilot.>|
+
+|<Hold^3 &&1 ^7to rappel.>|
+
+|<Throw smoke ^3[{+smoke}]^7 to safely approach the enemy vehicle.>|
+
+|<Approach the pilot and hold ^3[{+activate}]^7 to pull her out.>|
+
+|<Hold down^3 &&1 ^7to pick up the detonator.>|
+
+|<Press and hold ^3[{+speed_throw}]^7 to spool up the minigun.>|
+
+|<Use ^3[{+melee}]^7 to start or stop Slow-Mo.>|
+
+|<Press ^3[{+attack}]^7 to give attack coordinates.>|
+
+|<Stab the banzai attacker after he knocks you down. ^3([{+melee}])^7>|
+
+|<Stab the banzai attacker before he stabs you. ^3([{+melee}])^7>|
+
+|<Stab the banzai attacker when he's about to stab you. ^3([{+melee}])^7>|
+
+|<Press ^3[{gocrouch}]^7 to crouch.>|
+
+|<Press and hold ^3[{+activate}]^7 to get off tank>|
+
+|<Crusader Tank>|
+
+|<Buffalo>|
+
+|<Sherman Tank>|
+
+|<Armored Car>|
+
+|<drones: [&&1]>|
+
+|<allies: [&&1]>|
+
+|<axis: [&&1]>|
+
+|<total: [&&1]>|
+
+|<Position:>|
+
+|<Lander touchdown, ready to use>|
+
+|<Lunar Launch in >|
+
+|<Calling Lunar Lander to Location >|
+
+|<Chainsaw Mayhem!!!>|
+
+|<Life lost, reviving player>|
+
+|<Extra life awarded
+>|
+
+|<Transporter activated>|
+
+|<Transporter waitng for all players>|
+
+|<Zipline must be activated before use>|
+
+|<Press^3 &&1 ^7for a Random Weapon [Cost: 950]>|
+
+|<Hold ^3[{+activate}]^7 Weapon [&&1], Ammo [&&2]>|
+
+|<Hold ^3[{+activate}]^7 Weapon [&&1], Ammo [&&2],   
+             Upgraded Ammo [4500]>|
+
+|<Let The Onslaught Begin>|
+
+|<Onslaught Survived>|
+
+|<Round>|
+
+|<UNDEFINED!! PLEASE SET THE SCRIPT_HINT ON THE ENT PROPERLY!>|
+
+|<Hold ^3&&1^7 to buy back Barrier [Cost: 10]>|
+
+|<Hold ^3&&1^7 to buy back Barrier [Cost: 20]>|
+
+|<Hold ^3&&1^7 to buy back Barrier [Cost: 50]>|
+
+|<Hold ^3&&1^7 to buy back Barrier [Cost: 100]>|
+
+|<Hold ^3&&1^7 to Clear Debris [Cost: 100]>|
+
+|<Hold ^3&&1^7 to Clear Debris [Cost: 200]>|
+
+|<Hold ^3&&1^7 to Clear Debris [Cost: 250]>|
+
+|<Hold ^3&&1^7 to Clear Debris [Cost: 500]>|
+
+|<Hold ^3&&1^7 to Clear Debris [Cost: 750]>|
+
+|<Hold ^3&&1^7 to Clear Debris [Cost: 1000]>|
+
+|<Hold ^3&&1^7 to Clear Debris [Cost: 1250]>|
+
+|<Hold ^3&&1^7 to Clear Debris [Cost: 1500]>|
+
+|<Hold ^3&&1^7 to Clear Debris [Cost: 1750]>|
+
+|<Hold ^3&&1^7 to Clear Debris [Cost: 2000]>|
+
+|<Hold ^3&&1^7 to Open Door [Cost: 100]>|
+
+|<Hold ^3&&1^7 to Open Door [Cost: 200]>|
+
+|<Hold ^3&&1^7 to Open Door [Cost: 250]>|
+
+|<Hold ^3&&1^7 to Open Door [Cost: 500]>|
+
+|<Hold ^3&&1^7 to Open Door [Cost: 750]>|
+
+|<Hold ^3&&1^7 to Open Door [Cost: 1000]>|
+
+|<Hold ^3&&1^7 to Open Door [Cost: 1250]>|
+
+|<Hold ^3&&1^7 to Open Door [Cost: 1500]>|
+
+|<Hold ^3&&1^7 to Open Door [Cost: 1750]>|
+
+|<Hold ^3&&1^7 to Open Door [Cost: 2500]>|
+
+|<Hold ^3&&1^7 to Open Door [Cost: 2000]>|
+
+|<Hold ^3&&1^7 to Open Area [Cost: 100]>|
+
+|<Hold ^3&&1^7 to Open Area [Cost: 200]>|
+
+|<Hold ^3&&1^7 to Open Area [Cost: 250]>|
+
+|<Hold ^3&&1^7 to Open Area [Cost: 500]>|
+
+|<Hold ^3&&1^7 to Open Area [Cost: 750]>|
+
+|<Hold ^3&&1^7 to Open Area [Cost: 1000]>|
+
+|<Hold ^3&&1^7 to Open Area [Cost: 1250]>|
+
+|<Hold ^3&&1^7 to Open Area [Cost: 1500]>|
+
+|<Hold ^3&&1^7 to Open Area [Cost: 1750]>|
+
+|<Hold ^3&&1^7 to Open Area [Cost: 2000]>|
+
+|<Hold ^3&&1^7 to Open Cabinet [Cost: 500]>|
+
+|<Hold ^3&&1^7 to Open Cabinet [Cost: 1000]>|
+
+|<Hold ^3&&1^7 to Open Cabinet [Cost: 1500]>|
+
+|<Hold ^3&&1^7 to Open Cabinet [Cost: 2000]>|
+
+|<Hold ^3[{+activate}]^7 to buy AK-47 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Bowie Knife [Cost: &&1]>|
+
+|<Zombie down!>|
+
+|<Hold ^3[{+activate}]^7 to buy Revive [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy a Revive [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Speed Cola [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Double Tap Root Beer [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Jugger-Nog [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Pack A Punch [Cost: &&1]>|
+
+|<Insta-Kill: >|
+
+|<Zombie Nuke!>|
+
+|<Double Points: >|
+
+|<Minigun!>|
+
+|<Max Ammo!>|
+
+|<Hold ^3&&1^7 to Rebuild Barrier [Reward: 10]>|
+
+|<Hold ^3&&1^7 to Rebuild Barrier [Reward: 20]>|
+
+|<Hold ^3&&1^7 to Rebuild Barrier [Reward: 30]>|
+
+|<Hold ^3&&1^7 to Rebuild Barrier [Reward: 40]>|
+
+|<GAME OVER>|
+
+|<Hold ^3&&1^7 to Rebuild Barrier [Reward: 50]>|
+
+|<You Survived &&1 Rounds>|
+
+|<You Survived 1 Round>|
+
+|<Press^3 &&1 ^7for a Random Weapon [Cost: 850]>|
+
+|<Press^3 &&1 ^7for a Random Weapon [Cost: 750]>|
+
+|<Press^3 &&1 ^7for a Random Weapon [Cost: 650]>|
+
+|<Hold ^3&&1^7 to Rebuild Barrier>|
+
+|<You must turn on the power first!>|
+
+|<Hold ^3&&1^7 to activate the flame barrier [Cost: 500]>|
+
+|<Hold ^3&&1^7 to Open Area [Cost: 2500]>|
+
+|<Hold ^3[{+activate}]^7 to activate the trap [Cost: &&1]>|
+
+|<Hold ^3&&1^7 to buy Bouncing Betty  [Cost: 1000 - one time only ]>|
+
+|<You have already purchased Bouncing Betties>|
+
+|<Press ^3[{+actionslot 4}]^7 then ^3[{+attack}]^7 to place a Bouncing Betty>|
+
+|<Hold ^3&&1^7 to buy Claymore  [Cost: 1000]>|
+
+|<You have already purchased Claymores>|
+
+|<Press ^3[{+actionslot 4}]^7 then ^3[{+attack}]^7 to place a claymore>|
+
+|<Hold ^3&&1^7 to activate the Fountain Turret [Cost: 750]>|
+
+|<Hold ^3&&1^7 to Turn On the Power>|
+
+|<Hold ^3[{+activate}]^7 to buy Tesla Gun [Cost: &&1]>|
+
+|<Hold ^3&&1^7 to buy Sticky Grenade [cost : 10]>|
+
+|<Gate must be opened first>|
+
+|<Hold ^3&&1^7 to trade Weapons>|
+
+|<Hold ^3&&1^7 to activate the Zipline [Cost: 1500]>|
+
+|<Hold ^3&&1^7 to turn on the Zipline>|
+
+|<Hold ^3&&1^7 to buy >|
+
+|<Hold ^3&&1^7 to initiate link to the mainframe>|
+
+|<Hold ^3&&1^7 to teleport to the mainframe [Cost: 1500]>|
+
+|<Hold ^3&&1^7 to link the teleport pad to the mainframe>|
+
+|<Link activated>|
+
+|<Need to activate teleport pad>|
+
+|<Get back to the core>|
+
+|<Teleporter is cooling down>|
+
+|<Hold ^3&&1^7 to activate Trap Door [Cost: 1000]>|
+
+|<Hold ^3&&1^7 to Open Door>|
+
+|<Hold ^3&&1^7 to Activate Lift [Cost: 500]>|
+
+|<Hold ^3[{+activate}]^7 to Use Turret [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to activate automatic Turret [Cost: &&1]>|
+
+|<Hold^3 &&1 ^7to Build Bridge [Cost: 1000]>|
+
+|<Hold^3 &&1 ^7to take your upgraded weapon>|
+
+|<Hold ^3[{+activate}]^7 to use teleporter [Cost: &&1]>|
+
+|<Hold^3 &&1 ^7to activate teleporter>|
+
+|<Hold^3 &&1 ^7to use zipline [Cost: 1000]>|
+
+|<The zipline must be activated first>|
+
+|<Hold^3 &&1 ^7to activate zipline>|
+
+|<Press^3 &&1 ^7for a Random Weapon [Cost: 10]>|
+
+|<Hold ^3[{+activate}]^7 to buy OLD P90 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy AK-74u [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Skorpion [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Uzi [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy M14 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy M16 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Dragunov [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy RPK [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Stoner 63 LMG [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy AK-47 w/GP30 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy M16 w/M203 [Cost: &&1]>|
+
+|<Airstrike Currently Unavailable>|
+
+|<Press & and Hold^3 &&1 ^7to Store Weapon>|
+
+|<Hold ^3[{+activate}]^7 to buy Thunder Gun [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Damage-ade [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Can-dolier [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to Activate the Kill Counter. [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy M1911 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Python [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Dual Kiparis [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy MAC-11 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Aug [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy G11 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy M60 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Minigun [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy MP5K [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy MP40 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy MPL [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy PM63 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy ENFIELD [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Olympia [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Stakeout [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy SPAS [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy WA-2000 [Cost: &&1]>|
+
+|<Press & and Hold^3 &&1 ^7to pick up power cell>|
+
+|<Press & and Hold^3 &&1 ^7to insert power cell>|
+
+|<Hold ^3[{+activate}]^7 to buy Sabertooth [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Ray Gun [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Frag Grenades [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Claymore [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy M202 Flash [Cost: &&1]>|
+
+|<Gained Radar>|
+
+|<Gained Artillery>|
+
+|<Gained Airstrike>|
+
+|<Gained Napalm>|
+
+|<Gained Dogs>|
+
+|<Gained Helicopter>|
+
+|<Gained HelicopterX2>|
+
+|<Gained Comlink Helicopter>|
+
+|<Radar Currently Unavailable>|
+
+|<Artillery Currently Unavailable>|
+
+|<Napalm Currently Unavailable>|
+
+|<Dogs Currently Unavailable>|
+
+|<Helicopter Currently Unavailable>|
+
+|<HelicopterX2 Currently Unavailable>|
+
+|<Comlink Helicopter Currently Unavailable>|
+
+|<Airstrike Inbound Near Your Position>|
+
+|<Napalm Inbound Near Your Position>|
+
+|<Artillery Inbound Near Your Position>|
+
+|<HelicopterX2 Inbound>|
+
+|<Comlink Helicopter Inbound>|
+
+|<Helicopter Inbound>|
+
+|<Barracks>|
+
+|<Player Abilities>|
+
+|<Awards and Titles>|
+
+|<XP Reward>|
+
+|<Solo>|
+
+|<Co-Op>|
+
+|<Credits>|
+
+|<Mission Select>|
+
+|<xp>|
+
+|<Airstrike available at round &&1>|
+
+|<Turret available at round &&1>|
+
+|<Portal available at round &&1>|
+
+|<Napalm available at round &&1>|
+
+|<Artillery available at round &&1>|
+
+|<Dogs available at round &&1>|
+
+|<Helicopter available at round &&1>|
+
+|<RC Bomb available at round &&1>|
+
+|<Time Distortion available at round &&1>|
+
+|<Cloak available at round &&1>|
+
+|<Endurance available at round &&1>|
+
+|<Hold ^3[{+activate}]^7 to buy Airstrike [First use: 500]
+Additional [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Turret [First use: 500]
+Additional [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Portal [First use: 500]
+Additional [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Napalm [First use: 500]
+Additional [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Artillery [First use: 500]
+Additional [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Dogs [First use: 500]
+Additional [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Helicopter [First use: 500]
+Additional [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy RC Bomb [First use: 500]
+Additional [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Time Distortion [First use: 500]
+Additional [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Cloak [First use: 500]
+Additional [Cost: &&1]>|
+
+|<Waiting for cooldown>|
+
+|<WARNING! APE REENTRY IMMINENT!>|
+
+|<The trap is active.>|
+
+|<The trap is recharging.>|
+
+|<Gained Turret>|
+
+|<Gained Portal>|
+
+|<You Already Have This Ability>|
+
+|<Used Artillery Ability>|
+
+|<Used Airstrike Ability>|
+
+|<Used Napalm Ability>|
+
+|<Used Dogs Ability>|
+
+|<Used RC Car Ability>|
+
+|<Used Cloak Ability>|
+
+|<Used Endurance Ability>|
+
+|<Used Helicopter Ability>|
+
+|<Used Turret Ability>|
+
+|<Used Portal Ability>|
+
+|<Gained RC Bomb>|
+
+|<Gained Cloak>|
+
+|<Gained Endurance>|
+
+|<Portal Unavailable>|
+
+|<Turret Unavailable>|
+
+|<Endurance Unavailable>|
+
+|<Cloak Unavailable>|
+
+|<RC Bomb Unavailable>|
+
+|<Hold ^3[{+activate}]^7 to buy GALIL [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy COMMANDO [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy FNFAL [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy FAMAS [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy HK21 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy SPECTRE [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy CZ75DW [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy M72_LAW [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy CHINA_LAKE [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy L96A1 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy CROSSBOW_EXPLOSIVE [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy HS10 [Cost: &&1]>|
+
+|<Reviving >|
+
+|<Cobra>|
+
+|<Mustang & Sally>|
+
+|<Mnesia>|
+
+|<Skullcrusher>|
+
+|<G115 Generator>|
+
+|<G16-GL35>|
+
+|<AK74fu2>|
+
+|<MP115 Kollider>|
+
+|<The Afterburner>|
+
+|<MPL-LF>|
+
+|<Tokyo & Rose>|
+
+|<MAC11 Upgraded>|
+
+|<Phantom>|
+
+|<Calamity>|
+
+|<Calamity & Jane>|
+
+|<Raid>|
+
+|<Hades>|
+
+|<SPAZ-24>|
+
+|<Typhoid & Mary>|
+
+|<Enfield Upgraded>|
+
+|<AUG-50M3>|
+
+|<AUG Grenade Launcher Upgraded>|
+
+|<Lamentation>|
+
+|<Predator>|
+
+|<EPC WN>|
+
+|<D115 Disassembler>|
+
+|<L115 Isolator>|
+
+|<R115 Resonator>|
+
+|<H115 Oscillator>|
+
+|<Grim Reaper Upgraded>|
+
+|<M72 Anarchy>|
+
+|<China Beach>|
+
+|<Porter's X2 Ray Gun>|
+
+|<Wunderwaffe DG-2>|
+
+|<Wunderwaffe DG-3 JZ
+>|
+
+|<ZeusCannon>|
+
+|<Winter's Howl>|
+
+|<Winter's Fury>|
+
+|<Awful Lawton>|
+
+|<The Krauss Refibrillator>|
+
+|<You Survived 0 Rounds>|
+
+|<Challenge Complete!>|
+
+|<&&1 Headshots>|
+
+|<+&&1 >|
+
+|<&&1 Kills>|
+
+|<Most XP Earned>|
+
+|<Most Kills>|
+
+|<Most Assists>|
+
+|<Most Headshot Kills>|
+
+|<Most Revives>|
+
+|<Highest Kill/Death Ratio>|
+
+|<Most COD Points() Earned>|
+
+|<Most Buzz Kill Medals>|
+
+|<Most Long Shot Medals>|
+
+|<Most Semtex Sticks>|
+
+|<Most Medals>|
+
+|<Most Tomahawk Kills>|
+
+|<Most Execution Medals>|
+
+|<Most Avenger Medals>|
+
+|<Most Comeback Medals>|
+
+|<Most Afterlife Medals>|
+
+|<Most Multi-kills>|
+
+|<Most Backstabber Medals>|
+
+|<Most Crates Hijacked>|
+
+|<Most Payback Medals>|
+
+|<Most Rescuer Medals>|
+
+|<Most One Shot, One Kill Medals>|
+
+|<Most Assisted Suicide Medals>|
+
+|<Most Heroic Medals>|
+
+|<Most Offense Medals>|
+
+|<Most Defense Medals>|
+
+|<Most Positions Secured>|
+
+|<Most Flag Pick-ups>|
+
+|<Most Flag Captures>|
+
+|<Most Flag Returns>|
+
+|<Most Bombs Planted>|
+
+|<Most Bomb Sites Destroyed>|
+
+|<Most Bombs Defused>|
+
+|<Most Defusers Killed>|
+
+|<Longest Win Streak>|
+
+|<Longest Kill Streak>|
+
+|<Highest Score Achieved>|
+
+|<Best Kill/Death Ratio>|
+
+|<Highest Accuracy>|
+
+|<Most Ballistic Knife Kills>|
+
+|<Most Kills with Cooked Grenades>|
+
+|<Most Kills Against Stunned Enemies>|
+
+|<Most Kills with Stolen Weapons>|
+
+|<Most Kills Firing Through Objects>|
+
+|<Most Multi-Kills>|
+
+|<Most Kills While Crouched>|
+
+|<Most Kills While Prone>|
+
+|<Most Killstreak Rewards Earned>|
+
+|<&&1  &&2 Kills>|
+
+|<&&1  &&2 Headshots>|
+
+|<Machine Gun>|
+
+|<Special Weapon>|
+
+|<Master Key>|
+
+|<&&1  &&2 Kills >|
+
+|<Projectile>|
+
+|<Items>|
+
+|<Medals Achieved>|
+
+|<Used>|
+
+|<Destroyed>|
+
+|<Hacked>|
+
+|<Hours Played>|
+
+|<&&1 &&2>|
+
+|<Next Challenge in &&1 Kills ( AWARDS &&2 &&3 and  &&4 )
+>|
+
+|<Next Challenge in &&1 Headshots ( AWARDS &&2 &&3 and  &&4 )>|
+
+|<No More Challenges>|
+
+|<&&1 &&2 Kills>|
+
+|<&&1 Assists>|
+
+|<&&1 &&2 Matches Won>|
+
+|<&&1 Contracts Completed>|
+
+|<&&1 Medals Earned>|
+
+|<&&1 &&2 Destroyed>|
+
+|<&&1 &&2 Called In>|
+
+|<&&1 &&2 Hacked>|
+
+|<Weapon Challenges>|
+
+|<Weapon Group Challenges>|
+
+|<Gamemode Challenges>|
+
+|<Global Challenges>|
+
+|<Reward XP>|
+
+|<COD Points Reward:>|
+
+|<Nearest to completion>|
+
+|<Sort Order: >|
+
+|<&&1 COMPLETE (&&2)>|
+
+|<Work>|
+
+|<&&1 &&2 &&3>|
+
+|<&&1% Complete (&&2/&&3)>|
+
+|<Total Kills>|
+
+|<Total Headshots>|
+
+|<Steady Aim Kills>|
+
+|<Iron Lungs Kills>|
+
+|<Hardened Kills>|
+
+|<Sleight Of Hand Kills>|
+
+|<Dead Silence Kills>|
+
+|<Marathon Miles>|
+
+|<Marathon Captures>|
+
+|<Second Chance Kills>|
+
+|<Hacks>|
+
+|<Tactical Mask Resists>|
+
+|<Lightweight Miles>|
+
+|<Scavenger Resupplies>|
+
+|<Killstreaks Destroyed with Camouflage>|
+
+|<Explosions Survived with Flak Jacket>|
+
+|<Hardline Killstreaks>|
+
+|<Multi-Attachment Kills>|
+
+|<Warlord Kills>|
+
+|<Ninja Kills>|
+
+|<Scout Kills>|
+
+|<This area is the placeholder for the description.>|
+
+|<Get &&1 &&2 with the &&3.>|
+
+|<Get &&1 &&2 with &&3.>|
+
+|<kills>|
+
+|<headshots>|
+
+|<Variable Zoom Scope>|
+
+|<IR Scope>|
+
+|<Saddle>|
+
+|<Full Metal Jacket>|
+
+|<Hollow Points>|
+
+|<Fully Auto>|
+
+|<Upgraded Sights>|
+
+|<Suppressor Kills>|
+
+|<Reflex Sight Kills>|
+
+|<Red Dot Sight Kills>|
+
+|<ACOG Sight Kills>|
+
+|<Low Power Scope Kills>|
+
+|<Variable Zoom Scope Kills>|
+
+|<IR Scope Kills>|
+
+|<Grip Kills>|
+
+|<Extended Mag Kills>|
+
+|<Dual Mag Kills>|
+
+|<Saddle Kills>|
+
+|<Full Metal Jacket Kills>|
+
+|<Hollow Points Kills>|
+
+|<Rapid Fire Kills>|
+
+|<Bayonet Kills>|
+
+|<Snub Nose Kills>|
+
+|<Speed Reloader Kills>|
+
+|<Fully Auto Kills>|
+
+|<Upgraded Sights Kills>|
+
+|<NEW!>|
+
+|<CLOSE>|
+
+|<(NEEDED &&1)>|
+
+|<Call &&1 &&2 times.>|
+
+|<Destroy &&1 &&2 times.>|
+
+|<Kill &&1 &&2 times.>|
+
+|<Get &&1 &&2 with this grenade.>|
+
+|<&&1 &&2 Lifetime Kills>|
+
+|<&&1 Lifetime Kills>|
+
+|<video/subtitles.csv>|
+
+|<Objectives updated.>|
+
+|<Objective completed.>|
+
+|<Objective failed.>|
+
+|<Mission Failed>|
+
+|<You must have the grenades selected to pickup a different type of grenades.>|
+
+|<You must have the pistol selected to pickup a different pistol.>|
+
+|<You must have a primary weapon selected to pickup a different primary weapon.>|
+
+|<You must have the smoke grenades selected to pickup a different type of smoke grenades.>|
+
+|<Got &&1 ammo.>|
+
+|<&&1 ammo full.>|
+
+|<Picked up &&1 health.>|
+
+|<Difficulty: Greenhorn>|
+
+|<Difficulty: Unknown>|
+
+|<Level Time>|
+
+|<Bad client slot:>|
+
+|<Client &&1 is not active>|
+
+|<User &&1 is not on the server.>|
+
+|<&&1 called a vote.>|
+
+|<Client not on server.>|
+
+|<Complaint filed against you. (&&1 until kicked)>|
+
+|<kicked after too many complaints.>|
+
+|<No vote in progress.>|
+
+|<Vote already cast.>|
+
+|<Not allowed to vote as spectator.>|
+
+|<Vote cast.>|
+
+|<Voting not enabled on this server.>|
+
+|<A vote is already in progress.>|
+
+|<You have called the maximum number of votes.>|
+
+|<Not allowed to call a vote as spectator.>|
+
+|<Invalid vote string.>|
+
+|<Vote commands are:>|
+
+|<Invalid gametype.>|
+
+|<nextmap not set.>|
+
+|<Cheats are not enabled on this server.>|
+
+|<You must be alive to use this command.>|
+
+|<usage>|
+
+|<changed to>|
+
+|<Server>|
+
+|<VoiceChat ignored>|
+
+|<Spam Protection>|
+
+|<Hold your position.>|
+
+|<Hold this position.>|
+
+|<Come here.>|
+
+|<Cover me.>|
+
+|<Guard location.>|
+
+|<Search & Destroy.>|
+
+|<Report.>|
+
+|<Unknown cmd &&1>|
+
+|<godmode ON>|
+
+|<godmode OFF>|
+
+|<demigod mode ON>|
+
+|<demigod mode OFF>|
+
+|<notarget ON>|
+
+|<notarget OFF>|
+
+|<noclip ON>|
+
+|<noclip OFF>|
+
+|<ufomode ON>|
+
+|<ufomode OFF>|
+
+|<Vote failed.>|
+
+|<Vote passed.>|
+
+|<Ops>|
+
+|<Communists>|
+
+|<Got &&1 ammo>|
+
+|<Game Type: >|
+
+|<Map Restart>|
+
+|<Map: >|
+
+|<Kick Player: &&1>|
+
+|<Savegame is out-of-date or corrupt.>|
+
+|<Vote would not change Game Type or Map.>|
+
+|<Dead>|
+
+|<Insufficient free disk space.
+
+Please free at least 5mb of free space on game drive.>|
+
+|<Warning: You are about to be kicked due to inactivity.>|
+
+|<Kicked from server due to inactivity.>|
+
+|<Invalid Password.>|
+
+|<Unable to access save device. Please make sure that you have a valid User Profile(Xbox live acount. Use"Tools" in the Xenon Launcher).>|
+
+|<You are Hurt. Get to Cover!>|
+
+|<Call of Duty: Black Ops Save Game>|
+
+|<Unable to read from memory device. Please check that the device is inserted correctly.>|
+
+|<Can't Stand Here>|
+
+|<Can't Crouch Here>|
+
+|<Call of Duty: Black Ops Custom Game Mode>|
+
+|<Ended game>|
+
+|<Host ended game>|
+
+|<Press & hold^3 &&1 ^7to revive player>|
+
+|<&&1 needs to be revived>|
+
+|<&&1 is being revived>|
+
+|<&&1 is reviving you>|
+
+|<&&1 is already being revived>|
+
+|<Regrouping With Squad...>|
+
+|<Not enough players to start a vote>|
+
+|<&&1 has died.>|
+
+|<You have died.>|
+
+|<To be continued...>|
+
+|<Thanks for playing!>|
+
+|<Carrier can not enter vehicle.>|
+
+|<Reviving>|
+
+|<Planting Explosive>|
+
+|<>|
+
+|<>|
+
+|<>|
+

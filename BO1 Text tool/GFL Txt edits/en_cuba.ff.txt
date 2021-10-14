@@ -1,0 +1,936 @@
+|<Your actions caused your team to be killed. >|
+
+|<Zipline>|
+
+|<Compound>|
+
+|<Bar>|
+
+|<Pick Up>|
+
+|<Use zipline to infiltrate the compound>|
+
+|<Find and kill Castro>|
+
+|<Follow>|
+
+|<Objective>|
+
+|<Escape compound>|
+
+|<Captured>|
+
+|<Escape>|
+
+|<Get to the airfield >|
+
+|<Airfield>|
+
+|<Breach>|
+
+|<Mansion>|
+
+|<Get to the plane>|
+
+|<Rappel down into the airfield>|
+
+|<Drive>|
+
+|<Use the ZPU to clear the runway>|
+
+|<Use>|
+
+|<Support>|
+
+|<Escape the police>|
+
+|<Courtyard>|
+
+|<^LTransmission# 15-18. Designate: X-RAY^L>|
+
+|<^LOP 40 team inserted with^L ^C1Bay of Pigs^C ^Lforces in^L ^C1Cuba^C>|
+
+|<^LWoods, Bowman, and ^L^C1Mason^C ^Lmeeting contact at Santa Maria^L>|
+
+|<You were killed by Castro.>|
+
+|<Hold ^3[{+activate}]^7 to zipline >|
+
+|<Press ^3[{+melee}]^7 behind guard to take him out>|
+
+|<Carlos Died!>|
+
+|<Castro Assasination>|
+
+|<Assasinate>|
+
+|<Hold ^3[{+activate}]^7 to rappel>|
+
+|<Melee>|
+
+|<Watch your head. >|
+
+|<Enter>|
+
+|<It's not safe here! Get on that plane!>|
+
+|<Get on the plane and escape!>|
+
+|<Protect the plane from damage>|
+
+|<You failed to stay with your team.>|
+
+|<You killed your squad.>|
+
+|<Your squad was killed.>|
+
+|<You failed to protect the plane.>|
+
+|<^L0500 hrs ^L ^C1 April 17, 1961 ^C>|
+
+|<^LTarget: Fidel Castro^L>|
+
+|<Squad>|
+
+|<Press ^3[{+activate}]^7 to open the gun chest>|
+
+|<Street>|
+
+|<Get off the streets>|
+
+|<Press ^3[{+attack}]^7 to shoot>|
+
+|<Hold ^3[{+attack}]^7 to drive>|
+
+|<Hold ^3[{+speed_throw}]^7 to reverse>|
+
+|<Alley>|
+
+|<Press ^3[{+stance}]^7 to duck>|
+
+|<Press ^3[{+speed_throw}]^7 to aim down sight>|
+
+|<Press ^3[{+actionslot 3}]^7 to use the M203 Grenade Launcher>|
+
+|<Press ^3[{+breath_sprint}]^7 to sprint>|
+
+|<^1INTERROGATOR: ^7He's fading away. Mason! You had escaped from the police. 
+The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
+
+|<^1INTERROGATOR: ^7We're losing him. Do it again, we have no choice.>|
+
+|<^1MASON: ^7AARRRGH!!! What the $&#*!>|
+
+|<^1MASON: ^7AARRRGH!!! What the...>|
+
+|<^1MASON: ^7Lev Kravchenko. Sadistic, evil...>|
+
+|<^1MASON: ^7But he was nothing compared to Dragovich.>|
+
+|<^1MASON: ^7Oh, he did. Dragovich sure did.>|
+
+|<^1WOODS: ^7The police are gonna be here soon... Let's make this quick.>|
+
+|<^1CARLOS: ^7Woods. It's been a while.>|
+
+|<^1WOODS: ^7What about the evac?>|
+
+|<^1CARLOS: ^7We will have transport waiting for you. Just be there.>|
+
+|<^1WOODS: ^7Excellent.>|
+
+|<^1WOODS: ^7We got company.>|
+
+|<^1MASON: ^7Just be cool, Woods. Wait.>|
+
+|<^1MILITIA CAPTAIN: ^7I said where are you from?>|
+
+|<^1MILITIA CAPTAIN: ^7I'm talking to you!>|
+
+|<^1CARLOS: ^7Alright - everything is ready.>|
+
+|<^1CARLOS: ^7Your weapons are ready.>|
+
+|<^1MASON: ^7Gear up, boys.>|
+
+|<^1CARLOS: ^7Here, my friend.>|
+
+|<^1WOODS: ^7Sorry about the bar, Carlos.>|
+
+|<^1CARLOS: ^7No problem... My men will dispose of the bodies...>|
+
+|<^1CARLOS: ^7The police are here.>|
+
+|<^1BOWMAN: ^7Occupants leavin' their vehicles - armed with shotguns.>|
+
+|<^1CARLOS: ^7They expect the invasion.>|
+
+|<^1WOODS: ^7Fuck the invasion... We're here for Castro.>|
+
+|<^1WOODS: ^7We're here for Castro.>|
+
+|<^1WOODS: ^7Bowman, Carlos.  Lay down covering fire.  We fight our way through the streets.>|
+
+|<^1WOODS: ^7Mason - on me.>|
+
+|<^1CARLOS: ^7Take what you need.>|
+
+|<^1CARLOS: ^7Alright... The streets should be empty... The government has ordered every Cuban to remain indoors and ready for battle.>|
+
+|<^1WOODS: ^7They expect the invasion... not what we're gonna do..>|
+
+|<^1MASON: ^7Let's go...>|
+
+|<^1WOODS: ^7Police are here.>|
+
+|<^1CARLOS: ^7Communist dogs! Lackeys...>|
+
+|<^1WOODS: ^7Right now - They're in our way.>|
+
+|<^1WOODS: ^7Weapons free.>|
+
+|<^1WOODS: ^7Clear 'em out!  Move up the street!>|
+
+|<^1WOODS: ^7Bowman!  Take the right!>|
+
+|<^1BOWMAN: ^7On it.>|
+
+|<^1WOODS: ^7Go - Keep moving!>|
+
+|<^1BOWMAN: ^7Reinforcements!>|
+
+|<^1WOODS: ^7Shit... Too many of them!>|
+
+|<^1WOODS: ^7Too many of them!>|
+
+|<^1WOODS: ^7This way - into the alley.>|
+
+|<^1WOODS: ^7Bowman - Cover our six!>|
+
+|<^1WOODS: ^7Get to the car!>|
+
+|<^1CARLOS: ^7Alright... This is where I leave you, my friends...>|
+
+|<^1CARLOS: ^7I will see you at the airstrip!  Suerte, My friends!>|
+
+|<^1CARLOS: ^7The path is that way - It will lead you to Castro's compound...>|
+
+|<^1CARLOS: ^7Be sure to put a bullet right between his eyes.>|
+
+|<^1CARLOS: ^7Okay, I'll see you at the airstrip... Good luck...>|
+
+|<^1WOODS: ^7You too, Carlos... Let's go.>|
+
+|<^1MASON: ^7Come on... Come on.>|
+
+|<^1WOODS: ^7Make it quick, Mason!>|
+
+|<^1MASON: ^7Got it!>|
+
+|<^1WOODS: ^7Hit it! Go!>|
+
+|<^1WOODS: ^7Dammit!>|
+
+|<^1WOODS: ^7Get the fuck out of our way!>|
+
+|<^1WOODS: ^7Out of our way!>|
+
+|<^1BOWMAN: ^7Roadblock!>|
+
+|<^1MASON: ^7I see it!>|
+
+|<^1WOODS: ^7Floor it, Mason!>|
+
+|<^1WOODS: ^7Right on schedule.>|
+
+|<^1WOODS: ^7Let's hope those Cuban pilots are up to job... Or this is gonna be one short revolution.>|
+
+|<^1WOODS: ^7There's the compound... Carlos and his men should be hittin' the airfield.... Any minute...>|
+
+|<^1WOODS: ^7There's the signal.... Now.>|
+
+|<^1WOODS: ^7Mason, over here.>|
+
+|<^1WOODS: ^7Hook up... This is it.>|
+
+|<^1WOODS: ^7We ain't got time to waste.>|
+
+|<^1WOODS: ^7Hurry it up.>|
+
+|<^1WOODS: ^7Mason - Take him out.>|
+
+|<^1WOODS: ^7Perfect. They're all focused on the airfield.>|
+
+|<^1WOODS: ^7Convoy ahead.  Do not engage.>|
+
+|<^1WOODS: ^7Sit tight... let them pass.>|
+
+|<^1WOODS: ^7Bowman - Left flank.>|
+
+|<^1WOODS: ^7Mason - Take out the tower.>|
+
+|<^1WOODS: ^7Castro's paranoid... With good reason... we've been trying 
+to get to him for three years.>|
+
+|<^1MASON: ^7Today's the day we succeed.>|
+
+|<^1WOODS: ^7Move out.>|
+
+|<^1WOODS: ^7This way - up the stairs.>|
+
+|<^1BOWMAN: ^7Looks like they were expecting us.>|
+
+|<^1WOODS: ^7Inside. Go.>|
+
+|<^1WOODS: ^7Mason!>|
+
+|<^1WOODS: ^7Wake the fuck up, Mason!>|
+
+|<^1WOODS: ^7Wake up, Mason!>|
+
+|<^1WOODS: ^7Bowman - Take the roof.>|
+
+|<^1WOODS: ^7Any trouble - give us a yell.>|
+
+|<^1BOWMAN: ^7Got it.>|
+
+|<^1WOODS: ^7Mason - on me. We search room to room 'till we find Castro.>|
+
+|<^1WOODS: ^7Okay - stack up.>|
+
+|<^1WOODS: ^7Mason. Over here.>|
+
+|<^1WOODS: ^7What are you waiting for? Come on.>|
+
+|<^1WOODS: ^7Ready?>|
+
+|<^1MASON: ^7Ready.>|
+
+|<^1WOODS: ^7Bowman - Nest is empty. We're moving on.>|
+
+|<^1BOWMAN: ^7Better make it fast. B26's are about to begin their bombing run.>|
+
+|<^1WOODS: ^7Target should be up ahead>|
+
+|<^1MASON: ^7Roger.>|
+
+|<^1WOODS: ^7What the fuck?!!!>|
+
+|<^1WOODS: ^7What the... ?!!!>|
+
+|<^1WOODS: ^7Bowman - what's happening?>|
+
+|<^1BOWMAN: ^7The B26's. They're droppin' all over the place.>|
+
+|<^1WOODS: ^7No shit...>|
+
+|<^1WOODS: ^7No foolin'...>|
+
+|<^1WOODS: ^7Sit tight... We'll be done in five...>|
+
+|<^1WOODS: ^7Movement inside. Get in position.>|
+
+|<^1WOODS: ^7This is it... Ready to make history?>|
+
+|<^1MASON: ^7Let's do it.>|
+
+|<^1WOODS: ^7Crazy bitch... he uses a human shield 
+and she still protects him?!!>|
+
+|<^1WOODS: ^7He uses a human shield and she still protects him?!!>|
+
+|<^1MASON: ^7Castro's supporters are fanatical in their devotion to him...>|
+
+|<^1MASON: ^7Castro's supporters are fanatics.  They'd give their lives for him.>|
+
+|<^1WOODS: ^7Communists... I'll never understand them.>|
+
+|<^1WOODS: ^7Bowman - The target is down.>|
+
+|<^1BOWMAN: ^7Word from Carlos isn't good;  They're barely holding out... They got half the Cuban army down there!>|
+
+|<^1BOWMAN: ^7And those B26's ain't hitting anything!>|
+
+|<^1BOWMAN: ^7Movin' to the main hallway.>|
+
+|<^1WOODS: ^7Okay, we're on our way.>|
+
+|<^1WOODS: ^7Bowman! Take the right!>|
+
+|<^1WOODS: ^7Mason - On me.>|
+
+|<^1WOODS: ^7DAMMIT!!!>|
+
+|<^1WOODS: ^7Let's get the fuck out of here before 
+those damn planes blow us to pieces!>|
+
+|<^1WOODS: ^7Get out of here before those damn planes blow us to pieces!>|
+
+|<^1WOODS: ^7Go! Outside!>|
+
+|<^1BOWMAN: ^7This ain't good!  There's too many of them!>|
+
+|<^1BOWMAN: ^7Carlos' men should be here!>|
+
+|<^1WOODS: ^7Carlos... What's happening?!!>|
+
+|<^1WOODS: ^7Carlos?!!>|
+
+|<^1BOWMAN: ^7Here they come - over the East wall!>|
+
+|<^1CARLOS: ^7You think I'd let you down, Woods?>|
+
+|<^1CARLOS: ^7My men will cover your escape.>|
+
+|<^1CARLOS: ^7Now... Hurry, my friends!>|
+
+|<^1WOODS: ^7God bless you, Carlos.>|
+
+|<^1BOWMAN: ^7This way - into the sugar fields!>|
+
+|<^1WOODS: ^7Through the gate! GO!>|
+
+|<^1WOODS: ^7Mason!!! We don't have time to wait!>|
+
+|<^1WOODS: ^7There's the airfield.>|
+
+|<^1BOWMAN: ^7Let's hope Carlos secured that evac.>|
+
+|<^1WOODS: ^7He ain't let us down yet.>|
+
+|<^1BOWMAN: ^7The Rebels are getting their asses kicked!>|
+
+|<^1BOWMAN: ^7The Rebels are getting their butts kicked!>|
+
+|<^1WOODS: ^7Better get down there - Hook up...>|
+
+|<^1WOODS: ^7Go!>|
+
+|<^1CARLOS: ^7Woods!  It's all falling apart...  You need to get out of here!>|
+
+|<^1WOODS: ^7You secure our transport?>|
+
+|<^1CARLOS: ^7The plane is ready... but we'll be torn to pieces on take off!>|
+
+|<^1WOODS: ^7One problem at a time, brother.>|
+
+|<^1WOODS: ^7We're leaving... Move it!>|
+
+|<^1CARLOS: ^7Hurry!!!>|
+
+|<^1CARLOS: ^7Run!>|
+
+|<^1CARLOS: ^7We can't wait any longer!!>|
+
+|<^1WOODS: ^7Mason!  Come on!!!>|
+
+|<^1WOODS: ^7Give us cover, Mason!>|
+
+|<^1WOODS: ^7We need to keep this plane in one piece!>|
+
+|<^1BOWMAN: ^7They're trying to take out our engines!>|
+
+|<^1WOODS: ^7Shit!  .50 Cal!>|
+
+|<^1WOODS: ^7.50 Cal!>|
+
+|<^1WOODS: ^7Mason! Take out those ZPUs!>|
+
+|<^1BOWMAN: ^7They're not letting us go without a fight!>|
+
+|<^1WOODS: ^7RPGs in the tower!>|
+
+|<^1BOWMAN: ^7Shit! Takin' damage!>|
+
+|<^1BOWMAN: ^7Takin' damage!>|
+
+|<^1BOWMAN: ^7This hunk is barely holdin' together!>|
+
+|<^1BOWMAN: ^7Woods! We got a problem!>|
+
+|<^1BOWMAN: ^7Those fucking vehicles are blocking the runway!>|
+
+|<^1BOWMAN: ^7Those vehicles are blocking the runway!>|
+
+|<^1MASON: ^7I hear you, Bowman.>|
+
+|<^1WOODS: ^7We're screwed. There's not enough room for take off!>|
+
+|<^1MASON: ^7I'll deal with it!>|
+
+|<^1WOODS: ^7Mason, are you crazy? They'll chew you up out there.>|
+
+|<^1WOODS: ^7Mason!  What are you doing?!!!>|
+
+|<^1WOODS: ^7Mason!!!!>|
+
+|<^1MASON: ^7No choice, Woods. I knew what I signed up for.>|
+
+|<^1WOODS: ^7Damn you, Mason.>|
+
+|<^1MASON: ^7Runway's clear.>|
+
+|<^1MASON: ^7I'll be fine. Go - Get out of here!>|
+
+|<^1MASON: ^7You're dead... We killed you...>|
+
+|<^1CASTRO: ^7No... You killed a double... You think we didn't know of your plan?>|
+
+|<^1DRAGOVICH: ^7We always know...>|
+
+|<^1CASTRO: ^7Do with him what you wish, General... He's my gift to you, in honor of our new relationship...>|
+
+|<^1CASTRO: ^7Just... Make sure that he suffers...>|
+
+|<^1DRAGOVICH: ^7He will know suffering beyond his darkest fears...>|
+
+|<^1DRAGOVICH: ^7I have plans for you, American...>|
+
+|<^1CARLOS: ^7I'm pinned down!>|
+
+|<^1WOODS: ^7On our way!>|
+
+|<^1BOWMAN: ^7On our way!>|
+
+|<^1CARLOS: ^7I can't hold them much longer!>|
+
+|<^1CARLOS: ^7Okay, let's move!>|
+
+|<^1WOODS: ^7Behind us!>|
+
+|<^1BOWMAN: ^7Behind us!>|
+
+|<^1WOODS: ^7Eyes front...>|
+
+|<^1WOODS: ^7We can't stay here! Push forward!>|
+
+|<^1WOODS: ^7Move up!>|
+
+|<^1WOODS: ^7Push forward!>|
+
+|<^1WOODS: ^7We're pinned down here!>|
+
+|<^1WOODS: ^7We can't stay here.>|
+
+|<^1WOODS: ^7Keep it tight.>|
+
+|<^1BOWMAN: ^7Stay close.>|
+
+|<^1WOODS: ^7Mason take point.>|
+
+|<^1WOODS: ^7Mason, grab that rope, let's go!>|
+
+|<^1WOODS: ^7Mason, we have to get going!>|
+
+|<^1WOODS: ^7Hook up!>|
+
+|<^1WOODS: ^7Mason, we need to move!>|
+
+|<^1WOODS: ^7Mason, take out the RPG's!>|
+
+|<^1WOODS: ^7Mason, protect the plane!>|
+
+|<^1WOODS: ^7Those RPG's are tearing us up!>|
+
+|<^1WOODS: ^7We can't take much more Mason!>|
+
+|<^1WOODS: ^7Take out those damned RPG's Mason!>|
+
+|<^1WOODS: ^7Mason! RPG!>|
+
+|<^1WOODS: ^7We're getting hit!>|
+
+|<^1WOODS: ^7C'mon Mason!>|
+
+|<^1BOWMAN: ^7C'mon Mason!>|
+
+|<^1WOODS: ^7Move quickly!>|
+
+|<^1BOWMAN: ^7Move it!>|
+
+|<^1WOODS: ^7Keep moving!>|
+
+|<^1BOWMAN: ^7Keep movin'!>|
+
+|<^1WOODS: ^7Let's get the fuck out of here. MOVE!>|
+
+|<^1WOODS: ^7MOVE!>|
+
+|<^1WOODS: ^7Cover me!>|
+
+|<^1WOODS: ^7BTR!!>|
+
+|<^1WOODS: ^7Take out that .50 cal!>|
+
+|<^1BOWMAN: ^7Take out that .50 cal!>|
+
+|<^1WOODS: ^7Up the stairs. Go! Go! Go!.>|
+
+|<^1BOWMAN: ^7Area clear.>|
+
+|<^1BOWMAN: ^7Roger that.>|
+
+|<^1WOODS: ^7Move up.>|
+
+|<^1WOODS: ^7Area clear.>|
+
+|<^1BOWMAN: ^7Mason, take him out.>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<€@#¦ôB­m1YÉ—è>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+

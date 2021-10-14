@@ -1,0 +1,384 @@
+|<Gas Escape>|
+
+|<Cache Run>|
+
+|<Press ^3[{+speed_throw}]^7 to break window>|
+
+|<Press ^3[{+attack}]^7 to punch>|
+
+|<Escort Clarke>|
+
+|<Shoot the Canister>|
+
+|<Defend against the Spetsnaz assault>|
+
+|<Follow Weaver>|
+
+|<Escort>|
+
+|<Defend>|
+
+|<Shoot>|
+
+|<^LTransmission # 23-1-19.  Designate: VICTOR^L>|
+
+|<^LTarget: Dr. Daniel Clarke located in^L ^C1Kowloon City, Hong Kong.^C>|
+
+|<^LExtraction team:^L ^C1Hudson^C^L, Weaver and Station 3 operatives on the ground.^L>|
+
+|<^C1C.I.A.^C ^Lstation #4568.  Designation "k"^L>|
+
+|<^L1700 hours^L ^C1February 9, 1968^C>|
+
+|<Hold ^3[{+activate}]^7 to pick up CZ-75>|
+
+|<Escape with Dr. Clarke>|
+
+|<You need to sprint and jump to make it across.>|
+
+|<Escape with Weaver>|
+
+|<You were exposed to Nova 6!>|
+
+|<^1INTERROGATOR: ^7One minute Clarke was being tortured by Hudson, the next Clarke was helping him. Why?>|
+
+|<^1MASON: ^7Why? The CIA just wanted Clarke's intel. Dragovich wanted his head.>|
+
+|<^1CLARKE: ^7Don't you morons get it?>|
+
+|<^1CLARKE: ^7If you think your government sponsored brutality intimidates me, you clearly don't know anything about Dragovich...>|
+
+|<^1CLARKE: ^7I have nothing to gain by talking to you.>|
+
+|<^1HUDSON: ^7Think about what you have to lose.>|
+
+|<^1WEAVER: ^7We can do this all day - We got plenty of windows...>|
+
+|<^1HUDSON: ^7Or - You can give us what we want, and we guarantee your safety...>|
+
+|<^1CLARKE: ^7I'm already a dead man....>|
+
+|<^1CLARKE: ^7I've been hunted across every corner of the globe...>|
+
+|<^1CLARKE: ^7...And if you found me, so will they... They know everything you know... They're probably on their way now.>|
+
+|<^1HUDSON: ^7Why?>|
+
+|<^1CLARKE: ^7Dragovich doesn't like loose ends... I've never even dealt with him directly, only Steiner - The German...>|
+
+|<^1HUDSON: ^7What was the nature of your business?>|
+
+|<^1CLARKE: ^7I was hired to help stabilize certain "volatile compounds".>|
+
+|<^1HUDSON: ^7What kind of compounds?!>|
+
+|<^1CLARKE: ^7Nova 6. A biochemical weapon.>|
+
+|<^1CLARKE: ^7You led them right to me!>|
+
+|<^1WEAVER: ^7Get your head DOWN!>|
+
+|<^1CLARKE: ^7Gunfire's ruptured the canisters!>|
+
+|<^1WEAVER: ^7You brought your poison to a populated area?!!>|
+
+|<^1CLARKE: ^7I had to!>|
+
+|<^1CLARKE: ^7Get out of the room!>|
+
+|<^1CLARKE: ^7The Nova will kill you!>|
+
+|<^1CLARKE: ^7Get me out of here I will tell you everything!>|
+
+|<^1WEAVER: ^7What's your escape route?!>|
+
+|<^1CLARKE: ^7There's a hatch in the ceiling!>|
+
+|<^1CLARKE: ^7This way!>|
+
+|<^1CLARKE: ^7Move. Damn it, move!>|
+
+|<^1CLARKE: ^7Did you inhale the gas?!!>|
+
+|<^1HUDSON: ^7I don't think so.>|
+
+|<^1CLARKE: ^7You're lucky...>|
+
+|<^1CLARKE: ^7Direct exposure is always fatal.>|
+
+|<^1WEAVER: ^7Spetsnaz inbound!>|
+
+|<^1WEAVER: ^7West hallway!>|
+
+|<^1WEAVER: ^7Which way?>|
+
+|<^1CLARKE: ^7To the roof.>|
+
+|<^1CLARKE: ^7Up the stairs!>|
+
+|<^1WEAVER: ^7Right side window! Right side!>|
+
+|<^1CLARKE: ^7Onto the roof!>|
+
+|<^1WEAVER: ^7Chyort! Snipers!>|
+
+|<^1CLARKE: ^7We need to get to the opposite tower!>|
+
+|<^1WEAVER: ^7How?!!>|
+
+|<^1CLARKE: ^7We jump!!>|
+
+|<^1HUDSON: ^7You gotta be kidding me!!>|
+
+|<^1CLARKE: ^7Jump!>|
+
+|<^1WEAVER: ^7Let's go!>|
+
+|<^1WEAVER: ^7What are you waiting for?>|
+
+|<^1WEAVER: ^7Jump, Hudson, JUMP!!!>|
+
+|<^1HUDSON: ^7Son of a bitch!!!!>|
+
+|<^1HUDSON: ^7Son of a...!>|
+
+|<^1HUDSON: ^7Ooomph!>|
+
+|<^1CLARKE: ^7Here, help me move this!>|
+
+|<^1CLARKE: ^7Grab what you need - They'll be here before you know it.>|
+
+|<^1HUDSON: ^7You are very well prepared for a dead man.>|
+
+|<^1CLARKE: ^7Just because I accept the inevitability of my fate does not mean I'm in any hurry to embrace it!>|
+
+|<^1CLARKE: ^7I may accept the inevitability of my fate, but I'm in no hurry to embrace it!>|
+
+|<^1WEAVER: ^7Whatever you say, English.>|
+
+|<^1HUDSON: ^7Okay... On me.>|
+
+|<^1WEAVER: ^7They're on us!>|
+
+|<^1WEAVER: ^7Hudson! Eyes left!>|
+
+|<^1WEAVER: ^7Flashbang!>|
+
+|<^1HUDSON: ^7Flashbang!>|
+
+|<^1WEAVER: ^7They're breaching the windows!>|
+
+|<^1HUDSON: ^7Which way?>|
+
+|<^1CLARKE: ^7Left door.>|
+
+|<^1CLARKE: ^7Onto the rooftops!>|
+
+|<^1WEAVER: ^7You sure you know where you're going?>|
+
+|<^1CLARKE: ^7I've prepared for this.>|
+
+|<^1CLARKE: ^7Quickly - Downstairs!>|
+
+|<^1CLARKE: ^7Down the pipe - Go!>|
+
+|<^1HUDSON: ^7This guy really a scientist?>|
+
+|<^1CLARKE: ^7Hurry up!>|
+
+|<^1CLARKE: ^7Get your arses down here!!!>|
+
+|<^1WEAVER: ^7Two more assholes below.>|
+
+|<^1WEAVER: ^7Two more below.>|
+
+|<^1HUDSON: ^7No problem.>|
+
+|<^1HUDSON: ^7I got 'em.>|
+
+|<^1WEAVER: ^7Dragovich is going to a lot of trouble to shut you up... What are you not telling us?>|
+
+|<^1CLARKE: ^7I told you about Nova 6...>|
+
+|<^1WEAVER: ^7Where is their base? Nam? Laos? Cambodia?>|
+
+|<^1CLARKE: ^7His home turf, the Ural Mountains - Yamantau.>|
+
+|<^1CLARKE: ^7That's where you'll find Steiner - In his final preparations for Project Nova.>|
+
+|<^1CLARKE: ^7That's where you'll find his pet Nazi Steiner - In final preparations for Project Nova.>|
+
+|<^1HUDSON: ^7What else?... Whispers. Rumors... ANYTHING?!>|
+
+|<^1CLARKE: ^7Steiner talked with Dragovich about numbers...>|
+
+|<^1HUDSON: ^7What kind of numbers?>|
+
+|<^1CLARKE: ^7The kind that their plan relies on!>|
+
+|<^1WEAVER: ^7Enemy! 12 o'clock - Low!>|
+
+|<^1CLARKE: ^7Shit...>|
+
+|<^1CLARKE: ^7Damn...>|
+
+|<^1CLARKE: ^7... They've sent in a clean up crew to steal what's left of my research.>|
+
+|<^1CLARKE: ^7... They're bringing in a clean up crew to steal what's left of my research.>|
+
+|<^1CLARKE: ^7Well, no thank you, Dragovich... I can clean up my own mess! [laughs]>|
+
+|<^1CLARKE: ^7No thank you, Dragovich... I can clean up my own mess!>|
+
+|<^1CLARKE: ^7Either of you two low on Ammo? - we still have a ways to go.>|
+
+|<^1CLARKE: ^7Balcony on the left!>|
+
+|<^1WEAVER: ^7Hudson!!! Look out!>|
+
+|<^1CLARKE: ^7Follow the hallway - All the way to the end!>|
+
+|<^1WEAVER: ^7More Spetsnaz - right side!>|
+
+|<^1WEAVER: ^7They're breaching the roof!!>|
+
+|<^1HUDSON: ^7Which way now?>|
+
+|<^1CLARKE: ^7Back outside - Balcony on your right!>|
+
+|<^1HUDSON: ^7How the Hell do you remember all this, Clarke?!!!>|
+
+|<^1CLARKE: ^7Onto the next Balcony!>|
+
+|<^1CLARKE: ^7Not far now!>|
+
+|<^1CLARKE: ^7Weapons and ammunition - Grab what you need.>|
+
+|<^1CLARKE: ^7Okay... It's been a while...>|
+
+|<^1CLARKE: ^7It's the damndest thing... 54... 23... what is it?>|
+
+|<^1CLARKE: ^75... 11... 19..... 45?>|
+
+|<^1HUDSON: ^7On our six!!!>|
+
+|<^1WEAVER: ^7You forgot your own combination?!!!>|
+
+|<^1CLARKE: ^7Of course.... Lucky 7!>|
+
+|<^1WEAVER: ^7Numbers tattooed on your body?... What are you holding back, Clarke?!!>|
+
+|<^1CLARKE: ^7Go! Go! Go!>|
+
+|<^1CLARKE: ^7Watch my back! I need to unlock this door.>|
+
+|<^1CLARKE: ^7Cover me while I get this door open!>|
+
+|<^1CLARKE: ^7Come on! Just one more leap of faith!>|
+
+|<^1CLARKE: ^7Rarhhhh!!>|
+
+|<^1CLARKE: ^7Hrrmph...>|
+
+|<^1WEAVER: ^7Hudson, grab him - GO!>|
+
+|<^1CLARKE: ^7Ahhhh! I'm slipping!>|
+
+|<^1WEAVER: ^7Jump, Hudson!!>|
+
+|<^1WEAVER: ^7I got you!>|
+
+|<^1HUDSON: ^7What about the numbers, Clarke!!>|
+
+|<^1CLARKE: ^7Oh yes... The numbers... They're the key to...>|
+
+|<^1WEAVER: ^7Fuck... Let's go.>|
+
+|<^1WEAVER: ^7Let's go.>|
+
+|<^1WEAVER: ^7Tug boat this is Red Eye...>|
+
+|<^1WEAVER: ^7Immediate distraction - street level. Tower four. South side.>|
+
+|<^1AGENT: ^7Roger Red Eye... on the way.>|
+
+|<^1AGENT: ^7Red Eye we are approaching EVAC. Shit, punch it!>|
+
+|<^1AGENT: ^7Red Eye we are approaching EVAC. Punch it!>|
+
+|<^1AGENT: ^7Been watching the fireworks down here... Did you snatch the asset?>|
+
+|<^1WEAVER: ^7Negative... He's dead.>|
+
+|<^1WEAVER: ^7Red Eye out.>|
+
+|<^1WEAVER: ^7Come on Hudson... I see a way down.>|
+
+|<^1WEAVER: ^7This way.>|
+
+|<^1WEAVER: ^7Hudson! Get to the van.>|
+
+|<^1WEAVER: ^7Come on. Let's get out of here!>|
+
+|<^1WEAVER: ^7What are we waiting for - get in the van.>|
+
+|<^1AGENT: ^7Where we headed?>|
+
+|<^1HUDSON: ^7Clarke ID'd a Nazi scientist working for Dragovich. His name's Steiner. We're going to Russia. Mt. Yamantau.>|
+
+|<^1WEAVER: ^7Yamantau.>|
+
+|<^1CLARKE: ^7Hurry!>|
+
+|<^1CLARKE: ^7We have to keep moving!>|
+
+|<^1CLARKE: ^7Where are you going?>|
+
+|<^1CLARKE: ^7No! That's the wrong way!>|
+
+|<^1CLARKE: ^7Stay close to me!>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<€@>|
+
+|<ˆD>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+

@@ -1,0 +1,48 @@
+|<Hold ^3[{+activate}]^7 to use elevator [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to call elevator>|
+
+|<Elevator not usable when monkeys are near.>|
+
+|<Elevator not usable in Pack a Punch round>|
+
+|<You and your companions must drop before you may ascend. >|
+
+|<Hold ^3&&1^7 to buy Spikemore  [Cost: 1000]>|
+
+|<Super Blow Gun>|
+
+|<Blow Gun>|
+
+|<You have already purchased Spikemores>|
+
+|<Press ^3[{+actionslot 4}]^7 then ^3[{+attack}]^7 to place a Spikemore>|
+
+|<Spikemore>|
+
+|<Hold ^3&&1^7 to Pick Up Spikemore>|
+
+|<Don't hold ^3[{+activate}]^7>|
+
+|<Destination not open>|
+
+|<Hold ^3[{+activate}]^7 to start the minecart [Cost: &&1]>|
+
+|<The minecart is currently in use>|
+
+|<Hold ^3&&1^7 to release the water>|
+
+|<The reservoir is refilling>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+

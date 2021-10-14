@@ -1,0 +1,510 @@
+|<Zipline must be activated before use>|
+
+|<Press^3 &&1 ^7for a Random Weapon [Cost: 950]>|
+
+|<Hold ^3[{+activate}]^7 Weapon [&&1], Ammo [&&2]>|
+
+|<Let The Onslaught Begin>|
+
+|<Onslaught Survived>|
+
+|<Round>|
+
+|<UNDEFINED!! PLEASE SET THE SCRIPT_HINT ON THE ENT PROPERLY!>|
+
+|<Press & hold ^3&&1^7 to buy back Barrier [Cost: 10]>|
+
+|<Press & hold ^3&&1^7 to buy back Barrier [Cost: 20]>|
+
+|<Press & hold ^3&&1^7 to buy back Barrier [Cost: 50]>|
+
+|<Press & hold ^3&&1^7 to buy back Barrier [Cost: 100]>|
+
+|<Press & hold ^3&&1^7 to Clear Debris [Cost: 100]>|
+
+|<Press & hold ^3&&1^7 to Clear Debris [Cost: 200]>|
+
+|<Press & hold ^3&&1^7 to Clear Debris [Cost: 250]>|
+
+|<Press & hold ^3&&1^7 to Clear Debris [Cost: 500]>|
+
+|<Press & hold ^3&&1^7 to Clear Debris [Cost: 750]>|
+
+|<Press & hold ^3&&1^7 to Clear Debris [Cost: 1000]>|
+
+|<Press & hold ^3&&1^7 to Clear Debris [Cost: 1250]>|
+
+|<Press & hold ^3&&1^7 to Clear Debris [Cost: 1500]>|
+
+|<Press & hold ^3&&1^7 to Clear Debris [Cost: 1750]>|
+
+|<Press & hold ^3&&1^7 to Clear Debris [Cost: 2000]>|
+
+|<Press & hold ^3&&1^7 to Open Door [Cost: 100]>|
+
+|<Press & hold ^3&&1^7 to Open Door [Cost: 200]>|
+
+|<Press & hold ^3&&1^7 to Open Door [Cost: 250]>|
+
+|<Press & hold ^3&&1^7 to Open Door [Cost: 500]>|
+
+|<Press & hold ^3&&1^7 to Open Door [Cost: 750]>|
+
+|<Press & hold ^3&&1^7 to Open Door [Cost: 1000]>|
+
+|<Press & hold ^3&&1^7 to Open Door [Cost: 1250]>|
+
+|<Press & hold ^3&&1^7 to Open Door [Cost: 1500]>|
+
+|<Press & hold ^3&&1^7 to Open Door [Cost: 1750]>|
+
+|<Press & hold ^3&&1^7 to Open Door [Cost: 2500]>|
+
+|<Press & hold ^3&&1^7 to Open Door [Cost: 2000]>|
+
+|<Press & hold ^3&&1^7 to Open Area [Cost: 100]>|
+
+|<Press & hold ^3&&1^7 to Open Area [Cost: 200]>|
+
+|<Press & hold ^3&&1^7 to Open Area [Cost: 250]>|
+
+|<Press & hold ^3&&1^7 to Open Area [Cost: 500]>|
+
+|<Press & hold ^3&&1^7 to Open Area [Cost: 750]>|
+
+|<Press & hold ^3&&1^7 to Open Area [Cost: 1000]>|
+
+|<Press & hold ^3&&1^7 to Open Area [Cost: 1250]>|
+
+|<Press & hold ^3&&1^7 to Open Area [Cost: 1500]>|
+
+|<Press & hold ^3&&1^7 to Open Area [Cost: 1750]>|
+
+|<Press & hold ^3&&1^7 to Open Area [Cost: 2000]>|
+
+|<Press & hold ^3&&1^7 to Open Cabinet [Cost: 500]>|
+
+|<Press & hold ^3&&1^7 to Open Cabinet [Cost: 1000]>|
+
+|<Hold ^3[{+activate}]^7 to Open Cabinet [Cost: 1500]>|
+
+|<Press & hold ^3&&1^7 to Open Cabinet [Cost: 2000]>|
+
+|<Press & hold ^3&&1^7 to buy Colt [Cost: 50]>|
+
+|<Press & hold ^3&&1^7 to buy Colt Heavy Duty [Cost: 100]>|
+
+|<Press & hold ^3&&1^7 to buy Nambu [Cost: 50]>|
+
+|<Press & hold ^3&&1^7 to buy .357 Magnum [Cost: 100]>|
+
+|<Press & hold ^3&&1^7 to buy Tokarev TT-30 [Cost: 50]>|
+
+|<Press & hold ^3&&1^7 to buy Walther P38 [Cost: 50]>|
+
+|<Press & hold ^3&&1^7 to buy Zombie Colt [Cost: 25]>|
+
+|<Hold ^3[{+activate}]^7 to buy Kar98k [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Kar98k + Bayonet [Cost: 200]>|
+
+|<Hold ^3[{+activate}]^7 to buy Mosin-Nagant [Cost: 200]>|
+
+|<Hold ^3[{+activate}]^7 to buy Springfield [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy SpringField + Bayonet [Cost: 200]>|
+
+|<Hold ^3[{+activate}]^7 to buy Arisaka [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Type 99 + Bayonet [Cost: 200]>|
+
+|<Hold ^3[{+activate}]^7 to buy Gewehr 43 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy M1 Carbine [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy M1 Carbine + Bayonet [Cost: 600]>|
+
+|<Hold ^3[{+activate}]^7 to buy M1 Garand [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy M1 Garand + Bayonet [Cost: 600]>|
+
+|<Hold ^3[{+activate}]^7 to buy SVT-40 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy M2 Frag Grenade [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Molotov [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy RGD-33 Stick Grenade [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Stielhandgranate [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Type 97 Frag [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Kar98k + Scope [Cost: 750]>|
+
+|<Hold ^3[{+activate}]^7 to buy Kar98k + Scope + Bayonet [Cost: 750]>|
+
+|<Hold ^3[{+activate}]^7 to buy Mosin-Nagant + Scope [Cost: 750]>|
+
+|<Hold ^3[{+activate}]^7 to buy Mosin-Nagant + Scope + Bayonet [Cost: 750]>|
+
+|<Hold ^3[{+activate}]^7 to buy PTRS-41 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy SpringField + Scope [Cost: 750]>|
+
+|<Hold ^3[{+activate}]^7 to buy Springfield + Scope + Bayonet [Cost: 750]>|
+
+|<Hold ^3[{+activate}]^7 to buy Arisaka + Scope [Cost: 750]>|
+
+|<Hold ^3[{+activate}]^7 to buy Type 99 + Scope + Bayonet [Cost: 750]>|
+
+|<Hold ^3[{+activate}]^7 to buy MP40 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy PPSh-41 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy STG-44 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Thompson [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Type 100 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Double-Barreled Shotgun [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Sawed-Off Shotgun [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy M1897 Trench Gun [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Browning M1919 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy BAR [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy DP-28 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy FG42 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy FG42 + Scope [Cost: 1500]>|
+
+|<Hold ^3[{+activate}]^7 to buy MG42 [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Type 99 LMG [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy M1 Garand + Rifle Grenade [Cost: 1500]>|
+
+|<Hold ^3[{+activate}]^7 to buy Mosin-Nagant + Rifle Grenade [Cost: 1500]>|
+
+|<Hold ^3[{+activate}]^7 to buy Browning M1919 + Bipod [Cost: 3500]>|
+
+|<Hold ^3[{+activate}]^7 to buy BAR + Bipod [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy DP-28 + Bipod [Cost: 2500]>|
+
+|<Hold ^3[{+activate}]^7 to buy FG42 + Bipod [Cost: 2000]>|
+
+|<Hold ^3[{+activate}]^7 to buy Type 99 LMG + Bipod [Cost: 2250]>|
+
+|<Hold ^3[{+activate}]^7 to buy M9A1 Bazooka [Cost: 2000]>|
+
+|<Hold ^3[{+activate}]^7 to buy MG42 + Bipod [Cost: 3500]>|
+
+|<Hold ^3[{+activate}]^7 to buy Panzerschrek [Cost: 2000]>|
+
+|<Hold ^3[{+activate}]^7 to buy Flamethrower [Cost: 3000]>|
+
+|<Hold ^3[{+activate}]^7 to buy Mortar Rounds [Cost: 2000]>|
+
+|<Hold ^3[{+activate}]^7 to buy Satchel Charge [Cost: &&1]>|
+
+|<Hold ^3[{+activate}]^7 to buy Ray Gun [Cost: 10000]>|
+
+|<Hold ^3[{+activate}]^7 to buy Bowie Knife [Cost: &&1]>|
+
+|<Zombie down!>|
+
+|<Hold ^3[{+activate}]^7 to buy Revive [Cost: 1500]>|
+
+|<Hold ^3[{+activate}]^7 to buy Speed Cola [Cost: 3000]>|
+
+|<Hold ^3[{+activate}]^7 to buy Double Tap Root Beer [Cost: 2000]>|
+
+|<Hold ^3[{+activate}]^7 to buy Jugger-Nog [Cost: 2500]>|
+
+|<Hold ^3[{+activate}]^7 to buy Pack A Punch Upgrade [Cost: 5000]>|
+
+|<Insta-Kill: >|
+
+|<Zombie Nuke!>|
+
+|<Double Points: >|
+
+|<Max Ammo!>|
+
+|<Press & hold ^3&&1^7 to Rebuild Barrier [Reward: 10]>|
+
+|<Press & hold ^3&&1^7 to Rebuild Barrier [Reward: 20]>|
+
+|<Press & hold ^3&&1^7 to Rebuild Barrier [Reward: 30]>|
+
+|<Press & hold ^3&&1^7 to Rebuild Barrier [Reward: 40]>|
+
+|<GAME OVER>|
+
+|<Press & hold ^3&&1^7 to Rebuild Barrier [Reward: 50]>|
+
+|<You Survived &&1 Rounds>|
+
+|<You Survived 1 Round>|
+
+|<Press ^3&&1^7 for a Random Weapon [Cost: 850]>|
+
+|<Press ^3&&1^7 for a Random Weapon [Cost: 750]>|
+
+|<Press ^3&&1^7 for a Random Weapon [Cost: 650]>|
+
+|<Press & hold ^3&&1^7 to Rebuild Barrier>|
+
+|<The power must be activated first>|
+
+|<Press & hold ^3&&1^7 to activate the flame barrier [Cost: 500]>|
+
+|<Press & hold ^3&&1^7 to Open Area [Cost: 2500]>|
+
+|<Press & hold ^3&&1^7 to activate the electric barrier [Cost: 1000]>|
+
+|<Hold ^3[{+activate}]^7 to buy Bouncing Betty  [Cost: 1000 - one time only ]>|
+
+|<You have already purchased Bouncing Betties>|
+
+|<Press ^3[{+actionslot 4}]^7 then ^3[{+attack}]^7 to place a Bouncing Betty>|
+
+|<Press & hold ^3&&1^7 to activate the Fountain Turret [Cost: 750]>|
+
+|<Press & hold ^3&&1^7 to turn on the electricity>|
+
+|<Berlin, Germany>|
+
+|<Wittenau Sanatorium >|
+
+|<September, 1945>|
+
+|<Press & Hold ^3&&1^7 to buy Tesla Gun [cost : 10]>|
+
+|<Press & Hold ^3&&1^7 to buy Sticky Grenade [cost : 10]>|
+
+|<Press & hold ^3&&1^7 to Activate Trap [Cost: 750]>|
+
+|<Gate must be opened first>|
+
+|<Press & hold ^3&&1^7 to trade Weapons>|
+
+|<Press & hold ^3&&1^7 to activate the Zipline [Cost: 1500]>|
+
+|<Press & hold ^3&&1^7 to turn on the Zipline>|
+
+|<Press & Hold ^3&&1^7 to buy Max Ammo: [Costs everything you have - minimum 10,000]>|
+
+|<Press & hold ^3&&1^7 to buy >|
+
+|<Press & hold ^3&&1^7 to initiate link to the mainframe>|
+
+|<Press & hold ^3&&1^7 to teleport to the mainframe [Cost: 1500]>|
+
+|<Press & hold ^3&&1^7 to link the teleport pad to the mainframe>|
+
+|<Link activated>|
+
+|<Need to activate teleport pad>|
+
+|<Get back to the core>|
+
+|<Teleporter is cooling down>|
+
+|<Press & hold ^3&&1^7 to activate Trap Door [Cost: 1000]>|
+
+|<Press & hold ^3&&1^7 to Open Door>|
+
+|<Press & hold ^3&&1^7 to Activate Lift [Cost: 500]>|
+
+|<Press & hold ^3[{+activate}]^7 to Use Turret [Cost: &&1]>|
+
+|<Press & hold ^3[{+activate}]^7 to activate automatic Turret [Cost &&1]>|
+
+|<Press & hold ^3&&1^7 to Build Bridge [Cost: 1000]>|
+
+|<Press & Hold ^3&&1^7 to take your upgraded weapon>|
+
+|<Press & hold ^3&&1^7 to use teleporter [Cost: 1500]>|
+
+|<Press & hold ^3&&1^7 to activate teleporter>|
+
+|<Press & hold ^3&&1^7 to use zipline [Cost: 1000]>|
+
+|<The zipline must be activated first>|
+
+|<Press & hold ^3&&1^7 to activate zipline>|
+
+|<Near Breslau, Germany>|
+
+|<Time: Unknown>|
+
+|<Date: Unknown>|
+
+|<Press & hold ^3[{+activate}]^7 Weapon [&&1], Ammo [&&2],   
+             Upgraded Ammo [4500]>|
+
+|<Anti-Tank Gunner>|
+
+|<Flamethrower>|
+
+|<Rifleman>|
+
+|<Shotgunner>|
+
+|<Sniper>|
+
+|<Submachine Gunner>|
+
+|<Support Gunner>|
+
+|<Browning M1919>|
+
+|<B115 accelerator>|
+
+|<BAR>|
+
+|<The Widow Maker>|
+
+|<M9A1 Bazooka>|
+
+|<Colt M1911>|
+
+|<C-3000 b1at-ch35>|
+
+|<Double-Barreled Shotgun>|
+
+|<24 Bore long range>|
+
+|<Sawed-Off Double-Barreled Shotgun w/ Grip>|
+
+|<The Snuff Box>|
+
+|<FG42>|
+
+|<420 Impeller>|
+
+|<Gewehr 43>|
+
+|<G115 Compressor>|
+
+|<Kar98k>|
+
+|<Armageddon>|
+
+|<Scoped Kar98k>|
+
+|<M1 Carbine>|
+
+|<Widdershins RC-1>|
+
+|<M1 Garand>|
+
+|<M1000>|
+
+|<M1 Garand w/ Launcher>|
+
+|<M2 Flamethrower>|
+
+|<FIW Nitrogen cooled
+>|
+
+|<M7 Grenade Launcher>|
+
+|<The Imploder>|
+
+|<MG42>|
+
+|<Barracuda FU-A11>|
+
+|<Molotov Cocktail>|
+
+|<Mosin-Nagant w/ Launcher>|
+
+|<Scoped Mosin-Nagant>|
+
+|<MP40>|
+
+|<The Afterburner>|
+
+|<Panzerschrek>|
+
+|<Longinus>|
+
+|<PPSh-41>|
+
+|<The Reaper>|
+
+|<PTRS-41>|
+
+|<The Penetrator>|
+
+|<M1897 Trench Gun>|
+
+|<Gut Shot>|
+
+|<Scoped Springfield>|
+
+|<STG-44>|
+
+|<Spatz-447 +>|
+
+|<.357 Magnum>|
+
+|<.357 Plus 1 K1L-u>|
+
+|<Thompson>|
+
+|<Gibs-o-matic>|
+
+|<Type 100>|
+
+|<1001 Samurais>|
+
+|<Arisaka>|
+
+|<The Eviscerator>|
+
+|<Scoped Arisaka>|
+
+|<Ray Gun>|
+
+|<Wunderwaffe DG-2>|
+
+|<Bouncing Betty>|
+
+|<Frag>|
+
+|<Stielhandgranate>|
+
+|<No Primary Grenades Remaining>|
+
+|<Springfield>|
+
+|<Porter's X2 Ray Gun>|
+
+|<Wunderwaffe DG-3 JZ>|
+
+|<Deployable BAR>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ˆˆ>|
+
