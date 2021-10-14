@@ -3435,11 +3435,11 @@ Would you like to enable graphic content?>|
 
 |<Settings>|
 
-|<Player Name Indicator>|
+|<T-Doll Name Indicator>|
 
 |<Everyone in your party has joined the game.>|
 
-|<You need at least one non local player in the lobby to start the match.>|
+|<You need at least one non local T-Doll in the lobby to start the match.>|
 
 |<Screenshot processing failed.>|
 
@@ -3515,7 +3515,7 @@ Would you like to enable graphic content?>|
 
 |<QUICK CHAT>|
 
-|<PLAYER NAME>|
+|<T-DOLL NAME>|
 
 |<NORMAL>|
 
@@ -3619,13 +3619,13 @@ Would you like to enable graphic content?>|
 
 |<THROW TACTICALS>|
 
-|<Show other players' rank icon, rank, Clan Tag and name when in game.>|
+|<Show other T-Doll' rank icon, rank, Clan Tag and name when in game.>|
 
-|<Show only players' names.>|
+|<Show only T-Doll' names.>|
 
-|<Show only players' rank icon and rank.>|
+|<Show only T-Doll' rank icon and rank.>|
 
-|<Show player's rank icon, rank, Clan Tag and name in color-blind friendly colors.>|
+|<Show T-Doll's rank icon, rank, Clan Tag and name in color-blind friendly colors.>|
 
 |<ERROR>|
 
@@ -3641,7 +3641,7 @@ Would you like to enable graphic content?>|
 
 |<CONTINUE>|
 
-|<You have too many players in your party to enter the Theater.>|
+|<You have too many T-Doll in your party to enter the Theater.>|
 
 |<Rate Game>|
 
@@ -3669,7 +3669,7 @@ Would you like to enable graphic content?>|
 
 |<The recording of your game will be lost if you cancel this operation. Are you sure you want to continue?>|
 
-|<Recommended max players: &&1>|
+|<Recommended max T-Dolls: &&1>|
 
 |<SYSTEM INFO>|
 
@@ -3719,7 +3719,7 @@ Would you like to enable graphic content?>|
 
 |<Time remaining>|
 
-|<Need &&1 players to be ready...>|
+|<Need &&1 T-Dolls to be ready...>|
 
 |<Need 1 more player to be ready...>|
 
@@ -3727,9 +3727,9 @@ Would you like to enable graphic content?>|
 
 |<The match is about to begin...>|
 
-|<Waiting for &&1 more players...>|
+|<Waiting for &&1 more T-Dolls...>|
 
-|<Need more players to balance teams...>|
+|<Need more T-Dolls to balance teams...>|
 
 |<Making balanced teams...>|
 
@@ -3757,7 +3757,7 @@ Would you like to enable graphic content?>|
 
 |<You were logged out of the PC Network>|
 
-|<This server only allows players from certain clans to play here.>|
+|<This server only allows T-Dolls from certain clans to play here.>|
 
 |<Clan Info>|
 
@@ -3771,7 +3771,7 @@ Would you like to enable graphic content?>|
 
 |<You must be signed in to the PC Network to play online matches.>|
 
-|<Press^3 &&1 ^7to View Player's Gamer Card>|
+|<Press^3 &&1 ^7to View T-DOLL's Gamer Card>|
 
 |<Press^3 &&1 ^7to view gamer>|
 
@@ -3823,7 +3823,7 @@ Would you like to enable graphic content?>|
 
 |<Your profile was signed out>|
 
-|<Press^3 &&1 ^7to Kick Player>|
+|<Press^3 &&1 ^7to Kick T-DOLL>|
 
 |<Kick &&1?>|
 
@@ -3841,7 +3841,7 @@ Would you like to enable graphic content?>|
 
 |<Press^3 &&1 ^7to invite friends>|
 
-|<Press^3 &&1 ^7to KICK PLAYER>|
+|<Press^3 &&1 ^7to KICK T-DOLL>|
 
 |<VIEW PROFILE>|
 
@@ -4133,9 +4133,9 @@ Would you like to enable graphic content?>|
 
 |<4. Change Game Type/Map>|
 
-|<Kick Player>|
+|<Kick T-Doll>|
 
-|<5. Kick Player>|
+|<5. Kick T-Doll>|
 
 |<Ok>|
 
@@ -4167,7 +4167,7 @@ Mobility:>|
 
 |<Weapon while Russian>|
 
-|<Players Using:>|
+|<T-Doll Using:>|
 
 |<Press (A) to Continue>|
 
@@ -4187,7 +4187,7 @@ Enable PunkBuster and start?>|
 
 |<2. Change Team>|
 
-|<3. Mute Players>|
+|<3. Mute T-Doll>|
 
 |<4. Call Vote>|
 
@@ -4221,7 +4221,7 @@ Enable PunkBuster and start?>|
 
 |<2. No>|
 
-|<MUTE PLAYERS>|
+|<MUTE T-DOLLS>|
 
 |<Enable Voice Chat>|
 
@@ -4389,7 +4389,7 @@ Enable PunkBuster and start?>|
 
 |<Message of the Day>|
 
-|<Player Options>|
+|<T-Doll Options>|
 
 |<Select a match type and join an online game.>|
 
@@ -4405,13 +4405,13 @@ Enable PunkBuster and start?>|
 
 |<Customize your Weapons, Perks, Equipment, and more within a set of loadouts.>|
 
-|<Challenges, Clan Tag, Player Stats and Leaderboards.>|
+|<Challenges, Clan Tag, T-Doll Stats and Leaderboards.>|
 
 |<Invite friends to your squad.>|
 
 |<Invite friends to your party.>|
 
-|<Open player options menu.>|
+|<Open T-Doll options menu.>|
 
 |<Start the match.>|
 
@@ -4521,7 +4521,7 @@ Enable PunkBuster and start?>|
 
 |<Find out how well you're doing with your shot placement.>|
 
-|<End the session for all players?>|
+|<End the session for all T-Dolls?>|
 
 |<CHOOSE CLASS>|
 
@@ -4539,7 +4539,7 @@ Enable PunkBuster and start?>|
 
 |<Second Chance!>|
 
-|<PLAYER OPTIONS>|
+|<T-DOLL OPTIONS>|
 
 |<GAMEPLAY OPTIONS>|
 
@@ -4591,7 +4591,7 @@ Enable PunkBuster and start?>|
 
 |<FREE>|
 
-|<PLAYERS ONLY>|
+|<T-DOLLS ONLY>|
 
 |<RADAR ALWAYS ON>|
 
@@ -4763,7 +4763,7 @@ Enable PunkBuster and start?>|
 
 |<FAST>|
 
-|<Recommended Max Players: &&1>|
+|<Recommended Max T-Dolls: &&1>|
 
 |<WAVE SPAWN DELAY>|
 
@@ -4781,7 +4781,7 @@ Enable PunkBuster and start?>|
 
 |<Lobby is full.>|
 
-|<Mute Players>|
+|<Mute T-Dolls>|
 
 |<2 POINTS>|
 
@@ -4847,7 +4847,7 @@ Enable PunkBuster and start?>|
 
 |<Placeholder Flag A>|
 
-|<Player Squad Options>|
+|<T-Doll Squad Options>|
 
 |<Invite Received>|
 
@@ -4889,15 +4889,15 @@ Enable PunkBuster and start?>|
 
 |<LOBBY LEADERBOARD>|
 
-|<View how you stack up against the other players in your lobby.>|
+|<View how you stack up against the other T-Doll in your lobby.>|
 
 |<PARTY PRIVACY>|
 
 |<Matchmaking will look for the best results regardless of location.>|
 
-|<Matchmaking will look for players in your location and nearby locations before expanding the search for a match. This may slow down search times.>|
+|<Matchmaking will look for T-Dolls in your location and nearby locations before expanding the search for a match. This may slow down search times.>|
 
-|<Matchmaking will only search for players in your location or nearby locations. This may slow down search times.>|
+|<Matchmaking will only search for T-Dolls in your location or nearby locations. This may slow down search times.>|
 
 |<LOCALE STATUS>|
 
@@ -5279,7 +5279,7 @@ Enable PunkBuster and start?>|
 
 |<START LOBBY>|
 
-|<JOIN ON PLAYER>|
+|<JOIN ON T-DOLL>|
 
 |<BULLETIN BOARD>|
 
@@ -5293,7 +5293,7 @@ Enable PunkBuster and start?>|
 
 |<Edit the clan emblem to represent how your clan rolls. This will be displayed whenever your clan ID is displayed so make it good.>|
 
-|<By Invitation, or Open. If set to "Open", then players join without an invitation.>|
+|<By Invitation, or Open. If set to "Open", then T-Dolls join without an invitation.>|
 
 |<On,Off. If advertised show in "Find Clan" browser.>|
 
@@ -5339,7 +5339,7 @@ Enable PunkBuster and start?>|
 
 |<About Clan Match>|
 
-|<Clan Match is only available to player who are in a clan. Start a clan or go find one to join!>|
+|<Clan Match is only available to T-Doll who are in a clan. Start a clan or go find one to join!>|
 
 |<CLAN HQ>|
 
