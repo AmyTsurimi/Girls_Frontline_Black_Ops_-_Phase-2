@@ -1,1207 +1,0 @@
-|<Support>|
-
-|<Hue City, Vietnam>|
-
-|<Sgt. Carter>|
-
-|<Extract the defector and intel>|
-
-|<Press X To Rappel>|
-
-|<Commandeer the radio for air support>|
-
-|<Get to the LZ>|
-
-|<Press ^3[{+actionslot 4}]^7 to call air support>|
-
-|<^3[{+melee}]^7>|
-
-|<Hold ^3[{+activate}]^7 to get radio>|
-
-|<Take radio>|
-
-|<Press ^3[{+actionslot 3}]^7  to use to Dragon's Breath shells>|
-
-|<Press ^3[{+attack}]^7 to target air support>|
-
-|<Bottom Feeder>|
-
-|<M113>|
-
-|<Huey Gunship>|
-
-|<Press  ^3[{+activate}]^7  to Push>|
-
-|<Press ^3[{+actionslot 4}]^7  to call air support>|
-
-|<Press  ^3[{+activate}]^7  to pickup explosives>|
-
-|<Press ^3[{+actionslot 1}]^7  to equip C4 Charges>|
-
-|<Press ^3[{+speed_throw}]^7 to throw and  ^3[{+attack}]^7 to detonate C4>|
-
-|<Press ^3[{+actionslot 4}]^7  to equip C4 Charges>|
-
-|<Press ^3[{+attack}]^7 to use Claymores>|
-
-|<Press  ^3[{+activate}]^7  to pickup Claymores>|
-
-|<Hold ^3[{+activate}]^7 to plant explosives>|
-
-|<Get to the boat!>|
-
-|<Extraction in: >|
-
-|<Follow>|
-
-|<Breach>|
-
-|<Commandeer Radio>|
-
-|<Escort>|
-
-|<Landing Zone>|
-
-|<Plant C4>|
-
-|<Supplies>|
-
-|<Target>|
-
-|<^3[{+activate}]^7>|
-
-|<Defend>|
-
-|<Spotter>|
-
-|<Claymores>|
-
-|<Satchel Charges>|
-
-|<Radio for Fuel Air Bomb support>|
-
-|<Destroy the ZSU gun emplacement>|
-
-|<Defend the LZ for extraction>|
-
-|<Set up defenses to secure the LZ>|
-
-|<KILL THE ARTILLERY SPOTTERS (3 of 3 remaining)>|
-
-|<KILL THE ARTILLERY SPOTTERS (2 of 3 remaining)>|
-
-|<KILL THE ARTILLERY SPOTTERS (1 of 3 remaining)>|
-
-|<Grab the ACOG Commando>|
-
-|<Fight to the LZ>|
-
-|<Regroup>|
-
-|<Target too close>|
-
-|<^LTransmission # 20-8-5-18-5 Designate: OSCAR^L>|
-
-|<^C1Hue City^C ^Lhas been overrun^L>|
-
-|<^LIntel and Soviet defector cannot be compromised^L>|
-
-|<^LExtraction team lead:^L ^C1Mason^C ^Lembedded with S.O.G.^L>|
-
-|<^L1900 hours,^L ^C1February 2, 1968^C>|
-
-|<Target is Friendly>|
-
-|<Acog Commando>|
-
-|<Get to the boat>|
-
-|<Repeatedly press ^3[{+activate}]^7 to open the door.>|
-
-|<Press>|
-
-|<Help Woods>|
-
-|<Press ^F^3[{+activate}]^7^F to open door>|
-
-|<Detonate the explosive>|
-
-|<You failed to escape in time.>|
-
-|<^1INTERROGATOR: ^7Hue City. That's when things really started to unravel for you, Mason.>|
-
-|<^1MASON: ^7The defector.>|
-
-|<^1MASON: ^7I couldn't believe Reznov was here in Hue City.  
-That he was the defector.>|
-
-|<^1INTERROGATOR: ^7He came back for you Mason. Reznov was back.>|
-
-|<^1US PILOT: ^7Negative, negative.  Team Texas not in sector.>|
-
-|<^1US MARINE: ^7We need immediate close air support!>|
-
-|<^1US MARINE: ^7We're hit! We're hit!>|
-
-|<^1US PILOT: ^7MacV East has been overrun. I say again, MacV East is lost.>|
-
-|<^1US MARINE: ^7Bring up that APC! I got wounded here!>|
-
-|<^1US PILOT: ^7We're getting hit hard from the North. Our boys can't hold much longer.>|
-
-|<^1US MARINE: ^7I don't care what your orders are. You WILL shift fires to sector Tango Lima Five immediately.>|
-
-|<^1US MARINE: ^7Fall back! Retreat!>|
-
-|<^1US PILOT: ^7MacV compound in sight. You are jumping into some deep shit, Woods.>|
-
-|<^1US PILOT: ^7MacV compound in sight. You are jumping into some deep crap, Woods.>|
-
-|<^1MASON: ^7We're here to yank a defector with vital intel on Soviet involvement in 'Nam...>|
-
-|<^1MASON: ^7We lost contact with his security team - They may be holed up in the MACV's safe room.>|
-
-|<^1WOODS: ^7If he's alive, we'll find him.>|
-
-|<^1US PILOT: ^7SOG X-ray team, hook up.>|
-
-|<^1US PILOT: ^7Team on the wire.>|
-
-|<^1US PILOT: ^7Quad 50! We're hit! We're hit!>|
-
-|<^1US PILOT: ^7Lima niner, we are going down!>|
-
-|<^1WOODS: ^7LOOK OUT!!!>|
-
-|<^1US PILOT: ^7Hold on!...>|
-
-|<^1US PILOT: ^7Hotel Six, come back. Hotel Six, do you roger?>|
-
-|<^1US PILOT: ^7Lima nine, Hotel Six is gone.>|
-
-|<^1WOODS: ^7Here. SPAS-12. It'll hold your incendiaries. Where we headed Mason?>|
-
-|<^1WOODS: ^7Move out!>|
-
-|<^1BOWMAN: ^7Lima niner, I got eyes on X-ray.>|
-
-|<^1BOWMAN: ^7You got NVA all over the North wing, Woods.>|
-
-|<^1WOODS: ^7Light 'em up Bowman!>|
-
-|<^1US PILOT: ^7Lima niner is inbound.>|
-
-|<^1BOWMAN: ^7X-ray, get your heads down!>|
-
-|<^1BOWMAN: ^7X-ray, you're clear.>|
-
-|<^1WOODS: ^7Come on, move up!>|
-
-|<^1WOODS: ^7Out of the way! Go!>|
-
-|<^1WOODS: ^7Bowman! North East corner!>|
-
-|<^1BOWMAN: ^7On the way.>|
-
-|<^1BOWMAN: ^7X-ray, we're breaching the roof.>|
-
-|<^1BOWMAN: ^7The whole damn building's overrun!>|
-
-|<^1WOODS: ^7Dispatch is next floor down.>|
-
-|<^1BOWMAN: ^7You think the defector survived this attack?!>|
-
-|<^1WOODS: ^7Well, if he did, then he's one tough son of a bitch!>|
-
-|<^1WOODS: ^7Well, if he did, he's one tough son of a gun!>|
-
-|<^1WOODS: ^7Bowman, what's he sayin'?>|
-
-|<^1BOWMAN: ^7Kill the civilians.>|
-
-|<^1BASE LOUDSPEAKER: ^7Your collaboration with the Americans is proof of your guilt. In accordance 
-with party tradition, the punishment is to be carried out immediately.>|
-
-|<^1BOWMAN: ^7Get down!>|
-
-|<^1BOWMAN: ^7Sorry mother fucker!>|
-
-|<^1BOWMAN: ^7Sorry bastard!>|
-
-|<^1US PILOT: ^7X-ray this is Lima niner. Anyone who doesn't get out soon, isn't going to; the NVA have overwhelmed the entire North Wing.>|
-
-|<^1WOODS: ^7Roger that Lima niner. Moving on.>|
-
-|<^1MASON: ^7Safe room just ahead.>|
-
-|<^1WOODS: ^7The safe rooms are on the other side of the war room.>|
-
-|<^1WOODS: ^7Molotov!>|
-
-|<^1BOWMAN: ^7At the window!>|
-
-|<^1BOWMAN: ^7Clear!>|
-
-|<^1MASON: ^7The safe room is down there.>|
-
-|<^1MASON: ^7Safe room's been breached>|
-
-|<^1MASON: ^7It's been breached.>|
-
-|<^1BOWMAN: ^7So where's your contact?>|
-
-|<^1MASON: ^7Might have fallen back to the command room... He may still be alive.>|
-
-|<^1MASON: ^7Let's go.>|
-
-|<^1WOODS: ^7Lima niner - sitrep over!>|
-
-|<^1US PILOT: ^7X-ray - NVA have retaken MACV South. You are cut off.>|
-
-|<^1WOODS: ^7Shit.>|
-
-|<^1WOODS: ^7Damn.>|
-
-|<^1BOWMAN: ^7Roger that Lima niner.>|
-
-|<^1US PILOT: ^7You better get your asses in gear if you want an evac.>|
-
-|<^1MASON: ^7Let's move - on me.>|
-
-|<^1WOODS: ^7We're in Command Central. The exit's on the other side.>|
-
-|<^1WOODS: ^7RPG!!!>|
-
-|<^1MASON: ^7He should be in one of these rooms.>|
-
-|<^1WOODS: ^7Mason - Take the door at the far end of the hallway.>|
-
-|<^1WOODS: ^7Bowman - On me.>|
-
-|<^1WOODS: ^7Mason, breach that door!>|
-
-|<^1WOODS: ^7You need to breach that door, Mason.>|
-
-|<^1WOODS: ^7Are going to breach that God damn door?>|
-
-|<^1WOODS: ^7We have to get moving. Breach that door.>|
-
-|<^1WOODS: ^7We are running out of time Mason.>|
-
-|<^1DRAGOVICH: ^7NUMBERS... construction....NUMBERS Broadcast station.... NUMBERS...>|
-
-|<^1DRAGOVICH: ^7Nova [indistinct]....NUMBERS... Rusalka... NUMBERS.>|
-
-|<^1REZNOV: ^7Mason?>|
-
-|<^1MASON: ^7Reznov. How'd you get out of Vorkuta?>|
-
-|<^1MASON: ^7Never thought I'd see you alive...>|
-
-|<^1REZNOV: ^7Nor I you, my friend.>|
-
-|<^1MASON: ^7You're our defector?>|
-
-|<^1REZNOV: ^7I am here with a warning your government would do well to heed...>|
-
-|<^1REZNOV: ^7Dragovich is planning an attack on the West.>|
-
-|<^1WOODS: ^7Mason!... You get what you came for?>|
-
-|<^1MASON: ^7Good to go.>|
-
-|<^1MASON: ^7Dragovich... I knew we'd see him again.>|
-
-|<^1REZNOV: ^7His influence spreads like a cancer... Even the Kremlin does not know what he is truly planning.>|
-
-|<^1REZNOV: ^7He must be stopped, Mason.>|
-
-|<^1REZNOV: ^7Dragovich... Kravchenko... Steiner...  All must die.>|
-
-|<^1REZNOV: ^7Are these your men?>|
-
-|<^1MASON: ^7Woods. Bowman.>|
-
-|<^1REZNOV: ^7I am Reznov... Viktor.>|
-
-|<^1WOODS: ^7What took you so long, Mason? That intel better be worth it...>|
-
-|<^1WOODS: ^7Lima niner... Where the Hell's our pickup?!!>|
-
-|<^1US PILOT: ^7X-ray - Be advised... Marines forces are engaged in heavy fighting West of MACV.>|
-
-|<^1US PILOT: ^7Push through to Rally Point Delta - 2 clicks North on the River.>|
-
-|<^1WOODS: ^7We'll make it... You just be there...>|
-
-|<^1WOODS: ^7We're gonna need some close air support for this shit.>|
-
-|<^1WOODS: ^7We're gonna need some close air support for this.>|
-
-|<^1BASE LOUDSPEAKER: ^7American soldiers! Put down your weapons! This is not your war. 
-We wish you no harm. The People's Army of Vietnam is here to liberate you!>|
-
-|<^1CROSBY: ^7RT-Texas this is One Five. We need immediate air support at grid seven Delta Oscar Tango!>|
-
-|<^1US PILOT: ^7Negative One Five. Our primary objective is MacV South. Stay with your company.>|
-
-|<^1CROSBY: ^7We don't have a company! We got cut off in the attack!>|
-
-|<^1US PILOT: ^7One Five we do not have clearance in that sector. Everyone's in the shit, son.>|
-
-|<^1US PILOT: ^7One Five we do not have clearance in that grid.>|
-
-|<^1CROSBY: ^7Son of a bitch... Fuck!>|
-
-|<^1CROSBY: ^7Son of a...>|
-
-|<^1MASON: ^7Hey, give me that radio.>|
-
-|<^1CROSBY: ^7What are you... SOG?>|
-
-|<^1MASON: ^7Just give me the radio.>|
-
-|<^1CROSBY: ^7Good luck with that shit.>|
-
-|<^1CROSBY: ^7Good luck with that>|
-
-|<^1WOODS: ^7Hurry up and get the radio!>|
-
-|<^1WOODS: ^7Mason! Grab that damn radio!>|
-
-|<^1WOODS: ^7What are you waiting for?... We need that radio, Mason.>|
-
-|<^1MASON: ^7Texas this is Sierra Oscar Golf X-ray. Priority one ordnance on my command. I authenticate, golf shoe, over.>|
-
-|<^1US PILOT: ^7Roger X-ray. Let us know where you need us.>|
-
-|<^1CROSBY: ^7Son of a bitch... Holy shit!>|
-
-|<^1WOODS: ^7X-ray - Move out!>|
-
-|<^1WOODS: ^7Mason, put that ordnance on the buildings!>|
-
-|<^1BOWMAN: ^7Mason, give ME the damned radio if you're not gonna use it.>|
-
-|<^1US PILOT: ^7X-ray, Texas is standing by.>|
-
-|<^1US PILOT: ^7Texas, waiting for ordnance command, over.>|
-
-|<^1US PILOT: ^7X-ray, we have no visual on targets. Request coordinates, over.>|
-
-|<^1US PILOT: ^7Roger that X-ray, targeting the 2 story building.>|
-
-|<^1US PILOT: ^7Roger X-ray, engaging the 3 story building.>|
-
-|<^1US PILOT: ^7Roger that. Wild fire on the 4 story building.>|
-
-|<^1US PILOT: ^7Gotcha X-ray. Firing on the 5 story building.>|
-
-|<^1US PILOT: ^7Coordinates confirmed. Contact at the 6 story building.>|
-
-|<^1MASON: ^7Texas, I need some heat.>|
-
-|<^1US PILOT: ^7Roger that, we are inbound.>|
-
-|<^1MASON: ^7Texas, ordnance on my mark.>|
-
-|<^1US PILOT: ^7Roger X-ray, hold tight.>|
-
-|<^1MASON: ^7Marking coordinates. Take 'em out.>|
-
-|<^1US PILOT: ^7Clear X-ray. We are engaging.>|
-
-|<^1MASON: ^7Texas hit that nest right now. Danger close!>|
-
-|<^1US PILOT: ^7Comin' in X-ray. Keep your heads down.>|
-
-|<^1MASON: ^7Target marked. Hit 'em hard.>|
-
-|<^1US PILOT: ^7Texas on its way.>|
-
-|<^1MASON: ^7Texas, your target is tagged.>|
-
-|<^1US PILOT: ^7We see you X-ray. Support on the way.>|
-
-|<^1US PILOT: ^7Negative X-ray we see friendlies on your mark.>|
-
-|<^1US PILOT: ^7X-ray those coordinates are on friendlies. Confirm, over?>|
-
-|<^1US PILOT: ^7Negative X-ray, that is not a valid target.>|
-
-|<^1US PILOT: ^7That's a negative X-ray - We see RPGs on the rooftops.>|
-
-|<^1US PILOT: ^7X-ray - its too hot! Clear out those RPGs!>|
-
-|<^1US PILOT: ^7Understood X-ray. Clear your squad from the area.>|
-
-|<^1US PILOT: ^7Understood X-ray. Clear your team from the area.>|
-
-|<^1WOODS: ^7Clear the area! Danger close!>|
-
-|<^1US PILOT: ^7Affirmative X-ray. Clear the area.>|
-
-|<^1WOODS: ^7First squad, get out of there! Inbound fires on our position.>|
-
-|<^1US PILOT: ^7X-ray you have contact on the roof of the 4 story building.>|
-
-|<^1US PILOT: ^7X-ray, enemy RPG on the roof.>|
-
-|<^1US PILOT: ^7Target eliminated.>|
-
-|<^1US PILOT: ^7Enemy down.>|
-
-|<^1US PILOT: ^7Multiple KHA. Zero is clear.>|
-
-|<^1US PILOT: ^7X-ray, the building is secure, over.>|
-
-|<^1US PILOT: ^7We have multiple confirmed kills at zero. Area secure.>|
-
-|<^1US PILOT: ^7X-ray you are free to proceed. You have superiority.>|
-
-|<^1US PILOT: ^7X-ray we have control of the building. Move up.>|
-
-|<^1REZNOV: ^7Excellent!!!>|
-
-|<^1REZNOV: ^7Rain fire!>|
-
-|<^1REZNOV: ^7Keep on them, Mason!>|
-
-|<^1REZNOV: ^7[laughs] It is good to fight by your side once more! URA! URA!>|
-
-|<^1BOWMAN: ^7APC's down! There's a fuckin' tank out there!>|
-
-|<^1BOWMAN: ^7APC's down! There's a tank out there!>|
-
-|<^1WOODS: ^7Mason! Tag that son of a bitch right now!>|
-
-|<^1WOODS: ^7Mason! Tag that bastard right now!>|
-
-|<^1MASON: ^7Texas I need all you've got on that tank in front of us.>|
-
-|<^1MASON: ^7Texas we have enemy armor at Victor Zulu Seven Foxtrot.>|
-
-|<^1REZNOV: ^7Mason! What are you waiting for?!>|
-
-|<^1BOWMAN: ^7That T-55 is killing us! Mason, put those birds on it!>|
-
-|<^1US PILOT: ^7Affirmative X-ray. Texas raining hell.>|
-
-|<^1US PILOT: ^7Roger that X-ray. Coming in for a strafing run.>|
-
-|<^1US PILOT: ^7Tank destroyed - X-ray you are clear to proceed.>|
-
-|<^1WOODS: ^7X-ray, move out!>|
-
-|<^1WOODS: ^7The LZ's half a click away; end of the street.>|
-
-|<^1US PILOT: ^7Shit... evasive action... X-ray we are under heavy fire!>|
-
-|<^1US PILOT: ^7Evasive action... X-ray we are under heavy fire!>|
-
-|<^1US PILOT: ^7X-ray the grid is hot. RT-Texas is pulling out. Take down that anti-air and we will return support, over.>|
-
-|<^1MASON: ^7Understood Texas.>|
-
-|<^1WOODS: ^7Get that gate open! We've got an triple A in the area.>|
-
-|<^1BOWMAN: ^7I see it! ZSU, second floor, end of street.>|
-
-|<^1WOODS: ^7Gotta find another way - that street's in the beat zone.>|
-
-|<^1REZNOV: ^7We flank that building!>|
-
-|<^1WOODS: ^7This will do. Help me clear it.>|
-
-|<^1WOODS: ^7Mason! Help me clear this! Arg...>|
-
-|<^1WOODS: ^7Harder!>|
-
-|<^1BOWMAN: ^7We got a tank!>|
-
-|<^1BOWMAN: ^7Off the street!>|
-
-|<^1MASON: ^7Fuck!>|
-
-|<^1MASON: ^7Dammit!>|
-
-|<^1REZNOV: ^7Still in one piece, my friend?>|
-
-|<^1MASON: ^7I'm good.>|
-
-|<^1WOODS: ^7Mason, we gotta take out that ZSU... Bowman, keep these guys safe.>|
-
-|<^1BOWMAN: ^7Got it.>|
-
-|<^1WOODS: ^7Blocked. Up the stairs.>|
-
-|<^1BOWMAN: ^7X-ray, Charlie's moving in on us. Pick it up.>|
-
-|<^1WOODS: ^7We're on it!>|
-
-|<^1WOODS: ^7Mason!!!>|
-
-|<^1WOODS: ^7You okay, brother?>|
-
-|<^1MASON: ^7Still breathing.>|
-
-|<^1MASON: ^7We'll see you at the rally point.>|
-
-|<^1MASON: ^7The ZSU is right above us.>|
-
-|<^1REZNOV: ^7Put a charge on the ceiling - blow the floor from beneath them.>|
-
-|<^1BOWMAN: ^7I got Charlie in my pocket here one zero. How much longer?>|
-
-|<^1MASON: ^7About 3 seconds.>|
-
-|<^1REZNOV: ^7Get to a safe distance!>|
-
-|<^1MASON: ^7We're clear! Ready, Reznov?>|
-
-|<^1REZNOV: ^7Good work, Mason!>|
-
-|<^1US PILOT: ^7X-ray - Air support is offline while we evacuate the wounded.>|
-
-|<^1WOODS: ^7Roger that.>|
-
-|<^1WOODS: ^7There's our ride.>|
-
-|<^1MASON: ^7I'm not so sure...>|
-
-|<^1US PILOT: ^7Get the wounded first.>|
-
-|<^1US PILOT: ^7More birds on their way - sit tight.>|
-
-|<^1BASE LOUSPEAKER: ^7American soldiers! Your aggression towards the People's Republic of Vietnam will not un punished.>|
-
-|<^1WOODS: ^7Looks like we gotta wait - Everyone load up - I want this LZ secure!>|
-
-|<^1WOODS: ^7Mason - set up charges around the perimeter!>|
-
-|<^1BASE LOUSPEAKER: ^7Instead of returning to your own country - you will die in ours.>|
-
-|<^1WOODS: ^7Here they come!>|
-
-|<^1WOODS: ^7Everything you got!>|
-
-|<^1WOODS: ^7On the rooftop!>|
-
-|<^1WOODS: ^7Throw them back!>|
-
-|<^1WOODS: ^7They're closing in!>|
-
-|<^1BOWMAN: ^7They're all around!>|
-
-|<^1WOODS: ^7These bastards keep comin'!>|
-
-|<^1WOODS: ^7From the North East!>|
-
-|<^1WOODS: ^7To the East!>|
-
-|<^1WOODS: ^7From the South East!>|
-
-|<^1WOODS: ^7Coming in from the South!>|
-
-|<^1WOODS: ^7Eyes South West!>|
-
-|<^1WOODS: ^7Artillery!!!>|
-
-|<^1WOODS: ^7Mason! Take out the spotters!>|
-
-|<^1REZNOV: ^7There! On the roof!>|
-
-|<^1BOWMAN: ^7Mason, grab that scoped rifle and take out those spotters!>|
-
-|<^1BOWMAN: ^7They're poundin' us Mason. Grab that rifle!>|
-
-|<^1WOODS: ^7Mason, grab that scoped commando and take out those spotters!>|
-
-|<^1WOODS: ^7You need to take out the spotters!>|
-
-|<^1WOODS: ^7Grab that rifle and take out those damn spotters!>|
-
-|<^1WOODS: ^7They're pounding us Mason. Grab that rifle!>|
-
-|<^1BOWMAN: ^7They're pullin' back!>|
-
-|<^1REZNOV: ^7They're not retreating - They are regrouping!>|
-
-|<^1WOODS: ^7Command! - X-ray one zero!>|
-
-|<^1WOODS: ^7We got a prairie fire down here - Where's our damn evac?!!>|
-
-|<^1COMMAND: ^7This city's falling to the NVA - They're picking our birds right out of the sky. You're not the only ones trying to get out!>|
-
-|<^1WOODS: ^7We have a priority one package to extract - We need that evac!>|
-
-|<^1COMMAND: ^7We'll find another way - hold your position.>|
-
-|<^1COMMAND: ^7X-ray - We're trying to wrangle you a Navy boat, but it's going to take some time. Hold your position.>|
-
-|<^1WOODS: ^7Stay on it!>|
-
-|<^1COMMAND: ^7X-ray - Check your six. We have a Navy PBR on its way.>|
-
-|<^1WOODS: ^7Roger that! None too soon.>|
-
-|<^1COMMAND: ^7Direct fire support to cover arrival. Delta squadron is on station.>|
-
-|<^1WOODS: ^7Got it. X-ray out.>|
-
-|<^1WOODS: ^7Mason! - Mark that target!>|
-
-|<^1MASON: ^7Marking coordinates. Delta Squadron - Burn 'em up.>|
-
-|<^1US PILOT: ^7Roger X-ray. Target run, get your people back.>|
-
-|<^1BOWMAN: ^7PBR's here!!!>|
-
-|<^1WOODS: ^7Incoming - Danger close!>|
-
-|<^1WOODS: ^7Get your asses to the boat!>|
-
-|<^1BOWMAN: ^7Move it! Move!>|
-
-|<^1MASON: ^7Go! To the boat!>|
-
-|<^1WOODS: ^7Get in!>|
-
-|<^1BOWMAN: ^7So much for the Tet cease fire.>|
-
-|<^1REZNOV: ^7The enemy's courage could be the result of their new found ally...>|
-
-|<^1MASON: ^7Dragovich.>|
-
-|<^1US PILOT: ^7Roger X-Ray - Standby for strafing run.>|
-
-|<^1US PILOT: ^7X-Ray - We're coming in hot.>|
-
-|<^1US PILOT: ^7X-Ray, our PBR is a minute out from your position. Hold tight>|
-
-|<^1US PILOT: ^7X-Ray, your EVAC is on it's way.>|
-
-|<^1US PILOT: ^7ETA: 2 minutes>|
-
-|<^1US PILOT: ^7ETA: 1 minute>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<€ª!…z>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-

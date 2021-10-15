@@ -1,908 +1,0 @@
-|<Press      to open door>|
-
-|<^3[{+activate}]^7>|
-
-|<Repeatedly press ^3[{+activate}]^7 to open the door.>|
-
-|<^LTransmission # 14-15. Designate: XRAY^L>|
-
-|<^LIntel suggests Soviet presence in southern^L ^C1DMZ, Vietnam.^C>|
-
-|<^C1Mason^C ^Land SOG team to find evidence and eliminate Kravchenko.^L>|
-
-|<^LSoviet Col. Kravchenko running ops with VC and NVA forces.^L>|
-
-|<Clear village>|
-
-|<Enter tunnels>|
-
-|<Move barricade>|
-
-|<Press ^3[{+activate}]^7>|
-
-|<Place C4>|
-
-|<Hold ^3[{+activate}]^7 to plant explosives>|
-
-|<Press ^3[{+breath_sprint}]^7 to turn on flashlight>|
-
-|<Hold ^3[{+activate}]^7 to move crates>|
-
-|<^3[{+speed_throw}]^7                                  >|
-
-|<                                       ^3[{+attack}]^7>|
-
-|<Pick up M202>|
-
-|<Destroy the ZPU>|
-
-|<Clear the MG on the hill>|
-
-|<Press ^3[{+melee}]^7 to melee>|
-
-|<Search room>|
-
-|<Get on sampan>|
-
-|<Rendezvous with Whiskey team>|
-
-|<Kill VC on boat>|
-
-|<Find Kravchenko>|
-
-|<Trigger charges>|
-
-|<Destroy Rat tunnel>|
-
-|<Reinforce Whiskey>|
-
-|<Escape>|
-
-|<You were detected and compromised the mission.>|
-
-|<Press ^3[{+attack}]^7 to detonate>|
-
-|<^L1200 hours,^L ^C1February 9, 1968^C>|
-
-|<Clear north village>|
-
-|<Hold ^3[{+activate}]^7 for M202>|
-
-|<Press ^3[{+melee}]^7 to dig>|
-
-|<Press ^F^3[{+activate}]^7^F to open door>|
-
-|<Target>|
-
-|<Follow>|
-
-|<You failed to escape in time.>|
-
-|<Approach the boat and press ^3[{+melee}]^7 to take out the VC>|
-
-|<^1REZNOV: ^7Dragovich. Kravchenko. Steiner.>|
-
-|<^1INTERROGATOR: ^7Where had Reznov been? Why did you split up?>|
-
-|<^1MASON: ^7Viktor Reznov was a loner. He didn't trust anyone.>|
-
-|<^1US PILOT: ^7We're hit!!! We're hit!!>|
-
-|<^1WOODS: ^7Where the Hell did that come from?!>|
-
-|<^1US PILOT: ^7Sounded like a God damn ZPU!>|
-
-|<^1US PILOT: ^7MAY DAY! MAY DAY! This is Hotel-niner one. We are going down! WE ARE GOING DOWN!>|
-
-|<^1US PILOT: ^7This is Hotel-91. We are going down in sector Bravo Tango Seven Niner. May day may day...>|
-
-|<^1BOWMAN: ^7Lima niner X-ray - do you monitor?>|
-
-|<^1BOWMAN: ^7Lima niner X-ray - do you read me?>|
-
-|<^1US PILOT: ^7Ugh...>|
-
-|<^1US PILOT: ^7I need some help here!>|
-
-|<^1MASON: ^7He's dead.>|
-
-|<^1US PILOT: ^7Shit, they're comin'!>|
-
-|<^1US PILOT: ^7They're comin'!>|
-
-|<^1WOODS: ^7Kill those bastards!>|
-
-|<^1WOODS: ^7We got to get out of here. This thing's about to...>|
-
-|<^1WOODS: ^7We're going under Mason!>|
-
-|<^1WOODS: ^7Stay sharp Mason, they're out there. This is Lima 9 X-ray...>|
-
-|<^1REZNOV: ^7Left flank, Mason! On the ridge!>|
-
-|<^1WOODS: ^7Dead ahead! Take cover!>|
-
-|<^1REZNOV: ^7Sergeant Woods is very capable... You have chosen your men well, Mason...>|
-
-|<^1REZNOV: ^7I will move to higher ground to look for Kravchenko's compound.>|
-
-|<^1MASON: ^7Understood. Stay close Viktor.>|
-
-|<^1BOWMAN: ^7Lima niner X-ray, this is Whiskey. You out there?>|
-
-|<^1WOODS: ^7Yeah. Whiskey, go.>|
-
-|<^1BOWMAN: ^7Woods! Thought we'd lost you in that chopper. What's the new plan?>|
-
-|<^1WOODS: ^7You clear the South East perimeter and meet us at the rally point.>|
-
-|<^1BOWMAN: ^7Roger. Whiskey on the way, over. Glad you're still in the game, Woods.>|
-
-|<^1WOODS: ^7The rally point is just ahead. Bowman should be waitin' for us. No noise - knife only.>|
-
-|<^1WOODS: ^7Ssh. Charlie.>|
-
-|<^1WOODS: ^7Quiet.>|
-
-|<^1WOODS: ^7(Whistles) Hey, Charlie.>|
-
-|<^1WOODS: ^7Hey, Nguyen!>|
-
-|<^1BOWMAN: ^7Never gets old.>|
-
-|<^1WOODS: ^7Mason fill us in.>|
-
-|<^1MASON: ^7Somewhere near this village is a Military outpost under the command of General Kravchenko.>|
-
-|<^1BOWMAN: ^7Been losin' our FAC to Triple A.>|
-
-|<^1WOODS: ^7Probably a ZPU. We disarm it then we'll bring in the Hornets.>|
-
-|<^1WOODS: ^7Been losing our FAC to triple A. Must be a ZSU four out here somewhere. We disable it then bring in the Hornets to survey the area.>|
-
-|<^1WOODS: ^7Whiskey team, you cover the bridge and the East river. Mason, with me on the West perimeter. Rendezvous point, the village in 5 minutes. You got it?>|
-
-|<^1WOODS: ^7Team Whiskey cover the bridge. Mason, we plant explosives along the West perimeter. Rendezvous at the village in 5 minutes. You got it?>|
-
-|<^1BOWMAN: ^7Whiskey team - on me. Later boys.>|
-
-|<^1BOWMAN: ^7Cleared the East bank, moving to the bridge.>|
-
-|<^1US MARINE: ^7Sierra is at the North perimeter.>|
-
-|<^1WOODS: ^7Mason, you need to plant that charge.>|
-
-|<^1WOODS: ^7Get back there and plant that charge...>|
-
-|<^1WOODS: ^7We need to plant the C4 Mason...>|
-
-|<^1WOODS: ^7Stay low...>|
-
-|<^1WOODS: ^7Ssh.>|
-
-|<^1BOWMAN: ^7Whiskey on the bridge. Moving North.>|
-
-|<^1US MARINE: ^7Sierra has cleared the North perimeter. Moving to the village.>|
-
-|<^1WOODS: ^7X-ray is clearing the West flank. ETA 3 minutes. We gotta split up. I'll take the high ground. You cross the river, find a place for the Semtex.>|
-
-|<^1WOODS: ^7Xray is clearing the east flank. ETA 3 minutes. We're splitting up. I'll take the high ground. Cross the river to the right and find a place for the Semtex.>|
-
-|<^1MASON: ^7Roger.>|
-
-|<^1WOODS: ^7Get back over there.>|
-
-|<^1WOODS: ^7Careful Mason. More VC up ahead.>|
-
-|<^1MASON: ^7Explosives are primed and ready.>|
-
-|<^1US MARINE: ^7Sierra in position.>|
-
-|<^1BOWMAN: ^7Whiskey ready.>|
-
-|<^1WOODS: ^7Roger, X-ray inbound.>|
-
-|<^1WOODS: ^7You got that detonator?>|
-
-|<^1MASON: ^7Right here.>|
-
-|<^1BOWMAN: ^7Put a little present in the fuel reserve up ahead.>|
-
-|<^1BOWMAN: ^7I left them a present in that fuel reserve up ahead.>|
-
-|<^1WOODS: ^7Alright... Mason, let's see what this Semtex can do.>|
-
-|<^1WOODS: ^7Okay, we're ready. Mason, show us what this Semtex can do.>|
-
-|<^1WOODS: ^7Mason, do it!>|
-
-|<^1BOWMAN: ^7Holy shit!>|
-
-|<^1BOWMAN: ^7Holy crap!>|
-
-|<^1WOODS: ^7GO! GO! GO! GO! GO!>|
-
-|<^1WOODS: ^7Weapons free!>|
-
-|<^1WOODS: ^7Keep your eyes open for that ZPU!>|
-
-|<^1BOWMAN: ^7One zero, one zero, this is Whiskey. We've got a ZPU on the river.>|
-
-|<^1WOODS: ^7That's the gun! Mason, go take it out. Once their air defense is down we can bring in the Hornets.>|
-
-|<^1MASON: ^7On my way.>|
-
-|<^1BOWMAN: ^7Next to the hut on the river. You see it?>|
-
-|<^1MASON: ^7Got it!>|
-
-|<^1BOWMAN: ^7Charlie don't want to let that gun go! Look at those fuckers move!>|
-
-|<^1BOWMAN: ^7Charlie don't want to let that gun go! Look at those guys move!>|
-
-|<^1MASON: ^7All right, let's hit it.>|
-
-|<^1BOWMAN: ^7We need more firepower. Johnson! Bring up the 202 flash. Hit that ZPU on the river.>|
-
-|<^1US MARINE: ^7Got it!>|
-
-|<^1BOWMAN: ^7Damn it! Mason - get to the 202! I'm pinned down.>|
-
-|<^1MASON: ^7Yeah, I got it.>|
-
-|<^1BOWMAN: ^7Mason! Use the 202!>|
-
-|<^1BOWMAN: ^7Hit it again! Now!>|
-
-|<^1BOWMAN: ^7One zero. Nest is empty. Objective cleared.>|
-
-|<^1WOODS: ^7Roger.>|
-
-|<^1WOODS: ^7Team Kentucky this is Lima niner. Sierra 3 is clear. You can bring in the air support.>|
-
-|<^1BOWMAN: ^7Get those birds in here NOW!>|
-
-|<^1US PILOT: ^7Lima niner X-ray this is Kentucky. Green Hornets are inbound.>|
-
-|<^1US PILOT: ^7Keep your shit tucked. We are coming in hot!>|
-
-|<^1US PILOT: ^7Keep yours tucked. We are coming in hot!>|
-
-|<^1US MARINE: ^7Let's move it!>|
-
-|<^1US MARINE: ^7Get to cover!>|
-
-|<^1US MARINE: ^7Move! Move! Move!>|
-
-|<^1WOODS: ^7Charlie! 9 o'clock.>|
-
-|<^1WOODS: ^7Left flank! Targets on the roof!>|
-
-|<^1WOODS: ^7Clear the rest of the village!>|
-
-|<^1WOODS: ^7Get a 'nade in that spider hole!>|
-
-|<^1WOODS: ^7Spider hole dead ahead!>|
-
-|<^1BOWMAN: ^7Someone drop a 'nade in the hole!>|
-
-|<^1WOODS: ^7Eyes left Mason. Take those bastards out!>|
-
-|<^1WOODS: ^7Charlie on the right!>|
-
-|<^1BOWMAN: ^7We're clear - move move!>|
-
-|<^1WOODS: ^7Area clear!>|
-
-|<^1BOWMAN: ^7Dock is clear, move up!>|
-
-|<^1WOODS: ^7Push through! Let's go!>|
-
-|<^1WOODS: ^7Mason! Make sure that hooch is clear!>|
-
-|<^1BOWMAN: ^7Keep your head down!>|
-
-|<^1WOODS: ^7Contact on the roof! Mason, drop 'em!>|
-
-|<^1BOWMAN: ^7Eyes high! Charlie on the roof!>|
-
-|<^1WOODS: ^7Area clear! We're gonna cut through this hut. Mason, lead the way.>|
-
-|<^1WOODS: ^7Mason! Over here!>|
-
-|<^1WOODS: ^7Let's go Mason! On me!>|
-
-|<^1WOODS: ^7Mason get in position!>|
-
-|<^1BOWMAN: ^7Mason, move it brother!>|
-
-|<^1MASON: ^7Reznov. What'd you find?>|
-
-|<^1REZNOV: ^7Mason - There's a network of tunnels around the village.>|
-
-|<^1REZNOV: ^7We are close...>|
-
-|<^1MASON: ^7Keep your head down.>|
-
-|<^1WOODS: ^7Charlie's getting on that MG... Shit! Take cover!>|
-
-|<^1WOODS: ^7MG! Take cover!>|
-
-|<^1BOWMAN: ^7Somebody take that son of a bitch down!>|
-
-|<^1BOWMAN: ^7Somebody take it down!>|
-
-|<^1WOODS: ^7Mason! You got eyes on him?>|
-
-|<^1MASON: ^7He's mine.>|
-
-|<^1MASON: ^7Rat tunnel up ahead.>|
-
-|<^1WOODS: ^7I see it.>|
-
-|<^1WOODS: ^7Fire in the hole!>|
-
-|<^1WOODS: ^7We have to clear this tunnel.>|
-
-|<^1MASON: ^7I'll take it. Swift! With me.>|
-
-|<^1WOODS: ^7All right. I'll keep the Hornets scouring the area. Let's move.>|
-
-|<^1SWIFT: ^7This son of a bitch ain't fighting no more.>|
-
-|<^1SWIFT: ^7Ain't fighting no more.>|
-
-|<^1WOODS: ^7Lima niner, this is X-Ray. Prep for recon sweep 3 kay radius.>|
-
-|<^1US PILOT: ^7Roger that, X-Ray.>|
-
-|<^1WOODS: ^7Here. Take this. Stay on it. We'll find your Kravchenko. You make it out of there alive. Bowman, point! Let's move!>|
-
-|<^1SWIFT: ^7Keep that light steady Mason.>|
-
-|<^1MASON: ^7Hold.>|
-
-|<^1MASON: ^7Reznov... you nearly took a bullet.>|
-
-|<^1REZNOV: ^7No one fights alone Mason>|
-
-|<^1REZNOV: ^7I will work my way around.>|
-
-|<^1MASON: ^7All right, but move quietly!>|
-
-|<^1SWIFT: ^7What the fuck's wrong with you?>|
-
-|<^1SWIFT: ^7What the ?#@?! wrong with you?>|
-
-|<^1MASON: ^7We're good. Move up Swift.>|
-
-|<^1SWIFT: ^7Mason, you got to keep your shit together...>|
-
-|<^1SWIFT: ^7Mason, you got to keep your ?#@?! together...>|
-
-|<^1MASON: ^7Oh shit...>|
-
-|<^1MASON: ^7Oh crap...>|
-
-|<^1REZNOV: ^7Where is our friend, Swift?>|
-
-|<^1MASON: ^7Woods, come in.>|
-
-|<^1WOODS: ^7Go ahead, Mason.>|
-
-|<^1MASON: ^7Swift's dead... We got VC crawling all over.>|
-
-|<^1WOODS: ^7Lima niner is sweeping the area. No sign of.... (static)>|
-
-|<^1MASON: ^7Woods - You monitor?>|
-
-|<^1MASON: ^7Shit...>|
-
-|<^1MASON: ^7Crap...>|
-
-|<^1REZNOV: ^7Where is your friend Swift?>|
-
-|<^1MASON: ^7Dead.>|
-
-|<^1REZNOV: ^7We will mourn him later, Mason.>|
-
-|<^1REZNOV: ^7There are signs of Soviet presence in these tunnels... We are on the right path...>|
-
-|<^1REZNOV: ^7Here, help me move this.>|
-
-|<^1REZNOV: ^7Your turn my friend. I will follow.>|
-
-|<^1MASON: ^7Which way, Reznov?>|
-
-|<^1REZNOV: ^7Follow your instincts, Mason.>|
-
-|<^1MASON: ^7Shit.>|
-
-|<^1MASON: ^7Damn.>|
-
-|<^1MASON: ^7Son of a bitch!>|
-
-|<^1MASON: ^7Son of a...!>|
-
-|<^1REZNOV: ^7Careful Mason... I hear the enemy.>|
-
-|<^1REZNOV: ^7Good work my friend.>|
-
-|<^1REZNOV: ^7We are getting close, Mason.>|
-
-|<^1MASON: ^7You with me, Reznov?>|
-
-|<^1REZNOV: ^7This is it... Kravchenko's forward compound.>|
-
-|<^1MASON: ^7It looks abandoned.>|
-
-|<^1REZNOV: ^7Kravchenko anticipated our arrival.>|
-
-|<^1MASON: ^7...And left in a hurry.>|
-
-|<^1REZNOV: ^7Look around.>|
-
-|<^1REZNOV: ^7Kravchenko...>|
-
-|<^1KRAVCHENKO: ^7February 4th, 1968. The stabilizing agents supplied by Doctor Clarke 
-have met with much success.>|
-
-|<^1KRAVCHENKO: ^7Recent field tests on the local population have shown this to be the most 
-effective strain of Nova 6 produced thus far.>|
-
-|<^1KRAVCHENKO: ^7As with previous animal tests at Rebirth, the onset of symptoms in human subjects 
-is exactly in line with our expectations.>|
-
-|<^1KRAVCHENKO: ^7Within thirty seconds of inhaling the gas, 
-subjects experience sudden and severe pain, 
-quickly followed by significant drop in blood pressure, 
-leading to fever, nausea and vomiting.>|
-
-|<^1KRAVCHENKO: ^7After sixty seconds, blistering of the skin begins, 
-followed by scaling, peeling, and discoloration across the subject's entire body...  
-Effectively signaling the onset of epidermal necrosis.>|
-
-|<^1KRAVCHENKO: ^7At this stage we have had limited success, 
-by way of aggressive surgical debridement, 
-in keeping subjects alive for short periods.>|
-
-|<^1KRAVCHENKO: ^7But even the surgical removal of infected tissue is not enough 
-to prevent further spread.>|
-
-|<^1KRAVCHENKO: ^7While the speed of infection appears to be consistent across adult males, 
-we have observed a more aggressive rate of decay within infants, 
-usually leading to mortality within thirty to forty five seconds.>|
-
-|<^1KRAVCHENKO: ^7We have every indication that we now have a workable formula which is effective, 
-even in warmer climates.>|
-
-|<^1KRAVCHENKO: ^7Communicate our successes to Doctor Steiner. Kravchenko out.>|
-
-|<^1REZNOV: ^7These documents indicate that Kravchenko's primary base of operations is across the border - Laos.>|
-
-|<^1REZNOV: ^7There's flight plans to the base... supplies brought in from somewhere called... Rebirth?>|
-
-|<^1MASON: ^7How many people has this bastard killed?>|
-
-|<^1REZNOV: ^7More than you could ever count, Mason.>|
-
-|<^1MASON: ^7He's using war atrocities as a smokescreen for his experiments...>|
-
-|<^1MASON: ^7Kravchenko's trying make it look like the US is behind this.>|
-
-|<^1MASON: ^7He must have had supplies lowered in through here.>|
-
-|<^1MASON: ^7Quick, grab the documents, Reznov - We're leaving!>|
-
-|<^1REZNOV: ^7GO! GO!>|
-
-|<^1MASON: ^7X-ray - do you monitor?!>|
-
-|<^1MASON: ^7Dammit!>|
-
-|<^1REZNOV: ^7Hurry Mason! I do not wish this rat hole to become my grave!>|
-
-|<^1MASON: ^7I say again - Woods - Do you roger?!!>|
-
-|<^1WOODS: ^7Mason?!! What the fuck happened?... We're seeing fire from the tunnels?>|
-
-|<^1WOODS: ^7Mason?!! What the hell happened?... We're seeing fire from the tunnels?>|
-
-|<^1MASON: ^7Kravchenko had the place wired to blow!>|
-
-|<^1WOODS: ^7Where the hell are you?!>|
-
-|<^1MASON: ^7We followed the tunnels about one click North!>|
-
-|<^1WOODS: ^7That should bring you out somewhere near the north ridge!>|
-
-|<^1REZNOV: ^7We will have to claw our way out of here!>|
-
-|<^1WOODS: ^7We'll maintain a holding pattern 'till we have eyes on.>|
-
-|<^1MASON: ^7Come on! Come on!>|
-
-|<^1REZNOV: ^7Dig, Mason. Dig!!!>|
-
-|<^1MASON: ^7Shit!>|
-
-|<^1MASON: ^7Damn!>|
-
-|<^1REZNOV: ^7VC, Mason!>|
-
-|<^1MASON: ^7Where are you, Woods?!>|
-
-|<^1WOODS: ^7Let's get the fuck out of here!>|
-
-|<^1WOODS: ^7Let's get the ?&$#! out of here!>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<€ª!…z>|
-
-|<ÿÿ>|
-
-|<ˆˆ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿy>|
-
-|<ÿÿÿÿÿÿy>|
-
-|<mc/mtl_p_jun_group_photo>|
-
