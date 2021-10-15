@@ -157,7 +157,7 @@ The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
 
 |<^1HK416: ^7Sorry about the bar, P90.>|
 
-|<^1P90: ^7No problem... My men will dispose of the bodies...>|
+|<^1P90: ^7No problem... My T-Dolls will dispose of the bodies...>|
 
 |<^1P90: ^7The police are here.>|
 
@@ -245,7 +245,7 @@ The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
 
 |<^1HK416: ^7Let's hope those Cuban pilots are up to job... Or this is gonna be one short revolution.>|
 
-|<^1HK416: ^7There's the compound... P90 and his men should be hittin' the airfield.... Any minute...>|
+|<^1HK416: ^7There's the compound... P90 and her T-Dolls should be hittin' the airfield.... Any minute...>|
 
 |<^1HK416: ^7There's the signal.... Now.>|
 
@@ -370,7 +370,7 @@ those damn planes blow us to pieces!>|
 
 |<^1UMP9: ^7This ain't good!  There's too many of them!>|
 
-|<^1UMP9: ^7P90' men should be here!>|
+|<^1UMP9: ^7P90' T-Dolls should be here!>|
 
 |<^1HK416: ^7P90... What's happening?!!>|
 
@@ -380,7 +380,7 @@ those damn planes blow us to pieces!>|
 
 |<^1P90: ^7You think I'd let you down, 416?>|
 
-|<^1P90: ^7My men will cover your escape.>|
+|<^1P90: ^7My T-Dolls will cover your escape.>|
 
 |<^1P90: ^7Now... Hurry, my friends!>|
 
