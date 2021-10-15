@@ -8490,49 +8490,49 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7RPK16's sleeper cells are on US soil. Rain 4 is weaponized. They will use it. KCCO has gone dark. We are out of options. A pre-emptive strike on USSR is prepared. The President WILL authorize.>|
 
-|<^1INTERROGATOR: ^7Mason! For the last time! Where is the numbers station?!>|
+|<^1INTERROGATOR: ^7UMP45! For the last time! Where is the numbers station?!>|
 
-|<^1UMP45: ^7How many times!... Steiner was at Rebirth Island. We had to kill Steiner.>|
+|<^1UMP45: ^7How many times!... Suomi was at Rebirth Island. We had to kill Suomi.>|
 
-|<^1INTERROGATOR: ^7We? Viktor Reznov?>|
+|<^1INTERROGATOR: ^7We? UMP 40?>|
 
 |<^1UMP45: ^7We wanted the same thing. The same.>|
 
-|<^1INTERROGATOR: ^7We're losing him again. Aw, God... He's back at Rebirth.>|
+|<^1INTERROGATOR: ^7We're losing her again. Aw, God.. She's back at Rebirth.>|
 
-|<^1INTERROGATOR: ^7You were in the Mekong, heading North to Kravchenko's compound. You were heading for Laos.>|
+|<^1INTERROGATOR: ^7You were in the Mekong, heading North to Nyto's compound. You were heading for Laos.>|
 
-|<^1UMP45: ^7Laos... Kravchenko... The $&#**^% psycho was spraying nerve gas all over Vietnam. I had to kill him! Do you understand? I have to kill 'em all.>|
+|<^1UMP45: ^7Laos... Nyto... The $&#**^% psycho was spraying nerve gas all over Vietnam. I had to kill her! Do you understand? I have to kill 'em all.>|
 
-|<^1INTERROGATOR: ^7Laos! Mason! You were heading up the Mekong River into Laos. You received word from Jason Hudson. What did he tell you?>|
+|<^1INTERROGATOR: ^7Laos! UMP45! You were heading up the Mekong River into Laos. You received word from M16A1. What did she tell you?>|
 
-|<^1UMP45: ^7My handler, Hudson.>|
+|<^1UMP45: ^7My handler, M16A1.>|
 
-|<^1UMP45: ^7The CIA downed a Soviet cargo plane carrying Nova 6. It... It went down in Laos. Our 404 team went in.>|
+|<^1UMP45: ^7The G&K downed a Bureau cargo plane carrying Rain 4. It... It went down in Laos. Our 404 team went in.>|
 
 |<^1INTERROGATOR: ^7What happened?>|
 
 |<^1UMP45: ^7I...keep...hearing...the $&#**^%...numbers...>|
 
-|<^1INTERROGATOR: ^7It's a broadcast, Mason. The broadcast.>|
+|<^1INTERROGATOR: ^7It's a broadcast, 45. The broadcast.>|
 
-|<^1INTERROGATOR: ^7You killed Kravchenko. You obliterated their base. Mason?>|
+|<^1INTERROGATOR: ^7You killed Nyto. You obliterated their base. UMP45?>|
 
-|<^1INTERROGATOR: ^7HK416 and Bowman were both killed. Your entire 404 team, wiped out. Only you survived, Mason. You. No one else.>|
+|<^1INTERROGATOR: ^7HK416 and UMP9 were both killed. Your entire 404 team, wiped out. Only you survived, 45. You. No one else.>|
 
-|<^1UMP45: ^7No, Reznov surivived.>|
+|<^1UMP45: ^7No, UMP 40 surivived.>|
 
-|<^1INTERROGATOR: ^7Just you Mason.>|
+|<^1INTERROGATOR: ^7Just you UMP45.>|
 
-|<^1UMP45: ^7No, no... Reznov is still with me...since Vorkuta.>|
+|<^1UMP45: ^7No, no... 40 is still with me...since Vorkuta.>|
 
-|<^1KENNEDY: ^7We are in grave danger from the communists. Our freedom... Our very way of life is at risk.>|
+|<^1COMMANDER: ^7We are in grave danger from the SF. Our freedom... Our very way of life is at risk.>|
 
 |<^1RPK16: ^7Our plan to strike at the very heart of the West is now in motion.>|
 
-|<^1REZNOV: ^7He must be stopped, Mason.>|
+|<^1UMP40: ^7She must be stopped, 45.>|
 
-|<^1MCNAMARA: ^7He has no fear. No conscience. No weakness.>|
+|<^1M1903: ^7She has no fear. No conscience. No weakness.>|
 
 |<^1STEINER: ^7All across America, RPK16 has sleeper cells waiting for the signal to release the Nova 6.>|
 
