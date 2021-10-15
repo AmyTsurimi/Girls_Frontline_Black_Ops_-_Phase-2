@@ -8428,7 +8428,7 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7You know them. Masterminds of Project Rain.>|
 
-|<^1UMP45: ^7Nova 6. UMP40 called it Rain 4.>|
+|<^1UMP45: ^7Rain 4. UMP40 called it Rain 4.>|
 
 |<^1UMP45: ^7RPK16...>|
 
