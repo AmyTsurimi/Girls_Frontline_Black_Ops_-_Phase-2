@@ -4,13 +4,13 @@
 
 |<^0^L1700 hours,^L ^C1November 10, 1963^C>|
 
-|<^0^LRedirect^L ^C1UMP 45^C ^Lto the^L ^C1Pentagon.^C>|
+|<^0^LRedirect^L ^C1UMP 45^C ^Lto the^L ^C1G&K-HQ.^C>|
 
-|<^1INTERROGATOR: ^7You were cleared for duty and summoned to the Pentagon.>|
+|<^1INTERROGATOR: ^7You were cleared for duty and summoned to the G&K-HQ.>|
 
 |<^1UMP45: ^7M16A1 was my new handler.>|
 
-|<^1INTERROGATOR: ^7Why the Pentagon?>|
+|<^1INTERROGATOR: ^7Why the G&K-HQ?>|
 
 |<^1UMP45: ^7M16 couldn't tell me. Didn't have clearance.>|
 
@@ -28,7 +28,7 @@
 
 |<^1UMP45: ^7That's not possible.>|
 
-|<^1INTERROGATOR: ^7I was in the Pentagon.>|
+|<^1INTERROGATOR: ^7I was in the G&K-HQ.>|
 
 |<^1UMP45: ^7I remember. I kept hearing numbers. I cou.. couldn't get them out of my head.>|
 
@@ -48,11 +48,11 @@
 
 |<^1M16A1: ^7This is it.>|
 
-|<^1PENTAGON MP: ^7Your convoy is ready, sir. Welcome to the Pentagon.>|
+|<^1G&K MP: ^7Your convoy is ready, sir. Welcome to the G&K-HQ.>|
 
 |<^1M16A1: ^7We're late.>|
 
-|<^1PENTAGON MP: ^7Welcome, sir.>|
+|<^1G&K MP: ^7Welcome, sir.>|
 
 |<^1UMP45: ^7Secretary M1903.>|
 
