@@ -8526,7 +8526,7 @@ Marketplace>|
 
 |<^1UMP45: ^7No, no... 40 is still with me...since Vorkuta.>|
 
-|<^1COMMANDER: ^7We are in grave danger from the SF. Our freedom... Our very way of life is at risk.>|
+|<^1SKK: ^7We are in grave danger from the SF. Our freedom... Our very way of life is at risk.>|
 
 |<^1RPK16: ^7Our plan to strike at the very heart of the West is now in motion.>|
 
@@ -8534,17 +8534,17 @@ Marketplace>|
 
 |<^1M1903: ^7She has no fear. No conscience. No weakness.>|
 
-|<^1STEINER: ^7All across America, RPK16 has sleeper cells waiting for the signal to release the Nova 6.>|
+|<^1SUOMI: ^7All across America, RPK16 has sleeper cells waiting for the signal to release the Rain 4.>|
 
-|<^1KENNEDY: ^7I'm told that you are the very best that we have. Anywhere.>|
+|<^1SKK: ^7Im told that you are the very best that we have. Anywhere>|
 
-|<^1REZNOV: ^7RPK16... Kravchenko... Steiner...>|
+|<^1UMP40: ^7RPK16... Nyto... Suomi...>|
 
-|<^1KENNEDY: ^7You will need to be.>|
+|<^1SKK: ^7You will need to be.>|
 
-|<^1REZNOV: ^7These 'men' must die...>|
+|<^1UMP40: ^7These Dolls must die...>|
 
-|<^1KENNEDY: ^7Mr. Mason...>|
+|<^1SKK: ^7UMP 45...>|
 
 |<^1INTERROGATOR: ^7Why didn't Castro just kill you? Why did he give you to RPK16?>|
 
@@ -8558,25 +8558,25 @@ Marketplace>|
 
 |<^1UMP45: ^7Vorkuta...had to fight...just to survive.>|
 
-|<^1INTERROGATOR: ^7What happened in Vorkuta, Mason?>|
+|<^1INTERROGATOR: ^7What happened in Vorkuta, 45?>|
 
 |<^1UMP45: ^7I was on my own -- almost a year.>|
 
-|<^1INTERROGATOR: ^7Think, Mason...what did they do to you?>|
+|<^1INTERROGATOR: ^7Think, 45...what did they do to you?>|
 
-|<^1UMP45: ^7I'd given up hope of ever getting out...but Viktor Reznov found a way.>|
+|<^1UMP45: ^7I'd given up hope of ever getting out...but UMP 40 found a way.>|
 
-|<^1INTERROGATOR: ^7Jason Hudson led the attack on Yamantau.>|
+|<^1INTERROGATOR: ^7M16A1 led the attack on Yamantau.>|
 
-|<^1UMP45: ^7Yeah. 20 degrees below zero. $&#**^% ice cube was in his element.>|
+|<^1UMP45: ^7Yeah. 20 degrees below zero. $&#**^% ice cube was in her element.>|
 
-|<^1INTERROGATOR: ^7You were captured by RPK16 a second time. Your unit was MIA in Laos, presumed dead. Your handler, Hudson, had no choice but to continue the hunt for Nova 6 without you -->|
+|<^1INTERROGATOR: ^7You were captured by RPK16 a second time. Your unit was MIA in Laos, presumed dead. Your handler, M16A1, had no choice but to continue the hunt for Rain 4 without you -->|
 
-|<^1UMP45: ^7He went to Mt. Yamantau -- $&#**^% Soviet doomsday bunker -->|
+|<^1UMP45: ^7She went to Mt. Yamantau -- $&#*^% USSR doomsday bunker -->|
 
 |<^1INTERROGATOR: ^7That's right. A fully operational military complex buried deep in the Ural Mountains.>|
 
-|<^1UMP45: ^7That's where Hudson was contacted by Friedrich Steiner -- the Nazi scientist that developed the initial strain of Nova 6 for RPK16 -->|
+|<^1UMP45: ^7That's where M16A1 was contacted by Friedrich Steiner -- the Nazi scientist that developed the initial strain of Nova 6 for RPK16 -->|
 
 |<^1INTERROGATOR: ^7Hudson learned about the numbers there. The broadcasts -- I've been there, Mason. I've been to the Yamantau complex.>|
 
