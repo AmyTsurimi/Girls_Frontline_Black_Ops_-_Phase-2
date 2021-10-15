@@ -8420,7 +8420,7 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7What about your AR handler, M16A1. Was she in Khe Sanh? Do you remember her there?>|
 
-|<^1UMP45: ^7M16A1.. [laughs] Yeah. Ms. Eyepatch. That guy was an ice cube.>|
+|<^1UMP45: ^7M16.. [laughs] Yeah. Ms. Eyepatch. That guy was an ice cube.>|
 
 |<^1INTERROGATOR: ^7We have the dossier that the defector gave you at DEFY.>|
 
@@ -8442,7 +8442,7 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7No 45. We don't know what the numbers mean. We don't know where they're broadcast from.>|
 
-|<^1UMP45: ^7Why don't you ask M16A1? Kowloon was her mission. She interrogated RBF.>|
+|<^1UMP45: ^7Why don't you ask M16? Kowloon was her mission. She interrogated RBF.>|
 
 |<^1INTERROGATOR: ^7After your escape, you were assigned to M16A1 at the G&K. How could she trust you when she knew that UMP 40 helped you break out of Vorkuta?>|
 
@@ -8506,7 +8506,7 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7Laos! UMP45! You were heading up the Mekong River into Laos. You received word from M16A1. What did she tell you?>|
 
-|<^1UMP45: ^7My handler, M16A1.>|
+|<^1UMP45: ^7My handler, M16.>|
 
 |<^1UMP45: ^7The G&K downed a Bureau cargo plane carrying Rain 4. It... It went down in Laos. Our 404 team went in.>|
 
@@ -8576,60 +8576,60 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7That's right. A fully operational military complex buried deep in the Ural Mountains.>|
 
-|<^1UMP45: ^7That's where M16A1 was contacted by Friedrich Steiner -- the Nazi scientist that developed the initial strain of Nova 6 for RPK16 -->|
+|<^1UMP45: ^7That's where M16 was contacted by Suomi -- the T-Doll that developed the initial strain of Rain 4 for RPK16 -->|
 
-|<^1INTERROGATOR: ^7Hudson learned about the numbers there. The broadcasts -- I've been there, Mason. I've been to the Yamantau complex.>|
+|<^1INTERROGATOR: ^7M16A1 learned about the numbers there. The broadcasts -- I've been there, 45. I've been to the Yamantau complex.>|
 
 |<^1UMP45: ^7My God... The numbers are REAL...>|
 
-|<^1INTERROGATOR: ^7They've always been real, Mason. This isn't a game. We face annihilation unless you cooperate. Where is the broadcast station?!>|
+|<^1INTERROGATOR: ^7They've always been real, 45. This isn't a game. We face annihilation unless you cooperate. Where is the broadcast station?!>|
 
-|<^1KENNEDY: ^7For time and the world do not stand still. Change is the law of life. And those who look only to the past or the present are certain to miss the future.>|
+|<^1SKK: ^7For time and the world do not stand still. Change is the law of life. And those who look only to the past or the present are certain to miss the future.>|
 
-|<^1KENNEDY: ^7I said, 'are certain to miss the future'!>|
+|<^1SKK: ^7I said, 'are certain to miss the future'!>|
 
 |<^1CASTRO: ^7[laughs] Coño... I missed that.>|
 
-|<^1MCNAMARA: ^7Prime Minister Castro, this missile crisis was the last straw. We almost blew ourselves up. Now we invited you here today...>|
+|<^1M1903: ^7Prime Minister Castro, this missile crisis was the last straw. We almost blew ourselves up. Now we invited you here today...>|
 
-|<^1KENNEDY: ^7In good faith!>|
+|<^1SKK: ^7In good faith!>|
 
-|<^1MCNAMARA: ^7...in good faith, to sort this thing out.>|
+|<^1M1903: ^7...in good faith, to sort this thing out.>|
 
 |<^1CASTRO: ^7And why is he here? He lost!>|
 
-|<^1KENNEDY: ^7As I always say, forgive your enemies, but remember their names. >|
+|<^1SKK: ^7As I always say, forgive your enemies, but remember their names. >|
 
-|<^1KENNEDY: ^7Now gentlemen, as I like to think, in the long history of the world, that there are only a few generations...>|
+|<^1SKK: ^7Now gentlemen, as I like to think, in the long history of the world, that there are only a few generations...>|
 
 |<^1NIXON: ^7Sounds like someone breaking in...>|
 
-|<^1KENNEDY: ^7Just the storm, Dick. Sit down.>|
+|<^1SKK: ^7Just the storm, Dick. Sit down.>|
 
 |<^1NIXON: ^7Oh my God!>|
 
-|<^1MCNAMARA: ^7It appears the Pentagon has been breached.>|
+|<^1M1903: ^7It appears the Pentagon has been breached.>|
 
-|<^1KENNEDY: ^7Zombies. Gentlemen, at times like these our capacity to retaliate must be and has to be massive, to deter all forms of aggression.>|
+|<^1SKK: ^7ELIDs. Gentlemen, at times like these our capacity to retaliate must be and has to be massive, to deter all forms of aggression.>|
 
-|<^1KENNEDY: ^7Gentlemen, lock and load!>|
+|<^1SKK: ^7Gentlemen, lock and load!>|
 
 |<^1CASTRO: ^7Viva la Revolucion.>|
 
-|<^1MCNAMARA: ^7Any last words, Mr. President?>|
+|<^1M1903: ^7Any last words, Commander?>|
 
-|<^1NIXON: ^7Yes Jack, any superlative words of inspiration for your humble troops?>|
+|<^1NIXON: ^7Yes SKK, any superlative words of inspiration for your humble troops?>|
 
-|<^1KENNEDY: ^7Do not pray for easy lives, my friends. Pray to be stronger men.>|
+|<^1SKK: ^7Do not pray for easy lives, my friends. Pray to be stronger men.>|
 
-|<^1RICHTOFAN: ^7[static] Entry 741021!>|
+|<^1HK416: ^7[static] Entry 741021!>|
 
-|<^1RICHTOFAN: ^7Perhaps the station will hold the key to the real goals of group 935. I still do not trust my unconventional allies, but they are of great use to me. But, I digress. >|
+|<^1HK416: ^7Perhaps the station will hold the key to the real goals of group 935. I still do not trust my unconventional allies, but they are of great use to me. But, I digress. >|
 
-|<^1RICHTOFAN: ^7Who would have thought the MDT was capable of time travel.
+|<^1HK416: ^7Who would have thought the MDT was capable of time travel.
 How many stations does this group have? Where did that little girl disappear to? >|
 
-|<^1RICHTOFAN: ^7Only time will tell what new questions await us in this... THEATER OF THE DAMNED! [static]>|
+|<^1HK416: ^7Only time will tell what new questions await us in this... THEATER OF THE DAMNED! [static]>|
 
 |<OR>|
 
