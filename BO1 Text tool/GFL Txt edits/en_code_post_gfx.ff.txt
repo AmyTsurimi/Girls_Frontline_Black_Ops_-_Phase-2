@@ -8352,7 +8352,7 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7Executive order, Operation Flashpoint... Rip out the heart of their Space Program. Eradicate their long range missile project.>|
 
-|<^1INTERROGATOR: ^7Take out the Paradeus. 90wish, 16LAB, co-opted by the Bureau after the war.>|
+|<^1INTERROGATOR: ^7Take out the Paradeus. 90wish, 16LAB, co-opted by the KCCO after the war.>|
 
 |<^1UMP45: ^7Yes...She needed their knowledge. What they'd learned...>|
 
@@ -8416,7 +8416,7 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7This was in 1968?>|
 
-|<^1UMP45: ^7Yeah. I was part of the 404 unit led by H&K M416. It was recon on covert Bureau activity in Laos.>|
+|<^1UMP45: ^7Yeah. I was part of the 404 unit led by H&K M416. It was recon on covert KCCO activity in Laos.>|
 
 |<^1INTERROGATOR: ^7What about your AR handler, M16A1. Was she in Khe Sanh? Do you remember her there?>|
 
@@ -8508,7 +8508,7 @@ Marketplace>|
 
 |<^1UMP45: ^7My handler, M16.>|
 
-|<^1UMP45: ^7The G&K downed a Bureau cargo plane carrying Rain 4. It... It went down in Laos. Our 404 team went in.>|
+|<^1UMP45: ^7The G&K downed a KCCO cargo plane carrying Rain 4. It... It went down in Laos. Our 404 team went in.>|
 
 |<^1INTERROGATOR: ^7What happened?>|
 
