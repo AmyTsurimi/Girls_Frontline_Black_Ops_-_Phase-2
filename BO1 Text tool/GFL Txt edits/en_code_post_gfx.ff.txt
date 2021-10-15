@@ -8432,9 +8432,9 @@ Marketplace>|
 
 |<^1UMP45: ^7RPK16...>|
 
-|<^1INTERROGATOR: ^7What do you know about Gamer RFB?>|
+|<^1INTERROGATOR: ^7What do you know about Doll RFB?>|
 
-|<^1INTERROGATOR: ^7We know that RBF was the chemical engineer who helped formulated Rain 4. Malignant narcissist. Degenerate prodigy.>|
+|<^1INTERROGATOR: ^7We know that RBF was the T-Doll who helped spread Rain 4. Malignant narcissist. Degenerate prodigy.>|
 
 |<^1INTERROGATOR: ^7Your handler M16A1 was sent to Kowloon to interrogate RBF. Do you remember?>|
 
@@ -8446,23 +8446,23 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7After your escape, you were assigned to M16A1 at the G&K. How could she trust you when she knew that UMP 40 helped you break out of Vorkuta?>|
 
-|<^1UMP45: ^7UMP40...was my friend...but she didn't make it out.>|
+|<^1UMP45: ^7UMP40...was my sister...but she didn't make it out.>|
 
 |<^1INTERROGATOR: ^7UMP 40 was a Sangvis Ferri. How did the G&K know you weren't compromised?>|
 
 |<^1UMP45: ^7They tested me. They knew I wouldn't break and I won't break now.>|
 
-|<^1INTERROGATOR: ^7The government wanted RPK16. They wanted you to kill him.>|
+|<^1INTERROGATOR: ^7The government wanted RPK16. They wanted you to kill her.>|
 
 |<^1UMP45: ^7Yeah, and there were others. Others I was supposed to kill.>|
 
-|<^1INTERROGATOR: ^7Who? Who, Mason?>|
+|<^1INTERROGATOR: ^7Who? Who, 45?>|
 
-|<^1INTERROGATOR: ^7RPK16 has fully weaponized and deployed Nova 6. He has sleeper cell agents all over the US just waiting for the signal...>|
+|<^1INTERROGATOR: ^7RPK16 has fully weaponized and deployed Rain 4. She has sleeper cell agents all over the US just waiting for the signal..>|
 
 |<^1UMP45: ^7[interrupts] We've been invaded.>|
 
-|<^1INTERROGATOR: ^7The US was invaded decades ago Mason. The communists have been waiting. Now they're ready to strike.>|
+|<^1INTERROGATOR: ^7The US was invaded decades ago 45. The SF have been waiting. Now they're ready to strike.>|
 
 |<^1UMP45: ^7What the $&#* am I supposed to do?>|
 
@@ -8470,25 +8470,25 @@ Marketplace>|
 
 |<^1UMP45: ^7I'm trying to help you.>|
 
-|<^1INTERROGATOR: ^7RPK16 uses number sequences to communicate with the sleeper cells. Those numbers are broadcast from one location, Mason.>|
+|<^1INTERROGATOR: ^7RPK16 uses number sequences to communicate with the sleeper cells. Those numbers are broadcast from one location, 45.>|
 
 |<^1UMP45: ^7Why the Hell do you think I know where it is?>|
 
-|<^1INTERROGATOR: ^7You were in Vorkuta, Mason. We know what happens at Vorkuta. They programmed you. You can translate the codes.>|
+|<^1INTERROGATOR: ^7You were in Vorkuta, 45. We know what happens at Vorkuta. They programmed you. You can translate the codes.>|
 
-|<^1UMP45: ^7But Reznov was never...>|
+|<^1UMP45: ^7But 40 was never...>|
 
-|<^1INTERROGATOR: ^7STOP! Mason. We are on the brink of war. Where is the broadcast station? Where is the broadcast station?>|
+|<^1INTERROGATOR: ^7STOP! 45. We are on the brink of war. Where is the broadcast station? Where is the broadcast station?>|
 
 |<^1UMP45: ^7RPK16 had us like rats in cages...>|
 
-|<^1INTERROGATOR: ^7Mason! We're losing him.>|
+|<^1INTERROGATOR: ^7UMP45! We're losing her.>|
 
 |<^1UMP45: ^7We are all brothers...we are all prisoners...Laos...>|
 
-|<^1INTERROGATOR: ^7He's gone.>|
+|<^1INTERROGATOR: ^7She's gone>|
 
-|<^1INTERROGATOR: ^7RPK16's sleeper cells are on US soil. Nova 6 is weaponized. They will use it. Moscow has gone dark. We are out of options. A pre-emptive strike on Russia is prepared. The President WILL authorize.>|
+|<^1INTERROGATOR: ^7RPK16's sleeper cells are on US soil. Rain 4 is weaponized. They will use it. KCCO has gone dark. We are out of options. A pre-emptive strike on USSR is prepared. The President WILL authorize.>|
 
 |<^1INTERROGATOR: ^7Mason! For the last time! Where is the numbers station?!>|
 
