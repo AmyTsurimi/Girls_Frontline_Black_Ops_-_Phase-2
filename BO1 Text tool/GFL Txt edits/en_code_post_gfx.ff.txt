@@ -8348,7 +8348,7 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7RPK16. Do you remember RPK16?>|
 
-|<^1UMP45: ^7Castro... We went in to kill Castro.>|
+|<^1UMP45: ^7Castro. We went in to kill Castro.>|
 
 |<^1INTERROGATOR: ^7Executive order, Operation Flashpoint... Rip out the heart of their Space Program. Eradicate their long range missile project.>|
 
@@ -8410,7 +8410,7 @@ Marketplace>|
 
 |<^1UMP40: ^7RPK16... Suomi... Nyto... All MUST die...>|
 
-|<^1INTERROGATOR: ^7Take us back again, 45. After Baikonur, where did Washington send you next?>|
+|<^1INTERROGATOR: ^7Take us back again, 45. After Baikonur, where did Commander send you next?>|
 
 |<^1UMP45: ^7Vietnam. $&#**^% Khe Sanh.>|
 
@@ -8432,17 +8432,17 @@ Marketplace>|
 
 |<^1UMP45: ^7RPK16...>|
 
-|<^1INTERROGATOR: ^7What do you know about Doctor RFB?>|
+|<^1INTERROGATOR: ^7What do you know about Gamer RFB?>|
 
-|<^1INTERROGATOR: ^7We know that RBF was the chemical engineer who helped formulated Nova 6. Malignant narcissist. Degenerate prodigy.>|
+|<^1INTERROGATOR: ^7We know that RBF was the chemical engineer who helped formulated Rain 4. Malignant narcissist. Degenerate prodigy.>|
 
-|<^1INTERROGATOR: ^7Your handler Jason Hudson was sent to Kowloon to interrogate RBF. Do you remember?>|
+|<^1INTERROGATOR: ^7Your handler M16A1 was sent to Kowloon to interrogate RBF. Do you remember?>|
 
 |<^1UMP45: ^7Why keep asking? You already know everything.>|
 
-|<^1INTERROGATOR: ^7No Mason. We don't know what the numbers mean. We don't know where they're broadcast from.>|
+|<^1INTERROGATOR: ^7No 45. We don't know what the numbers mean. We don't know where they're broadcast from.>|
 
-|<^1UMP45: ^7Why don't you ask Hudson? Kowloon was his mission. He interrogated RBF.>|
+|<^1UMP45: ^7Why don't you ask M16A1? Kowloon was her mission. She interrogated RBF.>|
 
 |<^1INTERROGATOR: ^7After your escape, you were assigned to Jason Hudson at the CIA. How could he trust you when he knew that Viktor Reznov helped you break out of Vorkuta?>|
 
