@@ -348,7 +348,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7It's got you in its sights!!!>|
 
-|<^1HK416: ^7UMP45!!!>|
+|<^1HK416: ^745!!!>|
 
 |<^1HK416: ^7Hold.... Okay.>|
 
@@ -384,17 +384,17 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Where the Hell are you goin'?>|
 
-|<^1HK416: ^7UMP45! Stay with me!>|
+|<^1HK416: ^745! Stay with me!>|
 
 |<^1HK416: ^7Get back here, 45.>|
 
-|<^1HK416: ^7UMP45! We need to silence those dogs!>|
+|<^1HK416: ^745! We need to silence those dogs!>|
 
 |<^1HK416: ^7We need to shut up these damn dogs!>|
 
-|<^1HK416: ^7What the fuck are you doin', UMP45?>|
+|<^1HK416: ^7What the fuck are you doin', 45?>|
 
-|<^1HK416: ^7What are you doin', UMP45?>|
+|<^1HK416: ^7What are you doin', 45?>|
 
 |<^1HK416: ^7What the Hell?!>|
 
@@ -496,7 +496,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Copy that. 45 gonna breach the building.>|
 
-|<^1HK416: ^7UMP45 -  get over here.>|
+|<^1HK416: ^745 -  get over here.>|
 
 |<^1HK416: ^7Gunfire's drawin' attention.>|
 
@@ -512,7 +512,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Damn!... We've been made!>|
 
-|<^1HK416: ^7UMP45!>|
+|<^1HK416: ^745!>|
 
 |<^1HK416: ^7Crossbow - explosive bolts. NOW!>|
 
@@ -522,7 +522,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Hurry, 9 and Brooks can't hold out!>|
 
-|<^1HK416: ^7UMP45, over here.>|
+|<^1HK416: ^745, over here.>|
 
 |<^1HK416: ^7I'll secure the line. You take the shot.>|
 
@@ -576,9 +576,9 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Every one of them a card carrying 90WISH.>|
 
-|<^1HK416: ^7UMP9! After them!>|
+|<^1HK416: ^79! After them!>|
 
-|<^1HK416: ^7UMP45 - on me!>|
+|<^1HK416: ^745 - on me!>|
 
 |<^1UMP45: ^7Kill them in their tracks.>|
 
@@ -586,7 +586,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^745, take the shot!>|
 
-|<^1HK416: ^7UMP45! Shoot!>|
+|<^1HK416: ^745! Shoot!>|
 
 |<^1UMP9: ^7He's running! 45, you got him?>|
 
@@ -604,7 +604,8 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7We're pinned down!>|
 
-|<^1HK416: ^7UMP45! Nail that pilot!>|
+|<^1HK416: ^745! Nail that pilot!>|
+|<^1HK416: ^745! Nail that pilot!>|
 
 |<^1HK416: ^7That chopper is hammerin' us. Kill the pilot!>|
 

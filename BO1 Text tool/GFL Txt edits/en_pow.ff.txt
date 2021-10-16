@@ -1,0 +1,734 @@
+|<^LTransmission # 14-15-20. Designate: DELTA^L>|
+
+|<^LNo contact from SOG group X-RAY.^L>|
+
+|<^LLast known location^L ^C1 Laos^C ^L - Vietnam border.^L>|
+
+|<^C1Mason^C^L and team presumed KIA.^L>|
+
+|<^L1100 hours,^L ^C1 February 19,1968^C>|
+
+|<Use ^3[{+movestick}]^7 to move / strafe>|
+
+|<Use ^3[{+lookstick}]^7 to aim>|
+
+|<Get the Soviet>|
+
+|<Escape the tunnels>|
+
+|<Capture the Hind>|
+
+|<Get in the Hind>|
+
+|<Fly to Kravchenko's base>|
+
+|<Destroy the NVA defenses>|
+
+|<Destroy Soviet HIP>|
+
+|<Destroy SAM site>|
+
+|<Destroy Soviet Hinds ( &&1 remaining )>|
+
+|<Kill Kravchenko>|
+
+|<Get AK47 with Flame Attachment>|
+
+|<Press ^3[{+actionslot 3}]^7 to use the flamethrower>|
+
+|<Free POWs>|
+
+|<Shoot>|
+
+|<Follow>|
+
+|<Payback>|
+
+|<Laos>|
+
+|<February 12th, 1968>|
+
+|<^1INTERROGATOR: ^7For God sake... Where is the numbers station?>|
+
+|<^1INTERROGATOR: ^7Where is the numbers station?>|
+
+|<^1REZNOV: ^7All must die.>|
+
+|<^1MASON: ^7Woods...>|
+
+|<^1MASON: ^7Dragovich is fucking with us.>|
+
+|<^1MASON: ^7Dragovich is messing with us.>|
+
+|<^1MASON: ^7Bowman...>|
+
+|<^1BOWMAN: ^7I'm tired. I just wanna end this.>|
+
+|<^1MASON: ^7Bowman, don't!>|
+
+|<^1MASON: ^7You don't mean that, Bowman.>|
+
+|<^1BOWMAN: ^7Fuck... you... Charlie...>|
+
+|<^1BOWMAN: ^7Screw... you... Charlie...>|
+
+|<^1VC BOOKIE: ^7You dead, American.>|
+
+|<^1BOWMAN: ^7You don't scare me. Communist piece of shit...>|
+
+|<^1BOWMAN: ^7You don't scare me. Communist piece of...>|
+
+|<^1MASON: ^7Bowman, don't do this!>|
+
+|<^1SPETSNAZ OPERATIVE: ^7Raggh! Raggh! Raggh!>|
+
+|<^1MASON: ^7Bowman! BOWMAN! You fucking son of a bitch!>|
+
+|<^1MASON: ^7Bowman! BOWMAN!>|
+
+|<^1SPETSNAZ OPERATIVE: ^7Next.>|
+
+|<^1MASON: ^7I'm going to kill you all!>|
+
+|<^1WOODS: ^7Don't you touch me...>|
+
+|<^1MASON: ^7Woods? Shit...>|
+
+|<^1MASON: ^7Woods?>|
+
+|<^1WOODS: ^7Mother fuckers. We're gonna make 'em pay.>|
+
+|<^1WOODS: ^7Bastards. We're gonna make 'em pay.>|
+
+|<^1VC BOOKIE: ^7You - no talk! Play!>|
+
+|<^1WOODS: ^7What's the plan?>|
+
+|<^1MASON: ^7I'm thinking... I'm thinking...>|
+
+|<^1VC BOOKIE: ^7No talk!>|
+
+|<^1WOODS: ^7One chance, Mason.>|
+
+|<^1MASON: ^7We'll take it.>|
+
+|<^1VC BOOKIE: ^7Bac bac bac!>|
+
+|<^1WOODS: ^7Okay.>|
+
+|<^1VC BOOKIE: ^7You shoot G.I.! You shoot!>|
+
+|<^1WOODS: ^7You can't kill ME!>|
+
+|<^1WOODS: ^7Fuck!>|
+
+|<^1WOODS: ^7Damn!>|
+
+|<^1WOODS: ^7This time... This time, do it!>|
+
+|<^1MASON: ^7Okay, okay. I got the hatchet.>|
+
+|<^1WOODS: ^7Ready>|
+
+|<^1VC BOOKIE: ^7Play!>|
+
+|<^1MASON: ^7Six and Eight O'clock.>|
+
+|<^1WOODS: ^7Ready.>|
+
+|<^1VC BOOKIE: ^7Bac bac!>|
+
+|<^1WOODS: ^7Dirty sons of bitches.>|
+
+|<^1WOODS: ^7Dirty sons of...>|
+
+|<^1MASON: ^7The Russian. Now.>|
+
+|<^1WOODS: ^7Let's go.>|
+
+|<^1WOODS: ^7Don't let that bastard get away!>|
+
+|<^1WOODS: ^7Keep going!>|
+
+|<^1WOODS: ^7Take him alive!>|
+
+|<^1WOODS: ^7We're losing him, Mason!>|
+
+|<^1WOODS: ^7He's getting away!>|
+
+|<^1WOODS: ^7We lost him...>|
+
+|<^1WOODS: ^7If he makes it out - He'll warn Kravchenko!>|
+
+|<^1MASON: ^7He ain't getting out!>|
+
+|<^1WOODS: ^7The Russian's gonna die!>|
+
+|<^1MASON: ^7Damn right he is.>|
+
+|<^1WOODS: ^7Oh, he'll pay for what he did!>|
+
+|<^1MASON: ^7Not just him. Kravchenko too.>|
+
+|<^1WOODS: ^7For Bowman.>|
+
+|<^1MASON: ^7For Bowman.>|
+
+|<^1WOODS: ^7I want that Russian DEAD!>|
+
+|<^1MASON: ^7Stay on him, Woods!>|
+
+|<^1MASON: ^7I'm gonna kill him - For Bowman.>|
+
+|<^1MASON: ^7Damn VC are everywhere!>|
+
+|<^1WOODS: ^7Clear 'em out... We only care about the Russian.>|
+
+|<^1WOODS: ^7There! Piece of shit's trying to escape!>|
+
+|<^1WOODS: ^7There! Piece of crap's trying to escape!>|
+
+|<^1WOODS: ^7Bring him down, Mason!>|
+
+|<^1MASON: ^7You're not going anywhere!>|
+
+|<^1WOODS: ^7You know the little voice in your head that tells you something's wrong?>|
+
+|<^1WOODS: ^7I ain't hearin' it.>|
+
+|<^1WOODS: ^7He can bleed to death...>|
+
+|<^1WOODS: ^7Help me up.>|
+
+|<^1WOODS: ^7Kravchenko's compound can't be far.>|
+
+|<^1WOODS: ^7The evil bastard's days are numbered.>|
+
+|<^1WOODS: ^7That asswipe is on borrowed time.>|
+
+|<^1WOODS: ^7You see that Hind? We're gonna take it.>|
+
+|<^1WOODS: ^7Take the shot.>|
+
+|<^1WOODS: ^7Mason, fire when ready.>|
+
+|<^1WOODS: ^7All right, follow me.>|
+
+|<^1WOODS: ^7What are you... all right GO GO GO!>|
+
+|<^1WOODS: ^7Clear. Let's fly this bird.>|
+
+|<^1WOODS: ^7Get in the HIND.>|
+
+|<^1WOODS: ^7Get into the helicopter Mason.>|
+
+|<^1WOODS: ^7Wake the fuck up, Mason!>|
+
+|<^1WOODS: ^7Wake up, Mason!>|
+
+|<^1WOODS: ^7Okay, what's our load out... UV-32 rockets... 12mm nose cannon... these bastards are ready for World War 3.>|
+
+|<^1MASON: ^7Chain load system on the 32's.>|
+
+|<^1WOODS: ^7Rotors on. My stick.>|
+
+|<^1MASON: ^7UV-32's assigned.>|
+
+|<^1MASON: ^712mm cannon assigned.>|
+
+|<^1WOODS: ^7We have full power. You ready?>|
+
+|<^1MASON: ^7Ready.>|
+
+|<^1WOODS: ^7I'll take her up above the canopy then hand over the stick.>|
+
+|<^1MASON: ^7Clear.>|
+
+|<^1WOODS: ^7I'll call targets as I see them.>|
+
+|<^1WOODS: ^7All enemy targets are valid. Understand?>|
+
+|<^1MASON: ^7Got it. Give me the stick.>|
+
+|<^1WOODS: ^7Your bird.>|
+
+|<^1WOODS: ^7We have coordinates for Kravchenko's compound. We follow the river all the way.>|
+
+|<^1WOODS: ^7Keep your eyes on the dirt. I don't want to get shot in the balls.>|
+
+|<^1MASON: ^7I got you Woods.>|
+
+|<^1MASON: ^7Hell yeah!>|
+
+|<^1WOODS: ^7Good eye, Mason!>|
+
+|<^1WOODS: ^7We got them on the run!>|
+
+|<^1WOODS: ^7Fuck yeah!>|
+
+|<^1WOODS: ^7Hell yeah!>|
+
+|<^1MASON: ^7COME ON!>|
+
+|<^1WOODS: ^7Look at those bastards run!>|
+
+|<^1MASON: ^7Payback, you sons of bitches!>|
+
+|<^1MASON: ^7Payback, you bastards!>|
+
+|<^1WOODS: ^7Damn it, we can't take this heavy  fire, pull back!>|
+
+|<^1WOODS: ^7Get us out of here Mason!>|
+
+|<^1WOODS: ^7Pull back! We're taking too much flak!>|
+
+|<^1WOODS: ^7Mason get this fucking bird moving!>|
+
+|<^1WOODS: ^7Mason get this bird moving!>|
+
+|<^1WOODS: ^7We lost a generator! Switching to back up.>|
+
+|<^1WOODS: ^7Anti collision system is dead!>|
+
+|<^1WOODS: ^7We're losing stability!>|
+
+|<^1WOODS: ^7Radar warning system is offline!>|
+
+|<^1WOODS: ^7Shiiit! We're going down!>|
+
+|<^1WOODS: ^7Rarrgh! We're going down!>|
+
+|<^1MASON: ^7I'm losing it! Hang on!>|
+
+|<^1WOODS: ^7Rotor's shot. We're dropping!>|
+
+|<^1MASON: ^7Fuck! We're going to crash!>|
+
+|<^1MASON: ^7We're going to crash!>|
+
+|<^1WOODS: ^7UV-32s, reloading.>|
+
+|<^1WOODS: ^7Out of rockets! Wait for the reload!>|
+
+|<^1WOODS: ^7Negative Mason! You gotta wait for the reload!>|
+
+|<^1WOODS: ^7Reloading!>|
+
+|<^1WOODS: ^7Sampans in the river.  Looks like a .50 cal on the bridge up ahead as well.>|
+
+|<^1WOODS: ^7Take that bridge out!>|
+
+|<^1WOODS: ^7RPGs incoming! From the sampans!>|
+
+|<^1WOODS: ^7We got 'em all, good work. Keep moving.>|
+
+|<^1WOODS: ^7.50 cal on those trucks! And an armored ZSU! Use the rockets!>|
+
+|<^1WOODS: ^7Charlie's highway below. See that fueling station up ahead?>|
+
+|<^1MASON: ^7Yeah, I see it.>|
+
+|<^1WOODS: ^7Time to do some damage brother!>|
+
+|<^1WOODS: ^7Hit that fuel silo!>|
+
+|<^1WOODS: ^7Hit the buildings too. Don't leave any of those bastards behind.>|
+
+|<^1WOODS: ^7Area's clear - continue along the river!>|
+
+|<^1WOODS: ^7RPGs on the river. Take out the boats!>|
+
+|<^1WOODS: ^7Shit! There's a .50 cal down there somewhere.>|
+
+|<^1WOODS: ^7There's a .50 cal down there somewhere.>|
+
+|<^1WOODS: ^7Careful through here Mason. Those Sampans must have a supply station near by.>|
+
+|<^1WOODS: ^7That's an NVA supply station! We must be close to the Ho Chi Minh trail. Put 'em out of business, Mason!>|
+
+|<^1WOODS: ^7I think we pissed someone off, Mason.>|
+
+|<^1WOODS: ^7Fuck it, it's not like we're being subtle. Hey you communist piece of shit, we're coming to get you.>|
+
+|<^1WOODS: ^7Screw it, it's not like we're being subtle. Hey you communist piece of garbage, we're coming to get you.>|
+
+|<^1WOODS: ^7Shit! Mi-8 attack helicopter, coming from the North.>|
+
+|<^1WOODS: ^7Mi-8 attack helicopter, coming from the North.>|
+
+|<^1WOODS: ^7Take out that gunner!>|
+
+|<^1WOODS: ^7He's got a bead on us!>|
+
+|<^1WOODS: ^7You got him! Fire.>|
+
+|<^1WOODS: ^7We got him. Keep going North. Stay close to the river.>|
+
+|<^1WOODS: ^7Looks like Covey has been burning the trail here. Check out that Napalm strike. Even Charlie can't live through that shit.>|
+
+|<^1WOODS: ^7Looks like Covey has been burning the trail here. Check out that Napalm strike.>|
+
+|<^1WOODS: ^7That's not good.>|
+
+|<^1MASON: ^7Radar lock!>|
+
+|<^1WOODS: ^7SAM missle! Let it get close, then evade!>|
+
+|<^1MASON: ^7Come on you son of a...>|
+
+|<^1WOODS: ^7Nice flying! Must be a SAM launcher up river.>|
+
+|<^1WOODS: ^7Incoming!>|
+
+|<^1MASON: ^7I got it!>|
+
+|<^1WOODS: ^7We need to get closer. In that cave!>|
+
+|<^1WOODS: ^7Incoming! Move!>|
+
+|<^1WOODS: ^7They're locked on!>|
+
+|<^1WOODS: ^7Here it comes!>|
+
+|<^1WOODS: ^7Clear 'em out!>|
+
+|<^1WOODS: ^7Hit it again! Bring the whole fucking mountain down!>|
+
+|<^1WOODS: ^7Hit it again! Bring the whole mountain down!>|
+
+|<^1WOODS: ^7Good job! That's the last bird those bastards bring down.>|
+
+|<^1WOODS: ^7Charlie's built a pipeline right across the river. Take it down and hit the bridge!>|
+
+|<^1WOODS: ^7Convoys on the move!>|
+
+|<^1WOODS: ^7Nice work!>|
+
+|<^1WOODS: ^7Holy shit Mason we hit the mother lode! That's the Ho Chi Minh trail down below us.>|
+
+|<^1WOODS: ^7We hit the mother lode! That's the Ho Chi Minh trail down below us.>|
+
+|<^1WOODS: ^7We got a pipeline to the South and the main camp to the North! Take them both out!>|
+
+|<^1WOODS: ^7Armored ZSU on the road!>|
+
+|<^1WOODS: ^7Blow that oil line Mason!>|
+
+|<^1WOODS: ^7Charlie's hiding in those buildings! Use the rockets!>|
+
+|<^1WOODS: ^7You see that radar tower? Take it out!>|
+
+|<^1WOODS: ^7RPGs in the towers!>|
+
+|<^1WOODS: ^7ZSUs moving into position!>|
+
+|<^1WOODS: ^7.50 cal at the docks!>|
+
+|<^1WOODS: ^7Charlie's trying to hide! Take out the buildings!>|
+
+|<^1WOODS: ^7Ammo bunkers buried in the hill. Drop the UV's on them!>|
+
+|<^1WOODS: ^7Burn all those bunkers!>|
+
+|<^1WOODS: ^7Oh shit yeah, look at Charlie run!>|
+
+|<^1WOODS: ^7Oh yeah, look at Charlie run!>|
+
+|<^1WOODS: ^7Great shot Mason!>|
+
+|<^1WOODS: ^7Woohoo! Yeah, that's clear!>|
+
+|<^1WOODS: ^7Two anti-air on the bridge, you see them?>|
+
+|<^1WOODS: ^7All right. Kravchenko's compound should be just ahead.>|
+
+|<^1WOODS: ^7RPG tower by the pipeline!>|
+
+|<^1WOODS: ^7Krachenko's compound should be right here. Keep your eyes open.>|
+
+|<^1WOODS: ^7I got a blip on the radar Mason. You see any...>|
+
+|<^1WOODS: ^7ENEMY HIND! Coming right at us!>|
+
+|<^1WOODS: ^7He's running! Hit him in the ass!>|
+
+|<^1WOODS: ^7Put that son of a bitch down!>|
+
+|<^1WOODS: ^7Put that bastard down!>|
+
+|<^1WOODS: ^7You got him Mason. One last shot!>|
+
+|<^1WOODS: ^7Contact! Now we got two!>|
+
+|<^1WOODS: ^7Contact! Multiple bogeys Mason! We've got a second Hind on us!>|
+
+|<^1MASON: ^7Son of a...>|
+
+|<^1WOODS: ^7Do it Mason!>|
+
+|<^1MASON: ^7Yeah!>|
+
+|<^1WOODS: ^7One down, one to go!>|
+
+|<^1WOODS: ^7He's got a lock on us! Evade! Evade!>|
+
+|<^1WOODS: ^7Keep hitting him!>|
+
+|<^1WOODS: ^7Son of a bitch this guy knows how to fly!>|
+
+|<^1WOODS: ^7This guy knows how to fly!>|
+
+|<^1WOODS: ^7All right... We're good. Put her in that clearing.>|
+
+|<^1WOODS: ^7Kravchenko's compound's just to the South.>|
+
+|<^1MASON: ^7Taking her down...>|
+
+|<^1WOODS: ^7Bringing her down...>|
+
+|<^1WOODS: ^7I'm taking her down...>|
+
+|<^1WOODS: ^7I'm setting her down in the clearing.>|
+
+|<^1WOODS: ^7This is it, let's go.>|
+
+|<^1WOODS: ^7No reason to play this quiet, Mason.>|
+
+|<^1WOODS: ^7Let's do it.>|
+
+|<^1WOODS: ^7Mason - Grab that flamethrower!>|
+
+|<^1WOODS: ^7We'll burn these bastards!>|
+
+|<^1US PRISONER: ^7Who's out there?!>|
+
+|<^1US PRISONER: ^7Help us!!!  Please!!>|
+
+|<^1WOODS: ^7Mason!! They're POWs.>|
+
+|<^1US PRISONER: ^7You're here for us?!>|
+
+|<^1WOODS: ^7SOG. We're gonna get you out!>|
+
+|<^1WOODS: ^7Mason - get the other one.>|
+
+|<^1US PRISONER: ^7Thank God! Please... hurry!>|
+
+|<^1REZNOV: ^7Mason!!! Is that you?!>|
+
+|<^1MASON: ^7Reznov! I'll get you out!>|
+
+|<^1REZNOV: ^7Kravchenko is here!>|
+
+|<^1REZNOV: ^7This way! We cannot let him slip through our grasp!>|
+
+|<^1WOODS: ^7Mason?!  What the fuck are you doing?!! We gotta get these guys out.>|
+
+|<^1WOODS: ^7Mason?! ! We gotta get these guys out.>|
+
+|<^1WOODS: ^7Wait!!!>|
+
+|<^1MASON: ^7I thought you were dead...>|
+
+|<^1REZNOV: ^7When we were captured at the River, they brought me here.>|
+
+|<^1REZNOV: ^7I was to be returned to Russia - for Dragovich to decide my fate.>|
+
+|<^1MASON: ^7We're in charge of our own destiny now, Reznov.>|
+
+|<^1MASON: ^7Kravchenko must die.>|
+
+|<^1WOODS: ^7You guys stay with me.>|
+
+|<^1WOODS: ^7Give 'em Hell!>|
+
+|<^1WOODS: ^7Mason! It's Kravchenko!>|
+
+|<^1WOODS: ^7Now we got him cornered.>|
+
+|<^1WOODS: ^7You stay here and watch our backs!>|
+
+|<^1WOODS: ^7This is personal.>|
+
+|<^1WOODS: ^7Mason! Wait!>|
+
+|<^1WOODS: ^7He's inside... You ready, Mason?>|
+
+|<^1MASON: ^7You're damn right I am!>|
+
+|<^1MASON: ^7He must die.>|
+
+|<^1WOODS: ^7I got him, Mason.>|
+
+|<^1KRAVCHENKO: ^7Not this time, American!>|
+
+|<^1KRAVCHENKO: ^7I... know you...>|
+
+|<^1KRAVCHENKO: ^7You.... Again...>|
+
+|<^1KRAVCHENKO: ^7... You were the first...?>|
+
+|<^1KRAVCHENKO: ^7I should have killed you in Vorkuta!>|
+
+|<^1KRAVCHENKO: ^7ARARARRAHK!!>|
+
+|<^1WOODS: ^7Got you now, you son of a bitch!>|
+
+|<^1WOODS: ^7Got you now, you son of a...>|
+
+|<^1KRAVCHENKO: ^7You... Will die... With me.>|
+
+|<^1WOODS: ^7Shoot the window!>|
+
+|<^1MASON: ^7WOODS!!!>|
+
+|<^1WOODS: ^7I got you, Mason...>|
+
+|<^1WOODS: ^7You're okay...>|
+
+|<^1REZNOV: ^7Are you okay...>|
+
+|<^1REZNOV: ^7Mason.>|
+
+|<^1MASON: ^7Reznov?>|
+
+|<^1REZNOV: ^7Kravchenko is dead...>|
+
+|<^1REZNOV: ^7Dragovich.  Kravchenko. Steiner.  All must die...>|
+
+|<^1WOODS: ^7Open the cells Mason!>|
+
+|<^1WOODS: ^7Hurry up, open the cells!>|
+
+|<^1WOODS: ^7You got him.>|
+
+|<^1WOODS: ^7We ain't got time to waste.>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<€@>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿy>|
+
+|<ÿÿÿÿÿÿy>|
+
+|<mc/mtl_p_jun_group_photo>|
+
