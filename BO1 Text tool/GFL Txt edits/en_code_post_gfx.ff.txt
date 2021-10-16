@@ -8502,7 +8502,7 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7You were in the Mekong, heading North to Nyto's compound. You were heading for Laos.>|
 
-|<^1UMP45: ^7Laos... Nyto... The $&#**^% psycho was spraying nerve gas all over Vietnam. I had to kill her! Do you understand? I have to kill 'em all.>|
+|<^1UMP45: ^7Laos... Nyto... The $&#**^% psycho was spraying SF virus all over Vietnam. I had to kill her! Do you understand? I have to kill 'em all.>|
 
 |<^1INTERROGATOR: ^7Laos! UMP45! You were heading up the Mekong River into Laos. You received word from M16A1. What did she tell you?>|
 
