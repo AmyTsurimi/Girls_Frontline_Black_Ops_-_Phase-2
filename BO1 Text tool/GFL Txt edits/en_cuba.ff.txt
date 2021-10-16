@@ -169,9 +169,9 @@ The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
 
 |<^1HK416: ^7We're here for Castro.>|
 
-|<^1HK416: ^7UMP9, P90.  Lay down covering fire.  We fight our way through the streets.>|
+|<^1HK416: ^79, P90.  Lay down covering fire.  We fight our way through the streets.>|
 
-|<^1HK416: ^7UMP45 - on me.>|
+|<^1HK416: ^745 - on me.>|
 
 |<^1P90: ^7Take what you need.>|
 
@@ -183,7 +183,7 @@ The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
 
 |<^1HK416: ^7Police are here.>|
 
-|<^1P90: ^7Sangvis Ferri dogs! Lackeys...>|
+|<^1P90: ^7KCCO dogs! Lackeys...>|
 
 |<^1HK416: ^7Right now - They're in our way.>|
 
@@ -191,7 +191,7 @@ The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
 
 |<^1HK416: ^7Clear 'em out!  Move up the street!>|
 
-|<^1HK416: ^7UMP9!  Take the right!>|
+|<^1HK416: ^79!  Take the right!>|
 
 |<^1UMP9: ^7On it.>|
 
@@ -205,7 +205,7 @@ The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
 
 |<^1HK416: ^7This way - into the alley.>|
 
-|<^1HK416: ^7UMP9 - Cover our six!>|
+|<^1HK416: ^79 - Cover our six!>|
 
 |<^1HK416: ^7Get to the car!>|
 
@@ -223,7 +223,7 @@ The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
 
 |<^1UMP45: ^7Come on... Come on.>|
 
-|<^1HK416: ^7Make it quick, UMP45!>|
+|<^1HK416: ^7Make it quick, 45!>|
 
 |<^1UMP45: ^7Got it!>|
 
@@ -239,7 +239,7 @@ The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
 
 |<^1UMP45: ^7I see it!>|
 
-|<^1HK416: ^7Floor it, UMP45!>|
+|<^1HK416: ^7Floor it, 45!>|
 
 |<^1HK416: ^7Right on schedule.>|
 
@@ -249,7 +249,7 @@ The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
 
 |<^1HK416: ^7There's the signal.... Now.>|
 
-|<^1HK416: ^7UMP45, over here.>|
+|<^1HK416: ^745, over here.>|
 
 |<^1HK416: ^7Hook up... This is it.>|
 
@@ -257,7 +257,7 @@ The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
 
 |<^1HK416: ^7Hurry it up.>|
 
-|<^1HK416: ^7UMP45 - Take him out.>|
+|<^1HK416: ^745 - Take him out.>|
 
 |<^1HK416: ^7Perfect. They're all focused on the airfield.>|
 
@@ -265,9 +265,9 @@ The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
 
 |<^1HK416: ^7Sit tight... let them pass.>|
 
-|<^1HK416: ^7UMP9 - Left flank.>|
+|<^1HK416: ^79 - Left flank.>|
 
-|<^1HK416: ^7UMP45 - Take out the tower.>|
+|<^1HK416: ^745 - Take out the tower.>|
 
 |<^1HK416: ^7Castro's paranoid... With good reason... we've been trying 
 to get to him for three years.>|
@@ -282,23 +282,23 @@ to get to him for three years.>|
 
 |<^1HK416: ^7Inside. Go.>|
 
-|<^1HK416: ^7UMP45!>|
+|<^1HK416: ^745!>|
 
-|<^1HK416: ^7Wake the fuck up, UMP45!>|
+|<^1HK416: ^7Wake the fuck up, 45!>|
 
-|<^1HK416: ^7Wake up, UMP45!>|
+|<^1HK416: ^7Wake up, 45!>|
 
-|<^1HK416: ^7UMP9 - Take the roof.>|
+|<^1HK416: ^79 - Take the roof.>|
 
 |<^1HK416: ^7Any trouble - give us a yell.>|
 
 |<^1UMP9: ^7Got it.>|
 
-|<^1HK416: ^7UMP45 - on me. We search room to room 'till we find Castro.>|
+|<^1HK416: ^745 - on me. We search room to room 'till we find Castro.>|
 
 |<^1HK416: ^7Okay - stack up.>|
 
-|<^1HK416: ^7UMP45. Over here.>|
+|<^1HK416: ^745. Over here.>|
 
 |<^1HK416: ^7What are you waiting for? Come on.>|
 
@@ -306,7 +306,7 @@ to get to him for three years.>|
 
 |<^1UMP45: ^7Ready.>|
 
-|<^1HK416: ^7UMP9 - Nest is empty. We're moving on.>|
+|<^1HK416: ^79 - Nest is empty. We're moving on.>|
 
 |<^1UMP9: ^7Better make it fast. B26's are about to begin their bombing run.>|
 
@@ -318,7 +318,7 @@ to get to him for three years.>|
 
 |<^1HK416: ^7What the... ?!!!>|
 
-|<^1HK416: ^7UMP9 - what's happening?>|
+|<^1HK416: ^79 - what's happening?>|
 
 |<^1UMP9: ^7The B26's. They're droppin' all over the place.>|
 
@@ -343,9 +343,9 @@ and she still protects him?!!>|
 
 |<^1UMP45: ^7Castro's supporters are fanatics.  They'd give their lives for him.>|
 
-|<^1HK416: ^7Sangvis Ferri... I'll never understand them.>|
+|<^1HK416: ^7KCCO... I'll never understand them.>|
 
-|<^1HK416: ^7UMP9 - The target is down.>|
+|<^1HK416: ^79 - The target is down.>|
 
 |<^1UMP9: ^7Word from P90 isn't good;  They're barely holding out... They got half the Cuban army down there!>|
 
@@ -355,9 +355,9 @@ and she still protects him?!!>|
 
 |<^1HK416: ^7Okay, we're on our way.>|
 
-|<^1HK416: ^7UMP9! Take the right!>|
+|<^1HK416: ^79! Take the right!>|
 
-|<^1HK416: ^7UMP45 - On me.>|
+|<^1HK416: ^745 - On me.>|
 
 |<^1HK416: ^7DAMMIT!!!>|
 
@@ -390,7 +390,7 @@ those damn planes blow us to pieces!>|
 
 |<^1HK416: ^7Through the gate! GO!>|
 
-|<^1HK416: ^7UMP45!!! We don't have time to wait!>|
+|<^1HK416: ^745!!! We don't have time to wait!>|
 
 |<^1HK416: ^7There's the airfield.>|
 
@@ -422,9 +422,9 @@ those damn planes blow us to pieces!>|
 
 |<^1P90: ^7We can't wait any longer!!>|
 
-|<^1HK416: ^7UMP45!  Come on!!!>|
+|<^1HK416: ^745!  Come on!!!>|
 
-|<^1HK416: ^7Give us cover, UMP45!>|
+|<^1HK416: ^7Give us cover, 45!>|
 
 |<^1HK416: ^7We need to keep this plane in one piece!>|
 
@@ -434,7 +434,7 @@ those damn planes blow us to pieces!>|
 
 |<^1HK416: ^7.50 Cal!>|
 
-|<^1HK416: ^7UMP45! Take out those ZPUs!>|
+|<^1HK416: ^745! Take out those ZPUs!>|
 
 |<^1UMP9: ^7They're not letting us go without a fight!>|
 
@@ -452,17 +452,17 @@ those damn planes blow us to pieces!>|
 
 |<^1UMP9: ^7Those vehicles are blocking the runway!>|
 
-|<^1UMP45: ^7I hear you, UMP9.>|
+|<^1UMP45: ^7I hear you, 9.>|
 
 |<^1HK416: ^7We're screwed. There's not enough room for take off!>|
 
 |<^1UMP45: ^7I'll deal with it!>|
 
-|<^1HK416: ^7UMP45, are you crazy? They'll chew you up out there.>|
+|<^1HK416: ^745, are you crazy? They'll chew you up out there.>|
 
-|<^1HK416: ^7UMP45!  What are you doing?!!!>|
+|<^1HK416: ^745!  What are you doing?!!!>|
 
-|<^1HK416: ^7UMP45!!!!>|
+|<^1HK416: ^745!!!!>|
 
 |<^1UMP45: ^7No choice, 416. I knew what I signed up for.>|
 
@@ -516,33 +516,33 @@ those damn planes blow us to pieces!>|
 
 |<^1UMP9: ^7Stay close.>|
 
-|<^1HK416: ^7UMP45 take point.>|
+|<^1HK416: ^745 take point.>|
 
-|<^1HK416: ^7UMP45, grab that rope, let's go!>|
+|<^1HK416: ^745, grab that rope, let's go!>|
 
-|<^1HK416: ^7UMP45, we have to get going!>|
+|<^1HK416: ^745, we have to get going!>|
 
 |<^1HK416: ^7Hook up!>|
 
-|<^1HK416: ^7UMP45, we need to move!>|
+|<^1HK416: ^745, we need to move!>|
 
-|<^1HK416: ^7UMP45, take out the RPG's!>|
+|<^1HK416: ^745, take out the RPG's!>|
 
-|<^1HK416: ^7UMP45, protect the plane!>|
+|<^1HK416: ^745, protect the plane!>|
 
 |<^1HK416: ^7Those RPG's are tearing us up!>|
 
-|<^1HK416: ^7We can't take much more UMP45!>|
+|<^1HK416: ^7We can't take much more 45!>|
 
-|<^1HK416: ^7Take out those damned RPG's UMP45!>|
+|<^1HK416: ^7Take out those damned RPG's 45!>|
 
-|<^1HK416: ^7UMP45! RPG!>|
+|<^1HK416: ^745! RPG!>|
 
 |<^1HK416: ^7We're getting hit!>|
 
-|<^1HK416: ^7C'mon UMP45!>|
+|<^1HK416: ^7C'mon 45!>|
 
-|<^1UMP9: ^7C'mon UMP45!>|
+|<^1UMP9: ^7C'mon 45!>|
 
 |<^1HK416: ^7Move quickly!>|
 
@@ -574,7 +574,7 @@ those damn planes blow us to pieces!>|
 
 |<^1HK416: ^7Area clear.>|
 
-|<^1UMP9: ^7UMP45, take him out.>|
+|<^1UMP9: ^745, take him out.>|
 
 |<ÿÿ>|
 

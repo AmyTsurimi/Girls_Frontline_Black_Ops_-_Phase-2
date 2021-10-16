@@ -310,13 +310,13 @@
 
 |<^1M16A1: ^7HK-M4, she's here...>|
 
-|<^1HK416: ^7UMP45!>|
+|<^1HK416: ^745!>|
 
-|<^1UMP45: ^7HK416! You look like hammered shit.>|
+|<^1UMP45: ^7416! You look like hammered shit.>|
 
-|<^1UMP45: ^7HK416! You look like crap.>|
+|<^1UMP45: ^7416! You look like crap.>|
 
-|<^1UMP45: ^7HK416, you look like hammered shit.>|
+|<^1UMP45: ^7416, you look like hammered shit.>|
 
 |<^1UMP45: ^7You look like Hell 416.>|
 
@@ -336,7 +336,7 @@
 
 |<^1HK416: ^7Let me fill in the blanks for you...>|
 
-|<^1HK416: ^7Back in '64, the G&K gave up control of Covert Operations in South East Asia. Handed it over to the G&K Military.>|
+|<^1HK416: ^7Back in '64, the US gave up control of Covert Operations in South East Asia. Handed it over to the G&K Military.>|
 
 |<^1HK416: ^7From that, Group 404 was born.>|
 
@@ -350,17 +350,17 @@
 
 |<^1HK416: ^7You know...>|
 
-|<^1T-Doll: ^7Clear the runway! Clear the runway!>|
+|<^1T-DOLL: ^7Clear the runway! Clear the runway!>|
 
-|<^1T-Doll: ^7INCOMING!!!>|
+|<^1T-DOLL: ^7INCOMING!!!>|
 
 |<^1HK416: ^7SHIT!!!>|
 
 |<^1HK416: ^7AHHHHHH!!!>|
 
-|<^1HK416: ^7UMP45! Over here!>|
+|<^1HK416: ^745! Over here!>|
 
-|<^1HK416: ^7UMP45! Over here! M16's down.>|
+|<^1HK416: ^745! Over here! M16's down.>|
 
 |<^1HK416: ^7We gotta move her.>|
 
@@ -380,9 +380,9 @@
 
 |<^1M16A1: ^7I'm with you!>|
 
-|<^1T-Doll: ^7Fuck... GRENAAAAADE!!!>|
+|<^1T-DOLL: ^7Fuck... GRENAAAAADE!!!>|
 
-|<^1T-Doll: ^7GRENAAAAADE!!!>|
+|<^1T-DOLL: ^7GRENAAAAADE!!!>|
 
 |<^1HK416: ^7Come on!>|
 
@@ -390,7 +390,7 @@
 
 |<^1HK416: ^7Damn!>|
 
-|<^1HK416: ^7Move it, UMP45!>|
+|<^1HK416: ^7Move it, 45!>|
 
 |<^1HK416: ^7Shit!>|
 
@@ -418,7 +418,7 @@
 
 |<^1HK416: ^7NOW!>|
 
-|<^1HK416: ^7Blow it UMP45!>|
+|<^1HK416: ^7Blow it 45!>|
 
 |<^1HK416: ^7Get the stragglers!>|
 
@@ -426,7 +426,7 @@
 
 |<^1HK416: ^7Too early! They're still comin'!>|
 
-|<^1HK416: ^7Too late, UMP45! They're almost on us!>|
+|<^1HK416: ^7Too late, 45! They're almost on us!>|
 
 |<^1HK416: ^7Pull back! Pull back!>|
 
@@ -444,7 +444,7 @@
 
 |<^1HK416: ^7Dammit!!!>|
 
-|<^1HK416: ^7Grab that China Lake, UMP45!>|
+|<^1HK416: ^7Grab that China Lake, 45!>|
 
 |<^1HK416: ^7Let's feed 'em some grenades!>|
 
@@ -468,7 +468,7 @@
 
 |<^1HK416: ^7This rocket oughta ruin their day.>|
 
-|<^1HK416: ^7Light 'em up, UMP45!>|
+|<^1HK416: ^7Light 'em up, 45!>|
 
 |<^1HK416: ^7Get on that TOW!>|
 
@@ -498,15 +498,15 @@
 
 |<^1HK416: ^7Talk to me!>|
 
-|<^1T-Doll: ^7We're almost out of ammo! There's a weapons cache in that bunker on the right...>|
+|<^1T-DOLL: ^7We're almost out of ammo! There's a weapons cache in that bunker on the right...>|
 
-|<^1T-Doll: ^7Damn!>|
+|<^1T-DOLL: ^7Damn!>|
 
-|<^1T-Doll: ^7...But we can't get to it!... They closed our right flank!>|
+|<^1T-DOLL: ^7...But we can't get to it!... They closed our right flank!>|
 
 |<^1HK416: ^7Those barrels... They full of napalm?>|
 
-|<^1T-Doll: ^7Yeah... we got pushed back before we could bury 'em.>|
+|<^1T-DOLL: ^7Yeah... we got pushed back before we could bury 'em.>|
 
 |<^1HK416: ^7Good to know... T-Dolls, hold your positions.>|
 
@@ -532,11 +532,11 @@
 
 |<^1HK416: ^7Let's light these bastards up!>|
 
-|<^1HK416: ^7Now, UMP45! Do it!>|
+|<^1HK416: ^7Now, 45! Do it!>|
 
 |<^1HK416: ^7That should hold 'em.>|
 
-|<^1T-Doll: ^7They're making another push - South East side!>|
+|<^1T-DOLL: ^7They're making another push - South East side!>|
 
 |<^1M16A1: ^7Toward the HQ!>|
 
@@ -552,9 +552,9 @@
 
 |<^1M16A1: ^7Those are our own mortars! Do they know were here?>|
 
-|<^1T-Doll: ^7Shovel! Two five actual! Check your fire!>|
+|<^1T-DOLL: ^7Shovel! Two five actual! Check your fire!>|
 
-|<^1T-Doll: ^7Shovel! Two Five actual! Cease fire! Cease fire!>|
+|<^1T-DOLL: ^7Shovel! Two Five actual! Cease fire! Cease fire!>|
 
 |<^1HK416: ^7Keep pushin'!>|
 
@@ -578,13 +578,13 @@
 
 |<^1HK416: ^7RPG!>|
 
-|<^1HK416: ^7Burn 'em, UMP45!>|
+|<^1HK416: ^7Burn 'em, 45!>|
 
 |<^1HK416: ^7YEAH!!!>|
 
 |<^1HK416: ^7I think we got all of 'em...>|
 
-|<^1T-Doll: ^7More NVA moving in!... Infantry and armor!>|
+|<^1T-DOLL: ^7More NVA moving in!... Infantry and armor!>|
 
 |<^1HK416: ^7Now that's a jeep!>|
 
@@ -600,7 +600,7 @@
 
 |<^1HK416: ^7...They'll be back.>|
 
-|<^1UMP45: ^7UMP9!!>|
+|<^1UMP45: ^79!!>|
 
 |<^1UMP9: ^7You look like hammered shit, 45.>|
 
@@ -612,95 +612,95 @@
 
 |<^1M16A1: ^7M16A1, Anti Rain - We're here to talk about your encounter with the KCCO in Laos... We got word a defector might be in play.>|
 
-|<^1T-Doll: ^7Go Go!>|
+|<^1T-DOLL: ^7Go Go!>|
 
-|<^1T-Doll: ^7Quick, do it!>|
+|<^1T-DOLL: ^7Quick, do it!>|
 
 |<^1F4 PILOT: ^7Six. Red Rider.>|
 
-|<^1T-Doll: ^7What's your position?>|
+|<^1T-DOLL: ^7What's your position?>|
 
-|<^1T-Doll: ^7I'm not receiving your signal.>|
+|<^1T-DOLL: ^7I'm not receiving your signal.>|
 
-|<^1T-Doll: ^7Not yet. How about you guys?>|
+|<^1T-DOLL: ^7Not yet. How about you guys?>|
 
-|<^1T-Doll: ^7Jesus Christ!>|
+|<^1T-DOLL: ^7Jesus Christ!>|
 
-|<^1T-Doll: ^7Five-five-oh-two. No, that's a negative.>|
+|<^1T-DOLL: ^7Five-five-oh-two. No, that's a negative.>|
 
-|<^1T-Doll: ^7Artillery fire targeting the runway, six.>|
+|<^1T-DOLL: ^7Artillery fire targeting the runway, six.>|
 
-|<^1T-Doll: ^7One-seven, this is Red Rider. Over.>|
+|<^1T-DOLL: ^7One-seven, this is Red Rider. Over.>|
 
-|<^1T-Doll: ^7Negative, I'm on final right now.>|
+|<^1T-DOLL: ^7Negative, I'm on final right now.>|
 
-|<^1T-Doll: ^7May day, may day.>|
+|<^1T-DOLL: ^7May day, may day.>|
 
-|<^1T-Doll: ^7You're on final, three-seven.>|
+|<^1T-DOLL: ^7You're on final, three-seven.>|
 
-|<^1T-Doll: ^7What's your status please?>|
+|<^1T-DOLL: ^7What's your status please?>|
 
-|<^1T-Doll: ^7Stand fast, two-nine. You're covered.>|
+|<^1T-DOLL: ^7Stand fast, two-nine. You're covered.>|
 
-|<^1T-Doll: ^7Anybody see that RPG?>|
+|<^1T-DOLL: ^7Anybody see that RPG?>|
 
-|<^1T-Doll: ^7No, check the other side.>|
+|<^1T-DOLL: ^7No, check the other side.>|
 
-|<^1T-Doll: ^7Negative. Negative.>|
+|<^1T-DOLL: ^7Negative. Negative.>|
 
-|<^1T-Doll: ^7Belay that order. Get your ass out of there.>|
+|<^1T-DOLL: ^7Belay that order. Get your ass out of there.>|
 
-|<^1T-Doll: ^7Need you to move about a click West. Meet you there.>|
+|<^1T-DOLL: ^7Need you to move about a click West. Meet you there.>|
 
-|<^1T-Doll: ^7Adjust your fire!>|
+|<^1T-DOLL: ^7Adjust your fire!>|
 
-|<^1T-Doll: ^7Where's the Arc Light?>|
+|<^1T-DOLL: ^7Where's the Arc Light?>|
 
-|<^1T-Doll: ^7Go, go, go.>|
+|<^1T-DOLL: ^7Go, go, go.>|
 
-|<^1T-Doll: ^7We're on it, six.>|
+|<^1T-DOLL: ^7We're on it, six.>|
 
-|<^1T-Doll: ^7I'm comin' around again, stay with me.>|
+|<^1T-DOLL: ^7I'm comin' around again, stay with me.>|
 
-|<^1T-Doll: ^7Jesus - lots of mortars left side of the runway.>|
+|<^1T-DOLL: ^7Jesus - lots of mortars left side of the runway.>|
 
-|<^1T-Doll: ^7Jeeps and trucks to the North.>|
+|<^1T-DOLL: ^7Jeeps and trucks to the North.>|
 
-|<^1T-Doll: ^7He said they spotted some enemy tanks. Couple clicks NorthEast.>|
+|<^1T-DOLL: ^7She said they spotted some enemy tanks. Couple clicks NorthEast.>|
 
-|<^1T-Doll: ^7Just hang tight.>|
+|<^1T-DOLL: ^7Just hang tight.>|
 
-|<^1T-Doll: ^7Hercules on fire. Far side of the runway.>|
+|<^1T-DOLL: ^7Hercules on fire. Far side of the runway.>|
 
-|<^1T-Doll: ^7Six, you copy my last?>|
+|<^1T-DOLL: ^7Six, you copy my last?>|
 
-|<^1T-Doll: ^7Fuckin' bastards.>|
+|<^1T-DOLL: ^7Fuckin' bastards.>|
 
-|<^1T-Doll: ^7Bastards.>|
+|<^1T-DOLL: ^7Bastards.>|
 
-|<^1T-Doll: ^7Do not. Repeat. Do not engage.>|
+|<^1T-DOLL: ^7Do not. Repeat. Do not engage.>|
 
-|<^1T-Doll: ^7Fire. Put it right there.>|
+|<^1T-DOLL: ^7Fire. Put it right there.>|
 
 |<^1F4 PILOT: ^7OK, standing by.>|
 
-|<^1T-Doll: ^7Repeat your last please.>|
+|<^1T-DOLL: ^7Repeat your last please.>|
 
-|<^1T-Doll: ^7Incoming!>|
+|<^1T-DOLL: ^7Incoming!>|
 
-|<^1T-Doll: ^7Standing by. Let me know OK.>|
+|<^1T-DOLL: ^7Standing by. Let me know OK.>|
 
-|<^1T-Doll: ^7Low on fuel. Inbound 2 minutes.>|
+|<^1T-DOLL: ^7Low on fuel. Inbound 2 minutes.>|
 
-|<^1T-Doll: ^7They must have a fucking division hid out there.>|
+|<^1T-DOLL: ^7They must have a fucking division hid out there.>|
 
-|<^1T-Doll: ^7They must have a division hid out there.>|
+|<^1T-DOLL: ^7They must have a division hid out there.>|
 
-|<^1T-Doll: ^7On station, six. Standing by.>|
+|<^1T-DOLL: ^7On station, six. Standing by.>|
 
-|<^1T-Doll: ^7Say again.>|
+|<^1T-DOLL: ^7Say again.>|
 
-|<^1T-Doll: ^7God damn it.>|
+|<^1T-DOLL: ^7God damn it.>|
 
 |<^1B-52 PILOT: ^7Arc Light, 10 minutes out.>|
 
@@ -724,9 +724,9 @@
 
 |<^1HK416: ^7Give me cover!>|
 
-|<^1T-Doll: ^7Help me out here!>|
+|<^1T-DOLL: ^7Help me out here!>|
 
-|<^1T-Doll: ^7Ok... on three!>|
+|<^1T-DOLL: ^7Ok... on three!>|
 
 |<^1KALINA COMS: ^7This is the Psychedellic music show on AFVN, I'm G&K logistics officer Kalina, our APO here is 96309.>|
 
@@ -738,7 +738,7 @@
 
 |<^1HK416: ^7Hold this position!>|
 
-|<^1HK416: ^7Grab that LAW, UMP45!>|
+|<^1HK416: ^7Grab that LAW, 45!>|
 
 |<^1HK416: ^7Use the controls to steer the TOW missle!>|
 
@@ -760,7 +760,7 @@
 
 |<^1HK416: ^7You got him!>|
 
-|<^1HK416: ^7UMP45! Call in the Phantoms!>|
+|<^1HK416: ^745! Call in the Phantoms!>|
 
 |<^1UMP45: ^7VF 143! Authorization Sierra Oscar Golf X-ray. Priority one ordnance on my command!>|
 
@@ -790,9 +790,9 @@
 
 |<^1HK416: ^7Deal with the tanks!>|
 
-|<^1HK416: ^7The tanks, UMP45!>|
+|<^1HK416: ^7The tanks, 45!>|
 
-|<^1HK416: ^7The tanks - You gotta hit 'em, UMP45!>|
+|<^1HK416: ^7The tanks - You gotta hit 'em, 45!>|
 
 |<^1HK416: ^7Take out those fucking tanks!>|
 

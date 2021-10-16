@@ -4,7 +4,7 @@
 
 |<^0^L1700 hours,^L ^C1November 10, 1963^C>|
 
-|<^0^LRedirect^L ^C1UMP 45^C ^Lto the^L ^C1G&K-HQ.^C>|
+|<^0^LRedirect^L ^C1UMP45^C ^Lto the^L ^C1G&K-HQ.^C>|
 
 |<^1INTERROGATOR: ^7You were cleared for duty and summoned to the G&K-HQ.>|
 
@@ -48,15 +48,15 @@
 
 |<^1M16A1: ^7This is it.>|
 
-|<^1G&K MP: ^7Your convoy is ready, sir. Welcome to the G&K-HQ.>|
+|<^1G&K MP: ^7Your convoy is ready, ma'am. Welcome to the G&K-HQ.>|
 
 |<^1M16A1: ^7We're late.>|
 
-|<^1G&K MP: ^7Welcome, sir.>|
+|<^1G&K MP: ^7Welcome, ma'am.>|
 
 |<^1UMP45: ^7Secretary M1903.>|
 
-|<^1Springfield: ^7Your reputation precedes you, sir.>|
+|<^1Springfield: ^7Your reputation precedes you, madam.>|
 
 |<^1GENERAL: ^7Step on it!>|
 
@@ -76,7 +76,7 @@
 
 |<^1CLERK: ^7She's here.>|
 
-|<^1Springfield: ^7Don't worry, no Sangvis Ferri.>|
+|<^1Springfield: ^7Don't worry, no KCCO.>|
 
 |<^1Springfield: ^7The finest people at the G&K, right here. 24/7, it never ends.>|
 
