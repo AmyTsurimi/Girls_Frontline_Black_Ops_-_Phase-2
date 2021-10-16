@@ -8368,7 +8368,7 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7What did She tell you>|
 
-|<^1UMP40: ^7UMP45... listen to me...>|
+|<^1UMP40: ^745... listen to me...>|
 
 |<^1UMP45: ^7It was a long time ago... Far away...>|
 
@@ -8386,7 +8386,7 @@ Marketplace>|
 
 |<^1UMP45: ^7NO!>|
 
-|<^1INTERROGATOR: ^7We know you did. She turned herself in at DEFY. You were there, 45. She had intel on RPK16. Everything. But it was a lost cause.>|
+|<^1INTERROGATOR: ^7We know you did. He turned herself in at DEFY. You were there, 45. He had intel on RPK16. Everything. But it was a lost cause.>|
 
 |<^1UMP45: ^7Shut the $&#* up!>|
 
@@ -8416,7 +8416,7 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7This was in 1968?>|
 
-|<^1UMP45: ^7Yeah. I was part of the 404 unit led by H&K M416. It was recon on covert KCCO activity in Laos.>|
+|<^1UMP45: ^7Yeah. I was part of the 404 unit led by HK416. It was recon on covert KCCO activity in Laos.>|
 
 |<^1INTERROGATOR: ^7What about your AR handler, M16A1. Was she in Khe Sanh? Do you remember her there?>|
 
@@ -8484,7 +8484,7 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7UMP45! We're losing her.>|
 
-|<^1UMP45: ^7We are all brothers...we are all prisoners...Laos...>|
+|<^1UMP45: ^7We are all comrades...we are all prisoners...Laos...>|
 
 |<^1INTERROGATOR: ^7She's gone>|
 
@@ -8572,7 +8572,7 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7You were captured by RPK16 a second time. Your unit was MIA in Laos, presumed dead. Your handler, M16A1, had no choice but to continue the hunt for Rain 4 without you -->|
 
-|<^1UMP45: ^7She went to Mt. Yamantau -- $&#*^% USSR doomsday bunker -->|
+|<^1UMP45: ^7She went to Mt. Yamantau -- $&#*^% KCCO doomsday bunker -->|
 
 |<^1INTERROGATOR: ^7That's right. A fully operational military complex buried deep in the Ural Mountains.>|
 

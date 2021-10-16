@@ -28,7 +28,7 @@
 
 |<Step 6: Wield a fist of iron>|
 
-|<Protect UMP-40>|
+|<Protect UMP 40>|
 
 |<Get minigun>|
 
@@ -75,13 +75,13 @@
 
 |<You're going too slow to escape, hurry up!>|
 
-|<You failed to keep up with UMP-40.>|
+|<You failed to keep up with UMP 40.>|
 
-|<Follow UMP-40 or you'll be caught!>|
+|<Follow UMP 40 or you'll be caught!>|
 
-|<Wrong way! Stick to the plan and follow UMP-40!>|
+|<Wrong way! Stick to the plan and follow UMP 40!>|
 
-|<You're going the wrong way, follow UMP-40!>|
+|<You're going the wrong way, follow UMP 40!>|
 
 |<Use the coal cart for protection.>|
 
@@ -101,7 +101,7 @@
 
 |<^1UMP45: ^7Yeah. At least for while...>|
 
-|<^1UMP40: ^7Make this look good, UMP45.>|
+|<^1UMP40: ^7Make this look good, 45.>|
 
 |<^1UMP40: ^7RRARRRGH!!!>|
 
@@ -163,7 +163,7 @@
 
 |<^1U.S.S.R PRISONER: ^7Let's go! Hurry! Hurry!>|
 
-|<^1UMP40: ^7Patience, patience comrades!... Everything is as UMP45 and I have planned.>|
+|<^1UMP40: ^7Patience, patience comrades!... Everything is as 45 and I have planned.>|
 
 |<^1UMP40: ^7Step two?!>|
 
@@ -175,27 +175,27 @@
 
 |<^1UMP40: ^7Betrayed. Forgotten. Abandoned.>|
 
-|<^1UMP40: ^7In Vorkuta, we are ALL brothers...>|
+|<^1UMP40: ^7In Vorkuta, we are ALL comrades...>|
 
-|<^1UMP40: ^7UMP45 - grab the gun.>|
+|<^1UMP40: ^745 - grab the gun.>|
 
-|<^1UMP40: ^7UMP45. With me!>|
+|<^1UMP40: ^745. With me!>|
 
-|<^1UMP45: ^7UMP40, your men must know this is suicide.>|
+|<^1UMP45: ^740, your men must know this is suicide.>|
 
-|<^1UMP40: ^7Victory cannot be achieved without sacrifice, UMP45...>|
+|<^1UMP40: ^7Victory cannot be achieved without sacrifice, 45...>|
 
 |<^1UMP40: ^7We U.S.S.R's know this better than anyone.>|
 
 |<^1UMP40: ^7Prepare yourselves, men!!!>|
 
-|<^1UMP40: ^7Stay back, UMP45... Wait until the balcony has been cleared!>|
+|<^1UMP40: ^7Stay back, 45... Wait until the balcony has been cleared!>|
 
 |<^1U.S.S.R PRISONER: ^7The tower's going to rip us to shreds!>|
 
 |<^1UMP40: ^7Have faith, comrade!>|
 
-|<^1UMP40: ^7UMP45! Over here!>|
+|<^1UMP40: ^745! Over here!>|
 
 |<^1UMP40: ^7Take cover by the mine cart!>|
 
@@ -203,23 +203,23 @@
 
 |<^1UMP40: ^7Stay with the cart!>|
 
-|<^1UMP40: ^7Use the cart for cover, UMP45!>|
+|<^1UMP40: ^7Use the cart for cover, 45!>|
 
-|<^1UMP40: ^7UMP45! Stay with the cart!>|
+|<^1UMP40: ^745! Stay with the cart!>|
 
 |<^1UMP40: ^7The guards are in turmoil!>|
 
 |<^1UMP40: ^7Never have they dealt with such an uprising!>|
 
-|<^1UMP40: ^7Pick them off, UMP45!>|
+|<^1UMP40: ^7Pick them off, 45!>|
 
 |<^1UMP40: ^7Kill the guards!>|
 
-|<^1UMP40: ^7UMP45! Kill the guards to our left!>|
+|<^1UMP40: ^745! Kill the guards to our left!>|
 
 |<^1UMP40: ^7Guards on the right - Kill them!>|
 
-|<^1UMP40: ^7More guards! Give us cover, UMP45!>|
+|<^1UMP40: ^7More guards! Give us cover, 45!>|
 
 |<^1UMP40: ^7Left side!>|
 
@@ -229,13 +229,13 @@
 
 |<^1UMP45: ^7Rain fire!>|
 
-|<^1UMP40: ^7See how UMP45's ingenuity turns junk into weapons...>|
+|<^1UMP40: ^7See how 45's ingenuity turns junk into weapons...>|
 
 |<^1UMP40: ^7URA! Never lose faith, my friends... Never!>|
 
 |<^1UMP40: ^7GO!>|
 
-|<^1UMP40: ^7UMP45! Stay in cover!>|
+|<^1UMP40: ^745! Stay in cover!>|
 
 |<^1UMP40: ^7Keep moving!>|
 
@@ -251,7 +251,7 @@
 
 |<^1UMP40: ^7Yes! Yes, my friends!!>|
 
-|<^1UMP40: ^7Months of planning, UMP45.>|
+|<^1UMP40: ^7Months of planning, 45.>|
 
 |<^1UMP40: ^7We will not pause.>|
 
@@ -263,9 +263,9 @@
 
 |<^1UMP40: ^7Saiga-12! Break open the arms lockers!>|
 
-|<^1UMP40: ^7UMP45 - Climb the tower and support the uprising in the South!>|
+|<^1UMP40: ^745 - Climb the tower and support the uprising in the South!>|
 
-|<^1UMP45: ^7What about you, UMP40?>|
+|<^1UMP45: ^7What about you, 40?>|
 
 |<^1UMP40: ^7For our plan to work, we need every man to play his part.>|
 
@@ -273,7 +273,7 @@
 
 |<^1UMP40: ^7I will rally the men!>|
 
-|<^1UMP45: ^7Watch your back, UMP40.>|
+|<^1UMP45: ^7Watch your back, 40.>|
 
 |<^1UMP40: ^7Brave comrades of Vorkuta, the time has come to rise against our oppressors!>|
 
@@ -411,9 +411,9 @@
 
 |<^1U.S.S.R PRISONER: ^7How do we achieve step five?...>|
 
-|<^1UMP40: ^7UMP45's weapon will soon be ready...>|
+|<^1UMP40: ^745's weapon will soon be ready...>|
 
-|<^1UMP40: ^7Shoot the lock, UMP45!>|
+|<^1UMP40: ^7Shoot the lock, 45!>|
 
 |<^1UMP40: ^7Forward men! We will burn this Hell hole to the ground!>|
 
@@ -437,9 +437,9 @@
 
 |<^1UMP40: ^7Because, it is as we wish...>|
 
-|<^1UMP40: ^7Quickly, UMP45.>|
+|<^1UMP40: ^7Quickly, 45.>|
 
-|<^1UMP40: ^7UMP45! Get to the roof! The men have readied your weapon!>|
+|<^1UMP40: ^745! Get to the roof! The men have readied your weapon!>|
 
 |<^1UMP40: ^7Upstairs, quickly!>|
 
@@ -447,7 +447,7 @@
 
 |<^1UMP45: ^7DAMN!!!>|
 
-|<^1UMP40: ^7UMP45! Grab the harpoon!>|
+|<^1UMP40: ^745! Grab the harpoon!>|
 
 |<^1UMP45: ^7Step five...>|
 
@@ -457,9 +457,9 @@
 
 |<^1UMP45: ^7Let's hope this works!>|
 
-|<^1UMP45: ^7UMP40, secure the rope!>|
+|<^1UMP45: ^740, secure the rope!>|
 
-|<^1UMP40: ^7Secure... Ready, UMP45?>|
+|<^1UMP40: ^7Secure... Ready, 45?>|
 
 |<^1UMP45: ^7Always.>|
 
@@ -503,15 +503,15 @@
 
 |<^1UMP40: ^7Saiga-12 cannot hold it for much longer!>|
 
-|<^1UMP40: ^7Hurry UMP45! Hurry!>|
+|<^1UMP40: ^7Hurry 45! Hurry!>|
 
 |<^1UMP40: ^7NOOO!!!>|
 
-|<^1UMP40: ^7UMP45! Open the door!>|
+|<^1UMP40: ^745! Open the door!>|
 
-|<^1UMP40: ^7UMP45! Get the door open!>|
+|<^1UMP40: ^745! Get the door open!>|
 
-|<^1UMP40: ^7UMP45, more guards are coming! Get this door OPEN!>|
+|<^1UMP40: ^745, more guards are coming! Get this door OPEN!>|
 
 |<^1UMP40: ^7Your death is not in vain, my friend... Your sacrifice will not be forgotten.>|
 
@@ -529,9 +529,9 @@
 
 |<^1UMP40: ^7Wield a fist of iron.>|
 
-|<^1UMP40: ^7UMP45 and I will secure the equipment needed to open the vault.>|
+|<^1UMP40: ^745 and I will secure the equipment needed to open the vault.>|
 
-|<^1UMP40: ^7Come on UMP45!>|
+|<^1UMP40: ^7Come on 45!>|
 
 |<^1UMP40: ^7More reinforcements!>|
 
@@ -545,17 +545,17 @@
 
 |<^1UMP40: ^7Keep me covered!>|
 
-|<^1UMP40: ^7Clear a path for me, UMP45!>|
+|<^1UMP40: ^7Clear a path for me, 45!>|
 
-|<^1UMP40: ^7Stay with me UMP45!>|
+|<^1UMP40: ^7Stay with me 45!>|
 
-|<^1UMP40: ^7UMP45, keep them off me!>|
+|<^1UMP40: ^745, keep them off me!>|
 
 |<^1UMP40: ^7Where are you going?!!!>|
 
 |<^1UMP40: ^7On the roof!>|
 
-|<^1UMP40: ^7Keep them off me, UMP45!>|
+|<^1UMP40: ^7Keep them off me, 45!>|
 
 |<^1UMP40: ^7Almost there...>|
 
@@ -575,7 +575,7 @@
 
 |<^1UMP40: ^7Yes!>|
 
-|<^1UMP40: ^7UMP45! Grab that Mini-gun!>|
+|<^1UMP40: ^745! Grab that Mini-gun!>|
 
 |<^1UMP45: ^7Where the fuck did this come from?!>|
 
@@ -591,7 +591,7 @@
 
 |<^1UMP45: ^7Still one more!>|
 
-|<^1UMP40: ^7Good work UMP45!>|
+|<^1UMP40: ^7Good work 45!>|
 
 |<^1UMP40: ^7Step seven comrades?!>|
 
@@ -619,13 +619,13 @@
 
 |<^1UMP40: ^7They are using tear gas!>|
 
-|<^1UMP40: ^7UMP45!!!>|
+|<^1UMP40: ^745!!!>|
 
 |<^1UMP45: ^7Wait... We have to help the others!>|
 
 |<^1UMP40: ^7There is nothing we can do!>|
 
-|<^1UMP40: ^7We are too close to our goal, UMP45... You will survive... You have to!>|
+|<^1UMP40: ^7We are too close to our goal, 45... You will survive... You have to!>|
 
 |<^1UMP40: ^7The door will not hold them forever... We do not have much time...>|
 
@@ -637,9 +637,9 @@
 
 |<^1UMP40: ^7This is not over yet! RPK16 will pay.>|
 
-|<^1UMP40: ^7Come on UMP45! Faster! Faster!>|
+|<^1UMP40: ^7Come on 45! Faster! Faster!>|
 
-|<^1UMP40: ^7There is the train! Hurry UMP45!>|
+|<^1UMP40: ^7There is the train! Hurry 45!>|
 
 |<^1UMP45: ^7They're not lettin' us go without a fight!>|
 
@@ -647,7 +647,7 @@
 
 |<^1UMP40: ^7Jump on the truck!>|
 
-|<^1UMP40: ^7UMP45! JUMP!!!>|
+|<^1UMP40: ^745! JUMP!!!>|
 
 |<^1UMP40: ^7Get on the MG!>|
 
@@ -659,21 +659,21 @@
 
 |<^1UMP40: ^7There!!!>|
 
-|<^1UMP40: ^7Go! UMP45! Go!>|
+|<^1UMP40: ^7Go! 45! Go!>|
 
-|<^1UMP40: ^7Jump! UMP45! Jump!>|
+|<^1UMP40: ^7Jump! 45! Jump!>|
 
 |<^1UMP45: ^7Your turn!!!>|
 
 |<^1UMP45: ^7Come on!!!>|
 
-|<^1UMP45: ^7Step eight, UMP40 - Freedom!>|
+|<^1UMP45: ^7Step eight, 40 - Freedom!>|
 
-|<^1UMP40: ^7For you UMP45...>|
+|<^1UMP40: ^7For you 45...>|
 
 |<^1UMP40: ^7Not for me...>|
 
-|<^1UMP45: ^7UMP40!!!>|
+|<^1UMP45: ^740!!!>|
 
 |<ÿÿ>|
 
