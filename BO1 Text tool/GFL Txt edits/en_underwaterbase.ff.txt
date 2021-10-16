@@ -32,7 +32,7 @@
 
 |<^LLocation: ^L^C1Gulf of Mexico^C>|
 
-|<^C1Mason^C^L, Hudson and Weaver headed to intercept Soviet Commercial ship Rusalka.^L>|
+|<^C1UMP45^C^L, M16A1 and AK-12 headed to intercept KCCO Commercial ship Rusalka.^L>|
 
 |<^LTransmission # 9-19 Designate: X-RAY^L>|
 
@@ -54,7 +54,7 @@
 
 |<E3: Big IGC>|
 
-|<E2: Rendezvous with Weaver>|
+|<E2: Rendezvous with AK-12>|
 
 |<E1A: Snipe from Chopper>|
 
@@ -62,11 +62,11 @@
 
 |<Neutralize all threats>|
 
-|<Rendezvous with Weaver below deck>|
+|<Rendezvous with AK-12 below deck>|
 
 |<Infiltrate the Numbers Station>|
 
-|<Find and kill Dragovich>|
+|<Find and kill RPK16>|
 
 |<Stop the transmission>|
 
@@ -74,7 +74,7 @@
 
 |<Escape the Numbers Station>|
 
-|<Press ^3[{+attack}]^7 to grab Dragovich>|
+|<Press ^3[{+attack}]^7 to grab RPK16>|
 
 |<Press ^3[{+breath_sprint}]^7 and ^F^3[{+melee}]^7^F rapidly to choke>|
 
@@ -84,131 +84,131 @@
 
 |<Use ^3[{+lookstick}]^7 to guide the missile in flight>|
 
-|<^1WEAVER: ^7Alpha - we got visual on the Rusalka.>|
+|<^1AK-12: ^7Alpha - we got visual on the Rusalka.>|
 
-|<^1HUDSON: ^7Roger that, Yankee One.>|
+|<^1M16A1: ^7Roger that, Yankee One.>|
 
-|<^1WEAVER: ^7Beginning approach.>|
+|<^1AK-12: ^7Beginning approach.>|
 
-|<^1HUDSON: ^7Mason - your stick.>|
+|<^1M16A1: ^745 - your stick.>|
 
-|<^1WEAVER: ^7Maintain formation. We're approaching the numbers station.>|
+|<^1AK-12: ^7Maintain formation. We're approaching the numbers station.>|
 
-|<^1WEAVER: ^7SHIT! Taking triple A fire from the deck!...>|
+|<^1AK-12: ^7SHIT! Taking triple A fire from the deck!...>|
 
-|<^1WEAVER: ^7WHOA! Taking triple A fire from the deck!...>|
+|<^1AK-12: ^7WHOA! Taking triple A fire from the deck!...>|
 
-|<^1HUDSON: ^7I think they were expecting us!>|
+|<^1M16A1: ^7I think they were expecting us!>|
 
-|<^1HUDSON: ^7Yankee team - Engage echelon right!>|
+|<^1M16A1: ^7Yankee team - Engage echelon right!>|
 
-|<^1WEAVER: ^7Roger that, Alpha. Breaking off.>|
+|<^1AK-12: ^7Roger that, Alpha. Breaking off.>|
 
-|<^1HUDSON: ^7Mason, bring us around to port!>|
+|<^1M16A1: ^745, bring us around to port!>|
 
-|<^1HUDSON: ^7We need to secure the LZ!>|
+|<^1M16A1: ^7We need to secure the LZ!>|
 
-|<^1MASON: ^7On it.>|
+|<^1UMP45: ^7On it.>|
 
-|<^1US PILOT: ^7One five, beginning our run.>|
+|<^1T-DOLL PILOT: ^7One five, beginning our run.>|
 
-|<^1US PILOT: ^7Engaging.>|
+|<^1T-DOLL PILOT: ^7Engaging.>|
 
-|<^1US PILOT: ^7That's a hit.>|
+|<^1T-DOLL PILOT: ^7That's a hit.>|
 
-|<^1US PILOT: ^7Taking fire from the bridge!>|
+|<^1T-DOLL PILOT: ^7Taking fire from the bridge!>|
 
-|<^1US PILOT: ^7I see 'em.  Moving to engage.>|
+|<^1T-DOLL PILOT: ^7I see 'em.  Moving to engage.>|
 
-|<^1US PILOT: ^7Target's destroyed.>|
+|<^1T-DOLL PILOT: ^7Target's destroyed.>|
 
-|<^1WEAVER: ^7Yankee One in position.>|
+|<^1AK-12: ^7Yankee One in position.>|
 
-|<^1WEAVER: ^7Go go go!>|
+|<^1AK-12: ^7Go go go!>|
 
-|<^1HUDSON: ^7RPGs! Upper deck!>|
+|<^1M16A1: ^7RPGs! Upper deck!>|
 
-|<^1HUDSON: ^7Weaver?!>|
+|<^1M16A1: ^7AK-12?!>|
 
-|<^1WEAVER: ^7Yankee team in position.>|
+|<^1AK-12: ^7Yankee team in position.>|
 
-|<^1US PILOT: ^7Go! Go!>|
+|<^1T-DOLL PILOT: ^7Go! Go!>|
 
-|<^1HUDSON: ^7Alpha, moving to provide support, over.>|
+|<^1M16A1: ^7Alpha, moving to provide support, over.>|
 
-|<^1WEAVER: ^7Yankee two - Starboard side. Move up!>|
+|<^1AK-12: ^7Yankee two - Starboard side. Move up!>|
 
 |<^1BROOKS: ^7Roger that, moving in.>|
 
-|<^1WEAVER: ^7Yankee one - on me.>|
+|<^1AK-12: ^7Yankee one - on me.>|
 
-|<^1WEAVER: ^7Go.>|
+|<^1AK-12: ^7Go.>|
 
-|<^1HUDSON: ^7Take us around the port side.>|
+|<^1M16A1: ^7Take us around the port side.>|
 
-|<^1HUDSON: ^7Get to the Port side.>|
+|<^1M16A1: ^7Get to the Port side.>|
 
-|<^1HUDSON: ^7Take us around the starboard side.>|
+|<^1M16A1: ^7Take us around the starboard side.>|
 
-|<^1HUDSON: ^7Get to the starboard side.>|
+|<^1M16A1: ^7Get to the starboard side.>|
 
-|<^1HUDSON: ^7We need to get closer.>|
+|<^1M16A1: ^7We need to get closer.>|
 
-|<^1HUDSON: ^7Get us closer!>|
+|<^1M16A1: ^7Get us closer!>|
 
-|<^1HUDSON: ^7Pull back!>|
+|<^1M16A1: ^7Pull back!>|
 
-|<^1HUDSON: ^7We're too close - Get us clear!>|
+|<^1M16A1: ^7We're too close - Get us clear!>|
 
-|<^1HUDSON: ^7Shit! We're hit!>|
+|<^1M16A1: ^7Shit! We're hit!>|
 
-|<^1HUDSON: ^7We're hit!>|
+|<^1M16A1: ^7We're hit!>|
 
-|<^1HUDSON: ^7Taking fire!>|
+|<^1M16A1: ^7Taking fire!>|
 
-|<^1HUDSON: ^7Evasive action!>|
+|<^1M16A1: ^7Evasive action!>|
 
-|<^1HUDSON: ^7Get us out of here, Mason!>|
+|<^1M16A1: ^7Get us out of here, 45!>|
 
-|<^1HUDSON: ^7Too much heat! Pull up!>|
+|<^1M16A1: ^7Too much heat! Pull up!>|
 
-|<^1HUDSON: ^7Nice.>|
+|<^1M16A1: ^7Nice.>|
 
-|<^1HUDSON: ^7Good shooting, Mason.>|
+|<^1M16A1: ^7Good shooting, 45.>|
 
-|<^1HUDSON: ^7You got 'em.>|
+|<^1M16A1: ^7You got 'em.>|
 
-|<^1HUDSON: ^7Keep it up.>|
+|<^1M16A1: ^7Keep it up.>|
 
-|<^1HUDSON: ^7Taken out.>|
+|<^1M16A1: ^7Taken out.>|
 
-|<^1MASON: ^7Moving to port.>|
+|<^1UMP45: ^7Moving to port.>|
 
-|<^1MASON: ^7Moving to Starboard.>|
+|<^1UMP45: ^7Moving to Starboard.>|
 
-|<^1MASON: ^7Bring us around.>|
+|<^1UMP45: ^7Bring us around.>|
 
-|<^1MASON: ^7Takin' us closer.>|
+|<^1UMP45: ^7Takin' us closer.>|
 
-|<^1MASON: ^7Roger that.>|
+|<^1UMP45: ^7Roger that.>|
 
-|<^1WEAVER: ^7Engaging.>|
+|<^1AK-12: ^7Engaging.>|
 
-|<^1WEAVER: ^7Hit them now!>|
+|<^1AK-12: ^7Hit them now!>|
 
-|<^1WEAVER: ^7Weapons free.>|
+|<^1AK-12: ^7Weapons free.>|
 
-|<^1WEAVER: ^7Yankee squad pinned down!>|
+|<^1AK-12: ^7Yankee squad pinned down!>|
 
-|<^1WEAVER: ^7Taking heavy fire!>|
+|<^1AK-12: ^7Taking heavy fire!>|
 
-|<^1WEAVER: ^7Where's that fire support?!>|
+|<^1AK-12: ^7Where's that fire support?!>|
 
-|<^1WEAVER: ^7Thanks for the help, Alpha.>|
+|<^1AK-12: ^7Thanks for the help, Alpha.>|
 
-|<^1WEAVER: ^7Yankee one, clear to move up.>|
+|<^1AK-12: ^7Yankee one, clear to move up.>|
 
-|<^1WEAVER: ^7All clear.  Moving up.>|
+|<^1AK-12: ^7All clear.  Moving up.>|
 
 |<^1BROOKS: ^7Engaging.>|
 
@@ -228,225 +228,225 @@
 
 |<^1BROOKS: ^7Clear.  Moving up.>|
 
-|<^1HUDSON: ^7Roger that, Yankee.>|
+|<^1M16A1: ^7Roger that, Yankee.>|
 
-|<^1HUDSON: ^7RPGS on the Bridge!>|
+|<^1M16A1: ^7RPGS on the Bridge!>|
 
-|<^1HUDSON: ^7Take them out!>|
+|<^1M16A1: ^7Take them out!>|
 
-|<^1HUDSON: ^7Stay on them!>|
+|<^1M16A1: ^7Stay on them!>|
 
-|<^1WEAVER: ^7Moving to lower decks, over.>|
+|<^1AK-12: ^7Moving to lower decks, over.>|
 
-|<^1HUDSON: ^7Roger that, Yankee.  Alpha team is right behind you.>|
+|<^1M16A1: ^7Roger that, Yankee.  Alpha team is right behind you.>|
 
-|<^1HUDSON: ^7Mason - Take us down.>|
+|<^1M16A1: ^745 - Take us down.>|
 
-|<^1HUDSON: ^7Jump!>|
+|<^1M16A1: ^7Jump!>|
 
-|<^1HUDSON: ^7Yankee team - sitrep?>|
+|<^1M16A1: ^7Yankee team - sitrep?>|
 
-|<^1WEAVER: ^7Moving through deck two... No sign of the transmitter.>|
+|<^1AK-12: ^7Moving through deck two... No sign of the transmitter.>|
 
-|<^1HUDSON: ^7It has to be here.>|
+|<^1M16A1: ^7It has to be here.>|
 
-|<^1MASON: ^7I know it is.  Keep looking.>|
+|<^1UMP45: ^7I know it is.  Keep looking.>|
 
-|<^1HUDSON: ^7Split up - cover both sides of the ship.>|
+|<^1M16A1: ^7Split up - cover both sides of the ship.>|
 
-|<^1HUDSON: ^7Go!>|
+|<^1M16A1: ^7Go!>|
 
-|<^1HUDSON: ^7Shit!  Enemy HIPS!>|
+|<^1M16A1: ^7Shit!  Enemy HIPS!>|
 
-|<^1HUDSON: ^7Enemy HIPS!>|
+|<^1M16A1: ^7Enemy HIPS!>|
 
-|<^1HUDSON: ^7Mason!  Grab that guided missile!>|
+|<^1M16A1: ^745!  Grab that guided missile!>|
 
-|<^1HUDSON: ^7Take down those HIPS!>|
+|<^1M16A1: ^7Take down those HIPS!>|
 
-|<^1WEAVER: ^7Hudson - you need to see this!>|
+|<^1AK-12: ^7M16 - you need to see this!>|
 
-|<^1HUDSON: ^7What is it?>|
+|<^1M16A1: ^7What is it?>|
 
-|<^1WEAVER: ^7SHIT!!!>|
+|<^1AK-12: ^7SHIT!!!>|
 
-|<^1WEAVER: ^7DAMN!!!>|
+|<^1AK-12: ^7DAMN!!!>|
 
-|<^1HUDSON: ^7WEAVER?!!>|
+|<^1M16A1: ^7AK-12?!!>|
 
-|<^1WEAVER: ^7We're pinned down in the lower deck!  Get your asses down here ASAP.>|
+|<^1AK-12: ^7We're pinned down in the lower deck!  Get your asses down here ASAP.>|
 
-|<^1HUDSON: ^7We're on our way!>|
+|<^1M16A1: ^7We're on our way!>|
 
-|<^1WEAVER: ^7There's more to this ship than we thought...>|
+|<^1AK-12: ^7There's more to this ship than we thought...>|
 
-|<^1MASON: ^7The broadcast station. It's beneath us.>|
+|<^1UMP45: ^7The broadcast station. It's beneath us.>|
 
-|<^1WEAVER: ^7Shit!!!>|
+|<^1AK-12: ^7Shit!!!>|
 
-|<^1WEAVER: ^7Damn!!!>|
+|<^1AK-12: ^7Damn!!!>|
 
-|<^1HUDSON: ^7Shit... Dragovich is starting the broadcast!>|
+|<^1M16A1: ^7Shit... RPK16 is starting the broadcast!>|
 
-|<^1HUDSON: ^7Dragovich is starting the broadcast!>|
+|<^1M16A1: ^7RPK16 is starting the broadcast!>|
 
-|<^1HUDSON: ^7Command this is Alpha one.  We have confirmed the Rusalka is the broadcast source!>|
+|<^1M16A1: ^7Command this is Alpha one.  We have confirmed the Rusalka is the broadcast source!>|
 
-|<^1HUDSON: ^7Bring in the airstrike.  We are on our way out!>|
+|<^1M16A1: ^7Bring in the airstrike.  We are on our way out!>|
 
-|<^1MASON: ^7Not yet.  We need to find Dragovich.>|
+|<^1UMP45: ^7Not yet.  We need to find RPK16.>|
 
-|<^1HUDSON: ^7In less than 15 minutes, the US Navy is going to blow this place apart!>|
+|<^1M16A1: ^7In less than 15 minutes, the G&K HOC is going to blow this place apart!>|
 
-|<^1MASON: ^7I made the mistake of not confirming the kill five years ago at Baikonur.>|
+|<^1UMP45: ^7I made the mistake of not confirming the kill five years ago at Baikonur.>|
 
-|<^1HUDSON: ^7You sure you're not still brainwashed?>|
+|<^1M16A1: ^7You sure you're not still brainwashed?>|
 
-|<^1MASON: ^7Would it matter?... The son of a bitch needs to go down - once and for all.>|
+|<^1UMP45: ^7Would it matter?... The son of a bitch needs to go down - once and for all.>|
 
-|<^1MASON: ^7Would it matter?... The bastard needs to go down - once and for all.>|
+|<^1UMP45: ^7Would it matter?... The bastard needs to go down - once and for all.>|
 
-|<^1HUDSON: ^7Get out of here, Weaver... We're going to finish this.>|
+|<^1M16A1: ^7Get out of here, AK-12... We're going to finish this.>|
 
-|<^1MASON: ^7Hudson... You see the buoys?>|
+|<^1UMP45: ^7M16... You see the buoys?>|
 
-|<^1HUDSON: ^7They have to transmit from the surface... That's why we could never find the broadcast source.>|
+|<^1M16A1: ^7They have to transmit from the surface... That's why we could never find the broadcast source.>|
 
-|<^1HUDSON: ^7The structure below us... It's more than a transmitter.>|
+|<^1M16A1: ^7The structure below us... It's more than a transmitter.>|
 
-|<^1MASON: ^7It's a supply station for the Soviet submarine fleet...>|
+|<^1UMP45: ^7It's a supply station for the KCCO submarine fleet...>|
 
-|<^1MASON: ^7Part of Dragovich's plan for invasion - once the Nova 6 was released.>|
+|<^1UMP45: ^7Part of RPK16's plan for invasion - once the Rain 4 was released.>|
 
-|<^1HUDSON: ^7Drop your weights.>|
+|<^1M16A1: ^7Drop your weights.>|
 
-|<^1HUDSON: ^7This way.>|
+|<^1M16A1: ^7This way.>|
 
-|<^1HUDSON: ^7Mason, over here!   There's another pool.>|
+|<^1M16A1: ^745, over here!   There's another pool.>|
 
-|<^1HUDSON: ^7Hurry up, Mason!  The bombs could hit at any minute!>|
+|<^1M16A1: ^7Hurry up, 45!  The bombs could hit at any minute!>|
 
-|<^1HUDSON: ^7Come on, Mason!   We gotta hurry!>|
+|<^1M16A1: ^7Come on, 45!   We gotta hurry!>|
 
-|<^1HUDSON: ^7They've begun the attack!>|
+|<^1M16A1: ^7They've begun the attack!>|
 
-|<^1HUDSON: ^7Weaver!  What's happening?>|
+|<^1M16A1: ^7AK-12!  What's happening?>|
 
-|<^1HUDSON: ^7Dammit!>|
+|<^1M16A1: ^7Dammit!>|
 
-|<^1MASON: ^7Too late to back out - Slam it in!>|
+|<^1UMP45: ^7Too late to back out - Slam it in!>|
 
-|<^1HUDSON: ^7Dead end!>|
+|<^1M16A1: ^7Dead end!>|
 
-|<^1HUDSON: ^7Way forward's flooded.  We're gonna have to swim for it.>|
+|<^1M16A1: ^7Way forward's flooded.  We're gonna have to swim for it.>|
 
-|<^1HUDSON: ^7We need to find Dragovich before they bring the whole place down on top of us!>|
+|<^1M16A1: ^7We need to find RPK16 before they bring the whole place down on top of us!>|
 
-|<^1HUDSON: ^7Ready?>|
+|<^1M16A1: ^7Ready?>|
 
-|<^1MASON: ^7Ready.>|
+|<^1UMP45: ^7Ready.>|
 
-|<^1HUDSON: ^7Up the ladder.>|
+|<^1M16A1: ^7Up the ladder.>|
 
-|<^1HUDSON: ^7We need to stop that transmission, now!>|
+|<^1M16A1: ^7We need to stop that transmission, now!>|
 
-|<^1HUDSON: ^7DRAGOVICH!!!>|
+|<^1M16A1: ^7RPK16!!!>|
 
-|<^1MASON: ^7Dragovich!>|
+|<^1UMP45: ^7RPK16!>|
 
-|<^1HUDSON: ^7Mason!  Take the shot!>|
+|<^1M16A1: ^745!  Take the shot!>|
 
-|<^1DRAGOVICH: ^7You... can not do anything right.>|
+|<^1RPK16: ^7You... can not do anything right.>|
 
-|<^1DRAGOVICH: ^7You should have been my finest agent... It would all have been so much simpler.>|
+|<^1RPK16: ^7You should have been my finest agent... It would all have been so much simpler.>|
 
-|<^1MASON: ^7It IS simple.>|
+|<^1UMP45: ^7It IS simple.>|
 
-|<^1MASON: ^7I'm gonna kill you!>|
+|<^1UMP45: ^7I'm gonna kill you!>|
 
-|<^1MASON: ^7You tried to fuck with my mind... You failed!>|
+|<^1UMP45: ^7You tried to fuck with my digimind... You failed!>|
 
-|<^1MASON: ^7You tried to screw with my mind... You failed!>|
+|<^1UMP45: ^7You tried to screw with my digimind... You failed!>|
 
-|<^1DRAGOVICH: ^7You don't know anything...>|
+|<^1RPK16: ^7You don't know anything...>|
 
-|<^1MASON: ^7You tried to turn me against my own!>|
+|<^1UMP45: ^7You tried to turn me against my own!>|
 
-|<^1DRAGOVICH: ^7...For sure.>|
+|<^1RPK16: ^7...For sure.>|
 
-|<^1MASON: ^7You tried to make me kill my own president!>|
+|<^1UMP45: ^7You tried to make me kill my own Commander!>|
 
-|<^1DRAGOVICH: ^7Tried?>|
+|<^1RPK16: ^7Tried?>|
 
-|<^1HUDSON: ^7Mason!!! This way.>|
+|<^1M16A1: ^745!!! This way.>|
 
-|<^1HUDSON: ^7Go! Go! Go!>|
+|<^1M16A1: ^7Go! Go! Go!>|
 
-|<^1HUDSON: ^7Come on, Mason!>|
+|<^1M16A1: ^7Come on, 45!>|
 
-|<^1WEAVER: ^7Mason.>|
+|<^1AK-12: ^745.>|
 
-|<^1WEAVER: ^7It is over... We won.>|
+|<^1AK-12: ^7It is over... We won.>|
 
-|<^1MASON: ^7For now...>|
+|<^1UMP45: ^7For now...>|
 
-|<^1HUDSON: ^7I knew you wouldn't let us down, Mason.>|
+|<^1M16A1: ^7I knew you wouldn't let us down, 45.>|
 
-|<^1HUDSON: ^7Even when the rest of the Company gave up on you...>|
+|<^1M16A1: ^7Even when the rest of the Company gave up on you...>|
 
-|<^1HUDSON: ^7I knew we could trust you.>|
+|<^1M16A1: ^7I knew we could trust you.>|
 
-|<^1DRAGOVICH: ^7Tried?  How do you know we didn't succeed?>|
+|<^1RPK16: ^7Tried?  How do you know we didn't succeed?>|
 
-|<^1REZNOV: ^7Mason! You did it, Mason.  You did what I could not.>|
+|<^1REZNOV: ^745! You did it, 45.  You did what I could not.>|
 
-|<^1HUDSON: ^7Keep moving! We need to stop the broadcast.>|
+|<^1M16A1: ^7Keep moving! We need to stop the broadcast.>|
 
-|<^1HUDSON: ^7We need to stop the broadcast.>|
+|<^1M16A1: ^7We need to stop the broadcast.>|
 
-|<^1HUDSON: ^7Shit!>|
+|<^1M16A1: ^7Shit!>|
 
-|<^1HUDSON: ^7Crap!>|
+|<^1M16A1: ^7Crap!>|
 
-|<^1HUDSON: ^7Come on Mason!>|
+|<^1M16A1: ^7Come on 45!>|
 
-|<^1HUDSON: ^7Keep moving!>|
+|<^1M16A1: ^7Keep moving!>|
 
-|<^1HUDSON: ^7On me!>|
+|<^1M16A1: ^7On me!>|
 
-|<^1HUDSON: ^7Mason - Stop the transmission!>|
+|<^1M16A1: ^745 - Stop the transmission!>|
 
-|<^1HUDSON: ^7This place is falling apart!>|
+|<^1M16A1: ^7This place is falling apart!>|
 
-|<^1HUDSON: ^7Mason - get up here.>|
+|<^1M16A1: ^745 - get up here.>|
 
-|<^1HUDSON: ^7We're running out of time!>|
+|<^1M16A1: ^7We're running out of time!>|
 
-|<^1HUDSON: ^7We need to move Mason.>|
+|<^1M16A1: ^7We need to move 45.>|
 
-|<^1HUDSON: ^7Jump - GO!>|
+|<^1M16A1: ^7Jump - GO!>|
 
-|<^1MASON: ^7DRAGOVICH!>|
+|<^1UMP45: ^7RPK16!>|
 
-|<^1HUDSON: ^7They've got a lock on us!!!>|
+|<^1M16A1: ^7They've got a lock on us!!!>|
 
-|<^1HUDSON: ^7SHIT!!! WE'RE HIT!!!>|
+|<^1M16A1: ^7SHIT!!! WE'RE HIT!!!>|
 
-|<^1HUDSON: ^7WE'RE HIT!!!>|
+|<^1M16A1: ^7WE'RE HIT!!!>|
 
-|<^1HUDSON: ^7Out of the chopper! Jump! GO GO GO!>|
+|<^1M16A1: ^7Out of the chopper! Jump! GO GO GO!>|
 
-|<^1HUDSON: ^7Yankee team, we have visual. Moving to engage.>|
+|<^1M16A1: ^7Yankee team, we have visual. Moving to engage.>|
 
-|<^1HUDSON: ^7Enemy Hind! Evasive maneuvers!>|
+|<^1M16A1: ^7Enemy Hind! Evasive maneuvers!>|
 
-|<^1HUDSON: ^7Take down that Hind!>|
+|<^1M16A1: ^7Take down that Hind!>|
 
-|<^1HUDSON: ^7Yankee two - Fire on the Hind!>|
+|<^1M16A1: ^7Yankee two - Fire on the Hind!>|
 
-|<^1HUDSON: ^7Keep on 'em!>|
+|<^1M16A1: ^7Keep on 'em!>|
 
-|<^1HUDSON: ^7We can't take much more  - Mason get us to Helipad!>|
+|<^1M16A1: ^7We can't take much more  - 45 get us to Helipad!>|
 
 |<ÿÿ>|
 
