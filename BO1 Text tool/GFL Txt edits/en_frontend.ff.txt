@@ -278,7 +278,7 @@
 
 |<^1INTERROGATOR: ^7Listen to me carefully, 45.  UMP40 cannot be trusted.  No matter what she tells you, no matter what she says -->|
 
-|<^1UMP45: ^7But she gave us the dossier on Clarke!  She lead us to Rain 4!>|
+|<^1UMP45: ^7But she gave us the dossier on RFB!  She lead us to Rain 4!>|
 
 |<^1INTERROGATOR: ^7UMP40's not who you think she is.>|
 
