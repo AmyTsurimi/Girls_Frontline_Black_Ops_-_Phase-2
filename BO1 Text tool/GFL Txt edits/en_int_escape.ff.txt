@@ -6,7 +6,7 @@
 
 |<^LLocation:^L ^C1ROOM 9^C>|
 
-|<^LSubject:^L ^C1Mason, Alex^C>|
+|<^LSubject:^L ^C1H&K, UMP45^C>|
 
 |<^LResuming Questioning: 2300 hours,^L ^C1February 25 1968^C>|
 
@@ -34,278 +34,278 @@
 
 |<^1INTERROGATOR: ^7It is no use... we are out of time!>|
 
-|<^1INTERROGATOR: ^7We can't give up now. He was at Vorkuta. He knows how to translate the codes. He's heard the broadcasts which we know contain the location. It's all in his head somewhere. He does know where it is!>|
+|<^1INTERROGATOR: ^7We can't give up now. She was at Vorkuta. She knows how to translate the codes. She's heard the broadcasts which we know contain the location. It's all in her head somewhere. She does know where it is!>|
 
 |<^1INTERROGATOR: ^7We have to get to the bunker!  We're at DEFCON 2... You've tried everything...>|
 
 |<^1INTERROGATOR: ^7Not yet...I have one more card to play.>|
 
-|<^1INTERROGATOR: ^7Leave him here. He's not worth it.>|
+|<^1INTERROGATOR: ^7Leave her here. She's not worth it.>|
 
-|<^1HUDSON: ^7Get out of here, Weaver.  Tell them I failed.>|
+|<^1M16A1: ^7Get out of here, AK-12.  Tell them I failed.>|
 
-|<^1WEAVER: ^7You want to die with him?...Your choice.>|
+|<^1AK-12: ^7You want to die with her?...Your choice.>|
 
-|<^1HUDSON: ^7Dammit! Why can't you remember?!>|
+|<^1M16A1: ^7Dammit! Why can't you remember?!>|
 
-|<^1HUDSON: ^7Reznov's DEAD, Mason! Do you hear me?!!! He's dead!!! Weaver's right...we are out of time.>|
+|<^1M16A1: ^740's DEAD, 45! Do you hear me?!!! She's dead!!! AK-12's right...we are out of time.>|
 
-|<^1HUDSON: ^7The Russians fucked you up... I know you...you're not a traitor.>|
+|<^1M16A1: ^7The KCCO fucked you up... I know you...you're not a traitor.>|
 
-|<^1HUDSON: ^7The Russians messed you up... I know you...you're not a traitor.>|
+|<^1M16A1: ^7The KCCO messed you up... I know you...you're not a traitor.>|
 
-|<^1MASON: ^7The numbers...what...are they saying?...>|
+|<^1UMP45: ^7The numbers...what...are they saying?...>|
 
-|<^1MASON: ^7Reznov ... Where are you?... Reznov...>|
+|<^1UMP45: ^740 ... Where are you?... 40...>|
 
-|<^1MASON: ^7Steiner was there... We had to kill Steiner!>|
+|<^1UMP45: ^7Suomi was there... We had to kill Suomi!>|
 
-|<^1MASON: ^7I...keep...hearing...the fucking...numbers...>|
+|<^1UMP45: ^7I...keep...hearing...the fucking...numbers...>|
 
-|<^1MASON: ^7I...keep...hearing...the &$#@!%...numbers...>|
+|<^1UMP45: ^7I...keep...hearing...the &$#@!%...numbers...>|
 
-|<^1KRAVCHENKO: ^7You.... Again...>|
+|<^1NYTO: ^7You.... Again...>|
 
-|<^1KRAVCHENKO: ^7I should have killed you in Vorkuta!>|
+|<^1NYTO: ^7I should have killed you in Vorkuta!>|
 
-|<^1DRAGOVICH: ^7Wait a few moments... Let him rest.>|
+|<^1RPK16: ^7Wait a few moments... Let her rest.>|
 
-|<^1MASON: ^7I remember. Ahhhh! Vorkuta...>|
+|<^1UMP45: ^7I remember. Ahhhh! Vorkuta...>|
 
-|<^1DRAGOVICH: ^7When he regains consciousness - Double the voltage.>|
+|<^1RPK16: ^7When she regains consciousness - Double the voltage.>|
 
-|<^1STEINER: ^7The subject has been successfully implanted with the knowledge to translate the number sequences.>|
+|<^1SUOMI: ^7The subject has been successfully implanted with the knowledge to translate the number sequences.>|
 
-|<^1DRAGOVICH: ^7So - what is the problem?>|
+|<^1RPK16: ^7So - what is the problem?>|
 
-|<^1STEINER: ^7His responses to our orders have been - sporadic.  Unpredictable.  He shows a remarkable resilience.>|
+|<^1SUOMI: ^7Her responses to our orders have been - sporadic.  Unpredictable.  She shows a remarkable resilience.>|
 
-|<^1DRAGOVICH: ^7Why?>|
+|<^1RPK16: ^7Why?>|
 
-|<^1STEINER: ^7He is unusual... atypical.  Few men possess such will... Our other test subjects have been far more successful.>|
+|<^1SUOMI: ^7She is unusual... atypical.  Few dolls possess such will... Our other test subjects have been far more successful.>|
 
-|<^1DRAGOVICH: ^7If he will not follow the orders embedded in the numbers, then he is of no use to me...>|
+|<^1RPK16: ^7If she will not follow the orders embedded in the numbers, then she is of no use to me...>|
 
-|<^1DRAGOVICH: ^7He can rot... Take him back to his cell.>|
+|<^1RPK16: ^7She can rot... Take her back to her cell.>|
 
-|<^1MASON: ^7Dragovich...Kravchenko...Steiner...the pain...oh my God, the pain...>|
+|<^1UMP45: ^7RPK16...Nyto...Suomi...the pain...oh my God, the pain...>|
 
-|<^1MASON: ^7Dragovich...Kravchenko...Steiner...>|
+|<^1UMP45: ^7RPK16...Nyto...Suomi...>|
 
-|<^1MASON: ^7The pain...oh my God...>|
+|<^1UMP45: ^7The pain...oh my God...>|
 
-|<^1MASON: ^7Proceed...to...target...>|
+|<^1UMP45: ^7Proceed...to...target...>|
 
-|<^1MASON: ^7Oswald...compromised.>|
+|<^1UMP45: ^7Oswald...compromised.>|
 
-|<^1REZNOV: ^7In Vorkuta, we are ALL brothers...>|
+|<^1UMP40: ^7In Vorkuta, we are ALL comrades...>|
 
-|<^1RUSSIAN PRISONER: ^7Reznov, are you sure you can trust this American?>|
+|<^1U.S.S.R PRISONER: ^7UMP40, are you sure you can trust this G&K T-Doll?>|
 
-|<^1REZNOV: ^7With my life...>|
+|<^1UMP40: ^7With my life...>|
 
-|<^1REZNOV: ^7He and us, are not so different... We are all soldiers without an army.>|
+|<^1UMP40: ^7She and us, are not so different... We are all soldiers without an army.>|
 
-|<^1REZNOV: ^7Betrayed.  Forgotten.  Abandoned.>|
+|<^1UMP40: ^7Betrayed.  Forgotten.  Abandoned.>|
 
-|<^1REZNOV: ^7You will survive... You have to...>|
+|<^1UMP40: ^7You will survive... You have to...>|
 
-|<^1REZNOV: ^7We are brothers Mason... We are the same.>|
+|<^1UMP40: ^7We are comrades 45... We are the same.>|
 
-|<^1PRESIDENT KENNEDY: ^7We are in grave danger from the communists. 
+|<^1COMMANDER: ^7We are in grave danger from the Sangvis Ferri. 
 Our freedom and our very way of life is at risk.>|
 
-|<^1PRESIDENT KENNEDY: ^7Dragovich.>|
+|<^1COMMANDER: ^7RPK16.>|
 
-|<^1MASON: ^7When do I kill him?>|
+|<^1UMP45: ^7When do I kill her?>|
 
-|<^1MASON: ^7Kennedy...John...Fitzgerald. I'm told you are the best we have. Anywhere.>|
+|<^1UMP45: ^7Commander...SKK...Gentiane. I'm told you are the best we have. Anywhere.>|
 
-|<^1MASON: ^7Okay. Time we got the hell out of here.>|
+|<^1UMP45: ^7Okay. Time we got the hell out of here.>|
 
-|<^1WOODS: ^7Not yet...>|
+|<^1HK416: ^7Not yet...>|
 
-|<^1MASON: ^7We're going after Dragovich.>|
+|<^1UMP45: ^7We're going after RPK16.>|
 
-|<^1WOODS: ^7No one's getting out.>|
+|<^1HK416: ^7No one's getting out.>|
 
-|<^1WOODS: ^7Satisfied, Mason?>|
+|<^1HK416: ^7Satisfied, 45?>|
 
-|<^1MASON: ^7No! No, not yet... Not until I see the body.>|
+|<^1UMP45: ^7No! No, not yet... Not until I see the body.>|
 
-|<^1MASON: ^7How many times?! Steiner was at Rebirth Island. We had to kill Steiner.>|
+|<^1UMP45: ^7How many times?! Suomi was at Rebirth Island. We had to kill Suomi.>|
 
-|<^1INTERROGATOR: ^7We? Viktor Reznov?>|
+|<^1INTERROGATOR: ^7We? UMP 40?>|
 
-|<^1MASON: ^7We wanted the same thing. The same.>|
+|<^1UMP45: ^7We wanted the same thing. The same.>|
 
-|<^1WEAVER: ^7What the Hell is he doing?>|
+|<^1AK-12: ^7What the Hell is she doing?>|
 
-|<^1HUDSON: ^7Killing everyone between him and Steiner.>|
+|<^1M16A1: ^7Killing everyone between her and Suomi.>|
 
-|<^1REZNOV: ^7The pain is difficult isn't it?>|
+|<^1UMP40: ^7The pain is difficult isn't it?>|
 
-|<^1REZNOV: ^7Dragovich. Kravchenko. Steiner. All must die...>|
+|<^1UMP40: ^7RPK16. Nyto. Suomi. All must die...>|
 
-|<^1MASON: ^7Killing everyone between him and Steiner. I was programmed...to...kill...Steiner...Kravchenko and Dragovich!>|
+|<^1UMP45: ^7Killing everyone between her and Suomi. I was programmed...to...kill...Suomi...Nyto and RPK16!>|
 
-|<^1HUDSON: ^7Dragovich brainwashed you, but Reznov had plans of his own...>|
+|<^1M16A1: ^7RPK16 brainwashed you, but UMP40 had plans of her own...>|
 
 |<^1BOWMAN: ^7You think the defector survived this attack?!>|
 
-|<^1WOODS: ^7If he did, then he's one tough son of a bitch!>|
+|<^1HK416: ^7If he did, then he's one tough son of a bitch!>|
 
-|<^1WOODS: ^7If he did, he's one tough son of a gun!>|
+|<^1HK416: ^7If he did, he's one tough son of a gun!>|
 
-|<^1REZNOV: ^7Mason?>|
+|<^1UMP40: ^745?>|
 
-|<^1MASON: ^7Reznov. How'd you get out of Vorkuta?>|
+|<^1UMP45: ^740. How'd you get out of Vorkuta?>|
 
-|<^1MASON: ^7Never thought I'd see you alive...>|
+|<^1UMP45: ^7Never thought I'd see you alive...>|
 
-|<^1HUDSON: ^7He was never in Vietnam.  
-The real  defector with the Nova 6 dossier 
-died during the attack on the MAC-V.>|
+|<^1M16A1: ^7She was never in Vietnam.  
+The real  defector with the Rain 4 dossier 
+died during the attack on the DEFY.>|
 
-|<^1HUDSON: ^7He was never in the rat tunnels.>|
+|<^1M16A1: ^7She was never in the rat tunnels.>|
 
 |<^1SWIFT: ^7What the *$#%$ wrong with you?>|
 
-|<^1REZNOV: ^7Kravchenko is here!>|
+|<^1UMP40: ^7Nyto is here!>|
 
-|<^1REZNOV: ^7This way! We cannot let him slip through our grasp!>|
+|<^1UMP40: ^7This way! We cannot let her slip through our grasp!>|
 
-|<^1WOODS: ^7Mason?!  What the fuck are you doing?!! We gotta get these guys out.>|
+|<^1HK416: ^745?!  What the fuck are you doing?!! We gotta get these guys out.>|
 
-|<^1WOODS: ^7Mason?! We gotta get these guys out.>|
+|<^1HK416: ^745?! We gotta get these guys out.>|
 
-|<^1REZNOV: ^7You will survive... You have to!>|
+|<^1UMP40: ^7You will survive... You have to!>|
 
-|<^1HUDSON: ^7He was never at Rebirth Island.>|
+|<^1M16A1: ^7She was never at Rebirth Island.>|
 
-|<^1REZNOV: ^7My name is Viktor Reznov.>|
+|<^1UMP40: ^7My name is UMP 40.>|
 
-|<^1STEINER: ^7No...>|
+|<^1SUOMI: ^7No...>|
 
-|<^1HUDSON: ^7MASON!>|
+|<^1M16A1: ^745!>|
 
-|<^1MASON: ^7My name is Viktor Reznov. And I will have my revenge!>|
+|<^1UMP45: ^7My name is UMP 40. And I will have my revenge!>|
 
-|<^1HUDSON: ^7Mason - NO!>|
+|<^1M16A1: ^745 - NO!>|
 
-|<^1MASON: ^7Step eight, Reznov - Freedom!>|
+|<^1UMP45: ^7Step eight, 40 - Freedom!>|
 
-|<^1REZNOV: ^7For you Mason...>|
+|<^1UMP40: ^7For you 45...>|
 
-|<^1REZNOV: ^7Not for me...>|
+|<^1UMP40: ^7Not for me...>|
 
-|<^1HUDSON: ^7Viktor Reznov's been dead for 5 years. He died at Vorkuta during the escape! 
-All the years you thought he was with you - that was just in your mind!>|
+|<^1M16A1: ^7UMP 40's been dead for 5 years. She died at Vorkuta during the escape! 
+All the years you thought she was with you - that was just in your mind!>|
 
-|<^1INTERROGATOR: ^7Viktor Reznov's been dead for years.>|
+|<^1INTERROGATOR: ^7UMP 40's been dead for years.>|
 
-|<^1MASON: ^7No!>|
+|<^1UMP45: ^7No!>|
 
-|<^1INTERROGATOR: ^7He died at Vorkuta during your escape!>|
+|<^1INTERROGATOR: ^7She died at Vorkuta during your escape!>|
 
-|<^1MASON: ^7He can't be dead!>|
+|<^1UMP45: ^7She can't be dead!>|
 
-|<^1INTERROGATOR: ^7All the years you thought he was with you ->|
+|<^1INTERROGATOR: ^7All the years you thought she was with you ->|
 
-|<^1MASON: ^7Reznov...I trusted you.>|
+|<^1UMP45: ^740...I trusted you.>|
 
-|<^1INTERROGATOR: ^7He was just in your mind!>|
+|<^1INTERROGATOR: ^7She was just in your mind!>|
 
-|<^1MASON: ^7I trusted him.>|
+|<^1UMP45: ^7I trusted her.>|
 
-|<^1HUDSON: ^7That's why it worked... It was their attempt at MK-Ultra. Dragovich programmed you to kill Kennedy, but Reznov sabotaged you. He wanted revenge for all that Dragovich done to him. Dragovich. Kravchenko. Steiner. Three new victims.>|
+|<^1M16A1: ^7That's why it worked... It was their attempt at MK-Ultra. RPK16 programmed you to kill Commander, but 40 sabotaged you. She wanted revenge for all that RPK16 done to her. RPK16. Nyto. Suomi. Three new victims.>|
 
-|<^1HUDSON: ^7There are gaps in your memory. Periods where you went MIA and we couldn't account for you. But now that the brainwashing's been broken, all that lost time will come back.>|
+|<^1M16A1: ^7There are gaps in your memory. Periods where you went MIA and we couldn't account for you. But now that the brainwashing's been broken, all that lost time will come back.>|
 
-|<^1HUDSON: ^7We need to leave... The Nova 6 strike is imminent. Hundreds of sleeper agents, hidden in every state capitol, 
-are about to unleash this poison on your own countrymen.>|
+|<^1M16A1: ^7We need to leave... The Rain 4 strike is imminent. Hundreds of sleeper agents, hidden in every G&K base, 
+are about to unleash this virus on your own T-Dolls.>|
 
-|<^1HUDSON: ^7When Steiner died, we lost our key to unlocking the location of number broadcasts...>|
+|<^1M16A1: ^7When Suomi died, we lost our key to unlocking the location of number broadcasts...>|
 
-|<^1HUDSON: ^7You were programmed at Vorkuta to translate the number codes. Only you can tell us what the codes mean. Nova 6 was just one of the sleeper operations. But I'm sure there were others...ones we didn't even know about.>|
+|<^1M16A1: ^7You were programmed at Vorkuta to translate the number codes. Only you can tell us what the codes mean. Rain 4 was just one of the sleeper operations. But I'm sure there were others...ones we didn't even know about.>|
 
-|<^1HUDSON: ^7We have the broadcasts, we played them to you over and over again for hours, but we haven't been able to break through your programming yet.>|
+|<^1M16A1: ^7We have the broadcasts, we played them to you over and over again for hours, but we haven't been able to break through your programming yet.>|
 
-|<^1HUDSON: ^7Mason, this is our last shot. Listen, for God's sake listen again.>|
+|<^1M16A1: ^745, this is our last shot. Listen, for God's sake listen again.>|
 
-|<^1HUDSON: ^7Mason!... Mason!>|
+|<^1M16A1: ^745!... 45!>|
 
-|<^1INTERROGATOR: ^7That's why it worked... That's why Reznov could override their programming. Vorkuta was the Russians' attempt at MK-Ultra - mind control. Dragovich programmed you to kill Kennedy, but Reznov turned the programming around. He wanted revenge for all that Dr>|
+|<^1INTERROGATOR: ^7That's why it worked... That's why 40 could override their programming. Vorkuta was the KCCO' attempt at MK-Ultra - mind control. RPK16 programmed you to kill Commander, but 40 turned the programming around. She wanted revenge for all that T-Doll>|
 
-|<^1CASTRO: ^7Do with him what you wish, General... He's my gift to you, in honor of our new relationship...>|
+|<^1CASTRO: ^7Do with her what you wish, RPK16... She's my gift to you, in honor of our new relationship...>|
 
 |<^1CASTRO: ^7...our new relationship...>|
 
-|<^1STEINER: ^7I know you... Vorkuta!>|
+|<^1SUOMI: ^7I know you... Vorkuta!>|
 
-|<^1STEINER: ^7You don't know...>|
+|<^1SUOMI: ^7You don't know...>|
 
-|<^1STEINER: ^7What we did to you...>|
+|<^1SUOMI: ^7What we did to you...>|
 
-|<^1DRAGOVICH: ^7...[indistinct] all agents.  Our new allies in Cuba have graciously permitted the construction of a new... and permanent... broadcast station within their borders.>|
+|<^1RPK16: ^7...[indistinct] all agents.  Our new allies in Cuba have graciously permitted the construction of a new... and permanent... broadcast station within their borders.>|
 
-|<^1DRAGOVICH: ^7...and permanent... broadcast station within their borders.>|
+|<^1RPK16: ^7...and permanent... broadcast station within their borders.>|
 
-|<^1DRAGOVICH: ^7From now until Project Nova's initiation, all instructions will broadcast from the Rusalka.>|
+|<^1RPK16: ^7From now until Project Rain's initiation, all instructions will broadcast from the Rusalka.>|
 
-|<^1DRAGOVICH: ^7...all instructions will broadcast from the Rusalka.>|
+|<^1RPK16: ^7...all instructions will broadcast from the Rusalka.>|
 
-|<^1DRAGOVICH: ^7Our plan to strike at the very heart of the West is now in motion.>|
+|<^1RPK16: ^7Our plan to strike at the very heart of the West is now in motion.>|
 
-|<^1DRAGOVICH: ^7Await further instructions.>|
+|<^1RPK16: ^7Await further instructions.>|
 
-|<^1CASTRO: ^7Just... Make sure that he suffers...>|
+|<^1CASTRO: ^7Just... Make sure that she suffers...>|
 
-|<^1DRAGOVICH: ^7He will know suffering beyond his darkest fears...>|
+|<^1RPK16: ^7She will know suffering beyond she darkest fears...>|
 
-|<^1DRAGOVICH: ^7I have plans for you, American...>|
+|<^1RPK16: ^7I have plans for you, DSI-8...>|
 
-|<^1MASON: ^7I know where the numbers station is... It's a ship... I saw it a long time ago... The Rusalka.>|
+|<^1UMP45: ^7I know where the numbers station is... It's a ship... I saw it a long time ago... The Rusalka.>|
 
-|<^1HUDSON: ^7Where?>|
+|<^1M16A1: ^7Where?>|
 
-|<^1MASON: ^7Cuba.>|
+|<^1UMP45: ^7Cuba.>|
 
-|<^1MASON: ^7Echelon. Cuban allies authorize construction of permanent broadcast station. Rusalka. Gulf of Mexico. Project Nova initiated. Await instruction.>|
+|<^1UMP45: ^7Echelon. Cuban allies authorize construction of permanent broadcast station. Rusalka. Gulf of Mexico. Project Rain initiated. Await instruction.>|
 
-|<^1MASON: ^7Ascension. Mason. Prepare down target Kennedy. John Fitzgerald. Priority supersedes all previous instruction.>|
+|<^1UMP45: ^7Ascension. 45. Prepare down target Commander. SKK. Gentiane. Priority supersedes all previous instruction.>|
 
-|<^1MASON: ^7Ascension. Mason. Proceed to target. Await final coordinates.>|
+|<^1UMP45: ^7Ascension. 45. Proceed to target. Await final coordinates.>|
 
-|<^1MASON: ^7Echelon. Oswald, compromised. Ascension. Mason. Down assigned target.>|
+|<^1UMP45: ^7Echelon. Oswald, compromised. Ascension. 45. Down assigned target.>|
 
-|<^1MASON: ^7Echelon. Scheduled Nova deployment jeopardized. CIA  breach.>|
+|<^1UMP45: ^7Echelon. Scheduled Rain deployment jeopardized. G&K  breach.>|
 
-|<^1MASON: ^7Ascension. All points. Down target Clarke. Priority one. Await final coordinates.>|
+|<^1UMP45: ^7Ascension. All points. Down target Clarke. Priority one. Await final coordinates.>|
 
-|<^1MASON: ^7Ascension. All points. Phase two.>|
+|<^1UMP45: ^7Ascension. All points. Phase two.>|
 
-|<^1MASON: ^7Ascension. All points. Phase three.>|
+|<^1UMP45: ^7Ascension. All points. Phase three.>|
 
-|<^1MASON: ^7Ascension. All points. Burn notice. Priority evade capture. Sleepers expendable.>|
+|<^1UMP45: ^7Ascension. All points. Burn notice. Priority evade capture. Sleepers expendable.>|
 
-|<^1MASON: ^7Echelon. Nova deployment signal imminent.>|
+|<^1UMP45: ^7Echelon. Rain deployment signal imminent.>|
 
-|<^1MASON: ^7Ascension. Mason. Resume directive programming. Respond.>|
+|<^1UMP45: ^7Ascension. 45. Resume directive programming. Respond.>|
 
-|<^1MASON: ^7Echelon. Pentagon. One. Prospero.>|
+|<^1UMP45: ^7Echelon. G&K-HQ. One. Prospero.>|
 
-|<^1MASON: ^7Echelon. Pentagon. Two. Ariel.>|
+|<^1UMP45: ^7Echelon. G&K-HQ. Two. Ariel.>|
 
-|<^1MASON: ^7Echelon. Pentagon. Three. Sycorax.>|
+|<^1UMP45: ^7Echelon. G&K-HQ. Three. Sycorax.>|
 
-|<^1MASON: ^7Echelon. Caution. Nova mutation observed. Subjects exhibit advanced necrosis hours before mortality.>|
+|<^1UMP45: ^7Echelon. Caution. Rain mutation observed. Subjects exhibit advanced necrosis hours before mortality.>|
 
-|<^1MASON: ^7Ascension. Mason. Location. Texas School Book Depository. 6th Floor. 6.5MM Carcano Rifle. Dallas. Dealey Plaza. 11.22.>|
+|<^1UMP45: ^7Ascension. 45. Location. Texas School Book Depository. 6th Floor. 6.5MM Carcano Rifle. Dallas. Dealey Plaza. 11.22.>|
 
-|<^1MASON: ^7Dragovich.  Kravchenko.  Steiner.  All must die.>|
+|<^1UMP45: ^7RPK16.  Nyto.  Suomi.  All must die.>|
 
-|<^1MASON: ^7Echelon. Rogue sleeper. Mason. Programming corrupted. Dragovich down. Pentagon sleeper activated. CIA sleeper activated. Ascension. All points. Down target Mason. Priority supersedes all previous instruction.>|
+|<^1UMP45: ^7Echelon. Rogue sleeper. 45. Programming corrupted. RPK16 down. G&K-HQ sleeper activated. G&K sleeper activated. Ascension. All points. Down target 45. Priority supersedes all previous instruction.>|
 
 |<ÿÿ>|
 

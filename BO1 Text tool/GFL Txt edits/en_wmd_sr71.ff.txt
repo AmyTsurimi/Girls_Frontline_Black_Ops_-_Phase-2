@@ -88,13 +88,13 @@
 
 |<^1CAPT. MOSELY: ^7K.A.D, this is BigEye 6 requesting take off.>|
 
-|<^1COMMAND: ^7BigEye 6, cleared for takeoff runway four.>|
+|<^1COMMANDER: ^7BigEye 6, cleared for takeoff runway four.>|
 
 |<^1CAPT. MOSELY: ^7K.A.D., Confirm refuel with KC-135 in Sector Bravo Six Niner.>|
 
-|<^1COMMAND: ^7Affirmative BigEye 6, KC-135 is in the sector. They will meet you there.>|
+|<^1COMMANDER: ^7Affirmative BigEye 6, KC-135 is in the sector. They will meet you there.>|
 
-|<^1COMMAND: ^7BigEye 6, you have the sky.>|
+|<^1COMMANDER: ^7BigEye 6, you have the sky.>|
 
 |<^1CAPT. MOSELY: ^7Copy K.A.D. My sky.>|
 
@@ -104,7 +104,7 @@
 
 |<^1CAPT. MOSELY: ^7K.A.D., we are rolling.>|
 
-|<^1COMMAND: ^7Copy BigEye.>|
+|<^1COMMANDER: ^7Copy BigEye.>|
 
 |<^1CAPT. MOSELY: ^7And... we have velocity.>|
 
@@ -122,7 +122,7 @@
 
 |<^1MAJ. NEITSCH: ^7Kilo One this is Bigeye 6, I have you on the TRP.>|
 
-|<^1HUDSON: ^7Roger that Bigeye 6. We have zero visibility on the ground. We need you to guide us to the comms relay.>|
+|<^1M16A1: ^7Roger that Bigeye 6. We have zero visibility on the ground. We need you to guide us to the comms relay.>|
 
 |<^1MAJ. NEITSCH: ^7Check your target indicator.>|
 
@@ -158,7 +158,7 @@
 
 |<^1MAJ. NEITSCH: ^7Kilo, stop and drop.>|
 
-|<^1HUDSON: ^7Holding position.>|
+|<^1M16A1: ^7Holding position.>|
 
 |<^1MAJ. NEITSCH: ^7Confirmed Kilo One - You are out of sight.>|
 
@@ -166,13 +166,13 @@
 
 |<^1MAJ. NEITSCH: ^7Move your squad on to the barracks. First objective is inside.>|
 
-|<^1HUDSON: ^7Roger that, Bigeye - Stacking up.>|
+|<^1M16A1: ^7Roger that, Bigeye - Stacking up.>|
 
 |<^1MAJ. NEITSCH: ^7Coming up on the Barracks. Multiple targets inside, breach and clear Kilo One.>|
 
-|<^1HUDSON: ^7Roger that, Bigeye.>|
+|<^1M16A1: ^7Roger that, Bigeye.>|
 
-|<^1HUDSON: ^7Internal comms line cut.  Base is dark.  Moving to second objective.>|
+|<^1M16A1: ^7Internal comms line cut.  Base is dark.  Moving to second objective.>|
 
 |<^1MAJ. NEITSCH: ^7Roger that Kilo One.>|
 
@@ -180,51 +180,51 @@
 
 |<^1MAJ. NEITSCH: ^7Stop and drop.  Stay out of sight.>|
 
-|<^1HUDSON: ^7Roger that, Bigeye... digging in.>|
+|<^1M16A1: ^7Roger that, Bigeye... digging in.>|
 
 |<^1MAJ. NEITSCH: ^7Kilo move North.>|
 
-|<^1HUDSON: ^7Roger, moving North.>|
+|<^1M16A1: ^7Roger, moving North.>|
 
 |<^1MAJ. NEITSCH: ^7Kilo, proceed to the North.>|
 
-|<^1HUDSON: ^7Roger that, we're moving.>|
+|<^1M16A1: ^7Roger that, we're moving.>|
 
 |<^1MAJ. NEITSCH: ^7Kilo head North, over.>|
 
-|<^1HUDSON: ^7Understood, heading North.>|
+|<^1M16A1: ^7Understood, heading North.>|
 
 |<^1MAJ. NEITSCH: ^7To the South, Kilo.>|
 
-|<^1HUDSON: ^7Roger.>|
+|<^1M16A1: ^7Roger.>|
 
 |<^1MAJ. NEITSCH: ^7South coordinates marked.>|
 
-|<^1HUDSON: ^7Got it, moving South.>|
+|<^1M16A1: ^7Got it, moving South.>|
 
 |<^1MAJ. NEITSCH: ^7Kilo move South.>|
 
-|<^1HUDSON: ^7On our way, over.>|
+|<^1M16A1: ^7On our way, over.>|
 
 |<^1MAJ. NEITSCH: ^7Kilo you need to move East.>|
 
-|<^1HUDSON: ^7We're moving.>|
+|<^1M16A1: ^7We're moving.>|
 
 |<^1MAJ. NEITSCH: ^7Move East.>|
 
-|<^1HUDSON: ^7Roger that.>|
+|<^1M16A1: ^7Roger that.>|
 
 |<^1MAJ. NEITSCH: ^7Kilo, head to the East.>|
 
-|<^1HUDSON: ^7Roger that Bigeye.>|
+|<^1M16A1: ^7Roger that Bigeye.>|
 
 |<^1MAJ. NEITSCH: ^7Move West, Kilo One.>|
 
-|<^1HUDSON: ^7We are moving West Bigeye.>|
+|<^1M16A1: ^7We are moving West Bigeye.>|
 
 |<^1MAJ. NEITSCH: ^7Kilo I need you moving West.>|
 
-|<^1HUDSON: ^7Roger that. Moving.>|
+|<^1M16A1: ^7Roger that. Moving.>|
 
 |<^1MAJ. NEITSCH: ^7Kilo move West.>|
 
@@ -234,35 +234,35 @@
 
 |<^1MAJ. NEITSCH: ^7Three enemies in range. Eliminate them.>|
 
-|<^1HUDSON: ^7Roger. Initiating contact.>|
+|<^1M16A1: ^7Roger. Initiating contact.>|
 
 |<^1MAJ. NEITSCH: ^7Contact. Three targets. Drop them.>|
 
-|<^1HUDSON: ^7We're on it Bigeye.>|
+|<^1M16A1: ^7We're on it Bigeye.>|
 
 |<^1MAJ. NEITSCH: ^7Multiple contacts in sight. Fire at will.>|
 
-|<^1HUDSON: ^7We got it Bigeye.>|
+|<^1M16A1: ^7We got it Bigeye.>|
 
 |<^1MAJ. NEITSCH: ^7Multiple targets. Engage the enemy.>|
 
-|<^1HUDSON: ^7Roger that, moving in.>|
+|<^1M16A1: ^7Roger that, moving in.>|
 
 |<^1MAJ. NEITSCH: ^7Kilo you have company, take them out.>|
 
-|<^1HUDSON: ^7Roger. We got 'em.>|
+|<^1M16A1: ^7Roger. We got 'em.>|
 
 |<^1MAJ. NEITSCH: ^7Moving vehicle on Tac, it's a truck. Take it out.>|
 
-|<^1HUDSON: ^7Roger. Taking out the truck.>|
+|<^1M16A1: ^7Roger. Taking out the truck.>|
 
 |<^1MAJ. NEITSCH: ^7Vehicle inbound. Looks like a jeep.>|
 
-|<^1HUDSON: ^7We see it. Initiating contact.>|
+|<^1M16A1: ^7We see it. Initiating contact.>|
 
 |<^1MAJ. NEITSCH: ^7Enemy vehicles in range. Stop them.>|
 
-|<^1HUDSON: ^7Understood Bigeye. Stand by.>|
+|<^1M16A1: ^7Understood Bigeye. Stand by.>|
 
 |<^1MAJ. NEITSCH: ^7Good job Kilo.>|
 
@@ -286,7 +286,7 @@
 
 |<^1MAJ. NEITSCH: ^7Kilo, you have hostiles inbound. You need to vanish right now!>|
 
-|<^1HUDSON: ^7Get down! Get down!>|
+|<^1M16A1: ^7Get down! Get down!>|
 
 |<^1MAJ. NEITSCH: ^7K.A.D - Kilo One neutralized.>|
 
@@ -294,13 +294,13 @@
 
 |<^1MAJ. NEITSCH: ^7K.A.D - Kilo One. KIA.>|
 
-|<^1HUDSON: ^7Roger. Engaging target.>|
+|<^1M16A1: ^7Roger. Engaging target.>|
 
-|<^1HUDSON: ^7Understood. Taking him down.>|
+|<^1M16A1: ^7Understood. Taking him down.>|
 
-|<^1HUDSON: ^7On the move, Bigeye.>|
+|<^1M16A1: ^7On the move, Bigeye.>|
 
-|<^1HUDSON: ^7On it.>|
+|<^1M16A1: ^7On it.>|
 
 |<^1CAPT. MOSELY: ^7That's a negative C.P.>|
 
@@ -308,7 +308,7 @@
 
 |<^1CAPT. MOSELY: ^7Negative.>|
 
-|<^1WEAVER: ^7Flashbang!>|
+|<^1AK-12: ^7Flashbang!>|
 
 |<ÿÿ>|
 
