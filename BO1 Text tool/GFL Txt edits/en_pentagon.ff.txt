@@ -28,7 +28,7 @@
 
 |<^1UMP45: ^7That's not possible.>|
 
-|<^1INTERROGATOR: ^7I was in the G&K-HQ.>|
+|<^1INTERROGATOR: ^7I was at the G&K-HQ.>|
 
 |<^1UMP45: ^7I remember. I kept hearing numbers. I cou.. couldn't get them out of my head.>|
 
@@ -78,7 +78,7 @@
 
 |<^1Springfield: ^7Don't worry, no Sangvis Ferri.>|
 
-|<^1Springfield: ^7The finest people in the world, right here. 24/7, it never ends.>|
+|<^1Springfield: ^7The finest people at the G&K, right here. 24/7, it never ends.>|
 
 |<^1Springfield: ^7Please tell her we're here.>|
 

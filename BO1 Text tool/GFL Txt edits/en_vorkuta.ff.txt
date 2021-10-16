@@ -28,7 +28,7 @@
 
 |<Step 6: Wield a fist of iron>|
 
-|<Protect UMP40>|
+|<Protect UMP-40>|
 
 |<Get minigun>|
 
@@ -75,13 +75,13 @@
 
 |<You're going too slow to escape, hurry up!>|
 
-|<You failed to keep up with UMP40.>|
+|<You failed to keep up with UMP-40.>|
 
-|<Follow UMP40 or you'll be caught!>|
+|<Follow UMP-40 or you'll be caught!>|
 
-|<Wrong way! Stick to the plan and follow UMP40!>|
+|<Wrong way! Stick to the plan and follow UMP-40!>|
 
-|<You're going the wrong way, follow UMP40!>|
+|<You're going the wrong way, follow UMP-40!>|
 
 |<Use the coal cart for protection.>|
 
@@ -159,15 +159,15 @@
 
 |<^1UMP40: ^7For her insolence, RPK16 cut out her tongue with a rusted sickle...>|
 
-|<^1RUSSIAN PRISONER: ^7Do it 40!>|
+|<^1USSR PRISONER: ^7Do it 40!>|
 
-|<^1RUSSIAN PRISONER: ^7Let's go! Hurry! Hurry!>|
+|<^1USSR PRISONER: ^7Let's go! Hurry! Hurry!>|
 
 |<^1UMP40: ^7Patience, patience comrades!... Everything is as 45 and I have planned.>|
 
 |<^1UMP40: ^7Step two?!>|
 
-|<^1RUSSIAN PRISONER: ^740, you sure you can trust this T-Doll?>|
+|<^1USSR PRISONER: ^740, you sure you can trust this T-Doll?>|
 
 |<^1UMP40: ^7With my life.>|
 
@@ -185,13 +185,13 @@
 
 |<^1UMP40: ^7Victory cannot be achieved without sacrifice, 45...>|
 
-|<^1UMP40: ^7We Sangvis Ferri know this better than anyone.>|
+|<^1UMP40: ^7We USSR know this better than anyone.>|
 
 |<^1UMP40: ^7Prepare yourselves, men!!!>|
 
 |<^1UMP40: ^7Stay back, 45... Wait until the balcony has been cleared!>|
 
-|<^1RUSSIAN PRISONER: ^7The tower's going to rip us to shreds!>|
+|<^1USSR PRISONER: ^7The tower's going to rip us to shreds!>|
 
 |<^1UMP40: ^7Have faith, comrade!>|
 
@@ -277,7 +277,7 @@
 
 |<^1UMP40: ^7Brave comrades of Vorkuta, the time has come to rise against our oppressors!>|
 
-|<^1UMP40: ^7Today we show them the hearts of true Sangvis Ferri!>|
+|<^1UMP40: ^7Today we show them the hearts of true USSR!>|
 
 |<^1UMP40: ^7We have all given our blood for the motherland.>|
 
@@ -325,83 +325,83 @@
 
 |<^1UMP40: ^7Vorkuta -  BURNS!!!>|
 
-|<^1RUSSIAN PRISONER: ^7Ready the slingshot!>|
+|<^1USSR PRISONER: ^7Ready the slingshot!>|
 
-|<^1RUSSIAN PRISONER: ^745! Let's go!>|
+|<^1USSR PRISONER: ^745! Let's go!>|
 
-|<^1RUSSIAN PRISONER: ^7Men are dying - HURRY!>|
+|<^1USSR PRISONER: ^7Men are dying - HURRY!>|
 
-|<^1RUSSIAN PRISONER: ^745! Quickly! They can't hold out much longer!>|
+|<^1USSR PRISONER: ^745! Quickly! They can't hold out much longer!>|
 
-|<^1RUSSIAN PRISONER: ^7Come on 45! Our men need you!>|
+|<^1USSR PRISONER: ^7Come on 45! Our men need you!>|
 
-|<^1RUSSIAN PRISONER: ^7You need to pull it back further!>|
+|<^1USSR PRISONER: ^7You need to pull it back further!>|
 
-|<^1RUSSIAN PRISONER: ^7It will not fire unless you pull!>|
+|<^1USSR PRISONER: ^7It will not fire unless you pull!>|
 
-|<^1RUSSIAN PRISONER: ^7Pull it back!>|
+|<^1USSR PRISONER: ^7Pull it back!>|
 
-|<^1RUSSIAN PRISONER: ^7FIRE!!!>|
+|<^1USSR PRISONER: ^7FIRE!!!>|
 
-|<^1RUSSIAN PRISONER: ^7Reload!>|
+|<^1USSR PRISONER: ^7Reload!>|
 
-|<^1RUSSIAN PRISONER: ^7To the South!>|
+|<^1USSR PRISONER: ^7To the South!>|
 
 |<^1UMP45: ^7I got him!>|
 
-|<^1RUSSIAN PRISONER: ^7Dead ahead! On the power station!>|
+|<^1USSR PRISONER: ^7Dead ahead! On the power station!>|
 
 |<^1UMP45: ^7He's mine!>|
 
-|<^1RUSSIAN PRISONER: ^7There! In the guard tower!>|
+|<^1USSR PRISONER: ^7There! In the guard tower!>|
 
 |<^1UMP45: ^7I see him!>|
 
-|<^1RUSSIAN PRISONER: ^7On the barracks, in front of us!>|
+|<^1USSR PRISONER: ^7On the barracks, in front of us!>|
 
 |<^1UMP45: ^7Not anymore.>|
 
-|<^1RUSSIAN PRISONER: ^7I see one! On the fuel silos!>|
+|<^1USSR PRISONER: ^7I see one! On the fuel silos!>|
 
 |<^1UMP45: ^7On it!>|
 
-|<^1RUSSIAN PRISONER: ^7There's another! The window to the West!>|
+|<^1USSR PRISONER: ^7There's another! The window to the West!>|
 
 |<^1UMP45: ^7Firing.>|
 
-|<^1RUSSIAN PRISONER: ^7The factory! There, on the roof!>|
+|<^1USSR PRISONER: ^7The factory! There, on the roof!>|
 
 |<^1UMP45: ^7I got it!>|
 
-|<^1RUSSIAN PRISONER: ^7Far end of the camp, the guard tower!>|
+|<^1USSR PRISONER: ^7Far end of the camp, the guard tower!>|
 
 |<^1UMP45: ^7He's smoke.>|
 
-|<^1RUSSIAN PRISONER: ^7To the left!>|
+|<^1USSR PRISONER: ^7To the left!>|
 
-|<^1RUSSIAN PRISONER: ^7To the right!>|
+|<^1USSR PRISONER: ^7To the right!>|
 
-|<^1RUSSIAN PRISONER: ^7Dead ahead!>|
+|<^1USSR PRISONER: ^7Dead ahead!>|
 
-|<^1RUSSIAN PRISONER: ^7Our men are trapped!>|
+|<^1USSR PRISONER: ^7Our men are trapped!>|
 
-|<^1RUSSIAN PRISONER: ^7Clear a path for them!>|
+|<^1USSR PRISONER: ^7Clear a path for them!>|
 
-|<^1RUSSIAN PRISONER: ^7Good shot 45!>|
+|<^1USSR PRISONER: ^7Good shot 45!>|
 
-|<^1RUSSIAN PRISONER: ^7You got him 45!>|
+|<^1USSR PRISONER: ^7You got him 45!>|
 
-|<^1RUSSIAN PRISONER: ^7He's dead, but there may be more.>|
+|<^1USSR PRISONER: ^7He's dead, but there may be more.>|
 
-|<^1RUSSIAN PRISONER: ^7Excellent shot my friend!>|
+|<^1USSR PRISONER: ^7Excellent shot my friend!>|
 
-|<^1RUSSIAN PRISONER: ^7Nice work 45!>|
+|<^1USSR PRISONER: ^7Nice work 45!>|
 
-|<^1RUSSIAN PRISONER: ^7Yes! Another one down!>|
+|<^1USSR PRISONER: ^7Yes! Another one down!>|
 
-|<^1RUSSIAN PRISONER: ^7You got him!>|
+|<^1USSR PRISONER: ^7You got him!>|
 
-|<^1RUSSIAN PRISONER: ^7Ha, ha! Impressive!>|
+|<^1USSR PRISONER: ^7Ha, ha! Impressive!>|
 
 |<^1UMP40: ^7Arm yourselves, comrades!>|
 
@@ -409,7 +409,7 @@
 
 |<^1UMP45: ^7Just as we planned.>|
 
-|<^1RUSSIAN PRISONER: ^7How do we achieve step five?...>|
+|<^1USSR PRISONER: ^7How do we achieve step five?...>|
 
 |<^1UMP40: ^745's weapon will soon be ready...>|
 
@@ -433,7 +433,7 @@
 
 |<^1UMP40: ^7The chopper is here! Good!>|
 
-|<^1RUSSIAN PRISONER: ^7How is this good?>|
+|<^1USSR PRISONER: ^7How is this good?>|
 
 |<^1UMP40: ^7Because, it is as we wish...>|
 
@@ -487,9 +487,9 @@
 
 |<^1UMP40: ^7Up the stairs! Go! Go, go! Take no prisoners!>|
 
-|<^1RUSSIAN PRISONER: ^7You heard her, comrades!>|
+|<^1USSR PRISONER: ^7You heard her, comrades!>|
 
-|<^1RUSSIAN PRISONER: ^7They're trying to lock down the armory!>|
+|<^1USSR PRISONER: ^7They're trying to lock down the armory!>|
 
 |<^1UMP40: ^7Stop them!>|
 
@@ -517,11 +517,11 @@
 
 |<^1UMP40: ^7Upstairs, let's go!>|
 
-|<^1RUSSIAN PRISONER: ^7The roof! I hear them on the roof!>|
+|<^1USSR PRISONER: ^7The roof! I hear them on the roof!>|
 
 |<^1UMP40: ^7They too will be lambs to the slaughter!>|
 
-|<^1RUSSIAN PRISONER: ^740, they have sealed the vault!>|
+|<^1USSR PRISONER: ^740, they have sealed the vault!>|
 
 |<^1UMP40: ^7It matters little.>|
 
@@ -539,7 +539,7 @@
 
 |<^1UMP40: ^7There! The blowtorch will suit our needs!>|
 
-|<^1RUSSIAN PRISONER: ^7They're trying to breach!>|
+|<^1USSR PRISONER: ^7They're trying to breach!>|
 
 |<^1UMP40: ^7Do not let them!>|
 
@@ -561,11 +561,11 @@
 
 |<^1UMP40: ^7The armor is here!>|
 
-|<^1RUSSIAN PRISONER: ^7They've broken through. Pull back! Pull back!>|
+|<^1USSR PRISONER: ^7They've broken through. Pull back! Pull back!>|
 
 |<^1UMP40: ^7Stand your ground!>|
 
-|<^1RUSSIAN PRISONER: ^7Stay away from the windows!>|
+|<^1USSR PRISONER: ^7Stay away from the windows!>|
 
 |<^1UMP40: ^7I need more time!>|
 
