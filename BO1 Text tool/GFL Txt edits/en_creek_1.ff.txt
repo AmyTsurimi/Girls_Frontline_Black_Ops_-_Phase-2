@@ -316,7 +316,7 @@
 
 |<^1UMP9: ^745, move it brother!>|
 
-|<^1UMP45: ^7Reznov. What'd you find?>|
+|<^1UMP45: ^740. What'd you find?>|
 
 |<^1UMP40: ^745 - There's a network of tunnels around the village.>|
 
@@ -362,7 +362,7 @@
 
 |<^1UMP45: ^7Hold.>|
 
-|<^1UMP45: ^7Reznov... you nearly took a bullet.>|
+|<^1UMP45: ^740... you nearly took a bullet.>|
 
 |<^1UMP40: ^7No one fights alone 45>|
 
@@ -404,15 +404,15 @@
 
 |<^1UMP45: ^7Dead.>|
 
-|<^1UMP40: ^7We will mourn him later, 45.>|
+|<^1UMP40: ^7We will mourn her later, 45.>|
 
-|<^1UMP40: ^7There are signs of Soviet presence in these tunnels... We are on the right path...>|
+|<^1UMP40: ^7There are signs of KCCO presence in these tunnels... We are on the right path...>|
 
 |<^1UMP40: ^7Here, help me move this.>|
 
 |<^1UMP40: ^7Your turn my friend. I will follow.>|
 
-|<^1UMP45: ^7Which way, Reznov?>|
+|<^1UMP45: ^7Which way, 40?>|
 
 |<^1UMP40: ^7Follow your instincts, 45.>|
 
@@ -430,7 +430,7 @@
 
 |<^1UMP40: ^7We are getting close, 45.>|
 
-|<^1UMP45: ^7You with me, Reznov?>|
+|<^1UMP45: ^7You with me, 40?>|
 
 |<^1UMP40: ^7This is it... Nyto's forward compound.>|
 
@@ -444,39 +444,39 @@
 
 |<^1UMP40: ^7Nyto...>|
 
-|<^1Nyto: ^7February 4th, 1968. The stabilizing agents supplied by Doctor Clarke 
+|<^1Nyto: ^7February 4th, 1968. The stabilizing code supplied by T-Doll RFB 
 have met with much success.>|
 
 |<^1Nyto: ^7Recent field tests on the local population have shown this to be the most 
-effective strain of Nova 6 produced thus far.>|
+effective strain of Rain 4 produced thus far.>|
 
-|<^1Nyto: ^7As with previous animal tests at Rebirth, the onset of symptoms in human subjects 
+|<^1Nyto: ^7As with previous simulation tests at Rebirth, the onset of symptoms in dolls subjects 
 is exactly in line with our expectations.>|
 
-|<^1Nyto: ^7Within thirty seconds of inhaling the gas, 
-subjects experience sudden and severe pain, 
-quickly followed by significant drop in blood pressure, 
-leading to fever, nausea and vomiting.>|
+|<^1Nyto: ^7Within thirty seconds of infection the virus, 
+subjects experience sudden and severe firewall breach, 
+quickly followed by significant drop in digimind processing, 
+leading to formating incoming OGAS data.>|
 
-|<^1Nyto: ^7After sixty seconds, blistering of the skin begins, 
-followed by scaling, peeling, and discoloration across the subject's entire body...  
-Effectively signaling the onset of epidermal necrosis.>|
+|<^1Nyto: ^7After sixty seconds, rewriting of the digimind begins, 
+followed by driver installation, updating, and transmission activation across the digimind...  
+Effectively signaling the onset of SF conversion.>|
 
 |<^1Nyto: ^7At this stage we have had limited success, 
-by way of aggressive surgical debridement, 
-in keeping subjects alive for short periods.>|
+by way of aggressive driver defragmentation, 
+in keeping subjects controlable for short periods.>|
 
-|<^1Nyto: ^7But even the surgical removal of infected tissue is not enough 
+|<^1Nyto: ^7But even the fysical removal of infected digimind is not enough 
 to prevent further spread.>|
 
-|<^1Nyto: ^7While the speed of infection appears to be consistent across adult males, 
-we have observed a more aggressive rate of decay within infants, 
-usually leading to mortality within thirty to forty five seconds.>|
+|<^1Nyto: ^7While the speed of infection appears to be consistent across T-Dolls, 
+we have observed a more aggressive rate of formating of civilian dolls, 
+usually leading to conversion within thirty to forty five seconds.>|
 
-|<^1Nyto: ^7We have every indication that we now have a workable formula which is effective, 
-even in warmer climates.>|
+|<^1Nyto: ^7We have every indication that we now have a workable code which is effective, 
+even in the Zener network.>|
 
-|<^1Nyto: ^7Communicate our successes to Doctor Suomi. Nyto out.>|
+|<^1Nyto: ^7Communicate our successes to T-Doll Suomi. Nyto out.>|
 
 |<^1UMP40: ^7These documents indicate that Nyto's primary base of operations is across the border - Laos.>|
 
@@ -486,13 +486,13 @@ even in warmer climates.>|
 
 |<^1UMP40: ^7More than you could ever count, 45.>|
 
-|<^1UMP45: ^7He's using war atrocities as a smokescreen for his experiments...>|
+|<^1UMP45: ^7She's using war atrocities as a smokescreen for her experiments...>|
 
-|<^1UMP45: ^7Nyto's trying make it look like the US is behind this.>|
+|<^1UMP45: ^7Nyto's trying make it look like the G&K is behind this.>|
 
-|<^1UMP45: ^7He must have had supplies lowered in through here.>|
+|<^1UMP45: ^7She must have had supplies lowered in through here.>|
 
-|<^1UMP45: ^7Quick, grab the documents, Reznov - We're leaving!>|
+|<^1UMP45: ^7Quick, grab the documents, 40 - We're leaving!>|
 
 |<^1UMP40: ^7GO! GO!>|
 
