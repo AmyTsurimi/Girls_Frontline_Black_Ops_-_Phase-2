@@ -11,9 +11,11 @@ o	PPSh-41 - Dimitri
 o	RPK16 - Dragovich
 o	Nyto - Kravchenko
 o	Suomi - Steiner
-o	RFB - Clark
+o	RFB - Clarke
 o	Commander - JFK
 o	Springfield – McNamara
+o	Carcano – Oswald [REQUESTED BY LOYALISTS]
+o	P90 – Carlos
 
 Mission File orders:
 1.	en_cuba        NOT DONE
