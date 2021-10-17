@@ -1,3 +1,4 @@
+- [x] upload all the ff.txt files
 - [] Convert all lines from the main game to GFL-related lines
 - [] add them to an .str file that the game can read
 - [] encode some One Time Pads for Revelations easter egg
