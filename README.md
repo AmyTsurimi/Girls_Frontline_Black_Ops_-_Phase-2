@@ -1,21 +1,22 @@
 # GFL_BO_Text_Edit
+
 The Cast:
-o	UMP45 - Mason
-o	HK416 - Woods
-o	UMP9 - Bowman
-o	UMP40 - Reznov
-o	Saiga-12 - Sergei
-o	M16A1 - Hudson
-o	AK12 - Weaver
-o	PPSh-41 - Dimitri
-o	RPK16 - Dragovich
-o	Nyto - Kravchenko
-o	Suomi - Steiner
-o	RFB - Clarke
-o	Commander - JFK
-o	Springfield – McNamara
-o	Carcano – Oswald [REQUESTED BY LOYALISTS]
-o	P90 – Carlos
+*	UMP45 - Mason
+*	HK416 - Woods
+*	UMP9 - Bowman
+*	UMP40 - Reznov
+*	Saiga-12 - Sergei
+*	M16A1 - Hudson
+*	AK12 - Weaver
+*	PPSh-41 - Dimitri
+*	RPK16 - Dragovich
+*	Nyto - Kravchenko
+*	Suomi - Steiner
+*	RFB - Clarke
+*	Commander - JFK
+*	Springfield – McNamara
+*	Carcano – Oswald [__REQUESTED BY LOYALISTS__]
+*	P90 – Carlos
 
 Mission File orders:
 1.	en_cuba        NOT DONE
@@ -35,5 +36,5 @@ Mission File orders:
 15.	en_int_escape
 16.	en_underwaterbase  NOT DONE
 
-•	en_frontend
-•	en_outro
+-	en_frontend
+-	en_outro
