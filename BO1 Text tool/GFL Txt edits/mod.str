@@ -1,0 +1,11 @@
+VERSION             "1"
+CONFIG              "C:\projects\cod\t5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           MOD_SAY_HI
+LANG_ENGLISH        "^2Hi Everyone!"
+
+REFERENCE			MOD_STUFF
+LANG_ENGLISH		"&&1 Says Hi!"
+
+ENDMARKER
