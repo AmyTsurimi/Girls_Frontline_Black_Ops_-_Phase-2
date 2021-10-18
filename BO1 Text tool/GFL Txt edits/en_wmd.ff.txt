@@ -79,7 +79,7 @@
 
 |<^LSite suspected of being Project Rain development center.^L>|
 
-|<^LKCCO base is in^L ^C1Yamantau, USSR.^L>|
+|<^LKCCO base is in^L ^C1Yamantau, U.S.S.R.^L>|
 
 |<^C1M16A1^C ^Land AK-12 to lead team for S&D mission into the valley.^L>|
 
@@ -105,9 +105,9 @@
 
 |<^1AK-12: ^7Clear.>|
 
-|<^1M16A1: ^7BigEye this is Kilo One. You still have us on Tac?>|
+|<^1M16A1: ^7BigEye this is Anti Rain. You still have us on Tac?>|
 
-|<^1MAJ. NEITSCH: ^7Affirmative Kilo One.>|
+|<^1MAJ. NEITSCH: ^7Affirmative Anti Rain.>|
 
 |<^1M16A1: ^7Visibility has improved. We're starting our insertion. Moving to the substation.>|
 
@@ -123,7 +123,7 @@
 
 |<^1AK-12: ^7Ready when you are...>|
 
-|<^1M16A1: ^7BigEye, this is Kilo One. We have taken the substation.>|
+|<^1M16A1: ^7BigEye, this is Anti Rain. We have taken the substation.>|
 
 |<^1MAJ. NEITSCH: ^7Understood.  Re-calibrating Focal spread. Okay - We have Comstat on Tac. Proceed to next objective.>|
 
@@ -139,19 +139,19 @@
 
 |<^1AK-12: ^7Pick one.>|
 
-|<^1M16A1: ^7Kilo One approaching the objective.>|
+|<^1M16A1: ^7Anti Rain approaching the objective.>|
 
 |<^1MAJ. NEITSCH: ^7Roger.>|
 
-|<^1MAJ. NEITSCH: ^7Kilo One, you have multiple targets at the Comstat. Take the storage shed on the South side then head to the power room entrance to the North.>|
+|<^1MAJ. NEITSCH: ^7Anti Rain, you have multiple targets at the Comstat. Take the storage shed on the South side then head to the power room entrance to the North.>|
 
 |<^1M16A1: ^7Roger that.>|
 
-|<^1BROOKS: ^7M16, we need to keep this stealthy. Use your crossbow. If we get heat, switch to explosives.>|
+|<^1AR BETA: ^7M16, we need to keep this stealthy. Use your crossbow. If we get heat, switch to explosives.>|
 
 |<^1AK-12: ^7One target patrolling outside the shed - two more inside>|
 
-|<^1BROOKS: ^7Two more by the truck on our right...>|
+|<^1AR BETA: ^7Two more by the truck on our right...>|
 
 |<^1M16A1: ^7One more on the right Gantry,>|
 
@@ -165,33 +165,33 @@
 
 |<^1AK-12: ^7More infrantry inbound!>|
 
-|<^1BROOKS: ^7M16! switch to your explosive bolts!>|
+|<^1AR BETA: ^7M16! switch to your explosive bolts!>|
 
 |<^1M16A1: ^7Do it! Go! Go! Go!>|
 
-|<^1CAPT. MOSELY: ^7Kilo, two targets just entered the power room.>|
+|<^1CAPT. MOSELY: ^7AR, two targets just entered the power room.>|
 
 |<^1M16A1: ^7Roger that BigEye.>|
 
-|<^1M16A1: ^7Harris, Brooks, control room. Wait for our breach.>|
+|<^1M16A1: ^7Alpha, Beta, control room. Wait for our breach.>|
 
 |<^1AK-12: ^7Shoot the hinges...>|
 
 |<^1M16A1: ^7Clear.>|
 
-|<^1MAJ. NEITSCH: ^7Good job Kilo One. You have control of the perimeter.>|
+|<^1MAJ. NEITSCH: ^7Good job Anti Rain. You have control of the perimeter.>|
 
 |<^1MAJ. NEITSCH: ^7Be advised - We have about three minutes left before we need to refuel with KC-135>|
 
 |<^1M16A1: ^7Understood.>|
 
-|<^1M16A1: ^7BigEye, Kilo One are at the Comstat.>|
+|<^1M16A1: ^7BigEye, Anti Rain are at the Comstat.>|
 
 |<^1CAPT. MOSELY: ^7Copy that. Your team is in position at the window?>|
 
-|<^1BROOKS: ^7We're in position.>|
+|<^1AR BETA: ^7We're in position.>|
 
-|<^1CAPT. MOSELY: ^7Kilo One you have multiple targets inbound to the comstat!>|
+|<^1CAPT. MOSELY: ^7Anti Rain you have multiple targets inbound to the comstat!>|
 
 |<^1AK-12: ^7We're clear. M16, shut down the relay dish.>|
 
@@ -199,11 +199,11 @@
 
 |<^1AK-12: ^7Come on M16, we need to get moving!>|
 
-|<^1M16A1: ^7BigEye this is Kilo One. Confirm that the relay is offline, over?>|
+|<^1M16A1: ^7BigEye this is Anti Rain. Confirm that the relay is offline, over?>|
 
-|<^1MAJ. NEITSCH: ^7Affirmative Kilo One. All outbound  communications are have ceased.>|
+|<^1MAJ. NEITSCH: ^7Affirmative Anti Rain. All outbound  communications are have ceased.>|
 
-|<^1M16A1: ^7Kilo One - Moving to the Primary Target.>|
+|<^1M16A1: ^7Anti Rain - Moving to the Primary Target.>|
 
 |<^1CAPT. MOSELY: ^7Okay Ladies, we're running on fumes now... this is where we bow out.>|
 
@@ -217,17 +217,17 @@
 
 |<^1AK-12: ^7RPG on the ridge!>|
 
-|<^1BROOKS: ^7M16! Get off the ledge!>|
+|<^1AR BETA: ^7M16! Get off the ledge!>|
 
 |<^1AK-12: ^7Avalanche!!!!>|
 
 |<^1AK-12: ^7M16! Run! RUN!>|
 
-|<^1M16A1: ^7We lost Harris!>|
+|<^1M16A1: ^7We lost Alpha!>|
 
 |<^1M16A1: ^7Go!  Go!  Go!>|
 
-|<^1BROOKS: ^7See you at the bottom.>|
+|<^1AR BETA: ^7See you at the bottom.>|
 
 |<^1AK-12: ^7I'll follow. Pick the LZ carefully M16.>|
 
@@ -249,7 +249,7 @@
 
 |<^1M16A1: ^7Make it fast people... We don't have much time!>|
 
-|<^1AK-12: ^7Steiner's not here.>|
+|<^1AK-12: ^7Suomi's not here.>|
 
 |<^1AK-12: ^7It's locking down!>|
 
@@ -339,13 +339,13 @@
 
 |<^1M16A1: ^7Roger.>|
 
-|<^1BROOKS: ^7We're clear.>|
+|<^1AR BETA: ^7We're clear.>|
 
-|<^1BROOKS: ^7Clear.>|
+|<^1AR BETA: ^7Clear.>|
 
-|<^1BROOKS: ^7M16 - Plant the charges.>|
+|<^1AR BETA: ^7M16 - Plant the charges.>|
 
-|<^1BROOKS: ^7Let's move.>|
+|<^1AR BETA: ^7Let's move.>|
 
 |<ÿÿ>|
 
