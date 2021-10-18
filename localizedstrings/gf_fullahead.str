@@ -13,15 +13,15 @@ LANG_ENGLISH		"你跟丢了你的队友！"
 REFERENCE			FULLAHEAD_CONTAINMENT_WARNING
 LANG_ENGLISH		"你离你的队友太远了"
 REFERENCE			FULLAHEAD_INTROSCREEN_1
-LANG_ENGLISH		"^LTransmission # 23-8-15. 代号: X射线小队^L"
+LANG_ENGLISH		"^LTransmission # 23-8-15. Designate: ECHO^L"
 REFERENCE			FULLAHEAD_INTROSCREEN_2
-LANG_ENGLISH		"^L战后，苏联的奥林匹斯行动.^L"
+LANG_ENGLISH		"^LThe Soviets launched Operation Olympus at the end of the war.^L"
 REFERENCE			FULLAHEAD_INTROSCREEN_3
-LANG_ENGLISH		"^L第三特别行动突击队^L ^C1北极圈^C"
+LANG_ENGLISH		"^L3rd Soviet Bureau of State Security sent to^L ^C1Arctic Circle^C"
 REFERENCE			FULLAHEAD_INTROSCREEN_4
-LANG_ENGLISH		"^C1维克多.雷泽诺夫^C ^L行动后与45单位联系: "野狼行动"^L"
+LANG_ENGLISH		"^C1UMP 40^C ^Ldetached to unit 40--last known alias after action: "The Wolf"^L"
 REFERENCE			FULLAHEAD_INTROSCREEN_5
-LANG_ENGLISH		"^L1200小时^L ^C11945年，10月29日^C"
+LANG_ENGLISH		"^L1200 hours^L ^C1October 29, 1945^C"
 
 REFERENCE			FULLAHEAD_OBJ_FOLLOW_PETRENKO
 LANG_ENGLISH		"跟着彼得连科"

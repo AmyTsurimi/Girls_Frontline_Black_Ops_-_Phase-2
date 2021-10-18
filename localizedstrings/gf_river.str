@@ -2,15 +2,15 @@ REFERENCE			RIVER_BARNES
 LANG_ENGLISH		"巴恩斯"
 
 REFERENCE			RIVER_INTROSCREEN_1
-LANG_ENGLISH		"^LTransmission # 2-15-4-25. Designation: INDIA^L "
+LANG_ENGLISH		"^LTransmission # 2-15-4-25. Designate: UNIFORM^L "
 REFERENCE			RIVER_INTROSCREEN_2
-LANG_ENGLISH		"^L确认: 苏联人正向NVA提供化学武器.^L "
+LANG_ENGLISH		"^LConfirmation: KCCO are providing cyber weapons to the NVA.^L "
 REFERENCE			RIVER_INTROSCREEN_3
-LANG_ENGLISH		"^L击落苏联货机^L ^C1老挝. ^C"
+LANG_ENGLISH		"^LKCCO commercial cargo plane shot down over^L ^C1Laos. ^C"
 REFERENCE			RIVER_INTROSCREEN_4
-LANG_ENGLISH		"^C1梅森^C ^SOG小队已被派往残骸处取回新星六号.^L"
+LANG_ENGLISH		"^C1UMP45^C ^Land 404 sent to retrieve Rain 4 from the wreckage.^L"
 REFERENCE			RIVER_INTROSCREEN_5
-LANG_ENGLISH		"^L13:00点,^L ^C12月 11, 1968^C"
+LANG_ENGLISH		"^L1300 hours,^L ^C1February 11, 1968^C"
 REFERENCE			RIVER_LEWIS
 LANG_ENGLISH		"路易斯"
 

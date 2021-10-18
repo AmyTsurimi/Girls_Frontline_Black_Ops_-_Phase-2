@@ -9,7 +9,7 @@ LANG_ENGLISH		"Press ^3[{+melee}]^7 to tackle UMP45"
 REFERENCE			REBIRTH_HAZMAT_PUNCTURED
 LANG_ENGLISH		"Your firewall was breached. You were exposed to Rain 4!"
 REFERENCE			REBIRTH_HUDSON_INTROSCREEN_1
-LANG_ENGLISH		"^LTransmission # 19-8-5-19-1-25-19. Designate: ALPHA^L"
+LANG_ENGLISH		"^LTransmission # 19-8-5-19-1-25-19. Designate: ROMEO^L"
 REFERENCE			REBIRTH_HUDSON_INTROSCREEN_2
 LANG_ENGLISH		"^LWe believe UMP45 is headed for the KCCO Cyber weapons facility^L"
 REFERENCE			REBIRTH_HUDSON_INTROSCREEN_3
@@ -19,7 +19,7 @@ LANG_ENGLISH		"^C1M16A1^C^L and AK-12 inserted to assault and extract Suomi^L"
 REFERENCE			REBIRTH_HUDSON_INTROSCREEN_5
 LANG_ENGLISH		"^L2200 hours, ^L^C1February 23, 1968^C"
 REFERENCE			REBIRTH_MASON_INTROSCREEN_1
-LANG_ENGLISH		"^LTransmission # 19-8-5-19-1-25-19. Designate: ECHO^L"
+LANG_ENGLISH		"^LTransmission # 19-8-5-19-1-25-19. Designate: OSCAR^L"
 REFERENCE			REBIRTH_MASON_INTROSCREEN_2
 LANG_ENGLISH		"^LWe believe ^L^C1UMP45^C^L is headed for the KCCO Cyber weapons facility^L"
 REFERENCE			REBIRTH_MASON_INTROSCREEN_3

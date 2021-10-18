@@ -1,13 +1,13 @@
 REFERENCE			KOWLOON_INTROSCREEN_DATE
-LANG_ENGLISH		"^L1700 小时^L ^C11968年，2月9日^C"
+LANG_ENGLISH		"^L1700 hours^L ^C1February 9, 1968^C"
 REFERENCE			KOWLOON_INTROSCREEN_INFO
-LANG_ENGLISH		"^C1C.I.A.^C ^Lstation #4568.  Designation人： "k"^L"
+LANG_ENGLISH		"^C1Anti Rain^C ^Lstation #4568.  Designation "k"^L"
 REFERENCE			KOWLOON_INTROSCREEN_NAME
-LANG_ENGLISH		"^L护送队伍:^L ^C1哈德森^C^L, 威夫尔和第三地勤小队.^L"
+LANG_ENGLISH		"^LExtraction team:^L ^C1M16A1^C^L, AK-12 and Station 3 operatives on the ground.^L"
 REFERENCE			KOWLOON_INTROSCREEN_PLACE
-LANG_ENGLISH		"^L目标: 克拉克，丹尼尔博士 位置^L ^C1香港.九龙.^C"
+LANG_ENGLISH		"^LTarget: T-Doll RFB located in^L ^C1Kowloon City, Hong Kong.^C"
 REFERENCE			KOWLOON_INTROSCREEN_TITLE
-LANG_ENGLISH		"^LTransmission # 23-1-19.  代号: VICTOR^L"
+LANG_ENGLISH		"^LTransmission # 23-1-19.  Designate: LIMA^L"
 REFERENCE			KOWLOON_JUMP_DEATH
 LANG_ENGLISH		"你需要冲刺并跳跃来越过屋顶"
 REFERENCE			KOWLOON_NOVA6_DEATH
