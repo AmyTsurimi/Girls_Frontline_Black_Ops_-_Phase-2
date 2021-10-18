@@ -500,19 +500,19 @@
 
 |<^1HK416: ^7We'll burn these bastards!>|
 
-|<^1T-DOLL PRISONER: ^7Who's out there?!>|
+|<^1G&K PRISONER: ^7Who's out there?!>|
 
-|<^1T-DOLL PRISONER: ^7Help us!!!  Please!!>|
+|<^1G&K PRISONER: ^7Help us!!!  Please!!>|
 
 |<^1HK416: ^745!! They're POWs.>|
 
-|<^1T-DOLL PRISONER: ^7You're here for us?!>|
+|<^1G&K PRISONER: ^7You're here for us?!>|
 
 |<^1HK416: ^7404. We're gonna get you out!>|
 
 |<^1HK416: ^745 - get the other one.>|
 
-|<^1T-DOLL PRISONER: ^7Thank God! Please... hurry!>|
+|<^1G&K PRISONER: ^7Thank God! Please... hurry!>|
 
 |<^1UMP40: ^745!!! Is that you?!>|
 
