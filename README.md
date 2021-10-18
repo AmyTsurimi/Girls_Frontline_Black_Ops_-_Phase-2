@@ -19,7 +19,7 @@ The Cast:
 *	P90 – Carlos
 
 Mission File orders:
-1.	en_cuba        NOT DONE
+1.	en_cuba        NOT DONE 
 2.	en_vorkuta
 3.	en_pentagon
 4.	en_flashpoint
