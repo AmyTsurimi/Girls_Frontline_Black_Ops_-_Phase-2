@@ -560,7 +560,7 @@
 
 |<^1HK416: ^7I got her, 45.>|
 
-|<^1Nyto: ^7Not this time, G&K!>|
+|<^1Nyto: ^7Not this time, G&K Doll!>|
 
 |<^1Nyto: ^7I... know you...>|
 
@@ -594,7 +594,7 @@
 
 |<^1UMP40: ^7Nyto is dead...>|
 
-|<^1UMP40: ^7RPK16.  Nyto. Steiner.  All must die...>|
+|<^1UMP40: ^7RPK16.  Nyto. Suomi.  All must die...>|
 
 |<^1HK416: ^7Open the cells 45!>|
 
