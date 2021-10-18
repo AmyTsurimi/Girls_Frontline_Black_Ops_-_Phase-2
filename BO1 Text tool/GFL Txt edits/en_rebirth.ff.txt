@@ -134,7 +134,7 @@ T-Doll Suomi. M16A1 saw what happened.>|
 
 |<^1UMP40: ^745!>|
 
-|<^1UMP40: ^7Good my friend. Follow me.>|
+|<^1UMP40: ^7Good my sister. Follow me.>|
 
 |<^1UMP40: ^7The chopper is coming around again.>|
 
@@ -208,7 +208,7 @@ T-Doll Suomi. M16A1 saw what happened.>|
 
 |<^1SUOMI: ^7Killing me will not stop Rain!>|
 
-|<^1UMP40: ^7I do not care about Rain.>|
+|<^1UMP40: ^7I do not care about Rain!>|
 
 |<^1UMP40: ^7My name is UMP 40.>|
 
