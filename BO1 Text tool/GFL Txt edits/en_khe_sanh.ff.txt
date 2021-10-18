@@ -242,11 +242,11 @@
 
 |<^LTransmission# 4-5-1-4. Designate: NOVEMBER^L>|
 
-|<^L404. team to investigate evidence of KCCO involvement in^L ^C1Vietnam.^C>|
+|<^L404 team to investigate evidence of KCCO involvement in^L ^C1Vietnam.^C>|
 
 |<^C1Khe Sanh^C ^Lwill provide support for operation.^L>|
 
-|<^LAgents^L ^C1UMP45^C ^M16A1 are already on the ground.^L>|
+|<^LAgents^L ^C1UMP45^C ^LM16A1 are already on the ground.^L>|
 
 |<^L0900 hrs^L ^C1January 21, 1968^C>|
 
