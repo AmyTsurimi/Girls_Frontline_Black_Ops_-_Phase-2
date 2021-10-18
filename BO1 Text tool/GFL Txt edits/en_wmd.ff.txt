@@ -93,11 +93,11 @@
 
 |<^1INTERROGATOR: ^7The avalanche buried the entire base, but M16A1 and AK-12 made it out alive. It was almost all over 45.>|
 
-|<^1MAJ. NEITSCH: ^7Stay low... Here they come...>|
+|<^1KALINA: ^7Stay low... Here they come...>|
 
-|<^1MAJ. NEITSCH: ^7Hold... Hold...>|
+|<^1KALINA: ^7Hold... Hold...>|
 
-|<^1MAJ. NEITSCH: ^7Clear. More soldiers are on their way. Get to that guard house. GO!>|
+|<^1KALINA: ^7Clear. More soldiers are on their way. Get to that guard house. GO!>|
 
 |<^1AK-12: ^7HALT!>|
 
@@ -107,11 +107,11 @@
 
 |<^1M16A1: ^7BigEye this is Anti Rain. You still have us on Tac?>|
 
-|<^1MAJ. NEITSCH: ^7Affirmative Anti Rain.>|
+|<^1KALINA: ^7Affirmative Anti Rain.>|
 
 |<^1M16A1: ^7Visibility has improved. We're starting our insertion. Moving to the substation.>|
 
-|<^1MAJ. NEITSCH: ^7Tracking... Bigeye sees four combatants entering the structure, over.>|
+|<^1KALINA: ^7Tracking... Bigeye sees four combatants entering the structure, over.>|
 
 |<^1M16A1: ^7Roger that BigEye, we're going in.>|
 
@@ -125,7 +125,7 @@
 
 |<^1M16A1: ^7BigEye, this is Anti Rain. We have taken the substation.>|
 
-|<^1MAJ. NEITSCH: ^7Understood.  Re-calibrating Focal spread. Okay - We have Comstat on Tac. Proceed to next objective.>|
+|<^1KALINA: ^7Understood.  Re-calibrating Focal spread. Okay - We have Comstat on Tac. Proceed to next objective.>|
 
 |<^1M16A1: ^7Main facility is located at the base of the ridge.>|
 
@@ -141,9 +141,9 @@
 
 |<^1M16A1: ^7Anti Rain approaching the objective.>|
 
-|<^1MAJ. NEITSCH: ^7Roger.>|
+|<^1KALINA: ^7Roger.>|
 
-|<^1MAJ. NEITSCH: ^7Anti Rain, you have multiple targets at the Comstat. Take the storage shed on the South side then head to the power room entrance to the North.>|
+|<^1KALINA: ^7Anti Rain, you have multiple targets at the Comstat. Take the storage shed on the South side then head to the power room entrance to the North.>|
 
 |<^1M16A1: ^7Roger that.>|
 
@@ -169,7 +169,7 @@
 
 |<^1M16A1: ^7Do it! Go! Go! Go!>|
 
-|<^1CAPT. MOSELY: ^7AR, two targets just entered the power room.>|
+|<^1ANGELIA: ^7AR, two targets just entered the power room.>|
 
 |<^1M16A1: ^7Roger that BigEye.>|
 
@@ -179,19 +179,19 @@
 
 |<^1M16A1: ^7Clear.>|
 
-|<^1MAJ. NEITSCH: ^7Good job Anti Rain. You have control of the perimeter.>|
+|<^1KALINA: ^7Good job Anti Rain. You have control of the perimeter.>|
 
-|<^1MAJ. NEITSCH: ^7Be advised - We have about three minutes left before we need to refuel with KC-135>|
+|<^1KALINA: ^7Be advised - We have about three minutes left before we need to refuel with KC-135>|
 
 |<^1M16A1: ^7Understood.>|
 
 |<^1M16A1: ^7BigEye, Anti Rain are at the Comstat.>|
 
-|<^1CAPT. MOSELY: ^7Copy that. Your team is in position at the window?>|
+|<^1ANGELIA: ^7Copy that. Your team is in position at the window?>|
 
 |<^1AR BETA: ^7We're in position.>|
 
-|<^1CAPT. MOSELY: ^7Anti Rain you have multiple targets inbound to the comstat!>|
+|<^1ANGELIA: ^7Anti Rain you have multiple targets inbound to the comstat!>|
 
 |<^1AK-12: ^7We're clear. M16, shut down the relay dish.>|
 
@@ -201,17 +201,17 @@
 
 |<^1M16A1: ^7BigEye this is Anti Rain. Confirm that the relay is offline, over?>|
 
-|<^1MAJ. NEITSCH: ^7Affirmative Anti Rain. All outbound  communications are have ceased.>|
+|<^1KALINA: ^7Affirmative Anti Rain. All outbound  communications are have ceased.>|
 
 |<^1M16A1: ^7Anti Rain - Moving to the Primary Target.>|
 
-|<^1CAPT. MOSELY: ^7Okay Ladies, we're running on fumes now... this is where we bow out.>|
+|<^1ANGELIA: ^7Okay Ladies, we're running on fumes now... this is where we bow out.>|
 
-|<^1MAJ. NEITSCH: ^7Leaving recon.>|
+|<^1KALINA: ^7Leaving recon.>|
 
 |<^1M16A1: ^7Roger that BigEye. Thanks for the help. Stay safe.>|
 
-|<^1CAPT. MOSELY: ^7Affirmative. BigEye out.>|
+|<^1ANGELIA: ^7Affirmative. BigEye out.>|
 
 |<^1AK-12: ^7It won't take them long to figure out we're here. Let's move.>|
 
@@ -327,11 +327,11 @@
 
 |<^1M16A1: ^7FASTER!!!>|
 
-|<^1CAPT. MOSELY: ^7C.P. - You're sending them the wrong way.>|
+|<^1ANGELIA: ^7C.P. - You're sending them the wrong way.>|
 
-|<^1CAPT. MOSELY: ^7The target's the other way.>|
+|<^1ANGELIA: ^7The target's the other way.>|
 
-|<^1CAPT. MOSELY: ^7This doesn't look right, C.P.>|
+|<^1ANGELIA: ^7This doesn't look right, C.P.>|
 
 |<^1M16A1: ^7Roger, on the move.>|
 
