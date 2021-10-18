@@ -84,7 +84,7 @@ We know you did.>|
 |<^1INTERROGATOR: ^7We saw the report 45. UMP 40 did not kill 
 T-Doll Suomi. M16A1 saw what happened.>|
 
-|<^1INTERROGATOR: ^7M16A1 filed her report 45. UMP 40 did not kill Friedrich Suomi. M16A1 saw what happened.>|
+|<^1INTERROGATOR: ^7M16A1 filed her report 45. UMP 40 did not kill Suomi. M16A1 saw what happened.>|
 
 |<^1UMP40: ^7We are here.>|
 

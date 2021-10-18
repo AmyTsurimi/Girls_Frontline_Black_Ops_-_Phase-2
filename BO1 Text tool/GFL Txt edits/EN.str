@@ -5560,17 +5560,17 @@ LANG_ENGLISH		"^LM16A1 and Team 2 inserted to assault and extract Suomi^L"
 REFERENCE			REBIRTH_MASON_INTROSCREEN_5
 LANG_ENGLISH		"^L2230 hours, ^L^C1February 23, 1968^C"
 REFERENCE			REBIRTH_NOVA6_EXPOSED
-LANG_ENGLISH		"你被诺娃6毒杀了!"
+LANG_ENGLISH		"You were exposed to Rain 4!"
 REFERENCE			REBIRTH_OBJECTIVE_1
-LANG_ENGLISH		"渗入苏联地区勇敢面对斯泰纳"
+LANG_ENGLISH		"Infiltrate the KCCO lab and confront T-Doll Suomi"
 REFERENCE			REBIRTH_OBJECTIVE_2
-LANG_ENGLISH		"渗入苏联地区俘获斯泰纳"
+LANG_ENGLISH		"Infiltrate the KCCO lab and capture T-Doll Suomi"
 REFERENCE			REBIRTH_OBJECTIVE_3A
 LANG_ENGLISH		"Shoot down the enemy helicopters(2 of 2 remaining)"
 REFERENCE			REBIRTH_OBJECTIVE_3B
 LANG_ENGLISH		"Shoot down the enemy helicopters(1 of 2 remaining)"
 REFERENCE			REBIRTH_OBJECTIVE_4
-LANG_ENGLISH		"逃离岛屿"
+LANG_ENGLISH		"Escape the island"
 
 REFERENCE			REBIRTH_VOX_REB1_S01_002A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7We are here."
