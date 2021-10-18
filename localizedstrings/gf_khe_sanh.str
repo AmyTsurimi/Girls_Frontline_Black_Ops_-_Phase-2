@@ -1,13 +1,13 @@
 REFERENCE			KHE_SANH_INTRO_LINE_FIVE
-LANG_ENGLISH		"^L0900 小时^L ^C11968年，1月21日^C"
+LANG_ENGLISH		"^L0900 hrs^L ^C1January 21, 1968^C"
 REFERENCE			KHE_SANH_INTRO_LINE_FOUR
-LANG_ENGLISH		"^L特工^L ^C1梅森^C ^降落时，哈德森早已在地面等候.^L"
+LANG_ENGLISH		"^LAgents^L ^C1UMP45^C ^Land M16A1 are already on the ground.^L"
 REFERENCE			KHE_SANH_INTRO_LINE_ONE
-LANG_ENGLISH		"^LTransmission# 4-5-1-4. Designate: OSCAR^L"
+LANG_ENGLISH		"^LTransmission# 4-5-1-4. Designate: INDIA^L"
 REFERENCE			KHE_SANH_INTRO_LINE_THREE
-LANG_ENGLISH		"^C1溪山要塞^C ^L会给行动提供支援.^L"
+LANG_ENGLISH		"^C1Khe Sanh^C ^Lwill provide support for operation.^L"
 REFERENCE			KHE_SANH_INTRO_LINE_TWO
-LANG_ENGLISH		"^LS.O.G. 小队在^L ^C1越南.^C调查有关苏联参与事件的证据"
+LANG_ENGLISH		"^L404 team to investigate evidence of KCCO involvement in^L ^C1Vietnam.^C"
 
 REFERENCE			KHE_SANH_OBJ_HUDSON_SAFETY
 LANG_ENGLISH		"将哈德森转移至掩体内"
