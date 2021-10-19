@@ -8366,7 +8366,7 @@ Marketplace>|
 
 |<^1UMP45: ^7Vorkuta. 40 told me at Vorkuta.>|
 
-|<^1INTERROGATOR: ^7What did She tell you>|
+|<^1INTERROGATOR: ^7What did she tell you>|
 
 |<^1UMP40: ^745... listen to me...>|
 
