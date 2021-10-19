@@ -32,7 +32,7 @@ Mission File orders:
 11.	en_wmd_sr71    NOT DONE M
 12.	en_wmd         NOT DONE P
 13.	en_pow					F
-14.	en_rebirth				OR
+14.	en_rebirth				O/R
 15.	en_int_escape			T
 16.	en_underwaterbase  NOT DONE Y
 
