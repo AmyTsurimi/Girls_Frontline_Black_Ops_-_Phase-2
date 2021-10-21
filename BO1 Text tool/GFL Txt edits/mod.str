@@ -1,6 +1,6 @@
-VERSION             "1 VORKUTA"
+VERSION             "1.3.6.1"
 CONFIG              "C:\projects\cod\t5\bin\StringEd.cfg"
-FILENOTES           ""
+FILENOTES           "VORKUTA"
 
 
 REFERENCE			VORKUTA_DIRECTIONAL_WARNING1
