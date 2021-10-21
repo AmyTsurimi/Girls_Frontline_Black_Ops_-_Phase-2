@@ -8366,7 +8366,7 @@ Marketplace>|
 
 |<^1UMP45: ^7Vorkuta. 40 told me at Vorkuta.>|
 
-|<^1INTERROGATOR: ^7What did She tell you>|
+|<^1INTERROGATOR: ^7What did she tell you>|
 
 |<^1UMP40: ^745... listen to me...>|
 
@@ -8434,15 +8434,15 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7What do you know about Doll RFB?>|
 
-|<^1INTERROGATOR: ^7We know that RBF was the T-Doll who helped spread Rain 4. Malignant narcissist. Degenerate prodigy.>|
+|<^1INTERROGATOR: ^7We know that RFB was the T-Doll who helped spread Rain 4. Malignant narcissist. Degenerate prodigy.>|
 
-|<^1INTERROGATOR: ^7Your handler M16A1 was sent to Kowloon to interrogate RBF. Do you remember?>|
+|<^1INTERROGATOR: ^7Your handler M16A1 was sent to Kowloon to interrogate RFB. Do you remember?>|
 
 |<^1UMP45: ^7Why keep asking? You already know everything.>|
 
 |<^1INTERROGATOR: ^7No 45. We don't know what the numbers mean. We don't know where they're broadcast from.>|
 
-|<^1UMP45: ^7Why don't you ask M16? Kowloon was her mission. She interrogated RBF.>|
+|<^1UMP45: ^7Why don't you ask M16? Kowloon was her mission. She interrogated RFB.>|
 
 |<^1INTERROGATOR: ^7After your escape, you were assigned to M16A1 at the G&K. How could she trust you when she knew that UMP 40 helped you break out of Vorkuta?>|
 

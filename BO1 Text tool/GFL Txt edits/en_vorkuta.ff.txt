@@ -267,7 +267,7 @@
 
 |<^1UMP45: ^7What about you, 40?>|
 
-|<^1UMP40: ^7For our plan to work, we need every man to play his part.>|
+|<^1UMP40: ^7For our plan to work, we need every man to play their part.>|
 
 |<^1UMP45: ^7Step four... Unleash the horde.>|
 
