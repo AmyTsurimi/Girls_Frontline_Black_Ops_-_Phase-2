@@ -371,7 +371,7 @@ We wish you no harm. The People's Army of Vietnam is here to liberate you!>|
 
 |<^1HK416: ^7What are you waiting for?... We need that radio, 45.>|
 
-|<^1UMP45: ^7Texas this is Sierra Oscar Golf X-ray. Priority one ordnance on my command. I authenticate, golf shoe, over.>|
+|<^1UMP45: ^7Texas this is Four Zero Four X-ray. Priority one ordnance on my command. I authenticate, golf shoe, over.>|
 
 |<^1T-DOLL PILOT: ^7Roger X-ray. Let us know where you need us.>|
 
