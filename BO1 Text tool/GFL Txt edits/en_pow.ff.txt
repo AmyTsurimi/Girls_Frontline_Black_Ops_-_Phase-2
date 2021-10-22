@@ -500,19 +500,19 @@
 
 |<^1HK416: ^7We'll burn these bastards!>|
 
-|<^1G&K PRISONER: ^7Who's out there?!>|
+|<^1GRIFFIN PRISONER: ^7Who's out there?!>|
 
-|<^1G&K PRISONER: ^7Help us!!!  Please!!>|
+|<^1GRIFFIN PRISONER: ^7Help us!!!  Please!!>|
 
 |<^1HK416: ^745!! They're POWs.>|
 
-|<^1G&K PRISONER: ^7You're here for us?!>|
+|<^1GRIFFIN PRISONER: ^7You're here for us?!>|
 
 |<^1HK416: ^7404. We're gonna get you out!>|
 
 |<^1HK416: ^745 - get the other one.>|
 
-|<^1G&K PRISONER: ^7Thank God! Please... hurry!>|
+|<^1GRIFFIN PRISONER: ^7Thank God! Please... hurry!>|
 
 |<^1UMP40: ^745!!! Is that you?!>|
 
@@ -560,23 +560,23 @@
 
 |<^1HK416: ^7I got her, 45.>|
 
-|<^1Nyto: ^7Not this time, Griffin Doll!>|
+|<^1NYTO: ^7Not this time, Griffin Doll!>|
 
-|<^1Nyto: ^7I... know you...>|
+|<^1NYTO: ^7I... know you...>|
 
-|<^1Nyto: ^7You.... Again...>|
+|<^1NYTO: ^7You.... Again...>|
 
-|<^1Nyto: ^7... You were the first...?>|
+|<^1NYTO: ^7... You were the first...?>|
 
-|<^1Nyto: ^7I should have killed you in Vorkuta!>|
+|<^1NYTO: ^7I should have killed you in Vorkuta!>|
 
-|<^1Nyto: ^7ARARARRAHK!!>|
+|<^1NYTO: ^7ARARARRAHK!!>|
 
 |<^1HK416: ^7Got you now, you son of a bitch!>|
 
 |<^1HK416: ^7Got you now, you son of a...>|
 
-|<^1Nyto: ^7You... Will die... With me.>|
+|<^1NYTO: ^7You... Will die... With me.>|
 
 |<^1HK416: ^7Shoot the window!>|
 
