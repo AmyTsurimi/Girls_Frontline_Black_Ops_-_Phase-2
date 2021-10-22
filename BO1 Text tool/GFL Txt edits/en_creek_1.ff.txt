@@ -344,13 +344,13 @@
 
 |<^1HK416: ^7We have to clear this tunnel.>|
 
-|<^1UMP45: ^7I'll take it. Delta! With me.>|
+|<^1UMP45: ^7I'll take it. Zeta! With me.>|
 
 |<^1HK416: ^7All right. I'll keep the Hornets scouring the area. Let's move.>|
 
-|<^1DELTA: ^7This son of a bitch ain't fighting no more.>|
+|<^1ZETA: ^7This son of a bitch ain't fighting no more.>|
 
-|<^1DELTA: ^7Ain't fighting no more.>|
+|<^1ZETA: ^7Ain't fighting no more.>|
 
 |<^1HK416: ^7Lima niner, this is X-Ray. Prep for recon sweep 3 kay radius.>|
 
@@ -358,7 +358,7 @@
 
 |<^1HK416: ^7Here. Take this. Stay on it. We'll find your Nyto. You make it out of there alive. 9, point! Let's move!>|
 
-|<^1DELTA: ^7Keep that light steady 45.>|
+|<^1ZETA: ^7Keep that light steady 45.>|
 
 |<^1UMP45: ^7Hold.>|
 
@@ -370,21 +370,21 @@
 
 |<^1UMP45: ^7All right, but move quietly!>|
 
-|<^1DELTA: ^7What the fuck's wrong with you?>|
+|<^1ZETA: ^7What the fuck's wrong with you?>|
 
-|<^1DELTA: ^7What the ?#@?! wrong with you?>|
+|<^1ZETA: ^7What the ?#@?! wrong with you?>|
 
-|<^1UMP45: ^7We're good. Move up Delta.>|
+|<^1UMP45: ^7We're good. Move up Zeta.>|
 
-|<^1DELTA: ^745, you got to keep your shit together...>|
+|<^1ZETA: ^745, you got to keep your shit together...>|
 
-|<^1DELTA: ^745, you got to keep your ?#@?! together...>|
+|<^1ZETA: ^745, you got to keep your ?#@?! together...>|
 
 |<^1UMP45: ^7Oh shit...>|
 
 |<^1UMP45: ^7Oh crap...>|
 
-|<^1UMP40: ^7Where is our friend, Delta?>|
+|<^1UMP40: ^7Where is our friend, Zeta?>|
 
 |<^1UMP45: ^7416, come in.>|
 
@@ -400,7 +400,7 @@
 
 |<^1UMP45: ^7Crap...>|
 
-|<^1UMP40: ^7Where is your friend Delta?>|
+|<^1UMP40: ^7Where is your friend Zeta?>|
 
 |<^1UMP45: ^7Dead.>|
 

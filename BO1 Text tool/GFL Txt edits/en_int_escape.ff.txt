@@ -112,8 +112,7 @@
 
 |<^1UMP40: ^7We are comrades 45... We are the same.>|
 
-|<^1COMMANDER: ^7We are in grave danger from the Sangvis Ferri. 
-Our freedom and our very way of life is at risk.>|
+|<^1COMMANDER: ^7We are in grave danger from the Sangvis Ferri. Our freedom and our very way of life is at risk.>|
 
 |<^1COMMANDER: ^7RPK16.>|
 
@@ -151,7 +150,7 @@ Our freedom and our very way of life is at risk.>|
 
 |<^1M16A1: ^7RPK16 brainwashed you, but UMP40 had plans of her own...>|
 
-|<^1BOWMAN: ^7You think the defector survived this attack?!>|
+|<^1UMP9: ^7You think the defector survived this attack?!>|
 
 |<^1HK416: ^7If he did, then he's one tough son of a bitch!>|
 
@@ -163,13 +162,11 @@ Our freedom and our very way of life is at risk.>|
 
 |<^1UMP45: ^7Never thought I'd see you alive...>|
 
-|<^1M16A1: ^7She was never in Vietnam.  
-The real  defector with the Parapluie dossier 
-died during the attack on the DEFY.>|
+|<^1M16A1: ^7She was never in Vietnam.  The real defector with the Parapluie dossier died during the attack on the DEFY.>|
 
 |<^1M16A1: ^7She was never in the rat tunnels.>|
 
-|<^1SWIFT: ^7What the *$#%$ wrong with you?>|
+|<^1ZETA: ^7What the *$#%$ wrong with you?>|
 
 |<^1UMP40: ^7Nyto is here!>|
 
@@ -200,7 +197,7 @@ died during the attack on the DEFY.>|
 |<^1UMP40: ^7Not for me...>|
 
 |<^1M16A1: ^7UMP 40's been dead for 5 years. She died at Vorkuta during the escape! 
-All the years you thought she was with you - that was just in your mind!>|
+			All the years you thought she was with you - that was just in your mind!>|
 
 |<^1INTERROGATOR: ^7UMP 40's been dead for years.>|
 
@@ -223,7 +220,7 @@ All the years you thought she was with you - that was just in your mind!>|
 |<^1M16A1: ^7There are gaps in your memory. Periods where you went MIA and we couldn't account for you. But now that the brainwashing's been broken, all that lost time will come back.>|
 
 |<^1M16A1: ^7We need to leave... The Parapluie strike is imminent. Hundreds of sleeper agents, hidden in every Griffin base, 
-are about to unleash this virus on your own T-Dolls.>|
+			are about to unleash this virus on our own T-Dolls.>|
 
 |<^1M16A1: ^7When Suomi died, we lost our key to unlocking the location of number broadcasts...>|
 
@@ -251,7 +248,7 @@ are about to unleash this virus on your own T-Dolls.>|
 
 |<^1RPK16: ^7...and permanent... broadcast station within their borders.>|
 
-|<^1RPK16: ^7From now until Project Rain's initiation, all instructions will broadcast from the Rusalka.>|
+|<^1RPK16: ^7From now until Project Parapluie's initiation, all instructions will broadcast from the Rusalka.>|
 
 |<^1RPK16: ^7...all instructions will broadcast from the Rusalka.>|
 
@@ -271,7 +268,7 @@ are about to unleash this virus on your own T-Dolls.>|
 
 |<^1UMP45: ^7Cuba.>|
 
-|<^1UMP45: ^7Echelon. Cuban allies authorize construction of permanent broadcast station. Rusalka. Gulf of Mexico. Project Rain initiated. Await instruction.>|
+|<^1UMP45: ^7Echelon. Cuban allies authorize construction of permanent broadcast station. Rusalka. Gulf of Mexico. Project Parapluie initiated. Await instruction.>|
 
 |<^1UMP45: ^7Ascension. 45. Prepare down target Commander. SKK. Gentiane. Priority supersedes all previous instruction.>|
 
@@ -279,7 +276,7 @@ are about to unleash this virus on your own T-Dolls.>|
 
 |<^1UMP45: ^7Echelon. Oswald, compromised. Ascension. 45. Down assigned target.>|
 
-|<^1UMP45: ^7Echelon. Scheduled Rain deployment jeopardized. Griffin  breach.>|
+|<^1UMP45: ^7Echelon. Scheduled Parapluie deployment jeopardized. Griffin  breach.>|
 
 |<^1UMP45: ^7Ascension. All points. Down target RFB. Priority one. Await final coordinates.>|
 
@@ -289,7 +286,7 @@ are about to unleash this virus on your own T-Dolls.>|
 
 |<^1UMP45: ^7Ascension. All points. Burn notice. Priority evade capture. Sleepers expendable.>|
 
-|<^1UMP45: ^7Echelon. Rain deployment signal imminent.>|
+|<^1UMP45: ^7Echelon. Parapluie deployment signal imminent.>|
 
 |<^1UMP45: ^7Ascension. 45. Resume directive programming. Respond.>|
 
@@ -299,7 +296,7 @@ are about to unleash this virus on your own T-Dolls.>|
 
 |<^1UMP45: ^7Echelon. Griffin-HQ. Three. Sycorax.>|
 
-|<^1UMP45: ^7Echelon. Caution. Rain mutation observed. Subjects exhibit advanced necrosis hours before mortality.>|
+|<^1UMP45: ^7Echelon. Caution. Parapluie mutation observed. Subjects exhibit advanced defragmentation hours before complete corruption.>|
 
 |<^1UMP45: ^7Ascension. 45. Location. Texas School Book Depository. 6th Floor. 6.5MM Carcano Rifle. Dallas. Dealey Plaza. 11.22.>|
 
