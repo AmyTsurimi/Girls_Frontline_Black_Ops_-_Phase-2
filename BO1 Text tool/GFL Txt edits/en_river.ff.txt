@@ -26,8 +26,7 @@
 |<^LConfirmation: KCCO are providing cyber weapons to the NVA.^L
 >|
 
-|<^LTransmission # 2-15-4-25. Designate: INDIA^L
->|
+|<^LTransmission # 2-15-4-25. Designate: INDIA^L>|
 
 |<Pilot the boat>|
 
@@ -113,7 +112,7 @@
 
 |<Engage the armored patrol boat>|
 
-|<Regroup with G&K forces up river>|
+|<Regroup with Griffin forces up river>|
 
 |<Regroup with forces on the shore>|
 
@@ -636,7 +635,7 @@ I swear to God that 416 was crying, but she never let us see no tears.>|
 
 |<^1UMP45: ^7Rain 4. Must have dispersed after the crash.>|
 
-|<^1HK416: ^7Grenade launchers, China Lakes. What the hell are the KCCO doin' with G&K weapons?>|
+|<^1HK416: ^7Grenade launchers, China Lakes. What the hell are the KCCO doin' with Griffin weapons?>|
 
 |<^1UMP9: ^7Must be some kind of setup.>|
 

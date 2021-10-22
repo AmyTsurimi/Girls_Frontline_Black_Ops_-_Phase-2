@@ -100,7 +100,7 @@
 
 |<^1UMP40: ^7In Vorkuta, we are ALL comrades...>|
 
-|<^1U.S.S.R PRISONER: ^7UMP40, are you sure you can trust this G&K T-Doll?>|
+|<^1U.S.S.R PRISONER: ^7UMP40, are you sure you can trust this Griffin T-Doll?>|
 
 |<^1UMP40: ^7With my life...>|
 
@@ -222,7 +222,7 @@ All the years you thought she was with you - that was just in your mind!>|
 
 |<^1M16A1: ^7There are gaps in your memory. Periods where you went MIA and we couldn't account for you. But now that the brainwashing's been broken, all that lost time will come back.>|
 
-|<^1M16A1: ^7We need to leave... The Parapluie strike is imminent. Hundreds of sleeper agents, hidden in every G&K base, 
+|<^1M16A1: ^7We need to leave... The Parapluie strike is imminent. Hundreds of sleeper agents, hidden in every Griffin base, 
 are about to unleash this virus on your own T-Dolls.>|
 
 |<^1M16A1: ^7When Suomi died, we lost our key to unlocking the location of number broadcasts...>|
@@ -255,7 +255,7 @@ are about to unleash this virus on your own T-Dolls.>|
 
 |<^1RPK16: ^7...all instructions will broadcast from the Rusalka.>|
 
-|<^1RPK16: ^7Our plan to strike at the very heart of the West is now in motion.>|
+|<^1RPK16: ^7Our plan to strike at the very heart of the Griffin is now in motion.>|
 
 |<^1RPK16: ^7Await further instructions.>|
 
@@ -279,7 +279,7 @@ are about to unleash this virus on your own T-Dolls.>|
 
 |<^1UMP45: ^7Echelon. Oswald, compromised. Ascension. 45. Down assigned target.>|
 
-|<^1UMP45: ^7Echelon. Scheduled Rain deployment jeopardized. G&K  breach.>|
+|<^1UMP45: ^7Echelon. Scheduled Rain deployment jeopardized. Griffin  breach.>|
 
 |<^1UMP45: ^7Ascension. All points. Down target RFB. Priority one. Await final coordinates.>|
 
@@ -293,11 +293,11 @@ are about to unleash this virus on your own T-Dolls.>|
 
 |<^1UMP45: ^7Ascension. 45. Resume directive programming. Respond.>|
 
-|<^1UMP45: ^7Echelon. G&K-HQ. One. Prospero.>|
+|<^1UMP45: ^7Echelon. Griffin-HQ. One. Prospero.>|
 
-|<^1UMP45: ^7Echelon. G&K-HQ. Two. Ariel.>|
+|<^1UMP45: ^7Echelon. Griffin-HQ. Two. Ariel.>|
 
-|<^1UMP45: ^7Echelon. G&K-HQ. Three. Sycorax.>|
+|<^1UMP45: ^7Echelon. Griffin-HQ. Three. Sycorax.>|
 
 |<^1UMP45: ^7Echelon. Caution. Rain mutation observed. Subjects exhibit advanced necrosis hours before mortality.>|
 
@@ -305,7 +305,7 @@ are about to unleash this virus on your own T-Dolls.>|
 
 |<^1UMP45: ^7RPK16.  Nyto.  Suomi.  All must die.>|
 
-|<^1UMP45: ^7Echelon. Rogue sleeper. 45. Programming corrupted. RPK16 down. G&K-HQ sleeper activated. G&K sleeper activated. Ascension. All points. Down target 45. Priority supersedes all previous instruction.>|
+|<^1UMP45: ^7Echelon. Rogue sleeper. 45. Programming corrupted. RPK16 down. Griffin-HQ sleeper activated. Griffin sleeper activated. Ascension. All points. Down target 45. Priority supersedes all previous instruction.>|
 
 |<ÿÿ>|
 

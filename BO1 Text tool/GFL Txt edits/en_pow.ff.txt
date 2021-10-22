@@ -72,7 +72,7 @@
 
 |<^1UMP9: ^7Screw... you... KCCO...>|
 
-|<^1VC BOOKIE: ^7You dead, G&K T-Doll.>|
+|<^1VC BOOKIE: ^7You dead, Griffin T-Doll.>|
 
 |<^1UMP9: ^7You don't scare me. KCCO piece of shit...>|
 
@@ -560,7 +560,7 @@
 
 |<^1HK416: ^7I got her, 45.>|
 
-|<^1Nyto: ^7Not this time, G&K Doll!>|
+|<^1Nyto: ^7Not this time, Griffin Doll!>|
 
 |<^1Nyto: ^7I... know you...>|
 

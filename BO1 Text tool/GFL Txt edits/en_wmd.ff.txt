@@ -271,7 +271,7 @@
 
 |<^1AK-12: ^7Targets marked across the states...>|
 
-|<^1SUOMI: ^7All across G&K, RPK16 has sleeper cells waiting for the signal to release the Parapluie.>|
+|<^1SUOMI: ^7All across Griffin, RPK16 has sleeper cells waiting for the signal to release the Parapluie.>|
 
 |<^1AK-12: ^7Weaponized Parapluie.>|
 
