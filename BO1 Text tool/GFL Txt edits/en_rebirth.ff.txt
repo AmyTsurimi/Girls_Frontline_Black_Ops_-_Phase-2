@@ -64,8 +64,7 @@
 
 |<Press ^3[{+melee}]^7 to tackle UMP45>|
 
-|<Your hazmat suit was punctured.
-You were exposed to Parapluie!>|
+|<Your firewall was breached. You were exposed to Parapluie!>|
 
 |<You were exposed to Parapluie!>|
 
@@ -73,16 +72,13 @@ You were exposed to Parapluie!>|
 
 |<^1UMP45: ^7I arrived with 40 at Rebirth Island. Finally. Suomi was ours.>|
 
-|<^1UMP45: ^7I swear to God, that's how Suomi died. 
-40 killed her right in front of me!>|
+|<^1UMP45: ^7I swear to God, that's how Suomi died. 40 killed her right in front of me!>|
 
-|<^1INTERROGATOR: ^7You're lying 45. You killed Suomi. 
-We know you did.>|
+|<^1INTERROGATOR: ^7You're lying 45. You killed Suomi. We know you did.>|
 
 |<^1UMP45: ^740 got exactly what she wanted. Revenge.>|
 
-|<^1INTERROGATOR: ^7We saw the report 45. UMP 40 did not kill 
-T-Doll Suomi. M16A1 saw what happened.>|
+|<^1INTERROGATOR: ^7We saw the report 45. UMP 40 did not kill T-Doll Suomi. M16A1 saw what happened.>|
 
 |<^1INTERROGATOR: ^7M16A1 filed her report 45. UMP 40 did not kill T-Doll Suomi. M16A1 saw what happened.>|
 
@@ -156,7 +152,7 @@ T-Doll Suomi. M16A1 saw what happened.>|
 
 |<^1UMP40: ^7They've gone to full alert.>|
 
-|<^1UMP45: ^7It's the Griffin... They want Suomi alive.>|
+|<^1UMP45: ^7It's Griffin... They want Suomi alive.>|
 
 |<^1UMP40: ^7Then we must get to her first.>|
 
@@ -202,13 +198,13 @@ T-Doll Suomi. M16A1 saw what happened.>|
 
 |<^1M16A1: ^7It's M16A1! 45, talk to me!>|
 
-|<^1UMP40: ^7Your evil has claimed the lives of many good men...>|
+|<^1UMP40: ^7Your evil has claimed the lives of many good dolls...>|
 
 |<^1UMP40: ^7No longer.>|
 
-|<^1SUOMI: ^7Killing me will not stop Rain!>|
+|<^1SUOMI: ^7Killing me will not stop Parapluie!>|
 
-|<^1UMP40: ^7I do not care about Rain.>|
+|<^1UMP40: ^7I do not care about Parapluie.>|
 
 |<^1UMP40: ^7My name is UMP 40.>|
 
@@ -228,7 +224,7 @@ T-Doll Suomi. M16A1 saw what happened.>|
 
 |<^1M16A1: ^7Alpha Squad, let's roll.>|
 
-|<^1T-Doll: ^7Copy that we are on the move.>|
+|<^1T-DOLL: ^7Copy that we are on the move.>|
 
 |<^1AK-12: ^7They've already begun to evacuate.>|
 
@@ -248,9 +244,9 @@ T-Doll Suomi. M16A1 saw what happened.>|
 
 |<^1M16A1: ^7Understood. Alpha squad, move up!>|
 
-|<^1T-Doll: ^7We're moving.>|
+|<^1T-DOLL: ^7We're moving.>|
 
-|<^1T-Doll: ^7Enemy targets, on the balcony.>|
+|<^1T-DOLL: ^7Enemy targets, on the balcony.>|
 
 |<^1AK-12: ^7Molotovs! On the roof!>|
 
@@ -264,45 +260,45 @@ T-Doll Suomi. M16A1 saw what happened.>|
 
 |<^1AK-12: ^7Right side!!>|
 
-|<^1T-Doll: ^7Multiple contacts on the road.>|
+|<^1T-DOLL: ^7Multiple contacts on the road.>|
 
-|<^1T-Doll: ^7M16, recon reports MI-8's inbound on our position.>|
+|<^1T-DOLL: ^7M16, recon reports MI-8's inbound on our position.>|
 
 |<^1M16A1: ^7Understood. Let's pick it up.>|
 
-|<^1T-Doll: ^7MI-8 dead ahead!>|
+|<^1T-DOLL: ^7MI-8 dead ahead!>|
 
-|<^1T-Doll: ^7Take cover!>|
+|<^1T-DOLL: ^7Take cover!>|
 
-|<^1T-Doll: ^7He's locked on! Move! Move!>|
+|<^1T-DOLL: ^7He's locked on! Move! Move!>|
 
-|<^1T-Doll: ^7Incoming!>|
+|<^1T-DOLL: ^7Incoming!>|
 
-|<^1T-Doll: ^7Rain 4! 16Lab firewall, NOW!>|
+|<^1T-DOLL: ^7Parapluie! 16Lab firewall, NOW!>|
 
-|<^1T-Doll: ^7Shit! shit! Help! Aaaaccckk!>|
+|<^1T-DOLL: ^7Shit! shit! Help! Aaaaccckk!>|
 
-|<^1T-Doll: ^7Help! Aaaaccckk!>|
+|<^1T-DOLL: ^7Help! Aaaaccckk!>|
 
 |<^1M16A1: ^7Alpha Squad! we are moving forward! Protect your 16Lab firewall!>|
 
 |<^1M16A1: ^7You rupture your firewall - you'll be corrupted in minutes!>|
 
-|<^1T-Doll: ^7You heard her! Keep those firewall tight! Let's go!>|
+|<^1T-DOLL: ^7You heard her! Keep those firewall tight! Let's go!>|
 
-|<^1T-Doll: ^7KCCO!>|
+|<^1T-DOLL: ^7KCCO!>|
 
-|<^1T-Doll: ^7We see 'em.>|
+|<^1T-DOLL: ^7We see 'em.>|
 
-|<^1T-Doll: ^7Check your six!>|
+|<^1T-DOLL: ^7Check your six!>|
 
-|<^1T-Doll: ^7I got it.>|
+|<^1T-DOLL: ^7I got it.>|
 
-|<^1T-Doll: ^7It's killing us! Get off the street!>|
+|<^1T-DOLL: ^7It's killing us! Get off the street!>|
 
 |<^1AK-12: ^7Yankee Squad has cleared the west perimeter. Moving north.>|
 
-|<^1T-Doll: ^7Keep moving to the west! Down that alley!>|
+|<^1T-DOLL: ^7Keep moving to the west! Down that alley!>|
 
 |<^1M16A1: ^7We're moving up on the flank. Keep heading north!>|
 
@@ -386,7 +382,7 @@ T-Doll Suomi. M16A1 saw what happened.>|
 
 |<^1AK-12: ^7I'm fine, check Suomi!>|
 
-|<^1T-Doll: ^7She's dead.>|
+|<^1T-DOLL: ^7She's dead.>|
 
 |<^1AK-12: ^7What about 40, the defector? We need to find her.>|
 
