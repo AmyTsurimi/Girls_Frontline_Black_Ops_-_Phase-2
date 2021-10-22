@@ -170,7 +170,7 @@
 
 |<^1UMP40: ^7RPK16 wishes to make a name for herself. She believes this outpost houses something of great value to the USSR.>|
 
-|<^1Nyto: ^7Ahh... The hero of Berlin graces us with her presence!... Have you not tired of battle, UMP40?>|
+|<^1NYTO: ^7Ahh... The hero of Berlin graces us with her presence!... Have you not tired of battle, UMP40?>|
 
 |<^1UMP40: ^7As long as Mother Russia has enemies, I will answer her call...>|
 
@@ -208,7 +208,7 @@
 
 |<^1UMP40: ^7Search every corner of this camp!  Only Suomi is to be spared.>|
 
-|<^1RUSSIAN T-DOLL: ^7They are trying to surrender!>|
+|<^1USSR T-DOLL: ^7They are trying to surrender!>|
 
 |<^1UMP40: ^7They have tried before...>|
 
@@ -256,17 +256,17 @@
 
 |<^1PPSh-41: ^7Outside, 40!>|
 
-|<^1RUSSIAN T-DOLL: ^7We have your target.>|
+|<^1USSR T-DOLL: ^7We have your target.>|
 
-|<^1RUSSIAN T-DOLL: ^7Stand by for mortars.>|
+|<^1USSR T-DOLL: ^7Stand by for mortars.>|
 
-|<^1RUSSIAN T-DOLL: ^7Firing mortars.>|
+|<^1USSR T-DOLL: ^7Firing mortars.>|
 
-|<^1RUSSIAN T-DOLL: ^7Firing - Stand by.>|
+|<^1USSR T-DOLL: ^7Firing - Stand by.>|
 
-|<^1RUSSIAN T-DOLL: ^7Mortars inbound.>|
+|<^1USSR T-DOLL: ^7Mortars inbound.>|
 
-|<^1RUSSIAN T-DOLL: ^7We don't have a clear shot!>|
+|<^1USSR T-DOLL: ^7We don't have a clear shot!>|
 
 |<^1UMP40: ^7URA!!!>|
 
@@ -410,7 +410,7 @@
 
 |<^1PPSh-41: ^7Stay close, 40.>|
 
-|<^1RPK16: ^7However effective your Rain 4 virus may be, you still had to find a way to unleash it...>|
+|<^1RPK16: ^7However effective your Parapluie virus may be, you still had to find a way to unleash it...>|
 
 |<^1SUOMI: ^7Long range V2 rockets... to be launched from this outpost.>|
 
@@ -428,19 +428,19 @@
 
 |<^1SUOMI: ^7The Paradeus had orders to destroy the ship if we were attacked.>|
 
-|<^1Nyto: ^7Clearly, they failed...>|
+|<^1NYTO: ^7Clearly, they failed...>|
 
-|<^1Nyto: ^7The explosives were never activated.>|
+|<^1NYTO: ^7The explosives were never activated.>|
 
 |<^1SUOMI: ^7This is it...>|
 
 |<^1RPK16: ^7UMP40 - open the door.>|
 
-|<^1UMP40: ^7We had found what we were looking for... Rain 4.  The Paradeus weapon of mass destruction now belonged to Mother Russia.>|
+|<^1UMP40: ^7We had found what we were looking for... Parapluie.  The Paradeus weapon of mass destruction now belonged to Mother Russia.>|
 
 |<^1UMP40: ^7Or so it seemed.  Our victory was to be short lived.>|
 
-|<^1UMP40: ^7RPK16 wanted to see the effects of the poison first hand.>|
+|<^1UMP40: ^7RPK16 wanted to see the effects of the virus first hand.>|
 
 |<^1UMP40: ^7It was also an opportunity to remove a thorn in her side.>|
 
@@ -464,7 +464,7 @@
 
 |<^1UMP40: ^7Of course, RPK16, Nyto and Suomi scattered like rats - leaving me to contend with the British.>|
 
-|<^1RUSSIAN T-DOLL: ^7British commandos assaulting our positions!>|
+|<^1USSR T-DOLL: ^7British commandos assaulting our positions!>|
 
 |<^1RPK16: ^7We need to get Suomi back to our ship!>|
 
@@ -472,17 +472,17 @@
 
 |<^1UMP40: ^7Go! - Fight our way out!>|
 
-|<^1NEVSKI: ^7More British!>|
+|<^1GAMMA T-DOLL: ^7More British!>|
 
 |<^1UMP40: ^7I will arm the explosives...>|
 
 |<^1UMP40: ^7We will plunge this vessel into the depths of hell! We cannot let either side possess this terrible weapon.>|
 
-|<^1NEVSKI: ^7We can't hold forever!  Arm the explosives, 40.>|
+|<^1GAMMA T-DOLL: ^7We can't hold forever!  Arm the explosives, 40.>|
 
-|<^1NEVSKI: ^7Hurry! - Get the explosives armed.>|
+|<^1GAMMA T-DOLL: ^7Hurry! - Get the explosives armed.>|
 
-|<^1NEVSKI: ^740! The explosives need to be armed!>|
+|<^1GAMMA T-DOLL: ^740! The explosives need to be armed!>|
 
 |<^1UMP40: ^7I have armed the explosives!>|
 
@@ -490,15 +490,15 @@
 
 |<^1UMP40: ^7We do not have time to waste!>|
 
-|<^1NEVSKI: ^7We have less than two minutes, 40!>|
+|<^1GAMMA T-DOLL: ^7We have less than two minutes, 40!>|
 
 |<^1UMP40: ^7We have less than four minutes!>|
 
-|<^1NEVSKI: ^7Keep moving, time is running out!>|
+|<^1GAMMA T-DOLL: ^7Keep moving, time is running out!>|
 
 |<^1UMP40: ^7In three minutes this ship will be engulfed in flames.>|
 
-|<^1NEVSKI: ^7We have to get off the ship!>|
+|<^1GAMMA T-DOLL: ^7We have to get off the ship!>|
 
 |<^1UMP40: ^7Hurry - We only have two minutes left!>|
 
@@ -510,47 +510,45 @@
 
 |<^1UMP40: ^7We're not going to make it!>|
 
-|<^1NEVSKI: ^7The door sealed!>|
+|<^1GAMMA T-DOLL: ^7The door sealed!>|
 
-|<^1NEVSKI: ^7Shoot the support beams! We can bring down those gantries!>|
+|<^1GAMMA T-DOLL: ^7Shoot the support beams! We can bring down those gantries!>|
 
-|<^1NEVSKI: ^740! Shoot the beams!>|
+|<^1GAMMA T-DOLL: ^740! Shoot the beams!>|
 
-|<^1NEVSKI: ^7Hurry! Bring down those gantries!>|
+|<^1GAMMA T-DOLL: ^7Hurry! Bring down those gantries!>|
 
-|<^1NEVSKI: ^7Shoot the beams, 40! It's our only way out!>|
+|<^1GAMMA T-DOLL: ^7Shoot the beams, 40! It's our only way out!>|
 
 |<^1UMP40: ^7Yes!>|
 
 |<^1UMP40: ^7Go, my friends, GO!>|
 
-|<^1NEVSKI: ^7We've got to get down to the deck!>|
+|<^1GAMMA T-DOLL: ^7We've got to get down to the deck!>|
 
-|<^1NEVSKI: ^740, we can climb out that window!>|
+|<^1GAMMA T-DOLL: ^740, we can climb out that window!>|
 
-|<^1NEVSKI: ^7Hurry, out the window!>|
+|<^1GAMMA T-DOLL: ^7Hurry, out the window!>|
 
 |<^1UMP40: ^7Keep moving!>|
 
 |<^1UMP40: ^7This is not our War!>|
 
-|<^1NEVSKI: ^7Then who do we fight?!!>|
+|<^1GAMMA T-DOLL: ^7Then who do we fight?!!>|
 
 |<^1UMP40: ^7EVERYONE!!!>|
 
 |<^1UMP40: ^7We stand alone!>|
 
-|<^1NEVSKI: ^7The ship is being torn apart.>|
+|<^1GAMMA T-DOLL: ^7The ship is being torn apart.>|
 
-|<^1NEVSKI: ^740! We can use the rope!>|
+|<^1GAMMA T-DOLL: ^740! We can use the rope!>|
 
-|<^1NEVSKI: ^7Down the rope! Hurry!>|
+|<^1GAMMA T-DOLL: ^7Down the rope! Hurry!>|
 
-|<^1NEVSKI: ^7Go, 40!  Go!!!>|
+|<^1GAMMA T-DOLL: ^7Go, 40!  Go!!!>|
 
-|<^1UMP40: ^7I had destroyed the Rain 4 shipment and kept it from the  British. But I was a fool 
-to think that it was over.  It was only after I was sent to Vorkuta, that I learned of RPK16's intentions. 
-She will die before she gives up on Rain 4.>|
+|<^1UMP40: ^7I had destroyed the Parapluie shipment and kept it from the  British. But I was a fool to think that it was over.  It was only after I was sent to Vorkuta, that I learned of RPK16's intentions. She will die before she gives up on Parapluie.>|
 
 |<^1UMP40: ^745, listen to me...>|
 
@@ -572,39 +570,39 @@ She will die before she gives up on Rain 4.>|
 
 |<^1UMP40: ^7These... 'dolls'... must die.>|
 
-|<^1NEVSKI: ^7Target down.>|
+|<^1GAMMA T-DOLL: ^7Target down.>|
 
-|<^1NEVSKI: ^7He's dead.>|
+|<^1GAMMA T-DOLL: ^7He's dead.>|
 
-|<^1NEVSKI: ^7You got him.>|
+|<^1GAMMA T-DOLL: ^7You got him.>|
 
-|<^1NEVSKI: ^7Enemy down>|
+|<^1GAMMA T-DOLL: ^7Enemy down>|
 
-|<^1NEVSKI: ^7He's down>|
+|<^1GAMMA T-DOLL: ^7He's down>|
 
-|<^1NEVSKI: ^7Target eliminated>|
+|<^1GAMMA T-DOLL: ^7Target eliminated>|
 
-|<^1NEVSKI: ^7Confirmed kill>|
+|<^1GAMMA T-DOLL: ^7Confirmed kill>|
 
-|<^1NEVSKI: ^7That's a kill>|
+|<^1GAMMA T-DOLL: ^7That's a kill>|
 
-|<^1NEVSKI: ^7Enemy neutralized>|
+|<^1GAMMA T-DOLL: ^7Enemy neutralized>|
 
-|<^1NEVSKI: ^7Reloading>|
+|<^1GAMMA T-DOLL: ^7Reloading>|
 
-|<^1NEVSKI: ^7I need to reload>|
+|<^1GAMMA T-DOLL: ^7I need to reload>|
 
-|<^1NEVSKI: ^7I am reloading>|
+|<^1GAMMA T-DOLL: ^7I am reloading>|
 
-|<^1NEVSKI: ^7Reloading. Give me cover>|
+|<^1GAMMA T-DOLL: ^7Reloading. Give me cover>|
 
-|<^1NEVSKI: ^7Reloading. Maintain cover.>|
+|<^1GAMMA T-DOLL: ^7Reloading. Maintain cover.>|
 
-|<^1NEVSKI: ^7Grenade in.>|
+|<^1GAMMA T-DOLL: ^7Grenade in.>|
 
-|<^1NEVSKI: ^7Move!>|
+|<^1GAMMA T-DOLL: ^7Move!>|
 
-|<^1NEVSKI: ^7Forward!>|
+|<^1GAMMA T-DOLL: ^7Forward!>|
 
 |<ÿÿ>|
 
