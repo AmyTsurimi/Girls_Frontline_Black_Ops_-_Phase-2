@@ -160,7 +160,7 @@
 
 |<Limo Destroyed!>|
 
-|<Protect UMP9 and Brooks>|
+|<Protect UMP9 and Delta>|
 
 |<Use ^3[{+melee}]^7 to steer BTR>|
 
@@ -178,7 +178,7 @@
 
 |<Take>|
 
-|<UMP9 and Brooks were killed.>|
+|<UMP9 and Delta were killed.>|
 
 |<You failed to stop the launch.>|
 
@@ -398,7 +398,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7What the Hell?!>|
 
-|<^1HK416: ^7Brooks and 9 should be right up ahead.>|
+|<^1HK416: ^7Delta and 9 should be right up ahead.>|
 
 |<^1UMP9: ^7X-ray this is Whiskey. Hostiles in sight. Takin' 'em out.>|
 
@@ -438,9 +438,9 @@ the Bureau Group and kill the scientists.>|
 
 |<^1UMP9: ^7Couple of men out front.>|
 
-|<^1HK416: ^7Okay... 9. Brooks. Get 'em out of the way.>|
+|<^1HK416: ^7Okay... 9. Delta. Get 'em out of the way.>|
 
-|<^1HK416: ^7Okay... 9. Brooks.>|
+|<^1HK416: ^7Okay... 9. Delta.>|
 
 |<^1UMP9: ^7E'j!  Vy dvoe.>|
 
@@ -458,7 +458,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1UMP45: ^7On it.>|
 
-|<^1HK416: ^7Brooks, 9... Try to find AK-12.>|
+|<^1HK416: ^7Delta, 9... Try to find AK-12.>|
 
 |<^1UMP9: ^7On it.>|
 
@@ -488,7 +488,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Go ahead, 9.>|
 
-|<^1UMP45: ^7I see Brooks and 9 down there.>|
+|<^1UMP45: ^7I see Delta and 9 down there.>|
 
 |<^1UMP9: ^7We just got a visual on AK-12... She's been taken to a bunker South of the Comms building.>|
 
@@ -520,7 +520,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Take 'em out!!!>|
 
-|<^1HK416: ^7Hurry, 9 and Brooks can't hold out!>|
+|<^1HK416: ^7Hurry, 9 and Delta can't hold out!>|
 
 |<^1HK416: ^745, over here.>|
 
@@ -605,6 +605,7 @@ the Bureau Group and kill the scientists.>|
 |<^1HK416: ^7We're pinned down!>|
 
 |<^1HK416: ^745! Nail that pilot!>|
+
 |<^1HK416: ^745! Nail that pilot!>|
 
 |<^1HK416: ^7That chopper is hammerin' us. Kill the pilot!>|
@@ -665,7 +666,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Get to the tunnels!>|
 
-|<^1BROOKS: ^7Poor bastards...>|
+|<^1DELTA T-DOLL: ^7Poor bastards...>|
 
 |<^1HK416: ^7They're 90WISH bastards... They don't deserve sympathy.>|
 
@@ -673,7 +674,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1AK-12: ^7The rest of the Bureau group will be trying to escape the facility...>|
 
-|<^1HK416: ^79, Brooks. You flank round to the North tunnel. No one sneaks out that back door!>|
+|<^1HK416: ^79, Delta. You flank round to the North tunnel. No one sneaks out that back door!>|
 
 |<^1UMP9: ^7Got it.>|
 
@@ -913,11 +914,11 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7We've been found out.>|
 
-|<^1HK416: ^745, with me, Brooks, 9, go and clear out the scientists.>|
+|<^1HK416: ^745, with me, Delta, 9, go and clear out the scientists.>|
 
 |<^1HK416: ^7We're too late the Rocket is launching>|
 
-|<^1BROOKS: ^7Clear. Movin' up.>|
+|<^1DELTA T-DOLL: ^7Clear. Movin' up.>|
 
 |<ÿÿ>|
 
