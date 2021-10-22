@@ -22,26 +22,21 @@
 
 |<Escape on the truck.>|
 
-|<Breach
->|
+|<Breach>|
 
 |<Press ^3[{+activate}]^7 to deploy parachute>|
 
 |<Assault the relay station>|
 
-|<Basejump
->|
+|<Basejump>|
 
 |<Knife Throw>|
 
-|<Snow Ambush
->|
+|<Snow Ambush>|
 
-|<Comm Ledge
->|
+|<Comm Ledge>|
 
-|<Rappel
->|
+|<Rappel>|
 
 |<Yamantau Base>|
 
@@ -77,7 +72,7 @@
 
 |<^L1700 hours,^L ^C1February 18, 1968^C>|
 
-|<^LSite suspected of being Project Rain development center.^L>|
+|<^LSite suspected of being Project Parapluie development center.^L>|
 
 |<^LKCCO base is in^L ^C1Yamantau, U.S.S.R.^L>|
 
@@ -263,7 +258,7 @@
 
 |<^1AK-12: ^7We're on camera. She's watching us.>|
 
-|<^1SUOMI: ^7RPK16 is burying everything and everyone connected to project Rain.>|
+|<^1SUOMI: ^7RPK16 is burying everything and everyone connected to project Parapluie.>|
 
 |<^1SUOMI: ^7I am sure I will be next.>|
 
@@ -327,11 +322,11 @@
 
 |<^1M16A1: ^7FASTER!!!>|
 
-|<^1ANGELIA: ^7C.P. - You're sending them the wrong way.>|
+|<^1ANGELIA: ^7Kalina - You're sending them the wrong way.>|
 
 |<^1ANGELIA: ^7The target's the other way.>|
 
-|<^1ANGELIA: ^7This doesn't look right, C.P.>|
+|<^1ANGELIA: ^7This doesn't look right, Kalina>|
 
 |<^1M16A1: ^7Roger, on the move.>|
 

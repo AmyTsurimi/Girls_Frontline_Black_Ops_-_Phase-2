@@ -126,11 +126,11 @@
 
 |<^1KALINA: ^7Check your target indicator.>|
 
-|<^1ANGELIA: ^7Use your target indicator to find Anti Rain on the tac, C.P.>|
+|<^1ANGELIA: ^7Use your target indicator to find Anti Rain on the tac, Kalina>|
 
 |<^1ANGELIA: ^7Tac Recon I see enemy vehicles inbound. Get the squad off the road.>|
 
-|<^1ANGELIA: ^7Looks like there's a structure to the North. Get them inside, C.P.>|
+|<^1ANGELIA: ^7Looks like there's a structure to the North. Get them inside, Kalina>|
 
 |<^1KALINA: ^7They're passing by the house.>|
 
@@ -154,7 +154,7 @@
 
 |<^1KALINA: ^7Good job, move up.>|
 
-|<^1ANGELIA: ^7C.P. - I see large patrol inbound.>|
+|<^1ANGELIA: ^7Kalina - I see large patrol inbound.>|
 
 |<^1KALINA: ^7AR, stop and drop.>|
 
@@ -282,7 +282,7 @@
 
 |<^1KALINA: ^7Area secure. Top work.>|
 
-|<^1ANGELIA: ^7C.P. multiple targets on the road! Get AR out of there!>|
+|<^1ANGELIA: ^7Kalina multiple targets on the road! Get AR out of there!>|
 
 |<^1KALINA: ^7AR, you have hostiles inbound. You need to vanish right now!>|
 
@@ -302,9 +302,9 @@
 
 |<^1M16A1: ^7On it.>|
 
-|<^1ANGELIA: ^7That's a negative C.P.>|
+|<^1ANGELIA: ^7That's a negative Kalina>|
 
-|<^1ANGELIA: ^7Belay that C.P.>|
+|<^1ANGELIA: ^7Belay that Kalina>|
 
 |<^1ANGELIA: ^7Negative.>|
 
