@@ -666,7 +666,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Get to the tunnels!>|
 
-|<^1DELTA T-DOLL: ^7Poor bastards...>|
+|<^1DELTA: ^7Poor bastards...>|
 
 |<^1HK416: ^7They're 90WISH bastards... They don't deserve sympathy.>|
 
@@ -918,7 +918,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7We're too late the Rocket is launching>|
 
-|<^1DELTA T-DOLL: ^7Clear. Movin' up.>|
+|<^1DELTA: ^7Clear. Movin' up.>|
 
 |<ÿÿ>|
 

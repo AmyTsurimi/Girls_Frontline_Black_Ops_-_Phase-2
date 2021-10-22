@@ -147,11 +147,11 @@
 
 |<^1M16A1: ^7Roger that.>|
 
-|<^1AR BETA: ^7M16, we need to keep this stealthy. Use your crossbow. If we get heat, switch to explosives.>|
+|<^1DELTA: ^7M16, we need to keep this stealthy. Use your crossbow. If we get heat, switch to explosives.>|
 
 |<^1AK-12: ^7One target patrolling outside the shed - two more inside>|
 
-|<^1AR BETA: ^7Two more by the truck on our right...>|
+|<^1DELTA: ^7Two more by the truck on our right...>|
 
 |<^1M16A1: ^7One more on the right Gantry,>|
 
@@ -165,7 +165,7 @@
 
 |<^1AK-12: ^7More infrantry inbound!>|
 
-|<^1AR BETA: ^7M16! switch to your explosive bolts!>|
+|<^1DELTA: ^7M16! switch to your explosive bolts!>|
 
 |<^1M16A1: ^7Do it! Go! Go! Go!>|
 
@@ -173,7 +173,7 @@
 
 |<^1M16A1: ^7Roger that BigEye.>|
 
-|<^1M16A1: ^7Alpha, Beta, control room. Wait for our breach.>|
+|<^1M16A1: ^7Alpha, Delta, control room. Wait for our breach.>|
 
 |<^1AK-12: ^7Shoot the hinges...>|
 
@@ -189,7 +189,7 @@
 
 |<^1ANGELIA: ^7Copy that. Your team is in position at the window?>|
 
-|<^1AR BETA: ^7We're in position.>|
+|<^1DELTA: ^7We're in position.>|
 
 |<^1ANGELIA: ^7Anti Rain you have multiple targets inbound to the comstat!>|
 
@@ -217,17 +217,17 @@
 
 |<^1AK-12: ^7RPG on the ridge!>|
 
-|<^1AR BETA: ^7M16! Get off the ledge!>|
+|<^1DELTA: ^7M16! Get off the ledge!>|
 
 |<^1AK-12: ^7Avalanche!!!!>|
 
 |<^1AK-12: ^7M16! Run! RUN!>|
 
-|<^1M16A1: ^7We lost Alpha!>|
+|<^1M16A1: ^7We lost Omega!>|
 
 |<^1M16A1: ^7Go!  Go!  Go!>|
 
-|<^1AR BETA: ^7See you at the bottom.>|
+|<^1DELTA: ^7See you at the bottom.>|
 
 |<^1AK-12: ^7I'll follow. Pick the LZ carefully M16.>|
 
@@ -339,13 +339,13 @@
 
 |<^1M16A1: ^7Roger.>|
 
-|<^1AR BETA: ^7We're clear.>|
+|<^1DELTA: ^7We're clear.>|
 
-|<^1AR BETA: ^7Clear.>|
+|<^1DELTA: ^7Clear.>|
 
-|<^1AR BETA: ^7M16 - Plant the charges.>|
+|<^1DELTA: ^7M16 - Plant the charges.>|
 
-|<^1AR BETA: ^7Let's move.>|
+|<^1DELTA: ^7Let's move.>|
 
 |<ÿÿ>|
 

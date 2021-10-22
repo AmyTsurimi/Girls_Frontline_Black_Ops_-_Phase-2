@@ -156,7 +156,7 @@
 
 |<^1UMP40: ^7Yes, 41... Time to hunt down the last remnants of the Paradeus.>|
 
-|<^1PPSh-41: ^7Gamma... Grab the gear... We are moving out.>|
+|<^1PPSh-41: ^7Alpha... Grab the gear... We are moving out.>|
 
 |<^1UMP40: ^7My dolls and I had fought through the most bitter of winters on the Eastern front... We were no strangers to the cold...>|
 
@@ -330,7 +330,7 @@
 
 |<^1RPK16: ^7Nyto, finish up here.>|
 
-|<^1UMP40: ^7PPSh-41, Zeta, Gamma, Omega... We are moving out!>|
+|<^1UMP40: ^7PPSh-41, Beta, Alpha, Gamma... We are moving out!>|
 
 |<^1RPK16: ^7UMP40, you and your dolls lead the way.>|
 
@@ -472,17 +472,17 @@
 
 |<^1UMP40: ^7Go! - Fight our way out!>|
 
-|<^1GAMMA T-DOLL: ^7More British!>|
+|<^1ALPHA: ^7More British!>|
 
 |<^1UMP40: ^7I will arm the explosives...>|
 
 |<^1UMP40: ^7We will plunge this vessel into the depths of hell! We cannot let either side possess this terrible weapon.>|
 
-|<^1GAMMA T-DOLL: ^7We can't hold forever!  Arm the explosives, 40.>|
+|<^1ALPHA: ^7We can't hold forever!  Arm the explosives, 40.>|
 
-|<^1GAMMA T-DOLL: ^7Hurry! - Get the explosives armed.>|
+|<^1ALPHA: ^7Hurry! - Get the explosives armed.>|
 
-|<^1GAMMA T-DOLL: ^740! The explosives need to be armed!>|
+|<^1ALPHA: ^740! The explosives need to be armed!>|
 
 |<^1UMP40: ^7I have armed the explosives!>|
 
@@ -490,15 +490,15 @@
 
 |<^1UMP40: ^7We do not have time to waste!>|
 
-|<^1GAMMA T-DOLL: ^7We have less than two minutes, 40!>|
+|<^1ALPHA: ^7We have less than two minutes, 40!>|
 
 |<^1UMP40: ^7We have less than four minutes!>|
 
-|<^1GAMMA T-DOLL: ^7Keep moving, time is running out!>|
+|<^1ALPHA: ^7Keep moving, time is running out!>|
 
 |<^1UMP40: ^7In three minutes this ship will be engulfed in flames.>|
 
-|<^1GAMMA T-DOLL: ^7We have to get off the ship!>|
+|<^1ALPHA: ^7We have to get off the ship!>|
 
 |<^1UMP40: ^7Hurry - We only have two minutes left!>|
 
@@ -510,43 +510,43 @@
 
 |<^1UMP40: ^7We're not going to make it!>|
 
-|<^1GAMMA T-DOLL: ^7The door sealed!>|
+|<^1ALPHA: ^7The door sealed!>|
 
-|<^1GAMMA T-DOLL: ^7Shoot the support beams! We can bring down those gantries!>|
+|<^1ALPHA: ^7Shoot the support beams! We can bring down those gantries!>|
 
-|<^1GAMMA T-DOLL: ^740! Shoot the beams!>|
+|<^1ALPHA: ^740! Shoot the beams!>|
 
-|<^1GAMMA T-DOLL: ^7Hurry! Bring down those gantries!>|
+|<^1ALPHA: ^7Hurry! Bring down those gantries!>|
 
-|<^1GAMMA T-DOLL: ^7Shoot the beams, 40! It's our only way out!>|
+|<^1ALPHA: ^7Shoot the beams, 40! It's our only way out!>|
 
 |<^1UMP40: ^7Yes!>|
 
 |<^1UMP40: ^7Go, my friends, GO!>|
 
-|<^1GAMMA T-DOLL: ^7We've got to get down to the deck!>|
+|<^1ALPHA: ^7We've got to get down to the deck!>|
 
-|<^1GAMMA T-DOLL: ^740, we can climb out that window!>|
+|<^1ALPHA: ^740, we can climb out that window!>|
 
-|<^1GAMMA T-DOLL: ^7Hurry, out the window!>|
+|<^1ALPHA: ^7Hurry, out the window!>|
 
 |<^1UMP40: ^7Keep moving!>|
 
 |<^1UMP40: ^7This is not our War!>|
 
-|<^1GAMMA T-DOLL: ^7Then who do we fight?!!>|
+|<^1ALPHA: ^7Then who do we fight?!!>|
 
 |<^1UMP40: ^7EVERYONE!!!>|
 
 |<^1UMP40: ^7We stand alone!>|
 
-|<^1GAMMA T-DOLL: ^7The ship is being torn apart.>|
+|<^1ALPHA: ^7The ship is being torn apart.>|
 
-|<^1GAMMA T-DOLL: ^740! We can use the rope!>|
+|<^1ALPHA: ^740! We can use the rope!>|
 
-|<^1GAMMA T-DOLL: ^7Down the rope! Hurry!>|
+|<^1ALPHA: ^7Down the rope! Hurry!>|
 
-|<^1GAMMA T-DOLL: ^7Go, 40!  Go!!!>|
+|<^1ALPHA: ^7Go, 40!  Go!!!>|
 
 |<^1UMP40: ^7I had destroyed the Parapluie shipment and kept it from the  British. But I was a fool to think that it was over.  It was only after I was sent to Vorkuta, that I learned of RPK16's intentions. She will die before she gives up on Parapluie.>|
 
@@ -570,39 +570,39 @@
 
 |<^1UMP40: ^7These... 'dolls'... must die.>|
 
-|<^1GAMMA T-DOLL: ^7Target down.>|
+|<^1ALPHA: ^7Target down.>|
 
-|<^1GAMMA T-DOLL: ^7He's dead.>|
+|<^1ALPHA: ^7He's dead.>|
 
-|<^1GAMMA T-DOLL: ^7You got him.>|
+|<^1ALPHA: ^7You got him.>|
 
-|<^1GAMMA T-DOLL: ^7Enemy down>|
+|<^1ALPHA: ^7Enemy down>|
 
-|<^1GAMMA T-DOLL: ^7He's down>|
+|<^1ALPHA: ^7He's down>|
 
-|<^1GAMMA T-DOLL: ^7Target eliminated>|
+|<^1ALPHA: ^7Target eliminated>|
 
-|<^1GAMMA T-DOLL: ^7Confirmed kill>|
+|<^1ALPHA: ^7Confirmed kill>|
 
-|<^1GAMMA T-DOLL: ^7That's a kill>|
+|<^1ALPHA: ^7That's a kill>|
 
-|<^1GAMMA T-DOLL: ^7Enemy neutralized>|
+|<^1ALPHA: ^7Enemy neutralized>|
 
-|<^1GAMMA T-DOLL: ^7Reloading>|
+|<^1ALPHA: ^7Reloading>|
 
-|<^1GAMMA T-DOLL: ^7I need to reload>|
+|<^1ALPHA: ^7I need to reload>|
 
-|<^1GAMMA T-DOLL: ^7I am reloading>|
+|<^1ALPHA: ^7I am reloading>|
 
-|<^1GAMMA T-DOLL: ^7Reloading. Give me cover>|
+|<^1ALPHA: ^7Reloading. Give me cover>|
 
-|<^1GAMMA T-DOLL: ^7Reloading. Maintain cover.>|
+|<^1ALPHA: ^7Reloading. Maintain cover.>|
 
-|<^1GAMMA T-DOLL: ^7Grenade in.>|
+|<^1ALPHA: ^7Grenade in.>|
 
-|<^1GAMMA T-DOLL: ^7Move!>|
+|<^1ALPHA: ^7Move!>|
 
-|<^1GAMMA T-DOLL: ^7Forward!>|
+|<^1ALPHA: ^7Forward!>|
 
 |<ÿÿ>|
 

@@ -138,7 +138,7 @@
 
 |<^1AK-12: ^7Yankee two - Starboard side. Move up!>|
 
-|<^1AR BETA: ^7Roger that, moving in.>|
+|<^1DELTA: ^7Roger that, moving in.>|
 
 |<^1AK-12: ^7Yankee one - on me.>|
 
@@ -210,23 +210,23 @@
 
 |<^1AK-12: ^7All clear.  Moving up.>|
 
-|<^1AR BETA: ^7Engaging.>|
+|<^1DELTA: ^7Engaging.>|
 
-|<^1AR BETA: ^7Open fire.>|
+|<^1DELTA: ^7Open fire.>|
 
-|<^1AR BETA: ^7Engaging targets.>|
+|<^1DELTA: ^7Engaging targets.>|
 
-|<^1AR BETA: ^7Yankee two are pinned down!>|
+|<^1DELTA: ^7Yankee two are pinned down!>|
 
-|<^1AR BETA: ^7Yankee two under fire! I Say again - Yankee two under fire.>|
+|<^1DELTA: ^7Yankee two under fire! I Say again - Yankee two under fire.>|
 
-|<^1AR BETA: ^7We need fire support!>|
+|<^1DELTA: ^7We need fire support!>|
 
-|<^1AR BETA: ^7Nice work, Alpha.>|
+|<^1DELTA: ^7Nice work, Alpha.>|
 
-|<^1AR BETA: ^7Yankee two, move up.>|
+|<^1DELTA: ^7Yankee two, move up.>|
 
-|<^1AR BETA: ^7Clear.  Moving up.>|
+|<^1DELTA: ^7Clear.  Moving up.>|
 
 |<^1M16A1: ^7Roger that, Yankee.>|
 
