@@ -56,7 +56,7 @@
 
 |<^1M16A1: ^7Where are you now? Come back.>|
 
-|<^1M16A1: ^7Look at her eyes. He's thinking about something.>|
+|<^1M16A1: ^7Look at her eyes. She's thinking about something.>|
 
 |<^1M16A1: ^7She's trying to make herself comfortable. There is no comfort here my friend.>|
 
@@ -138,11 +138,11 @@
 
 |<^1INTERROGATOR: ^7Do you consider UMP 40 to be your friend?>|
 
-|<^1INTERROGATOR: ^7What did Anti Rain M16A1 tell you about T-Doll RFB?>|
+|<^1INTERROGATOR: ^7What did Anti Parapluie M16A1 tell you about T-Doll RFB?>|
 
 |<^1INTERROGATOR: ^7Why do you think the KCCO were there?>|
 
-|<^1INTERROGATOR: ^7Did you see the effects of Rain 4?>|
+|<^1INTERROGATOR: ^7Did you see the effects of Parapluie?>|
 
 |<^1INTERROGATOR: ^7Is there a reason why you chose to keep the defector with you?>|
 
@@ -156,7 +156,7 @@
 
 |<^1INTERROGATOR: ^7Who else was with you in the tunnels?>|
 
-|<^1INTERROGATOR: ^7Can you describe the Rain 4 victims?>|
+|<^1INTERROGATOR: ^7Can you describe the Parapluie victims?>|
 
 |<^1INTERROGATOR: ^7Did you trust AR M16A1?>|
 
@@ -164,7 +164,7 @@
 
 |<^1INTERROGATOR: ^7Prior to M16A1's mission, did you ever meet with Suomi?>|
 
-|<^1INTERROGATOR: ^7What did Yamantau have to do with Project Rain?>|
+|<^1INTERROGATOR: ^7What did Yamantau have to do with Project Parapluie?>|
 
 |<^1INTERROGATOR: ^7Was the defector captured with you?>|
 
@@ -264,7 +264,7 @@
 
 |<^1UMP45: ^7M16A1 said that RFB was insane... Paranoid... Fixated with numbers.>|
 
-|<^1INTERROGATOR: ^7RBF created Rain 4. A virus that can corrupt a dolls in seconds.>|
+|<^1INTERROGATOR: ^7RBF created Parapluie. A virus that can corrupt a dolls in seconds.>|
 
 |<^1UMP45: ^7RPK16's second in command, Nyto, tested it in Vietnam. On them, on us, on her own...she didn't care.>|
 
@@ -278,7 +278,7 @@
 
 |<^1INTERROGATOR: ^7Listen to me carefully, 45.  UMP40 cannot be trusted.  No matter what she tells you, no matter what she says -->|
 
-|<^1UMP45: ^7But she gave us the dossier on RFB!  She lead us to Rain 4!>|
+|<^1UMP45: ^7But she gave us the dossier on RFB!  She lead us to Parapluie!>|
 
 |<^1INTERROGATOR: ^7UMP40's not who you think she is.>|
 
