@@ -87,7 +87,11 @@ LANG_ENGLISH		"^1UMP40: ^7The pain is difficult, isn't it?"
 REFERENCE			INT_ESCAPE_VOX_INT1_S01_055B_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7RPK16 brainwashed you, but UMP40 had plans of her own..."
 REFERENCE			INT_ESCAPE_VOX_INT1_S01_063A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7She was never in Vietnam.  The real  defector with the Rain 4 dossier died during the attack on the MAC-V."
+LANG_ENGLISH		"^1M16A1: ^7She was never in Vietnam.  The real  defector with the Rain 4 dossier died during the attack on DEFY!"
+REFERENCE			INT_ESCAPE_VOX_INTL_S01_302A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7She was never in the rat tunnels."
+REFERENCE			INT_ESCAPE_VOX_INTL_S01_303A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7She was never at Rebirth Island!"
 REFERENCE			INT_ESCAPE_VOX_INT1_S01_082B_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7UMP 40's been dead for 5 years. She died at Vorkuta during the escape! All the years you thought she was with you - that was just in your mind!"
 REFERENCE			INT_ESCAPE_VOX_INT1_S01_083A_MASO_M
