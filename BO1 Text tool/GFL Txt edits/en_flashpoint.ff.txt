@@ -240,7 +240,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Let's go. Pick it up.>|
 
-|<^1HK416: ^7Whiskey come back.>|
+|<^1HK416: ^7Reina come back.>|
 
 |<^1UMP9: ^7Go X-ray.>|
 
@@ -302,11 +302,11 @@ the Bureau Group and kill the scientists.>|
 
 |<^1UMP45: ^7Sick bastard took out her eye!>|
 
-|<^1HK416: ^7Whiskey team, are you in position?>|
+|<^1HK416: ^7Reina team, are you in position?>|
 
 |<^1HK416: ^79, are you in position?>|
 
-|<^1UMP9: ^7Roger X-ray. Whiskey is covering the road.>|
+|<^1UMP9: ^7Roger X-ray. Reina is covering the road.>|
 
 |<^1HK416: ^7AK-12's been compromised. Expect the base to be in elevated alert.>|
 
@@ -400,7 +400,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Delta and 9 should be right up ahead.>|
 
-|<^1UMP9: ^7X-ray this is Whiskey. Hostiles in sight. Takin' 'em out.>|
+|<^1UMP9: ^7X-ray this is Reina. Hostiles in sight. Takin' 'em out.>|
 
 |<^1HK416: ^7Hustle up.>|
 
