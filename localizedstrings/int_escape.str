@@ -88,9 +88,9 @@ REFERENCE			VOX_INT1_S01_055B_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7RPK16 brainwashed you, but UMP40 had plans of her own..."
 REFERENCE			VOX_INT1_S01_063A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7She was never in Vietnam.  The real  defector with the Rain 4 dossier died during the attack on DEFY!"
-REFERENCE			VOX_INTL_S01_302A_HUDS
+REFERENCE			VOX_INT1_S01_302A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7She was never in the rat tunnels."
-REFERENCE			VOX_INTL_S01_303A_HUDS
+REFERENCE			VOX_INT1_S01_303A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7She was never at Rebirth Island!"
 REFERENCE			VOX_INT1_S01_082B_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7UMP 40's been dead for 5 years. She died at Vorkuta during the escape! All the years you thought she was with you - that was just in your mind!"
