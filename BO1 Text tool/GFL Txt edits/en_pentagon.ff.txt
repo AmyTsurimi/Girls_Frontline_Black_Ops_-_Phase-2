@@ -4,13 +4,13 @@
 
 |<^0^L1700 hours,^L ^C1November 10, 1963^C>|
 
-|<^0^LRedirect^L ^C1UMP45^C ^Lto the^L ^C1G&K-HQ.^C>|
+|<^0^LRedirect^L ^C1UMP45^C ^Lto the^L ^C1Griffin-HQ.^C>|
 
-|<^1INTERROGATOR: ^7You were cleared for duty and summoned to the G&K-HQ.>|
+|<^1INTERROGATOR: ^7You were cleared for duty and summoned to the Griffin-HQ.>|
 
 |<^1UMP45: ^7M16A1 was my new handler.>|
 
-|<^1INTERROGATOR: ^7Why the G&K-HQ?>|
+|<^1INTERROGATOR: ^7Why the Griffin-HQ?>|
 
 |<^1UMP45: ^7M16 couldn't tell me. Didn't have clearance.>|
 
@@ -28,7 +28,7 @@
 
 |<^1UMP45: ^7That's not possible.>|
 
-|<^1INTERROGATOR: ^7I was at the G&K-HQ.>|
+|<^1INTERROGATOR: ^7I was at the Griffin-HQ.>|
 
 |<^1UMP45: ^7I remember. I kept hearing numbers. I cou.. couldn't get them out of my head.>|
 
@@ -48,7 +48,7 @@
 
 |<^1M16A1: ^7This is it.>|
 
-|<^1G&K MP: ^7Your convoy is ready, ma'am. Welcome to the G&K-HQ.>|
+|<^1G&K MP: ^7Your convoy is ready, ma'am. Welcome to the Griffin-HQ.>|
 
 |<^1M16A1: ^7We're late.>|
 
@@ -56,11 +56,11 @@
 
 |<^1UMP45: ^7Secretary M1903.>|
 
-|<^1Springfield: ^7Your reputation precedes you, madam.>|
+|<^1SPRINGFIELD: ^7Your reputation precedes you, madam.>|
 
 |<^1GENERAL: ^7Step on it!>|
 
-|<^1Springfield: ^7Nothing less than our national security is at stake. She has no fear. No conscience. No weakness. This is RPK - 16. I believe you two have already met.>|
+|<^1SPRINGFIELD: ^7Nothing less than our national security is at stake. She has no fear. No conscience. No weakness. This is RPK - 16. I believe you two have already met.>|
 
 |<^1RPK16: ^7She will know suffering beyond her darkest fears...>|
 
@@ -70,63 +70,63 @@
 
 |<^1UMP45: ^7When do I kill her?>|
 
-|<^1Springfield: ^7We're lucky to have you back, UMP45.>|
+|<^1SPRINGFIELD: ^7We're lucky to have you back, UMP45.>|
 
-|<^1Springfield: ^7The VIP.>|
+|<^1SPRINGFIELD: ^7The VIP.>|
 
 |<^1CLERK: ^7She's here.>|
 
-|<^1Springfield: ^7Don't worry, no KCCO.>|
+|<^1SPRINGFIELD: ^7Don't worry, no KCCO.>|
 
-|<^1Springfield: ^7The finest people at the G&K, right here. 24/7, it never ends.>|
+|<^1SPRINGFIELD: ^7The finest people at the Griffin, right here. 24/7, it never ends.>|
 
-|<^1Springfield: ^7Please tell her we're here.>|
+|<^1SPRINGFIELD: ^7Please tell her we're here.>|
 
 |<^1CHECKPOINT CLERK: ^7At once, ma'am.>|
 
 |<^1CHECKPOINT CLERK: ^7Clearance Prospero.>|
 
-|<^1Springfield: ^7Distinguished heroes.>|
+|<^1SPRINGFIELD: ^7Distinguished heroes.>|
 
-|<^1Springfield: ^7Distinguished leaders.>|
+|<^1SPRINGFIELD: ^7Distinguished leaders.>|
 
-|<^1Springfield: ^7Ariel.>|
+|<^1SPRINGFIELD: ^7Ariel.>|
 
 |<^1ELEVATOR GUARD: ^7VIPs>|
 
-|<^1Springfield: ^7She's waiting.>|
+|<^1SPRINGFIELD: ^7She's waiting.>|
 
-|<^1Springfield: ^7The nerve center. I believe I'm correct in saying that civilization has been saved, more than once, in this room.>|
+|<^1SPRINGFIELD: ^7The nerve center. I believe I'm correct in saying that civilization has been saved, more than once, in this room.>|
 
 |<^1M16A1: ^7It never gets old. Overwhelming, isn't it?>|
 
-|<^1Springfield: ^7Not yet.>|
+|<^1SPRINGFIELD: ^7Not yet.>|
 
 |<^1AGENT: ^7Williams, what have you got on Operation Phoenix? Have we discovered the leak yet?>|
 
 |<^1WILLIAMS: ^7Well... We, we know where it's coming from, but it's buried. The leak's still active...>|
 
-|<^1Springfield: ^7Sycorax.>|
+|<^1SPRINGFIELD: ^7Sycorax.>|
 
-|<^1Springfield: ^7This inner sanctum was built in 1943. We rarely use it.>|
+|<^1SPRINGFIELD: ^7This inner sanctum was built in 1943. We rarely use it.>|
 
 |<^1M16A1: ^7Thank you, Ms. Secretary.>|
 
 |<^1M16A1: ^7Good luck, 45.>|
 
-|<^1Springfield: ^7Commander.>|
+|<^1SPRINGFIELD: ^7Commander.>|
 
-|<^1Commander: ^7T-Doll UMP45.>|
+|<^1COMMANDER: ^7T-Doll UMP45.>|
 
 |<^1UMP45: ^7A great honor, Commander.>|
 
-|<^1Commander: ^7Sit.>|
+|<^1COMMANDER: ^7Sit.>|
 
-|<^1Commander: ^7We are in grave danger from the Sangvis Ferri. Our freedom... Our very way of life is at risk.>|
+|<^1COMMANDER: ^7We are in grave danger from the Sangvis Ferri. Our freedom... Our very way of life is at risk.>|
 
-|<^1Commander: ^7RPK16.>|
+|<^1COMMANDER: ^7RPK16.>|
 
-|<^1Commander: ^7I'm told you are the very best that we have. Anywhere. - You will need to be. - UMP 45, take care of it.>|
+|<^1COMMANDER: ^7I'm told you are the very best that we have. Anywhere. - You will need to be. - UMP 45, take care of it.>|
 
 |<^1UMP45: ^7I am.>|
 
