@@ -105,7 +105,7 @@
 
 |<^1UMP40: ^7RRARRRGH!!!>|
 
-|<^1UMP40: ^7You will break, G&K T-Doll.>|
+|<^1UMP40: ^7You will break, Griffin Doll.>|
 
 |<^1UMP45: ^7Damn! Do you have to hit so hard?>|
 
@@ -167,7 +167,7 @@
 
 |<^1UMP40: ^7Step two?!>|
 
-|<^1U.S.S.R PRISONER: ^7UMP40, you sure you can trust this G&K T-Doll?>|
+|<^1U.S.S.R PRISONER: ^7UMP40, you sure you can trust this Griffin Doll?>|
 
 |<^1UMP40: ^7With my life.>|
 
@@ -673,7 +673,7 @@
 
 |<^1UMP40: ^7Not for me...>|
 
-|<^1UMP45: ^740!!!>|
+|<^1UMP45: ^7SIS!!!>|
 
 |<ÿÿ>|
 
