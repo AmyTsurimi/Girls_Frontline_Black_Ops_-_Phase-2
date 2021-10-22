@@ -262,7 +262,7 @@
 
 |<Use>|
 
-|<Destroy the T55 tanks [&&1 of 3 destroyed]>|
+|<Destroy the Typhon tanks [&&1 of 3 destroyed]>|
 
 |<Destroy>|
 
@@ -270,7 +270,7 @@
 
 |<Retake the hill>|
 
-|<Destroy the T55 tanks [&&1 of 6 destroyed]>|
+|<Destroy the Typhon tanks [&&1 of 6 destroyed]>|
 
 |<Save HK416>|
 
@@ -336,11 +336,11 @@
 
 |<^1HK416: ^7Let me fill in the blanks for you...>|
 
-|<^1HK416: ^7Back in '64, the US gave up control of Covert Operations in South East Asia. Handed it over to the G&K Military.>|
+|<^1HK416: ^7Back in '64, the URNC gave up control of Covert Operations in South East Asia. Handed it over to the Griffin Military.>|
 
 |<^1HK416: ^7From that, Group 404 was born.>|
 
-|<^1HK416: ^7Now aside from being a base for the G&K T-Dolls, Khe Sanh is our launching point for all cross border activities.>|
+|<^1HK416: ^7Now aside from being a base for the Griffin T-Dolls, Khe Sanh is our launching point for all cross border activities.>|
 
 |<^1HK416: ^7Mostly Laos and Cambodia...>|
 
@@ -450,9 +450,9 @@
 
 |<^1HK416: ^7Hit 'em!!!>|
 
-|<^1HK416: ^7Shit... We got armor moving up - KCCO T-55's!>|
+|<^1HK416: ^7Shit... We got armor moving up - KCCO Typhon's!>|
 
-|<^1HK416: ^7We got armor moving up - KCCO T-55's!>|
+|<^1HK416: ^7We got armor moving up - KCCO Typhon's!>|
 
 |<^1HK416: ^7That China lake ain't gonna cut it!>|
 
@@ -476,13 +476,13 @@
 
 |<^1HK416: ^7Keep firing.>|
 
-|<^1F4 PILOT: ^7Roger that, Big 6. Red Rider is inbound. 2 minutes. Please stand by.>|
+|<^1T-DOLL PILOT: ^7Roger that, Big 6. Red Rider is inbound. 2 minutes. Please stand by.>|
 
 |<^1HK416: ^7We're outta time.>|
 
-|<^1F4 PILOT: ^7Be advised, Red Rider on station. Keep your head down.>|
+|<^1T-DOLL PILOT: ^7Be advised, Red Rider on station. Keep your head down.>|
 
-|<^1F4 PILOT: ^7High explosive ordnance on target. Have a nice day. Red Rider out.>|
+|<^1T-DOLL PILOT: ^7High explosive ordnance on target. Have a nice day. Red Rider out.>|
 
 |<^1HK416: ^7Hell ya!>|
 
@@ -572,7 +572,7 @@
 
 |<^1HK416: ^7Damn! I can't get near it!>|
 
-|<^1HK416: ^7And I thought he was a pussy...>|
+|<^1HK416: ^7And I thought she was a pussy...>|
 
 |<^1HK416: ^7And I thought...>|
 
@@ -616,7 +616,7 @@
 
 |<^1T-DOLL: ^7Quick, do it!>|
 
-|<^1F4 PILOT: ^7Six. Red Rider.>|
+|<^1T-DOLL PILOT: ^7Six. Red Rider.>|
 
 |<^1T-DOLL: ^7What's your position?>|
 
@@ -682,7 +682,7 @@
 
 |<^1T-DOLL: ^7Fire. Put it right there.>|
 
-|<^1F4 PILOT: ^7OK, standing by.>|
+|<^1T-DOLL PILOT: ^7OK, standing by.>|
 
 |<^1T-DOLL: ^7Repeat your last please.>|
 
@@ -702,13 +702,13 @@
 
 |<^1T-DOLL: ^7God damn it.>|
 
-|<^1B-52 PILOT: ^7Arc Light, 10 minutes out.>|
+|<^1HOC PILOT: ^7Arc Light, 10 minutes out.>|
 
-|<^1B-52 PILOT: ^7Arc Light, 5 minutes out.>|
+|<^1HOC PILOT: ^7Arc Light, 5 minutes out.>|
 
-|<^1B-52 PILOT: ^7Arc Light, 2 minutes out.>|
+|<^1HOC PILOT: ^7Arc Light, 2 minutes out.>|
 
-|<^1B-52 PILOT: ^7Arc Light, 1 minute out.>|
+|<^1HOC PILOT: ^7Arc Light, 1 minute out.>|
 
 |<^1HK416: ^7What the FUCK!>|
 
@@ -728,7 +728,7 @@
 
 |<^1T-DOLL: ^7Ok... on three!>|
 
-|<^1KALINA COMS: ^7This is the Psychedellic music show on AFVN, I'm G&K logistics officer Kalina, our APO here is 96309.>|
+|<^1KALINA COMS: ^7This is the Psychedellic music show on AFVN, I'm Griffin logistics officer Kalina, our APO here is 96309.>|
 
 |<^1KALINA COMS: ^7If you send a request to that number, what we do is,  we open it like this [paper flip] when it arrives, we read it, pull out the record, and play it on the air.  Like this one...>|
 
@@ -762,25 +762,25 @@
 
 |<^1HK416: ^745! Call in the Phantoms!>|
 
-|<^1UMP45: ^7VF 143! Authorization Sierra Oscar Golf X-ray. Priority one ordnance on my command!>|
+|<^1UMP45: ^7VF 143! Authorization Four Zero Four X-ray. Priority one ordnance on my command!>|
 
-|<^1F4 PILOT: ^7Roger that, X-ray. VF 143 Standing by.>|
+|<^1T-DOLL PILOT: ^7Roger that, X-ray. VF 143 Standing by.>|
 
-|<^1F4 PILOT: ^7Affirmative X-ray. Engaging.>|
+|<^1T-DOLL PILOT: ^7Affirmative X-ray. Engaging.>|
 
-|<^1F4 PILOT: ^7Coordinates received.  Keep your heads down, X-ray.>|
+|<^1T-DOLL PILOT: ^7Coordinates received.  Keep your heads down, X-ray.>|
 
-|<^1F4 PILOT: ^7Understood X-ray. Commencing run.>|
+|<^1T-DOLL PILOT: ^7Understood X-ray. Commencing run.>|
 
-|<^1F4 PILOT: ^7VF 143. Beginning bomb run.>|
+|<^1T-DOLL PILOT: ^7VF 143. Beginning bomb run.>|
 
-|<^1F4 PILOT: ^7Roger X-ray. Coming in for strafing run.>|
+|<^1T-DOLL PILOT: ^7Roger X-ray. Coming in for strafing run.>|
 
-|<^1F4 PILOT: ^7Understood. Stand by, X-ray.>|
+|<^1T-DOLL PILOT: ^7Understood. Stand by, X-ray.>|
 
-|<^1F4 PILOT: ^7VF 143 inbound.>|
+|<^1T-DOLL PILOT: ^7VF 143 inbound.>|
 
-|<^1F4 PILOT: ^7Roger X-ray - Targeting Sector.>|
+|<^1T-DOLL PILOT: ^7Roger X-ray - Targeting Sector.>|
 
 |<^1HK416: ^7Get to that bunker!>|
 
@@ -810,9 +810,9 @@
 
 |<^1HK416: ^7Now that's what I'm talkin' about!>|
 
-|<^1B-52 PILOT: ^7Arc Light coordinates confirmed engaging>|
+|<^1HOC PILOT: ^7Arc Light coordinates confirmed engaging>|
 
-|<^1B-52 PILOT: ^7Roger that we are inbound>|
+|<^1HOC PILOT: ^7Roger that we are inbound>|
 
 |<^1UMP45: ^7I'm here because of your run in with the KCCO!>|
 
