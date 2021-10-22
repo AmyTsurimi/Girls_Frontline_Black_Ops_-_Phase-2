@@ -14,7 +14,7 @@
 
 |<Proceed to jump point>|
 
-|<Infiltrate the Rain 4 facility>|
+|<Infiltrate the Parapluie facility>|
 
 |<Locate Suomi's Office.>|
 
@@ -129,7 +129,7 @@
 
 |<^1M16A1: ^7Main facility is located at the base of the ridge.>|
 
-|<^1M16A1: ^7If we're gonna find evidence that Rain 4 has been weaponized, it'll be there.>|
+|<^1M16A1: ^7If we're gonna find evidence that Parapluie has been weaponized, it'll be there.>|
 
 |<^1M16A1: ^7Once we knock out the external comms, they'll realize something's wrong.>|
 
@@ -271,9 +271,9 @@
 
 |<^1AK-12: ^7Targets marked across the states...>|
 
-|<^1SUOMI: ^7All across G&K, RPK16 has sleeper cells waiting for the signal to release the Rain 4.>|
+|<^1SUOMI: ^7All across G&K, RPK16 has sleeper cells waiting for the signal to release the Parapluie.>|
 
-|<^1AK-12: ^7Weaponized Rain 4.>|
+|<^1AK-12: ^7Weaponized Parapluie.>|
 
 |<^1M16A1: ^7The numbers broadcasts - What do they mean?>|
 

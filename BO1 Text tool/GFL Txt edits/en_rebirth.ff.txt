@@ -65,9 +65,9 @@
 |<Press ^3[{+melee}]^7 to tackle UMP45>|
 
 |<Your hazmat suit was punctured.
-You were exposed to Rain 4!>|
+You were exposed to Parapluie!>|
 
-|<You were exposed to Rain 4!>|
+|<You were exposed to Parapluie!>|
 
 |<You were detected.>|
 
@@ -92,7 +92,7 @@ T-Doll Suomi. M16A1 saw what happened.>|
 
 |<^1UMP40: ^7Rebirth Island... Source of RPK16's virus.>|
 
-|<^1UMP40: ^7They are preparing to deliver Rain 4.>|
+|<^1UMP40: ^7They are preparing to deliver Parapluie.>|
 
 |<^1UMP45: ^7Not on my watch.>|
 

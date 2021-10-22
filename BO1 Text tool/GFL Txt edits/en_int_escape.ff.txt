@@ -164,7 +164,7 @@ Our freedom and our very way of life is at risk.>|
 |<^1UMP45: ^7Never thought I'd see you alive...>|
 
 |<^1M16A1: ^7She was never in Vietnam.  
-The real  defector with the Rain 4 dossier 
+The real  defector with the Parapluie dossier 
 died during the attack on the DEFY.>|
 
 |<^1M16A1: ^7She was never in the rat tunnels.>|
@@ -222,12 +222,12 @@ All the years you thought she was with you - that was just in your mind!>|
 
 |<^1M16A1: ^7There are gaps in your memory. Periods where you went MIA and we couldn't account for you. But now that the brainwashing's been broken, all that lost time will come back.>|
 
-|<^1M16A1: ^7We need to leave... The Rain 4 strike is imminent. Hundreds of sleeper agents, hidden in every G&K base, 
+|<^1M16A1: ^7We need to leave... The Parapluie strike is imminent. Hundreds of sleeper agents, hidden in every G&K base, 
 are about to unleash this virus on your own T-Dolls.>|
 
 |<^1M16A1: ^7When Suomi died, we lost our key to unlocking the location of number broadcasts...>|
 
-|<^1M16A1: ^7You were programmed at Vorkuta to translate the number codes. Only you can tell us what the codes mean. Rain 4 was just one of the sleeper operations. But I'm sure there were others...ones we didn't even know about.>|
+|<^1M16A1: ^7You were programmed at Vorkuta to translate the number codes. Only you can tell us what the codes mean. Parapluie was just one of the sleeper operations. But I'm sure there were others...ones we didn't even know about.>|
 
 |<^1M16A1: ^7We have the broadcasts, we played them to you over and over again for hours, but we haven't been able to break through your programming yet.>|
 

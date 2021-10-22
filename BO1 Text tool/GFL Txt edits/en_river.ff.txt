@@ -19,7 +19,7 @@
 
 |<^L1300 hours,^L ^C1February 11, 1968^C>|
 
-|<^C1UMP45^C ^Land 404 sent to retrieve Rain 4 from the wreckage.^L>|
+|<^C1UMP45^C ^Land 404 sent to retrieve Parapluie from the wreckage.^L>|
 
 |<^LKCCO commercial cargo plane shot down over^L ^C1Laos. ^C>|
 
@@ -136,7 +136,7 @@ I swear to God that 416 was crying, but she never let us see no tears.>|
 
 |<^1UMP45: ^7The CIA downed the cargo plane five klicks from here.>|
 
-|<^1HK416: ^7We'd better get to the Rain 4 before the KCCO can clean it up.>|
+|<^1HK416: ^7We'd better get to the Parapluie before the KCCO can clean it up.>|
 
 |<^1UMP45: ^7All right... Let's move.>|
 
@@ -616,7 +616,7 @@ I swear to God that 416 was crying, but she never let us see no tears.>|
 
 |<^1HK416: ^7That's why the Hinds went away. They can't leave any evidence.>|
 
-|<^1UMP45: ^7The cargo must have been Rain 4. Nyto wouldn't go to all this trouble for nothing.>|
+|<^1UMP45: ^7The cargo must have been Parapluie. Nyto wouldn't go to all this trouble for nothing.>|
 
 |<^1HK416: ^7That's the last of them.>|
 
