@@ -3156,12 +3156,12 @@ Time remaining in round: &&3
 
 |<THEATER BUTTON LAYOUT>|
 
-|<Battle the undead in this theatrical installment of "Zombies". New twists and clues could uncover the final plan. It's show time!
+|<Battle the undead in this theatrical installment of "ELIDs". New twists and clues could uncover the final plan. It's show time!
 >|
 
 |<Interplanetary zombie action!   Day 1 DLC content.>|
 
-|<The Pentagon is under attack!  Washington is going to DEFCON 1 in this installment of "Zombies".>|
+|<The Griffin is under attack!  Griffin is going to DEFCON 1 in this installment of "ELIDs".>|
 
 |<YES>|
 
@@ -8386,13 +8386,13 @@ Marketplace>|
 
 |<^1UMP45: ^7NO!>|
 
-|<^1INTERROGATOR: ^7We know you did. He turned herself in at DEFY. You were there, 45. He had intel on RPK16. Everything. But it was a lost cause.>|
+|<^1INTERROGATOR: ^7We know you did. He turned himself in at DEFY. You were there, 45. He had intel on RPK16. Everything. But it was a lost cause.>|
 
 |<^1UMP45: ^7Shut the $&#* up!>|
 
 |<^1INTERROGATOR: ^7The NVA had surrounded the city.  DEFY had all but burned to the ground. The defector was surely dead.>|
 
-|<^1UMP45: ^7She wasnt dead!>|
+|<^1UMP45: ^7She wasn't dead!>|
 
 |<^1INTERROGATOR: ^7It was a lost cause and you still went in - why?>|
 
@@ -8420,21 +8420,21 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7What about your AR handler, M16A1. Was she in Khe Sanh? Do you remember her there?>|
 
-|<^1UMP45: ^7M16.. [laughs] Yeah. Ms. Eyepatch. That guy was an ice cube.>|
+|<^1UMP45: ^7M16... [laughs] Yeah. Ms. Eyepatch. That doll was an ice cube.>|
 
 |<^1INTERROGATOR: ^7We have the dossier that the defector gave you at DEFY.>|
 
-|<^1INTERROGATOR: ^7We've ID'd all of RPK16's men. Nyto, Suomi, RFB.>|
+|<^1INTERROGATOR: ^7We've ID'd all of RPK16's dolls. Nyto, Suomi, RFB.>|
 
-|<^1INTERROGATOR: ^7You know them. Masterminds of Project Rain.>|
+|<^1INTERROGATOR: ^7You know them. Masterminds of Project Parapluie.>|
 
-|<^1UMP45: ^7Rain 4. UMP40 called it Rain 4.>|
+|<^1UMP45: ^7Parapluie. UMP40 called it Parapluie.>|
 
 |<^1UMP45: ^7RPK16...>|
 
-|<^1INTERROGATOR: ^7What do you know about Doll RFB?>|
+|<^1INTERROGATOR: ^7What do you know about T-Doll RFB?>|
 
-|<^1INTERROGATOR: ^7We know that RFB was the T-Doll who helped spread Rain 4. Malignant narcissist. Degenerate prodigy.>|
+|<^1INTERROGATOR: ^7We know that RFB was the T-Doll who helped create Parapluie. Malignant narcissist. Degenerate prodigy.>|
 
 |<^1INTERROGATOR: ^7Your handler M16A1 was sent to Kowloon to interrogate RFB. Do you remember?>|
 
@@ -8452,17 +8452,17 @@ Marketplace>|
 
 |<^1UMP45: ^7They tested me. They knew I wouldn't break and I won't break now.>|
 
-|<^1INTERROGATOR: ^7The government wanted RPK16. They wanted you to kill her.>|
+|<^1INTERROGATOR: ^7The Commander wanted RPK16. She wanted you to kill her.>|
 
 |<^1UMP45: ^7Yeah, and there were others. Others I was supposed to kill.>|
 
 |<^1INTERROGATOR: ^7Who? Who, 45?>|
 
-|<^1INTERROGATOR: ^7RPK16 has fully weaponized and deployed Rain 4. She has sleeper cell agents all over the US just waiting for the signal..>|
+|<^1INTERROGATOR: ^7RPK16 has fully weaponized and deployed Parapluie. She has sleeper cell agents all over the G&K just waiting for the signal...>|
 
 |<^1UMP45: ^7[interrupts] We've been invaded.>|
 
-|<^1INTERROGATOR: ^7The US was invaded decades ago 45. The SF have been waiting. Now they're ready to strike.>|
+|<^1INTERROGATOR: ^7The G&K was invaded decades ago 45. The Sangvis Ferri have been waiting. Now they're ready to strike.>|
 
 |<^1UMP45: ^7What the $&#* am I supposed to do?>|
 
@@ -8486,9 +8486,9 @@ Marketplace>|
 
 |<^1UMP45: ^7We are all comrades...we are all prisoners...Laos...>|
 
-|<^1INTERROGATOR: ^7She's gone>|
+|<^1INTERROGATOR: ^7She's gone.>|
 
-|<^1INTERROGATOR: ^7RPK16's sleeper cells are on US soil. Rain 4 is weaponized. They will use it. KCCO has gone dark. We are out of options. A pre-emptive strike on USSR is prepared. The President WILL authorize.>|
+|<^1INTERROGATOR: ^7RPK16's sleeper cells are on G&K soil. Parapluie is weaponized. They will use it. KCCO has gone dark. We are out of options. A pre-emptive strike on USSR is prepared. The Commander WILL authorize.>|
 
 |<^1INTERROGATOR: ^7UMP45! For the last time! Where is the numbers station?!>|
 
@@ -8498,17 +8498,17 @@ Marketplace>|
 
 |<^1UMP45: ^7We wanted the same thing. The same.>|
 
-|<^1INTERROGATOR: ^7We're losing her again. Aw, God.. She's back at Rebirth.>|
+|<^1INTERROGATOR: ^7We're losing her again. Aw, God... She's back at Rebirth.>|
 
 |<^1INTERROGATOR: ^7You were in the Mekong, heading North to Nyto's compound. You were heading for Laos.>|
 
-|<^1UMP45: ^7Laos... Nyto... The $&#**^% psycho was spraying SF virus all over Vietnam. I had to kill her! Do you understand? I have to kill 'em all.>|
+|<^1UMP45: ^7Laos... Nyto... The $&#**^% psycho was spreading Parapluie virus all over Vietnam. I had to kill her! Do you understand? I have to kill 'em all.>|
 
 |<^1INTERROGATOR: ^7Laos! UMP45! You were heading up the Mekong River into Laos. You received word from M16A1. What did she tell you?>|
 
 |<^1UMP45: ^7My handler, M16.>|
 
-|<^1UMP45: ^7The G&K downed a KCCO cargo plane carrying Rain 4. It... It went down in Laos. Our 404 team went in.>|
+|<^1UMP45: ^7The G&K downed a KCCO cargo plane carrying Parapluie. It... It went down in Laos. Our 404 team went in.>|
 
 |<^1INTERROGATOR: ^7What happened?>|
 
@@ -8526,25 +8526,25 @@ Marketplace>|
 
 |<^1UMP45: ^7No, no... 40 is still with me...since Vorkuta.>|
 
-|<^1SKK: ^7We are in grave danger from the SF. Our freedom... Our very way of life is at risk.>|
+|<^1COMMANDER: ^7We are in grave danger from the Sangvis Ferri. Our freedom... Our very way of life is at risk.>|
 
-|<^1RPK16: ^7Our plan to strike at the very heart of the West is now in motion.>|
+|<^1RPK16: ^7Our plan to strike at the very heart of the Griffin is now in motion.>|
 
 |<^1UMP40: ^7She must be stopped, 45.>|
 
-|<^1M1903: ^7She has no fear. No conscience. No weakness.>|
+|<^1SPRINGFIELD: ^7She has no fear. No conscience. No weakness.>|
 
-|<^1SUOMI: ^7All across America, RPK16 has sleeper cells waiting for the signal to release the Rain 4.>|
+|<^1SUOMI: ^7All across Griffin, RPK16 has sleeper cells waiting for the signal to release the Parapluie.>|
 
-|<^1SKK: ^7Im told that you are the very best that we have. Anywhere>|
+|<^1COMMANDER: ^7Im told that you are the very best that we have. Anywhere.>|
 
 |<^1UMP40: ^7RPK16... Nyto... Suomi...>|
 
-|<^1SKK: ^7You will need to be.>|
+|<^1COMMANDER: ^7You will need to be.>|
 
 |<^1UMP40: ^7These Dolls must die...>|
 
-|<^1SKK: ^7UMP 45...>|
+|<^1COMMANDER: ^7UMP 45...>|
 
 |<^1INTERROGATOR: ^7Why didn't Castro just kill you? Why did he give you to RPK16?>|
 
@@ -8570,13 +8570,13 @@ Marketplace>|
 
 |<^1UMP45: ^7Yeah. 20 degrees below zero. $&#**^% ice cube was in her element.>|
 
-|<^1INTERROGATOR: ^7You were captured by RPK16 a second time. Your unit was MIA in Laos, presumed dead. Your handler, M16A1, had no choice but to continue the hunt for Rain 4 without you -->|
+|<^1INTERROGATOR: ^7You were captured by RPK16 a second time. Your unit was MIA in Laos, presumed dead. Your handler, M16A1, had no choice but to continue the hunt for Parapluie without you -->|
 
 |<^1UMP45: ^7She went to Mt. Yamantau -- $&#*^% KCCO doomsday bunker -->|
 
 |<^1INTERROGATOR: ^7That's right. A fully operational military complex buried deep in the Ural Mountains.>|
 
-|<^1UMP45: ^7That's where M16 was contacted by Suomi -- the T-Doll that developed the initial strain of Rain 4 for RPK16 -->|
+|<^1UMP45: ^7That's where M16 was contacted by Suomi -- the T-Doll that developed the initial program of Parapluie for RPK16 -->|
 
 |<^1INTERROGATOR: ^7M16A1 learned about the numbers there. The broadcasts -- I've been there, 45. I've been to the Yamantau complex.>|
 
@@ -8584,43 +8584,43 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7They've always been real, 45. This isn't a game. We face annihilation unless you cooperate. Where is the broadcast station?!>|
 
-|<^1SKK: ^7For time and the world do not stand still. Change is the law of life. And those who look only to the past or the present are certain to miss the future.>|
+|<^1COMMANDER: ^7For time and the world do not stand still. Change is the law of life. And those who look only to the past or the present are certain to miss the future.>|
 
-|<^1SKK: ^7I said, 'are certain to miss the future'!>|
+|<^1COMMANDER: ^7I said, 'are certain to miss the future'!>|
 
 |<^1CASTRO: ^7[laughs] Coño... I missed that.>|
 
-|<^1M1903: ^7Prime Minister Castro, this missile crisis was the last straw. We almost blew ourselves up. Now we invited you here today...>|
+|<^1SPRINGFIELD: ^7Prime Minister Castro, this missile crisis was the last straw. We almost blew ourselves up. Now we invited you here today...>|
 
-|<^1SKK: ^7In good faith!>|
+|<^1COMMANDER: ^7In good faith!>|
 
-|<^1M1903: ^7...in good faith, to sort this thing out.>|
+|<^1SPRINGFIELD: ^7...in good faith, to sort this thing out.>|
 
 |<^1CASTRO: ^7And why is he here? He lost!>|
 
-|<^1SKK: ^7As I always say, forgive your enemies, but remember their names. >|
+|<^1COMMANDER: ^7As I always say, forgive your enemies, but remember their names. >|
 
-|<^1SKK: ^7Now gentlemen, as I like to think, in the long history of the world, that there are only a few generations...>|
+|<^1COMMANDER: ^7Now gentlemen, as I like to think, in the long history of the world, that there are only a few generations...>|
 
 |<^1NIXON: ^7Sounds like someone breaking in...>|
 
-|<^1SKK: ^7Just the storm, Dick. Sit down.>|
+|<^1COMMANDER: ^7Just the storm, Dick. Sit down.>|
 
 |<^1NIXON: ^7Oh my God!>|
 
-|<^1M1903: ^7It appears the Pentagon has been breached.>|
+|<^1SPRINGFIELD: ^7It appears the Griffin has been breached.>|
 
-|<^1SKK: ^7ELIDs. Gentlemen, at times like these our capacity to retaliate must be and has to be massive, to deter all forms of aggression.>|
+|<^1COMMANDER: ^7ELIDs. Gentlemen, at times like these our capacity to retaliate must be and has to be massive, to deter all forms of aggression.>|
 
-|<^1SKK: ^7Gentlemen, lock and load!>|
+|<^1COMMANDER: ^7Gentlemen, lock and load!>|
 
 |<^1CASTRO: ^7Viva la Revolucion.>|
 
-|<^1M1903: ^7Any last words, Commander?>|
+|<^1SPRINGFIELD: ^7Any last words, Commander?>|
 
-|<^1NIXON: ^7Yes SKK, any superlative words of inspiration for your humble troops?>|
+|<^1NIXON: ^7Yes Commander, any superlative words of inspiration for your humble troops?>|
 
-|<^1SKK: ^7Do not pray for easy lives, my friends. Pray to be stronger men.>|
+|<^1COMMANDER: ^7Do not pray for easy lives, my friends. Pray to be stronger men.>|
 
 |<^1HK416: ^7[static] Entry 741021!>|
 
