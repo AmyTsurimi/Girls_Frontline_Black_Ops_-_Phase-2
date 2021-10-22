@@ -204,7 +204,7 @@
 
 |<^UMP45: ^7AARRRGH!!!>|
 
-|<^1INTERROGATOR: ^7Your name is UMP 45. You were manufactured by Heckler & Koch. In 1961 you served in a G&K assassination team known as Operation 40. Is that correct?>|
+|<^1INTERROGATOR: ^7Your name is UMP 45. You were manufactured by Heckler & Koch. In 1961 you served in a Griffin assassination team known as Operation 40. Is that correct?>|
 
 |<^1INTERROGATOR: ^7Is that correct?>|
 
@@ -316,7 +316,7 @@
 
 |<^UMP45: ^7Argg Suomi was there.  We had to kill Suomi.>|
 
-|<^1INTERROGATOR: ^7But M16A1 and the G&K were already on their way to get Suomi at Rebirth. Why did you have to go?>|
+|<^1INTERROGATOR: ^7But M16A1 and Griffin were already on their way to get Suomi at Rebirth. Why did you have to go?>|
 
 |<^UMP45: ^7RPK16.  Nyto.  Suomi.  They all had to die.>|
 

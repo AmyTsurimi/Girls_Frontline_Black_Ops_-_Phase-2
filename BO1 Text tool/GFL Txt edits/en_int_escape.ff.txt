@@ -252,7 +252,7 @@
 
 |<^1RPK16: ^7...all instructions will broadcast from the Rusalka.>|
 
-|<^1RPK16: ^7Our plan to strike at the very heart of the Griffin is now in motion.>|
+|<^1RPK16: ^7Our plan to strike at the very heart of Griffin is now in motion.>|
 
 |<^1RPK16: ^7Await further instructions.>|
 

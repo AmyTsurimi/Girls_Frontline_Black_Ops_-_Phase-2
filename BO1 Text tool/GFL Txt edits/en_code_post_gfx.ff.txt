@@ -3161,7 +3161,7 @@ Time remaining in round: &&3
 
 |<Interplanetary zombie action!   Day 1 DLC content.>|
 
-|<The Griffin is under attack!  Griffin is going to DEFCON 1 in this installment of "ELIDs".>|
+|<The Griffin-HQ is under attack!  Griffin-HQ is going to DEFCON 1 in this installment of "ELIDs".>|
 
 |<YES>|
 
@@ -8508,7 +8508,7 @@ Marketplace>|
 
 |<^1UMP45: ^7My handler, M16.>|
 
-|<^1UMP45: ^7The G&K downed a KCCO cargo plane carrying Parapluie. It... It went down in Laos. Our 404 team went in.>|
+|<^1UMP45: ^7Griffin downed a KCCO cargo plane carrying Parapluie. It... It went down in Laos. Our 404 team went in.>|
 
 |<^1INTERROGATOR: ^7What happened?>|
 
@@ -8528,7 +8528,7 @@ Marketplace>|
 
 |<^1COMMANDER: ^7We are in grave danger from the Sangvis Ferri. Our freedom... Our very way of life is at risk.>|
 
-|<^1RPK16: ^7Our plan to strike at the very heart of the Griffin is now in motion.>|
+|<^1RPK16: ^7Our plan to strike at the very heart of Griffin is now in motion.>|
 
 |<^1UMP40: ^7She must be stopped, 45.>|
 
@@ -8608,7 +8608,7 @@ Marketplace>|
 
 |<^1NIXON: ^7Oh my God!>|
 
-|<^1SPRINGFIELD: ^7It appears the Griffin has been breached.>|
+|<^1SPRINGFIELD: ^7It appears the Griffin-HQ has been breached.>|
 
 |<^1COMMANDER: ^7ELIDs. Gentlemen, at times like these our capacity to retaliate must be and has to be massive, to deter all forms of aggression.>|
 
