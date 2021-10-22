@@ -296,7 +296,7 @@
 
 |<^1UMP45: ^7Not yet.  We need to find RPK16.>|
 
-|<^1M16A1: ^7In less than 15 minutes, the G&K HOC is going to blow this place apart!>|
+|<^1M16A1: ^7In less than 15 minutes, the Griffin HOC is going to blow this place apart!>|
 
 |<^1UMP45: ^7I made the mistake of not confirming the kill five years ago at Baikonur.>|
 
@@ -392,13 +392,13 @@
 
 |<^1M16A1: ^7I knew you wouldn't let us down, 45.>|
 
-|<^1M16A1: ^7Even when the rest of the Company gave up on you...>|
+|<^1M16A1: ^7Even when the rest of Griffin gave up on you...>|
 
 |<^1M16A1: ^7I knew we could trust you.>|
 
 |<^1RPK16: ^7Tried?  How do you know we didn't succeed?>|
 
-|<^1REZNOV: ^745! You did it, 45.  You did what I could not.>|
+|<^1UMP40: ^745! You did it, 45.  You did what I could not.>|
 
 |<^1M16A1: ^7Keep moving! We need to stop the broadcast.>|
 
