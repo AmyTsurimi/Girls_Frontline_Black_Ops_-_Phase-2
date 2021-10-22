@@ -242,7 +242,7 @@
 
 |<^1UMP45: ^7All right, let's hit it.>|
 
-|<^1UMP9: ^7We need more firepower. Johnson! Bring up the 202 flash. Hit that ZPU on the river.>|
+|<^1UMP9: ^7We need more firepower. T-Doll! Bring up the 202 flash. Hit that ZPU on the river.>|
 
 |<^1T-DOLL MARINE: ^7Got it!>|
 
@@ -314,7 +314,7 @@
 
 |<^1HK416: ^745 get in position!>|
 
-|<^1UMP9: ^745, move it brother!>|
+|<^1UMP9: ^745, move it sister!>|
 
 |<^1UMP45: ^740. What'd you find?>|
 
@@ -344,13 +344,13 @@
 
 |<^1HK416: ^7We have to clear this tunnel.>|
 
-|<^1UMP45: ^7I'll take it. Swift! With me.>|
+|<^1UMP45: ^7I'll take it. Delta! With me.>|
 
 |<^1HK416: ^7All right. I'll keep the Hornets scouring the area. Let's move.>|
 
-|<^1SWIFT: ^7This son of a bitch ain't fighting no more.>|
+|<^1DELTA: ^7This son of a bitch ain't fighting no more.>|
 
-|<^1SWIFT: ^7Ain't fighting no more.>|
+|<^1DELTA: ^7Ain't fighting no more.>|
 
 |<^1HK416: ^7Lima niner, this is X-Ray. Prep for recon sweep 3 kay radius.>|
 
@@ -358,7 +358,7 @@
 
 |<^1HK416: ^7Here. Take this. Stay on it. We'll find your Nyto. You make it out of there alive. 9, point! Let's move!>|
 
-|<^1SWIFT: ^7Keep that light steady 45.>|
+|<^1DELTA: ^7Keep that light steady 45.>|
 
 |<^1UMP45: ^7Hold.>|
 
@@ -370,27 +370,27 @@
 
 |<^1UMP45: ^7All right, but move quietly!>|
 
-|<^1SWIFT: ^7What the fuck's wrong with you?>|
+|<^1DELTA: ^7What the fuck's wrong with you?>|
 
-|<^1SWIFT: ^7What the ?#@?! wrong with you?>|
+|<^1DELTA: ^7What the ?#@?! wrong with you?>|
 
-|<^1UMP45: ^7We're good. Move up Swift.>|
+|<^1UMP45: ^7We're good. Move up Delta.>|
 
-|<^1SWIFT: ^745, you got to keep your shit together...>|
+|<^1DELTA: ^745, you got to keep your shit together...>|
 
-|<^1SWIFT: ^745, you got to keep your ?#@?! together...>|
+|<^1DELTA: ^745, you got to keep your ?#@?! together...>|
 
 |<^1UMP45: ^7Oh shit...>|
 
 |<^1UMP45: ^7Oh crap...>|
 
-|<^1UMP40: ^7Where is our friend, Swift?>|
+|<^1UMP40: ^7Where is our friend, Delta?>|
 
 |<^1UMP45: ^7416, come in.>|
 
 |<^1HK416: ^7Go ahead, 45.>|
 
-|<^1UMP45: ^7Swift's dead... We got VC crawling all over.>|
+|<^1UMP45: ^7Delta's dead... We got VC crawling all over.>|
 
 |<^1HK416: ^7Lima niner is sweeping the area. No sign of.... (static)>|
 
@@ -400,7 +400,7 @@
 
 |<^1UMP45: ^7Crap...>|
 
-|<^1UMP40: ^7Where is your friend Swift?>|
+|<^1UMP40: ^7Where is your friend Delta?>|
 
 |<^1UMP45: ^7Dead.>|
 
@@ -444,37 +444,27 @@
 
 |<^1UMP40: ^7Nyto...>|
 
-|<^1Nyto: ^7February 4th, 1968. The stabilizing code supplied by T-Doll RFB 
-have met with much success.>|
+|<^1Nyto: ^7February 4th, 1968. The backdoor code supplied by T-Doll RFB have met with much success.>|
 
-|<^1Nyto: ^7Recent field tests on the local population have shown this to be the most 
-effective strain of Rain 4 produced thus far.>|
+|<^1Nyto: ^7Recent field tests on the local population have shown this to be the most effective version of Parapluie produced thus far.>|
 
-|<^1Nyto: ^7As with previous simulation tests at Rebirth, the onset of symptoms in dolls subjects 
-is exactly in line with our expectations.>|
+|<^1Nyto: ^7As with previous simulation tests at Rebirth, the onset of symptoms in dolls subjects is exactly in line with our expectations.>|
 
-|<^1Nyto: ^7Within thirty seconds of infection the virus, 
-subjects experience sudden and severe firewall breach, 
-quickly followed by significant drop in digimind processing, 
-leading to formating incoming OGAS data.>|
+|<^1Nyto: ^7Within thirty seconds of infection the virus, subjects experience sudden and severe firewall breach, 
+			quickly followed by significant drop in digimind processing, leading to formating incoming OGAS data.>|
 
-|<^1Nyto: ^7After sixty seconds, rewriting of the digimind begins, 
-followed by driver installation, updating, and transmission activation across the digimind...  
-Effectively signaling the onset of SF conversion.>|
+|<^1Nyto: ^7After sixty seconds, rewriting of the digimind begins, followed by driver installation, updating, 
+			and transmission activation across the digimind... Effectively signaling the onset of Sangvis Ferri conversion.>|
 
-|<^1Nyto: ^7At this stage we have had limited success, 
-by way of aggressive driver defragmentation, 
-in keeping subjects controlable for short periods.>|
+|<^1Nyto: ^7At this stage we have had limited success, by way of aggressive driver defragmentation, 
+			in keeping subjects controlable for short periods.>|
 
-|<^1Nyto: ^7But even the fysical removal of infected digimind is not enough 
-to prevent further spread.>|
+|<^1Nyto: ^7But even the fysical removal of infected digimind is not enough to prevent further spread.>|
 
-|<^1Nyto: ^7While the speed of infection appears to be consistent across T-Dolls, 
-we have observed a more aggressive rate of formating of civilian dolls, 
-usually leading to conversion within thirty to forty five seconds.>|
+|<^1Nyto: ^7While the speed of infection appears to be consistent across T-Dolls, we have observed a more aggressive rate of 
+			formating of civilian dolls, usually leading to conversion within thirty to forty five seconds.>|
 
-|<^1Nyto: ^7We have every indication that we now have a workable code which is effective, 
-even in the Zener network.>|
+|<^1Nyto: ^7We have every indication that we now have a workable code which is effective, even in the Zener network.>|
 
 |<^1Nyto: ^7Communicate our successes to T-Doll Suomi. Nyto out.>|
 
@@ -488,7 +478,7 @@ even in the Zener network.>|
 
 |<^1UMP45: ^7She's using war atrocities as a smokescreen for her experiments...>|
 
-|<^1UMP45: ^7Nyto's trying make it look like the G&K is behind this.>|
+|<^1UMP45: ^7Nyto's trying make it look like the Griffin is behind this.>|
 
 |<^1UMP45: ^7She must have had supplies lowered in through here.>|
 
