@@ -1,5 +1,4 @@
-|<E9: Escape
->|
+|<E9: Escape>|
 
 |<E8: On Deck>|
 
@@ -23,9 +22,9 @@
 
 |<^LTransmission # 23-8-15. Designate: X-RAY^L>|
 
-|<^LThe Soviets launched Operation Olympus at the end of the war.^L>|
+|<^LThe USSR launched Operation Olympus at the end of the war.^L>|
 
-|<^L3rd Soviet Bureau of State Security sent to^L ^C1Arctic Circle^C>|
+|<^L3rd USSR Bureau of State Security sent to^L ^C1Arctic Circle^C>|
 
 |<^C1UMP 40^C ^Ldetached to unit 40--last known alias after action: "The Wolf"^L>|
 
@@ -65,8 +64,7 @@
 
 |<Climb Out the Window to Reach the Deck>|
 
-|<You failed to escape in time.
->|
+|<You failed to escape in time.>|
 
 |<^3[{+activate}]^7>|
 
@@ -112,7 +110,7 @@
 
 |<Acquired 4 smoke grenades>|
 
-|<Follow Petrenko>|
+|<Follow PPSh-41>|
 
 |<You have abandoned your comrades!>|
 
@@ -142,7 +140,7 @@
 
 |<^1UMP40: ^7The war was over - But the fighting continued....>|
 
-|<^1UMP40: ^7When the 3rd Soviet Bureau became part of the USSR Occupation Forces in Germany, it was clear that the end of the war did not herald our return to USSR...>|
+|<^1UMP40: ^7When the Bureau of State Security became part of the USSR Occupation Forces in Germany, it was clear that the end of the war did not herald our return to USSR...>|
 
 |<^1UMP40: ^7No... Our leaders had other plans...>|
 
@@ -158,13 +156,13 @@
 
 |<^1UMP40: ^7Yes, 41... Time to hunt down the last remnants of the Paradeus.>|
 
-|<^1PPSh-41: ^7Nevski... Grab the gear... We are moving out.>|
+|<^1PPSh-41: ^7Gamma... Grab the gear... We are moving out.>|
 
 |<^1UMP40: ^7My dolls and I had fought through the most bitter of winters on the Eastern front... We were no strangers to the cold...>|
 
 |<^1UMP40: ^7The dolls and I had fought through the most bitter of winters on the Eastern front - We were no strangers to the cold...>|
 
-|<^1UMP40: ^7But even now, the hard drive in my core bugs when I think back to the events of that day...>|
+|<^1UMP40: ^7But even now, the neural cloud in my core bugs when I think back to the events of that day...>|
 
 |<^1UMP40: ^7Far, far from home...>|
 
@@ -196,7 +194,7 @@
 
 |<^1UMP40: ^7She fought by my side from the Siege of Stalingrad to the fall of Berlin...>|
 
-|<^1UMP40: ^7The wounds she sustained ensuring our victory should have earned her a Hero's welcome in Russia...>|
+|<^1UMP40: ^7The damage she sustained ensuring our victory should have earned her a Hero's welcome in Russia...>|
 
 |<^1UMP40: ^7But Carter had little need for T-Dolls.>|
 
@@ -304,7 +302,7 @@
 
 |<^1UMP40: ^7T-Doll Suomi...>|
 
-|<^1SUOMI: ^7Do not point that weapon at me, Russian dog...>|
+|<^1SUOMI: ^7Do not point that weapon at me, USSR dog...>|
 
 |<^1SUOMI: ^7You will take me to RPK16.>|
 
@@ -326,13 +324,13 @@
 
 |<^1RPK16: ^7You assured me that there would be no problems...>|
 
-|<^1SUOMI: ^7I cannot control the actions of the SS, RPK16...  They are sworn to defend the Paradeus till their last breath...>|
+|<^1SUOMI: ^7I cannot control the actions of the Paradeus, RPK16...  They are sworn to defend Paradeus till their last breath...>|
 
 |<^1RPK16: ^7Noble... but futile.>|
 
 |<^1RPK16: ^7Nyto, finish up here.>|
 
-|<^1UMP40: ^7PPSh-41, Vikharev, Nevski, Belov... We are moving out!>|
+|<^1UMP40: ^7PPSh-41, Zeta, Gamma, Omega... We are moving out!>|
 
 |<^1RPK16: ^7UMP40, you and your dolls lead the way.>|
 
