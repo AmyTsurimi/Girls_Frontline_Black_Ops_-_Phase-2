@@ -130,10 +130,9 @@
 
 |<Destroy enemy targets>|
 
-|<^1UMP45: ^7That young kid didn't make it. 
-I swear to God that 416 was crying, but she never let us see no tears.>|
+|<^1UMP45: ^7That young doll didn't make it. I swear to God that 416 was crying, but she never let us see no tears.>|
 
-|<^1UMP45: ^7The CIA downed the cargo plane five klicks from here.>|
+|<^1UMP45: ^7Griffin downed the cargo plane five klicks from here.>|
 
 |<^1HK416: ^7We'd better get to the Parapluie before the KCCO can clean it up.>|
 
@@ -189,7 +188,7 @@ I swear to God that 416 was crying, but she never let us see no tears.>|
 
 |<^1UMP40: ^7I'll watch for snipers.>|
 
-|<^1HK416: ^7Enemy contact dead ahead, they're shelling us. 45, call out our targets. We'll wait for your signal. Hey sis.>|
+|<^1HK416: ^7Enemy contact dead ahead, they're shelling us. 45, call out our targets. We'll wait for your signal. Hey doll.>|
 
 |<^1HK416: ^7Remember what I said.>|
 
@@ -369,7 +368,7 @@ I swear to God that 416 was crying, but she never let us see no tears.>|
 
 |<^1UMP9: ^7Hell yeah! WOO!>|
 
-|<^1HK416: ^7Multiple targets! Tower straight ahead, RPGs to the right. Sis, keep your head down!>|
+|<^1HK416: ^7Multiple targets! Tower straight ahead, RPGs to the right. Doll, keep your head down!>|
 
 |<^1UMP40: ^7Perfect shot! It's collapsing!>|
 
@@ -413,9 +412,9 @@ I swear to God that 416 was crying, but she never let us see no tears.>|
 
 |<^1UMP40: ^7Watch them burn!>|
 
-|<^1HK416: ^7Sampans! Don't let them get close. Sis, shred those fuckers.>|
+|<^1HK416: ^7Sampans! Don't let them get close. Doll, shred those fuckers.>|
 
-|<^1HK416: ^7Sampans! Don't let them get close. Sis, shred those bastards.>|
+|<^1HK416: ^7Sampans! Don't let them get close. Doll, shred those bastards.>|
 
 |<^1HK416: ^7One more!>|
 
@@ -475,7 +474,7 @@ I swear to God that 416 was crying, but she never let us see no tears.>|
 
 |<^1HK416: ^7Roger that. They're airliftin' us out. 45, that's the rally point.>|
 
-|<^1HK416: ^7Dammit... Sorry about that sis...>|
+|<^1HK416: ^7Dammit... Sorry about that doll...>|
 
 |<^1HK416: ^745, head for the RP!>|
 
@@ -633,13 +632,13 @@ I swear to God that 416 was crying, but she never let us see no tears.>|
 
 |<^1HK416: ^7The cyber weapon.>|
 
-|<^1UMP45: ^7Rain 4. Must have dispersed after the crash.>|
+|<^1UMP45: ^7Parapluie. Must have dispersed after the crash.>|
 
 |<^1HK416: ^7Grenade launchers, China Lakes. What the hell are the KCCO doin' with Griffin weapons?>|
 
 |<^1UMP9: ^7Must be some kind of setup.>|
 
-|<^1UMP9: ^7Rain 4 is all gone, but see here. Map of the area. That's gotta be Nyto's compound. Deep inside Laos.>|
+|<^1UMP9: ^7Parapluie is all gone, but see here. Map of the area. That's gotta be Nyto's compound. Deep inside Laos.>|
 
 |<^1UMP40: ^7Nyto. She must die.>|
 
@@ -689,7 +688,7 @@ I swear to God that 416 was crying, but she never let us see no tears.>|
 
 |<^1UMP45: ^7RPK16...Nyto...>|
 
-|<^1Nyto: ^7From Vorkuta.>|
+|<^1NYTO: ^7From Vorkuta.>|
 
 |<^1RPK16: ^7It's been too long UMP45.>|
 
