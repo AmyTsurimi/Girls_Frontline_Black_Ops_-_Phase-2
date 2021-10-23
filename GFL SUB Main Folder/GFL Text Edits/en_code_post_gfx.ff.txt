@@ -3108,7 +3108,7 @@ Time remaining in round: &&3
 
 |<Operation 40: Be the weight that tips the balance of power.>|
 
-|<Escape from Vorkuta; at a cost. An eye for an eye, a hand for a hand, a life for a life.>|
+|<Escape from Vorkuta; at a cost. An eye for an eye, an arm for an arm, a life for a life.>|
 
 |<Back at Griffin, meet with the Commander to discuss the infectious virus posed by Sangvis Ferri.>|
 
