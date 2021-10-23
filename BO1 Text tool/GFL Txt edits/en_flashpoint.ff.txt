@@ -400,7 +400,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Delta and 9 should be right up ahead.>|
 
-|<^1UMP9: ^7X-ray this is Reina. Hostiles in sight. Takin' 'em out.>|
+|<^1UMP9: ^7X-ray, this is Reina. Hostiles in sight. Takin' 'em out.>|
 
 |<^1HK416: ^7Hustle up.>|
 

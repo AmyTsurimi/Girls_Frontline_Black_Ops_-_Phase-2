@@ -3,13 +3,13 @@ LANG_ENGLISH		"^0^LTransmission# 0. Designate: UNIFORM^L"
 REFERENCE			INTROSCREEN_1
 LANG_ENGLISH		"^0^LNational Security Briefing: Priority 1.^L"
 REFERENCE			INTROSCREEN_2
-LANG_ENGLISH		"^0^LRedirect^L ^C1UMP45^C ^Lto the^L ^C1G&K-HQ.^C"
+LANG_ENGLISH		"^0^LRedirect^L ^C1UMP45^C ^Lto^L ^C1Griffin HQ.^C"
 REFERENCE			INTROSCREEN_3
 LANG_ENGLISH		"^0^L1700 hours,^L ^C1November 10, 1963^C"
 REFERENCE			VOX_PEN1_S01_001A_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7This is it."
 REFERENCE			VOX_PEN1_S01_002A_PMP1_M
-LANG_ENGLISH		"^1G&K MP: ^7Your convoy is ready, ma'am. Welcome to the G&K-HQ."
+LANG_ENGLISH		"^1G&K MP: ^7Your convoy is ready, ma'am. Welcome to Griffin HQ."
 REFERENCE			VOX_PEN1_S01_003A_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7We're late."
 REFERENCE			VOX_PEN1_S01_004A_PMP2_M
@@ -33,7 +33,7 @@ LANG_ENGLISH		"^1CLERK: ^7She's here."
 REFERENCE			VOX_PEN1_S01_015A_MCNA_M
 LANG_ENGLISH		"^1SPRINGFIELD: ^7Don't worry, no KCCO."
 REFERENCE			VOX_PEN1_S01_016A_MCNA_M
-LANG_ENGLISH		"^1SPRINGFIELD: ^7The finest people at the G&K, right here. 24/7, it never ends."
+LANG_ENGLISH		"^1SPRINGFIELD: ^7The finest people at Griffin, right here. 24/7, it never ends."
 REFERENCE			VOX_PEN1_S01_017A_MCNA_M
 LANG_ENGLISH		"^1SPRINGFIELD: ^7Please tell her we're here."
 REFERENCE			VOX_PEN1_S01_018A_CPCL_M
@@ -83,11 +83,11 @@ LANG_ENGLISH		"^1COMMANDER: ^7I'm told you are the very best that we have. Anywh
 REFERENCE			VOX_PEN1_S01_042A_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7Thank you, Ms. Secretary."
 REFERENCE			VOX_PEN1_S01_100A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7You were cleared for duty and summoned to the G&K-HQ."
+LANG_ENGLISH		"^1INTERROGATOR: ^7You were cleared for duty and summoned to Griffin HQ."
 REFERENCE			VOX_PEN1_S01_102A_MASO
 LANG_ENGLISH		"^1UMP45: ^7M16A1 was my new handler."
 REFERENCE			VOX_PEN1_S01_103A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7Why the G&K-HQ?"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Why Griffin HQ?"
 REFERENCE			VOX_PEN1_S01_105A_MASO
 LANG_ENGLISH		"^1UMP45: ^7M16 couldn't tell me. Didn't have clearance."
 REFERENCE			VOX_PEN1_S01_106A_INTE
@@ -105,7 +105,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7We were watching you the whole time."
 REFERENCE			VOX_PEN1_S01_115A_MASO
 LANG_ENGLISH		"^1UMP45: ^7That's not possible."
 REFERENCE			VOX_PEN1_S01_116A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7I was at the G&K-HQ."
+LANG_ENGLISH		"^1INTERROGATOR: ^7I was at Griffin HQ."
 REFERENCE			VOX_PEN1_S01_118A_MASO
 LANG_ENGLISH		"^1UMP45: ^7I remember. I kept hearing numbers. I cou.. couldn't get them out of my head."
 REFERENCE			VOX_PEN1_S01_119A_MASO
