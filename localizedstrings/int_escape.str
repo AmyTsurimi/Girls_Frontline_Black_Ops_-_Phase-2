@@ -69,11 +69,11 @@ LANG_ENGLISH		"^1RPK16: ^7Wait a few moments... ^:Let her rest^7."
 REFERENCE			VOX_INT1_S01_016A_DRAG
 LANG_ENGLISH		"^1RPK16: ^7When she regains consciousness - ^:Double the voltage^7."
 REFERENCE			VOX_INT1_S01_017A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7The subject has been ^:successfully implanted ^7with the knowledge to translate the number sequences."
+LANG_ENGLISH		"^1SUOMI: ^7The subject has been successfully implanted with ^:the knowledge to translate the number sequences^7."
 REFERENCE			VOX_INT1_S01_018A_DRAG_M
 LANG_ENGLISH		"^1RPK16: ^7So - what is the problem?"
 REFERENCE			VOX_INT1_S01_019A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7Her responses to our orders have been - sporadic. Unpredictable. She shows a remarkable ^:resilience^7."
+LANG_ENGLISH		"^1SUOMI: ^7Her responses to our orders have been - ^:sporadic^7. ^:Unpredictable^7. She shows a remarkable ^:resilience^7."
 REFERENCE			VOX_INT1_S01_020A_DRAG_M
 LANG_ENGLISH		"^1RPK16: ^7Why?"
 REFERENCE			VOX_INT1_S01_021A_STEI_M
@@ -111,11 +111,11 @@ LANG_ENGLISH		"^1M16A1: ^7We have the broadcasts, we played them to you over and
 REFERENCE			VOX_INT1_S01_088C_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^745, ^:this is our last shot^7. Listen, for God's sake listen again."
 REFERENCE			VOX_INT1_S01_094A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7...[indistinct] all agents.  Our new allies in Cuba have graciously permitted the construction of a new... and ^:permanent... broadcast station within their borders^7."
+LANG_ENGLISH		"^1RPK16: ^7...[indistinct] all agents.  Our new allies in Cuba have graciously permitted the construction of a new... and ^:permanent^7... ^:broadcast station within their borders^7."
 REFERENCE			VOX_INT1_S01_094B_DRAG
 LANG_ENGLISH		"^1RPK16: ^7...permanent... broadcast station within their borders."
 REFERENCE			VOX_INT1_S01_095A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7From now until Project Rain's initiation, all instructions will broadcast from the ^:Rusalka^7."
+LANG_ENGLISH		"^1RPK16: ^7From now until Project Parapluie's initiation, all instructions will broadcast from the ^:Rusalka^7."
 REFERENCE			VOX_INT1_S01_095B_DRAG
 LANG_ENGLISH		"^1RPK16: ^7...all instructions will broadcast from the ^:Rusalka^7."
 REFERENCE			VOX_INT1_S01_096A_DRAG
@@ -127,7 +127,7 @@ LANG_ENGLISH		"^1UMP45: ^7I know where the Numbers Station is. It's a ship, I sa
 REFERENCE			VOX_INT1_S01_105A_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7Where?"
 REFERENCE			VOX_INT1_S01_106A_MASO_M
-LANG_ENGLISH		"^1UMP45: ^7Cuba."
+LANG_ENGLISH		"^1UMP45: ^:Cuba^7."
 REFERENCE			VOX_INT1_S01_200A_MASO
 LANG_ENGLISH		"^1UMP45: ^7The numbers... What... are they saying?!"
 REFERENCE			VOX_INT1_S01_201A_MASO
@@ -161,7 +161,7 @@ LANG_ENGLISH		"^1NYTO: ^7I should have killed you in Vorkuta!"
 REFERENCE			VOX_POW1_S04_440A_REZN
 LANG_ENGLISH		"^1UMP40: ^7RPK16. Nyto. Suomi. ^:All must die^7..."
 REFERENCE			VOX_REB1_INTRO_03A_A
-LANG_ENGLISH		"^1UMP45: ^7How many times?! ^:Suomi was at Rebirth Island. ^7We had to kill Suomi."
+LANG_ENGLISH		"^1UMP45: ^7How many times?! ^:Suomi was at Rebirth Island^7. We had to kill Suomi."
 REFERENCE			VOX_REB1_INTRO_04A
 LANG_ENGLISH		"^1INTERROGATOR: ^:We? ^7UMP 40?"
 REFERENCE			VOX_REB1_INTRO_05A_A
