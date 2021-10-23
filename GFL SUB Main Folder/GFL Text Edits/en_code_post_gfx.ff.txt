@@ -3112,7 +3112,7 @@ Time remaining in round: &&3
 
 |<Back at Griffin, meet with the Commander to discuss the infectious virus posed by Sangvis Ferri.>|
 
-|<Strick down the angle of KCCO and its creators.>|
+|<Strick down the angel of KCCO and its creators.>|
 
 |<Head to Vietnam and work with old allies to investigate Soviet presence in the region.>|
 
