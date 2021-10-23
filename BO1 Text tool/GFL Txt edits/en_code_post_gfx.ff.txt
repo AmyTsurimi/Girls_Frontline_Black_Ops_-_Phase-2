@@ -3106,13 +3106,13 @@ Time remaining in round: &&3
 
 |<Cannot Access Community>|
 
-|<Operation 40: Undertake a daring assassination attempt during the Bay of Pigs invasion.>|
+|<Operation 40: Be the weight that tips the balance of power.>|
 
-|<Escape from Vorkuta; a brutal Soviet Labor Camp in northern Russia.>|
+|<Escape from Vorkuta; at a cost. An eye for an eye, a hand for a hand, a life for a life.>|
 
-|<Back on US soil, meet with senior officials to discuss the threat posed by General Dragovich.>|
+|<Back at Griffin, meet with the Commander to discuss the infectious virus posed by Sangvis Ferri.>|
 
-|<Infiltrate the Baikonur Cosmodrome and eliminate Dragovich and the Ascension scientists.>|
+|<Strick down the angle of KCCO and its creators.>|
 
 |<Head to Vietnam and work with old allies to investigate Soviet presence in the region.>|
 
@@ -3132,9 +3132,9 @@ Time remaining in round: &&3
 
 |<Infiltrate the Project Nova Research labs and capture Dr Steiner.>|
 
-|<Uncover the truth.>|
+|<Be like a butterfly escaping it's cocoon. See the world for real, now for the first time...>|
 
-|<Destroy the numbers station and kill Dragovich before Project Nova is initiated.>|
+|<Under the protection of the umbrella, the rain lays waste to everything. Or will the sun shine through the dark cloudes.>|
 
 |<Your screenshot upload has failed.>|
 
