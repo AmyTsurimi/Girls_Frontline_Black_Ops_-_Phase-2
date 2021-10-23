@@ -3112,29 +3112,29 @@ Time remaining in round: &&3
 
 |<Back at Griffin, meet with the Commander to discuss the infectious virus posed by Sangvis Ferri.>|
 
-|<Strick down the angel of KCCO and its creators.>|
+|<Strick down the angel of KCCO and it's creators.>|
 
-|<Head to Vietnam and work with old allies to investigate Soviet presence in the region.>|
+|<Head to Vietnam and work with old allies to investigate KCCO presence in the region.>|
 
-|<At the height of the TET offensive, enter the MACV building to secure vital intelligence on Soviet plans for the region.>|
+|<At the height of the TET offensive, enter the MACV building to secure vital intelligence on KCCO plans for the region.>|
 
-|<Investigate the extent of Project Nova by interrogating one of Dragovich's former associates.>|
+|<Investigate the extent of Project Parapluie by interrogating one of Dragovich's former associates.>|
 
-|<Search for evidence of Soviet presence within the villages of Northern Vietnam.>|
+|<Search for evidence of KCCO presence within the villages of Northern Vietnam.>|
 
 |<Journey by river into Laotian territory, in search of Dragovich's compound.>|
 
-|<Strike at the heart of Project Nova, deep behind enemy lines.>|
+|<Strike at the heart of Project Parapluie, deep behind enemy lines.>|
 
 |<Torture at the hands of the enemy only feeds the hunger for revenge.>|
 
-|<Learn of the origins of Project Nova.>|
+|<Learn of the origins of Project Parapluie.>|
 
-|<Infiltrate the Project Nova Research labs and capture Dr Steiner.>|
+|<Infiltrate the Project Parapluie Research labs and capture Dr Steiner.>|
 
 |<Be like a butterfly escaping it's cocoon. See the world for real, now for the first time...>|
 
-|<Under the protection of the umbrella, the rain lays waste to everything. Or will the sun shine through the dark cloudes.>|
+|<Without protection form the rain, may it wash away your sins. Dive into the depths, may you be bearer of the light after the rain.>|
 
 |<Your screenshot upload has failed.>|
 
