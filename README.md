@@ -35,6 +35,21 @@ Mission File orders:
 14.	en_rebirth				O/R
 15.	en_int_escape			T
 16.	en_underwaterbase  NOT DONE Y
-
 -	en_frontend
 -	en_outro
+
+D
+A
+E
+D
+S
+I
+0
+4
+P
+M
+U
+8
+I
+S
+D
