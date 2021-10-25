@@ -230,7 +230,7 @@
 
 |<^1INTERROGATOR: ^7Where did RPK16 take you?>|
 
-|<^1UMP45: ^7Russia.  A labor camp.  A hell-hole called Vorkuta -- Oh My God -->|
+|<^1UMP45: ^7Russia.  A labor camp.  A hell-hole called Vorkuta -- Oh My God...>|
 
 |<^1INTERROGATOR: ^7What did they do to you 45?>|
 
@@ -278,13 +278,13 @@
 
 |<^1INTERROGATOR: ^7Listen to me carefully, 45.  UMP40 cannot be trusted.  No matter what she tells you, no matter what she says -->|
 
-|<^1UMP45: ^7But she gave us the dossier on RFB!  She lead us to Parapluie!>|
+|<^1UMP45: ^7But she gave us the dossier on RFB! She lead us to Parapluie!>|
 
 |<^1INTERROGATOR: ^7UMP40's not who you think she is.>|
 
-|<^1UMP45: ^7No -- she's my sister!  She helped me escape! Betrayed, forgotten, abandoned -- all comrades -->|
+|<^1UMP45: ^7No -- she's my sister! She helped me escape! Betrayed, forgotten, abandoned -- all comrades, huh?>|
 
-|<^1INTERROGATOR: ^7Forget 40!  Focus, 45!  We are out of fucking time!  The world is on the fucking brink of war!>|
+|<^1INTERROGATOR: ^7Forget 40! ^:FOCUS, FORTY FIVE^7. We are out of fucking time! The world is on the fucking brink of ^:war^7!!!>|
 
 |<^1INTERROGATOR: ^7Forget 40!  Focus, 45!  We're out of time!  The world is on the brink of war!>|
 
@@ -292,7 +292,7 @@
 
 |<^1UMP45: ^7Whose war?  Who the hell are you, anyway?>|
 
-|<^1UMP45: ^7Agggh.  I -- keep -- hearing -- fucking -- numbers --->|
+|<^1UMP45: ^7Huh?! Agggh. I just -- keep hearing -- the fucking numbers --->|
 
 |<^1UMP45: ^7Agggh.  I -- keep -- hearing -- numbers --->|
 
@@ -300,13 +300,13 @@
 
 |<^1INTERROGATOR: ^7You killed Nyto. You obliterated their base. 45?>|
 
-|<^1INTERROGATOR: ^7HK416 and UMP9 were both killed. Your entire 404 team, wiped out. Only you survived, 45. You. No one else.>|
+|<^1INTERROGATOR: ^7HK416 and UMP9 were both killed. Your entire 404 team, wiped out. ^:Only you^7 survived, 45. You. ^:No one else^7.>|
 
-|<^1UMP45: ^7No, no... 40 surivived.>|
+|<^1UMP45: ^7No, no... 40 survived.>|
 
-|<^1INTERROGATOR: ^7Just you 45.>|
+|<^1INTERROGATOR: ^7Just you, 45.>|
 
-|<^1UMP45: ^7No, no... 40 is still with me...since Vorkuta.>|
+|<^1UMP45: ^7No, no... 40 is still with me...since Vorkuta!>|
 
 |<^1INTERROGATOR: ^7After you left Nyto's compound in Laos, after your team were killed, you went rogue.>|
 
@@ -314,15 +314,15 @@
 
 |<^1INTERROGATOR: ^7You went to Rebirth Island, against orders.  Why, 45?!>|
 
-|<^1UMP45: ^7Argg Suomi was there.  We had to kill Suomi.>|
+|<^1UMP45: ^7Suomi was there!  We had to kill Suomi!>|
 
 |<^1INTERROGATOR: ^7But M16A1 and Griffin were already on their way to get Suomi at Rebirth. Why did you have to go?>|
 
 |<^1UMP45: ^7RPK16.  Nyto.  Suomi.  They all had to die.>|
 
-|<^1INTERROGATOR: ^7We wanted Suomi alive.  Why did you have to kill her?>|
+|<^1INTERROGATOR: ^7We wanted Suomi ^:alive^7!  Why did you have to kill her?!>|
 
-|<^1UMP45: ^7Cause the numbers were telling me to!  Why don't you fuckin' understand?!>|
+|<^1UMP45: ^7Cause ^:the numbers^7 were telling me to!  Why don't you fuckin' understand?!>|
 
 |<^1UMP45: ^7Cause the numbers were telling me to!  Why don't you understand?!>|
 

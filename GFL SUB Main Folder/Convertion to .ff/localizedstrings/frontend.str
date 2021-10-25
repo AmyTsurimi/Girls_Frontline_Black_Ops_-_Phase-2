@@ -289,7 +289,7 @@ LANG_ENGLISH		"^1UMP45: ^7But she gave us the dossier on RFB! She lead us to Par
 REFERENCE			VOX_FRO6_S01_005A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7UMP40's not who you think she is."
 REFERENCE			VOX_FRO6_S01_006A_MASO
-LANG_ENGLISH		"^1UMP45: ^7No -- she's my sister! She helped me escape! Betrayed, forgotten, abandoned -- all comrades, huh? --"
+LANG_ENGLISH		"^1UMP45: ^7No -- she's my sister! She helped me escape! Betrayed, forgotten, abandoned -- all comrades, huh?"
 REFERENCE			VOX_FRO6_S01_007A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Forget 40! ^:FOCUS, FORTY FIVE^7. We are out of fucking time! The world is on the fucking brink of ^:war^7!!!"
 REFERENCE			VOX_FRO6_S01_007A_INTE_S
