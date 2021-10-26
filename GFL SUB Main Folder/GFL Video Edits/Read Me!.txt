@@ -1,8 +1,0 @@
-In this folder is for the Videos edits will be. 
-You can expand with new folders and backup your files here. 
-I recommend you commit often.
-Since you can always go back to your previous commit.
-
-Please add your edits on the "edited footage" folder.
-
-My Notes.
