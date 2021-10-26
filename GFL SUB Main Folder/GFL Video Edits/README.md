@@ -29,11 +29,11 @@ These are the edits that are to be overlaid like in Black ops 3:
 
 # Animation
 
-These cutscnes will be animated by `Ronin Rei 90`
+These cutscenes will be animated by `Ronin Rei 90`
 
 - all cutscenes that have `mid` in the beginning of the file
 - number_lady_intro
-- the first half of `outro_load`
+- the first half of `outro_load` with the Numbers Lady being replaced by G11
 - int_hudson_explains_3
 
 # Rerecord
