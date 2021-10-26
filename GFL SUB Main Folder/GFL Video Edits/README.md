@@ -55,7 +55,7 @@ These cutscenescan be remade in-game, with mods on.
 
 # Possible ignore
 
-These videos might be safely ignored because there is almost no charactersthat we can recognize in these.
+These videos might be safely ignored because there is almost no characters that we can recognize in these, or they are effects you can use
 - vorkuta_load
 - int_flaming_limo
 - int_morgue_doors - These are the effects you can use
