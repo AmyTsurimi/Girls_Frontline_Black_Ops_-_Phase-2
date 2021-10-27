@@ -25,7 +25,7 @@ These are the edits that are to be overlaid like in Black ops 3:
 - underwaterbase_load
 - wmd_sr71_load
 
-- the second half of `outro_load` will be replaced with GFL chibi scenes.
+- the second half of `outro_load` will be replaced with GFL chibi scenes inside the film.
 
 # Animation
 
@@ -55,7 +55,7 @@ These cutscenescan be remade in-game, with mods on.
 
 # Possible ignore
 
-These videos might be safely ignored because there is almost no characters that we can recognize in these, or they are effects you can use
+These videos might be safely ignored because there is almost no characters that we can recognize in these, or they are effects you can use.
 - vorkuta_load
 - int_flaming_limo
 - int_morgue_doors - These are the effects you can use
@@ -63,5 +63,5 @@ These videos might be safely ignored because there is almost no characters that 
 - int_number_flash_1 - effect that can be overlaid
 - int_rusalka_numbers_2 - effect
 - int_shocking - effect
-- kennedy_screens - should be replaced with something else
+- kennedy_screens - should be replaced with something else. 
 - split_512x600 - the videos on the side of USDD
