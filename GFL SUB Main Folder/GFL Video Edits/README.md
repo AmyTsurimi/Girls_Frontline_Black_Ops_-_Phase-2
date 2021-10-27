@@ -25,7 +25,7 @@ These are the edits that are to be overlaid like in Black ops 3:
 - underwaterbase_load
 - wmd_sr71_load
 
-- the second half of `outro_load` will be replaced with GFL chibi scenes inside the film.
+- the film half of the outro should be replaced by something else.
 
 # Animation
 
