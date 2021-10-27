@@ -25,7 +25,8 @@ These are the edits that are to be overlaid like in Black ops 3:
 - underwaterbase_load
 - wmd_sr71_load
 
-- the film half of the outro should be replaced by something else.
+- the film half of the outro should be replaced by something else. Maybe [a clip from Deep Dive PV](https://www.youtube.com/watch?v=ktChOeMJONs) to hammer in the reference...?
+The [black ops music](https://www.youtube.com/watch?v=cTVNBy5wEkQ) would still be there tho
 
 # Animation
 
