@@ -269,7 +269,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7We know that M16A1 briefed you on the intel ext
 REFERENCE			VOX_FRO5_S01_002A_MASO
 LANG_ENGLISH		"^1UMP45: ^7M16A1 said that RFB was insane... Paranoid... Fixated with ^:numbers^7."
 REFERENCE			VOX_FRO5_S01_003A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7RFB created Parapluie. A virus that can corrupt a doll in seconds."
+LANG_ENGLISH		"^1INTERROGATOR: ^7RFB created ^:Parapluie^7. A virus that can corrupt a doll in seconds."
 REFERENCE			VOX_FRO5_S01_004A_MASO
 LANG_ENGLISH		"^1UMP45: ^7RPK16's second in command, Nyto, tested it in Vietnam. On them, on us, on her own...she didn't care."
 REFERENCE			VOX_FRO5_S01_006A_MASO
