@@ -261,19 +261,19 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7No, I want to keep pressing her --"
 REFERENCE			VOX_FRO4_S01_008A_MASO
 LANG_ENGLISH		"^1UMP45: ^7HEY!  Who are you people?  What do you want from me?!"
 REFERENCE			VOX_FRO4_S01_009A_WEAV
-LANG_ENGLISH		"^1INTERROGATOR: ^7We want the numbers, 45.  That's all we've ever wanted."
+LANG_ENGLISH		"^1INTERROGATOR: ^7We want ^:the numbers^7, 45.  That's all we've ever wanted."
 REFERENCE			VOX_FRO5_S01_001A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7我们知道哈德森在九龙的克拉克博士那儿获得的情报里简单地知悉了你的情况。"
+LANG_ENGLISH		"^1INTERROGATOR: ^7We know that M16A1 briefed you on the intel extracted from RFB at Kowloon."
 REFERENCE			VOX_FRO5_S01_001B_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7我们知道哈德森在九龙的克拉克博士那儿获得的情报里简单地知悉了你的情况。"
+LANG_ENGLISH		"^1INTERROGATOR: ^7We know that M16A1 briefed you on the intel extracted from RFB at Kowloon."
 REFERENCE			VOX_FRO5_S01_002A_MASO
-LANG_ENGLISH		"^1UMP45: ^7哈德森说克拉克疯了..成了个偏执狂…整天沉迷于数字。"
+LANG_ENGLISH		"^1UMP45: ^7M16A1 said that RFB was insane... Paranoid... Fixated with ^:numbers^7."
 REFERENCE			VOX_FRO5_S01_003A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7克拉克发明了诺娃6号。那是种能在瞬间撕裂人体的剧毒。"
+LANG_ENGLISH		"^1INTERROGATOR: ^7RFB created Parapluie. A virus that can corrupt a doll in seconds."
 REFERENCE			VOX_FRO5_S01_004A_MASO
-LANG_ENGLISH		"^1UMP45: ^7德拉格维奇的二把手, 克拉夫琴科。在越南试验过了, 拿我们, 他们, 甚至他自己做实验品。那个疯子根本不在乎。"
+LANG_ENGLISH		"^1UMP45: ^7RPK16's second in command, Nyto, tested it in Vietnam. On them, on us, on her own...she didn't care."
 REFERENCE			VOX_FRO5_S01_006A_MASO
-LANG_ENGLISH		"^1UMP45: ^7他恨他们。他跟我说过很多次, 他们一定要死！"
+LANG_ENGLISH		"^1UMP45: ^7She hated them. She told me over and over again, ^:they all had to die^7."
 REFERENCE			VOX_FRO5_S01_007A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7When? When did she tell you?"
 REFERENCE			VOX_FRO6_S01_001A_INTE
@@ -311,35 +311,35 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7After you left Nyto's compound in Laos, after y
 REFERENCE			VOX_FRO7_S01_002A_MASO
 LANG_ENGLISH		"^1UMP45: ^7No! I wasn't rogue! I was continuing the mission!"
 REFERENCE			VOX_FRO7_S01_003A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7你违抗军令, 跑到了复活岛, 为什么？"
+LANG_ENGLISH		"^1INTERROGATOR: ^7You went to Rebirth Island, against orders.  Why, 45?!"
 REFERENCE			VOX_FRO7_S01_003B_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7你违抗军令, 跑到了复活岛, 为什么？"
+LANG_ENGLISH		"^1INTERROGATOR: ^7You went to Rebirth Island against orders.  Why?!"
 REFERENCE			VOX_FRO7_S01_004A_MASO
-LANG_ENGLISH		"^1UMP45: ^7斯泰纳在那儿, 我们必须干掉他。"
+LANG_ENGLISH		"^1UMP45: ^7Suomi was there! ^:We had to kill Suomi^7!"
 REFERENCE			VOX_FRO7_S01_005A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7哈德森和CIA已经去复活岛找斯泰纳了, 你还去那干嘛？"
+LANG_ENGLISH		"^1INTERROGATOR: ^7But M16A1 and Griffin were already on their way to get Suomi at Rebirth. Why did you have to go?"
 REFERENCE			VOX_FRO7_S01_005B_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7哈德森和CIA已经去复活岛找斯泰纳了, 你还去那干嘛？"
+LANG_ENGLISH		"^1INTERROGATOR: ^7But M16A1 and Griffin were already on their way to get Suomi. Why did you have to go?"
 REFERENCE			VOX_FRO7_S01_006A_MASO
-LANG_ENGLISH		"^1UMP45: ^7德拉格维奇, 克拉夫琴科, 斯泰纳。他们都得死！"
+LANG_ENGLISH		"^1UMP45: ^:RPK16^7.  ^:Nyto^7.  ^:Suomi^7.  They all had to die."
 REFERENCE			VOX_FRO7_S01_007A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7他们想要抓活的, 你为什么要杀了斯泰纳。"
+LANG_ENGLISH		"^1INTERROGATOR: ^7We wanted Suomi ^:alive^7! Why did you have to kill her?!"
 REFERENCE			VOX_FRO7_S01_007B_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7他们想要抓活的, 你为什么要杀了斯泰纳。"
+LANG_ENGLISH		"^1INTERROGATOR: ^7We wanted Suomi alive. Why did you have to kill her?!"
 REFERENCE			VOX_FRO7_S01_008A_MASO
-LANG_ENGLISH		"^1UMP45: ^7那些数字让我这样干的！你他妈的为什么就是听不明白！"
+LANG_ENGLISH		"^1UMP45: ^7Cause ^:the numbers^7 were telling me to!  Why don't you fuckin' understand?!"
 REFERENCE			VOX_FRO7_S01_008A_MASO_S
-LANG_ENGLISH		"^1UMP45: ^7那些数字让我这样干的！你他妈的为什么就是听不明白！"
+LANG_ENGLISH		"^1UMP45: ^7Cause the numbers were telling me to!  Why don't you understand?!"
 REFERENCE			VOX_FRO7_S01_009A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7你杀了克里夫琴科.你端掉了他们的基地,UMP45?"
+LANG_ENGLISH		"^1INTERROGATOR: ^7You killed Nyto. You obliterated their base. 45?"
 REFERENCE			VOX_FRO7_S01_010A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7伍兹和鲍恩都被杀了,整个SOG小队成员都命丧黄泉,除了你,UMP45."
+LANG_ENGLISH		"^1INTERROGATOR: ^7HK416 and UMP9 were both killed. Your entire 404 team, wiped out. ^:Only you^7 survived, 45. You. ^:No one else^7."
 REFERENCE			VOX_FRO7_S01_011A_MASO
-LANG_ENGLISH		"^1UMP45: ^7不…不…雷泽诺夫活了下来。"
+LANG_ENGLISH		"^1UMP45: ^7No, no... 40 survived."
 REFERENCE			VOX_FRO7_S01_012A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7只有你UMP45."
+LANG_ENGLISH		"^1INTERROGATOR: ^7Just you, 45."
 REFERENCE			VOX_FRO7_S01_013A_MASO
-LANG_ENGLISH		"^1UMP45: ^7不,不...自从沃尔科塔开始,雷泽诺夫就与我一起."
+LANG_ENGLISH		"^1UMP45: ^7No, no... ^:40 is still with me^7...since Vorkuta!"
 REFERENCE			VOX_FRO8_S01_006A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Forty Five!"
 REFERENCE			VOX_FRO8_S01_006B_INTE
@@ -351,7 +351,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^745. The fucking numbers!"
 REFERENCE			VOX_FRO8_S01_007B_INTE_S
 LANG_ENGLISH		"^1INTERROGATOR: ^745. The numbers!"
 REFERENCE			VOX_FRO8_S01_008A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7Where is the Broadcast Station?!"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Where is the ^:Broadcast Station^7?!"
 REFERENCE			VOX_FRO8_S01_008B_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Where is the Broadcast Station?"
 REFERENCE			ZORKSAVE_DESCRIPTION
