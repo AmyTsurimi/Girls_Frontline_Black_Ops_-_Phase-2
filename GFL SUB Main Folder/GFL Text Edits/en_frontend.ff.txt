@@ -138,7 +138,7 @@
 
 |<^1INTERROGATOR: ^7Do you consider UMP 40 to be your friend?>|
 
-|<^1INTERROGATOR: ^7What did Anti Parapluie M16A1 tell you about T-Doll RFB?>|
+|<^1INTERROGATOR: ^7What did Anti Rain M16A1 tell you about T-Doll RFB?>|
 
 |<^1INTERROGATOR: ^7Why do you think the KCCO were there?>|
 
