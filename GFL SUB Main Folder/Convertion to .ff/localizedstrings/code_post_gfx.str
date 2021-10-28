@@ -188,37 +188,37 @@ REFERENCE			MENU_ZOMBIE_THEATER_DESC
 LANG_ENGLISH		"与“僵尸”战斗，定制新的最终方案。获得胜利！ "
 
 REFERENCE			VIDSUBTITLES_CREEK_A_VIDEO11
-LANG_ENGLISH		"^1INTERROGATOR: ^7哈德森在九龙的任务已经搞定了.任务中他发现了德拉格维奇尚未完成的工作.一种名为Nova 6的致命神经毒素,一触即死."
+LANG_ENGLISH		"^1INTERROGATOR: ^7M16A1's mission in Kowloon was accomplished. She had discovered RPK16's end game. ^:Parapluie^7. A virus, that if infected will corrupt you before your firewall is up."
 REFERENCE			VIDSUBTITLES_CREEK_A_VIDEO12
-LANG_ENGLISH		"^1UMP45: ^7这是德拉格维奇的武器."
+LANG_ENGLISH		"^1UMP45: ^7RPK16's weapon."
 REFERENCE			VIDSUBTITLES_CREEK_A_VIDEO13
-LANG_ENGLISH		"^1INTERROGATOR: ^7回越南吧,梅森.维克多雷泽诺夫与你一道逃脱了越南的军事行动吗？"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Go back to Vietnam, 45. Was UMP 40 still with you after you escaped from the DEFY compound?"
 REFERENCE			VIDSUBTITLES_CREEK_A_VIDEO14
-LANG_ENGLISH		"^1UMP45: ^7对...雷泽诺夫一直和我在一起."
+LANG_ENGLISH		"^1UMP45: ^7Ahh... 40 was with me the whole time."
 REFERENCE			VIDSUBTITLES_CREEK_A_VIDEO15
-LANG_ENGLISH		"^1INTERROGATOR: ^你确定吗？"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Are you sure?"
 REFERENCE			VIDSUBTITLES_CREEK_A_VIDEO16
-LANG_ENGLISH		"^1UMP45: ^7北边,我们逃向了北边....我们吃了越南共X党的很多枪子.即便这样雷泽诺夫仍然活了下来!"
+LANG_ENGLISH		"^1UMP45: ^7North, we went North. The Viet Cong. We were shot down. And 40 even survived that!"
 REFERENCE			VIDSUBTITLES_CREEK_A_VIDEO17
-LANG_ENGLISH		"^1UMP45: ^7德拉格维奇的走狗,克里夫琴科,在那儿.他知道我们会来."
+LANG_ENGLISH		"^1UMP45: ^7RPK16's lapdog Nyto was there. She knew we were comin'."
 REFERENCE			VIDSUBTITLES_CUBA_A_VIDEO11
-LANG_ENGLISH		"^1UMP45: ^7不 --"
+LANG_ENGLISH		"^1UMP45: ^7No --"
 REFERENCE			VIDSUBTITLES_CUBA_A_VIDEO12
-LANG_ENGLISH		"^1INTERROGATOR: ^7你别他妈耍我,梅森.你骗不了我的!"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Do not fuck with me, Forty Five! ^:I know when you're lying^7."
 REFERENCE			VIDSUBTITLES_CUBA_A_VIDEO13
-LANG_ENGLISH		"^1INTERROGATOR: ^761年,在猪湾都发生了什么?"
+LANG_ENGLISH		"^1INTERROGATOR: ^7'61. Bay of Pigs. What happened?"
 REFERENCE			VIDSUBTITLES_CUBA_A_VIDEO14
-LANG_ENGLISH		"^1UMP45: ^7[笑] 我们都死了."
+LANG_ENGLISH		"^1UMP45: ^7[laughs] We all got killed."
 REFERENCE			VIDSUBTITLES_CUBA_A_VIDEO15
-LANG_ENGLISH		"^1INTERROGATOR: ^7撒谎可没用啊,梅森.我们知道你是和伍兹还有鲍曼一起行动的."
+LANG_ENGLISH		"^1INTERROGATOR: ^7There's no use lying, 45. We know you went in with HK416 and UMP9."
 REFERENCE			VIDSUBTITLES_CUBA_A_VIDEO16
-LANG_ENGLISH		"^1UMP45: ^伍兹...还有鲍曼."
+LANG_ENGLISH		"^1UMP45: ^7HK416... And UMP9."
 REFERENCE			VIDSUBTITLES_CUBA_A_VIDEO17
-LANG_ENGLISH		"^1INTERROGATOR: ^7德拉格维奇.你还记得德拉格维奇吗？"
+LANG_ENGLISH		"^1INTERROGATOR: ^7RPK16. Do you remember RPK16?"
 REFERENCE			VIDSUBTITLES_CUBA_A_VIDEO18
-LANG_ENGLISH		"^1UMP45: ^7卡斯特罗... 我们的任务是刺杀卡斯特罗."
+LANG_ENGLISH		"^1UMP45: ^7Castro. We went in to kill Castro."
 REFERENCE			VIDSUBTITLES_FLASHPOINT_A_VIDEO11
-LANG_ENGLISH		"^1INTERROGATOR: ^7这是你的任务,名为：闪点行动.直捣太空计划的黄龙,摧毁他们的远距离导弹计划."
+LANG_ENGLISH		"^1INTERROGATOR: ^7Executive order, Operation Flashpoint... Rip out the heart of their Space Program. Eradicate their long range missile project."
 REFERENCE			VIDSUBTITLES_FLASHPOINT_A_VIDEO12
 LANG_ENGLISH		"^1INTERROGATOR: ^7消灭阿森松组织.纳粹党羽,他们的科学家,这些都是战后苏联方面的俘虏."
 REFERENCE			VIDSUBTITLES_FLASHPOINT_A_VIDEO13

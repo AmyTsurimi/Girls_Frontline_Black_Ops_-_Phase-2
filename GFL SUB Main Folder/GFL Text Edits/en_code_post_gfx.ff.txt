@@ -8320,7 +8320,7 @@ Marketplace>|
 
 |<Join Reserved>|
 
-|<^1INTERROGATOR: ^7M16A1's mission in Kowloon was accomplished. She had discovered RPK16's end game. Parapluie. A virus, that if infected will corrupt you before you firewall is up.>|
+|<^1INTERROGATOR: ^7M16A1's mission in Kowloon was accomplished. She had discovered RPK16's end game. Parapluie. A virus, that if infected will corrupt you before your firewall is up.>|
 
 |<^1UMP45: ^7RPK16's weapon.>|
 
