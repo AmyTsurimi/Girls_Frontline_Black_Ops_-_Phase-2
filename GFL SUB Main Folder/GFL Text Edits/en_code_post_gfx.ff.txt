@@ -8366,7 +8366,7 @@ Marketplace>|
 
 |<^1UMP45: ^7Vorkuta. 40 told me at Vorkuta.>|
 
-|<^1INTERROGATOR: ^7What did she tell you>|
+|<^1INTERROGATOR: ^7What did she tell you?>|
 
 |<^1UMP40: ^745... listen to me...>|
 
@@ -8374,7 +8374,7 @@ Marketplace>|
 
 |<^1UMP40: ^7RPK16. Suomi. Nyto. All must die.>|
 
-|<^1UMP45: ^7..But She told me what they did.>|
+|<^1UMP45: ^7...But She told me what they did.>|
 
 |<^1UMP45: ^7What kind of dolls they were.>|
 
@@ -8386,7 +8386,7 @@ Marketplace>|
 
 |<^1UMP45: ^7NO!>|
 
-|<^1INTERROGATOR: ^7We know you did. He turned himself in at DEFY. You were there, 45. He had intel on RPK16. Everything. But it was a lost cause.>|
+|<^1INTERROGATOR: ^7We know you did. She turned herself in at DEFY. You were there, 45. She had intel on RPK16. Everything. But it was a lost cause.>|
 
 |<^1UMP45: ^7Shut the $&#* up!>|
 
@@ -8444,11 +8444,11 @@ Marketplace>|
 
 |<^1UMP45: ^7Why don't you ask M16? Kowloon was her mission. She interrogated RFB.>|
 
-|<^1INTERROGATOR: ^7After your escape, you were assigned to M16A1 at the G&K. How could she trust you when she knew that UMP 40 helped you break out of Vorkuta?>|
+|<^1INTERROGATOR: ^7After your escape, you were assigned to M16A1 at Griffin. How could she trust you when she knew that UMP 40 helped you break out of Vorkuta?>|
 
 |<^1UMP45: ^7UMP40...was my sister...but she didn't make it out.>|
 
-|<^1INTERROGATOR: ^7UMP 40 was a Sangvis Ferri. How did the G&K know you weren't compromised?>|
+|<^1INTERROGATOR: ^7UMP 40 was a Sangvis Ferri. How did Griffin know you weren't compromised?>|
 
 |<^1UMP45: ^7They tested me. They knew I wouldn't break and I won't break now.>|
 
@@ -8458,11 +8458,11 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7Who? Who, 45?>|
 
-|<^1INTERROGATOR: ^7RPK16 has fully weaponized and deployed Parapluie. She has sleeper cell agents all over the G&K just waiting for the signal...>|
+|<^1INTERROGATOR: ^7RPK16 has fully weaponized and deployed Parapluie. She has sleeper cell agents all over Griffin just waiting for the signal...>|
 
 |<^1UMP45: ^7[interrupts] We've been invaded.>|
 
-|<^1INTERROGATOR: ^7The G&K was invaded decades ago 45. The Sangvis Ferri have been waiting. Now they're ready to strike.>|
+|<^1INTERROGATOR: ^7Griffin was invaded decades ago 45. The Sangvis Ferri have been waiting. Now they're ready to strike.>|
 
 |<^1UMP45: ^7What the $&#* am I supposed to do?>|
 
@@ -8488,7 +8488,7 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7She's gone.>|
 
-|<^1INTERROGATOR: ^7RPK16's sleeper cells are on G&K soil. Parapluie is weaponized. They will use it. KCCO has gone dark. We are out of options. A pre-emptive strike on USSR is prepared. The Commander WILL authorize.>|
+|<^1INTERROGATOR: ^7RPK16's sleeper cells are on Griffin bases. Parapluie is weaponized. They will use it. KCCO has gone dark. We are out of options. A pre-emptive strike on USSR is prepared. The Commander WILL authorize.>|
 
 |<^1INTERROGATOR: ^7UMP45! For the last time! Where is the numbers station?!>|
 
