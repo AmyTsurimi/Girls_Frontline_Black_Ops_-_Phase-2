@@ -3114,11 +3114,11 @@ Time remaining in round: &&3
 
 |<Strick down the angel of KCCO and it's creators.>|
 
-|<Head to Vietnam and work with old allies to investigate KCCO presence in the region.>|
+|<Old shadow looms over the new frontier. May your old allies help you, in your search after old enemies.>|
 
-|<At the height of the TET offensive, enter the MACV building to secure vital intelligence on KCCO plans for the region.>|
+|<At the heart of the TET's engulfing fire, DEFY burning compound holds knowledge of the shadows game.>|
 
-|<Investigate the extent of Project Parapluie by interrogating one of Dragovich's former associates.>|
+|<To understand the rain, one must understand the numbers. The answer might lie within the knowledge of this doll.>|
 
 |<Search for evidence of KCCO presence within the villages of Northern Vietnam.>|
 
@@ -3128,7 +3128,7 @@ Time remaining in round: &&3
 
 |<Torture at the hands of the enemy only feeds the hunger for revenge.>|
 
-|<Learn of the origins of Project Parapluie.>|
+|<Heroes, loyalty and beliefs. The prise to pay in the awakening of Parapluie from its slumber.>|
 
 |<Infiltrate the Project Parapluie Research labs and capture Dr Steiner.>|
 
