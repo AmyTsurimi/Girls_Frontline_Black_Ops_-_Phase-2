@@ -1118,7 +1118,7 @@
 
 |<Crosshair Color>|
 
-|<Force DirectX® 7 Mode>|
+|<Force DirectXÂ® 7 Mode>|
 
 |<Automatic>|
 
@@ -1216,7 +1216,7 @@
 
 |<TM>|
 
-|<®>|
+|<Â®>|
 
 |<Player Select>|
 
@@ -1338,9 +1338,9 @@ or you may not have file write priviledges.
 
 |<Rendering Method Preference>|
 
-|<DirectX® 7>|
+|<DirectXÂ® 7>|
 
-|<DirectX® 9>|
+|<DirectXÂ® 9>|
 
 |<We recommend using "Optimal System Settings."  Manually changing settings could result in poor performance.>|
 
@@ -1348,7 +1348,7 @@ or you may not have file write priviledges.
 
 |<Play for fun with people who share similar profiles.>|
 
-|<Play competitive matches to improve your TrueSkill™ rankings.>|
+|<Play competitive matches to improve your TrueSkillÂ™ rankings.>|
 
 |<Get into a game quickly. Game settings are chosen randomly.>|
 
@@ -2076,7 +2076,7 @@ Note: Graphic content will not be reduced during online play.>|
 
 |<If you restart now, you will lose any progress that you have made since your last saved checkpoint.>|
 
-|<© 2010 Activision Publishing, Inc. All rights reserved.>|
+|<Â© 2010 Activision Publishing, Inc. All rights reserved.>|
 
 |<Are you sure you want to leave this game?>|
 
@@ -3112,11 +3112,11 @@ Time remaining in round: &&3
 
 |<Back at Griffin, meet with the Commander to discuss the infectious virus posed by Sangvis Ferri.>|
 
-|<Strick down the angel of KCCO and it's creators.>|
+|<Strike down the angel of KCCO and its creators.>|
 
 |<Old shadow looms over the new frontier. May your old allies help you, in your search after old enemies.>|
 
-|<At the heart of the TET's engulfing fire, DEFY burning compound holds knowledge of the shadows game.>|
+|<At the heart of the TET's engulfing fire, DEFY's burning compound holds knowledge of the shadows' game.>|
 
 |<To understand the rain, one must understand the numbers. The answer might lie within the knowledge of this doll.>|
 
@@ -3124,17 +3124,17 @@ Time remaining in round: &&3
 
 |<Follow the flow of the shadows, in search of the downed phoenix. Will you rise or will it all turn to ashes?>|
 
-|<The numbers wispers from deep of the giants den. Will you overcome the challange or will you be buried under its weight?>|
+|<The numbers whispers from deep of the giants' den. Will you overcome the challenge or will you be buried under its weight?>|
 
-|<Those who don't exist can they ever be missed?>|
+|<Those who don't exist, can they ever be missed?>|
 
-|<Heroes, loyalty and beliefs. The prise to pay in the awakening of Parapluie from its slumber.>|
+|<Heroes, loyalty and beliefs. The price to pay in the awakening of Parapluie from its slumber.>|
 
 |<The stakes are high and the bets are set. At the flip of a coin, two sides so different yet the same coin.>|
 
 |<Be like a butterfly escaping it's cocoon. See the world for real, now for the first time...>|
 
-|<Without protection form the rain, may it wash away your sins. Dive into the depths, may you be bearer of the light after the rain.>|
+|<Without protection from the rain, may it wash away your sins. Dive into the depths, may you be bearer of the light after the rain.>|
 
 |<Your screenshot upload has failed.>|
 
@@ -3221,7 +3221,7 @@ Time remaining in round: &&3
 
 |<DIFFICULTY>|
 
-|<Do you want to play Call of Duty®: Black Ops ? >|
+|<Do you want to play Call of DutyÂ®: Black Ops ? >|
 
 |<COMBAT TIPS>|
 
@@ -8588,7 +8588,7 @@ Marketplace>|
 
 |<^1COMMANDER: ^7I said, 'are certain to miss the future'!>|
 
-|<^1CASTRO: ^7[laughs] Coño... I missed that.>|
+|<^1CASTRO: ^7[laughs] CoÃ±o... I missed that.>|
 
 |<^1SPRINGFIELD: ^7Prime Minister Castro, this missile crisis was the last straw. We almost blew ourselves up. Now we invited you here today...>|
 
