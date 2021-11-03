@@ -78,7 +78,7 @@
 
 |<^1UMP9: ^7You don't scare me. KCCO piece of...>|
 
-|<^1UMP45: ^79, don't do this!>|
+|<^1UMP45: ^7We're family, don't do this!>|
 
 |<^1KCCO OPERATIVE: ^7Raggh! Raggh! Raggh!>|
 
@@ -112,7 +112,7 @@
 
 |<^1UMP45: ^7We'll take it.>|
 
-|<^1VC BOOKIE: ^7Bac bac bac!>|
+|<^1VC BOOKIE: ^7Bang bang bang!>|
 
 |<^1HK416: ^7Okay.>|
 
@@ -136,7 +136,7 @@
 
 |<^1HK416: ^7Ready.>|
 
-|<^1VC BOOKIE: ^7Bac bac!>|
+|<^1VC BOOKIE: ^7Bang bang!>|
 
 |<^1HK416: ^7Dirty sons of bitches.>|
 
@@ -226,7 +226,7 @@
 
 |<^1HK416: ^7Wake up, 45!>|
 
-|<^1HK416: ^7Okay, what's our load out... UV-32 rockets... 12mm nose cannon... these bastards are ready for World War 3.>|
+|<^1HK416: ^7Okay, what's our load out... UV-32 rockets... 12mm nose cannon... these bastards are ready for World War 4.>|
 
 |<^1UMP45: ^7Chain load system on the 32's.>|
 
