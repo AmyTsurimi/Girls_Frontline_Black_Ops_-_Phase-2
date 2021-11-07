@@ -194,7 +194,7 @@
 
 |<^1INTERROGATOR: ^7That's not important. What's important is who you are. What's your name?>|
 
-|<^1UMP45: ^7Fuck you.>|
+|<^1UMP45: ^7Fuck. you!>|
 
 |<^1UMP45: ^7Screw you.>|
 
