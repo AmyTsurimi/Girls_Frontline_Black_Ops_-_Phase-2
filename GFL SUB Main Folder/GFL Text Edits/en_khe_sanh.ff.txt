@@ -762,25 +762,25 @@
 
 |<^1HK416: ^745! Call in the Phantoms!>|
 
-|<^1UMP45: ^7VF 143! Authorization Four Zero Four X-ray. Priority one ordnance on my command!>|
+|<^1UMP45: ^7VF 143! Authorization Four Zero Four G-11. Priority one ordnance on my command!>|
 
-|<^1T-DOLL PILOT: ^7Roger that, X-ray. VF 143 Standing by.>|
+|<^1T-DOLL PILOT: ^7Roger that, G-11. VF 143 Standing by.>|
 
-|<^1T-DOLL PILOT: ^7Affirmative X-ray. Engaging.>|
+|<^1T-DOLL PILOT: ^7Affirmative G-11. Engaging.>|
 
-|<^1T-DOLL PILOT: ^7Coordinates received.  Keep your heads down, X-ray.>|
+|<^1T-DOLL PILOT: ^7Coordinates received.  Keep your heads down, G-11.>|
 
-|<^1T-DOLL PILOT: ^7Understood X-ray. Commencing run.>|
+|<^1T-DOLL PILOT: ^7Understood G-11. Commencing run.>|
 
 |<^1T-DOLL PILOT: ^7VF 143. Beginning bomb run.>|
 
-|<^1T-DOLL PILOT: ^7Roger X-ray. Coming in for strafing run.>|
+|<^1T-DOLL PILOT: ^7Roger G-11. Coming in for strafing run.>|
 
-|<^1T-DOLL PILOT: ^7Understood. Stand by, X-ray.>|
+|<^1T-DOLL PILOT: ^7Understood. Stand by, G-11.>|
 
 |<^1T-DOLL PILOT: ^7VF 143 inbound.>|
 
-|<^1T-DOLL PILOT: ^7Roger X-ray - Targeting Sector.>|
+|<^1T-DOLL PILOT: ^7Roger G-11 - Targeting Sector.>|
 
 |<^1HK416: ^7Get to that bunker!>|
 

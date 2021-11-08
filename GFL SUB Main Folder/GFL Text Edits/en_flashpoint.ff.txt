@@ -224,7 +224,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Yankee one three... Do you copy?>|
 
-|<^1HK416: ^7This is X-ray two niner. Do you monitor, over?>|
+|<^1HK416: ^7This is G-11 two niner. Do you monitor, over?>|
 
 |<^1HK416: ^7No response from AK-12... We gotta move.>|
 
@@ -242,7 +242,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Reina come back.>|
 
-|<^1UMP9: ^7Go X-ray.>|
+|<^1UMP9: ^7Go G-11.>|
 
 |<^1HK416: ^7Soyuz One launch is imminent. We're on our way, over.>|
 
@@ -306,7 +306,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^79, are you in position?>|
 
-|<^1UMP9: ^7Roger X-ray. Reina is covering the road.>|
+|<^1UMP9: ^7Roger G-11. Reina is covering the road.>|
 
 |<^1HK416: ^7AK-12's been compromised. Expect the base to be in elevated alert.>|
 
@@ -400,7 +400,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Delta and 9 should be right up ahead.>|
 
-|<^1UMP9: ^7X-ray this is Reina. Hostiles in sight. Takin' 'em out.>|
+|<^1UMP9: ^7G-11 this is Reina. Hostiles in sight. Takin' 'em out.>|
 
 |<^1HK416: ^7Hustle up.>|
 
@@ -484,7 +484,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Take out those snipers.>|
 
-|<^1UMP9: ^7X-ray come in, over.>|
+|<^1UMP9: ^7G-11 come in, over.>|
 
 |<^1HK416: ^7Go ahead, 9.>|
 

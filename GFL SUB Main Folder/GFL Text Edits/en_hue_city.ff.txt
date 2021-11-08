@@ -162,7 +162,7 @@
 
 |<^1HK416: ^7If he's alive, we'll find him.>|
 
-|<^1T-DOLL PILOT: ^7404 X-ray team, hook up.>|
+|<^1T-DOLL PILOT: ^7404 G-11 team, hook up.>|
 
 |<^1T-DOLL PILOT: ^7Team on the wire.>|
 
@@ -182,7 +182,7 @@
 
 |<^1HK416: ^7Move out!>|
 
-|<^1UMP9: ^7Lima niner, I got eyes on X-ray.>|
+|<^1UMP9: ^7Lima niner, I got eyes on G-11.>|
 
 |<^1UMP9: ^7You got NVA all over the North wing, 416.>|
 
@@ -190,9 +190,9 @@
 
 |<^1T-DOLL PILOT: ^7Lima niner is inbound.>|
 
-|<^1UMP9: ^7X-ray, get your heads down!>|
+|<^1UMP9: ^7G-11, get your heads down!>|
 
-|<^1UMP9: ^7X-ray, you're clear.>|
+|<^1UMP9: ^7G-11, you're clear.>|
 
 |<^1HK416: ^7Come on, move up!>|
 
@@ -202,7 +202,7 @@
 
 |<^1UMP9: ^7On the way.>|
 
-|<^1UMP9: ^7X-ray, we're breaching the roof.>|
+|<^1UMP9: ^7G-11, we're breaching the roof.>|
 
 |<^1UMP9: ^7The whole damn building's overrun!>|
 
@@ -226,7 +226,7 @@
 
 |<^1UMP9: ^7Sorry bastard!>|
 
-|<^1T-DOLL PILOT: ^7X-ray this is Lima niner. Anyone who doesn't get out soon, isn't going to; the NVA have overwhelmed the entire North Wing.>|
+|<^1T-DOLL PILOT: ^7G-11 this is Lima niner. Anyone who doesn't get out soon, isn't going to; the NVA have overwhelmed the entire North Wing.>|
 
 |<^1HK416: ^7Roger that Lima niner. Moving on.>|
 
@@ -254,7 +254,7 @@
 
 |<^1HK416: ^7Lima niner - sitrep over!>|
 
-|<^1T-DOLL PILOT: ^7X-ray - NVA have retaken DEFY South. You are cut off.>|
+|<^1T-DOLL PILOT: ^7G-11 - NVA have retaken DEFY South. You are cut off.>|
 
 |<^1HK416: ^7Shit.>|
 
@@ -326,7 +326,7 @@
 
 |<^1HK416: ^7Lima niner... Where the Hell's our pickup?!!>|
 
-|<^1T-DOLL PILOT: ^7X-ray - Be advised... Griffin forces are engaged in heavy fighting West of DEFY.>|
+|<^1T-DOLL PILOT: ^7G-11 - Be advised... Griffin forces are engaged in heavy fighting West of DEFY.>|
 
 |<^1T-DOLL PILOT: ^7Push through to Rally Point Delta - 2 clicks North on the River.>|
 
@@ -368,31 +368,31 @@
 
 |<^1HK416: ^7What are you waiting for?... We need that radio, 45.>|
 
-|<^1UMP45: ^7Texas this is Four Zero Four X-ray. Priority one ordnance on my command. I authenticate, golf shoe, over.>|
+|<^1UMP45: ^7Texas this is Four Zero Four G-11. Priority one ordnance on my command. I authenticate, golf shoe, over.>|
 
-|<^1T-DOLL PILOT: ^7Roger X-ray. Let us know where you need us.>|
+|<^1T-DOLL PILOT: ^7Roger G-11. Let us know where you need us.>|
 
 |<^1T-DOLL: ^7Son of a bitch... Holy shit!>|
 
-|<^1HK416: ^7X-ray - Move out!>|
+|<^1HK416: ^7G-11 - Move out!>|
 
 |<^1HK416: ^745, put that ordnance on the buildings!>|
 
 |<^1UMP9: ^745, give ME the damned radio if you're not gonna use it.>|
 
-|<^1T-DOLL PILOT: ^7X-ray, Texas is standing by.>|
+|<^1T-DOLL PILOT: ^7G-11, Texas is standing by.>|
 
 |<^1T-DOLL PILOT: ^7Texas, waiting for ordnance command, over.>|
 
-|<^1T-DOLL PILOT: ^7X-ray, we have no visual on targets. Request coordinates, over.>|
+|<^1T-DOLL PILOT: ^7G-11, we have no visual on targets. Request coordinates, over.>|
 
-|<^1T-DOLL PILOT: ^7Roger that X-ray, targeting the 2 story building.>|
+|<^1T-DOLL PILOT: ^7Roger that G-11, targeting the 2 story building.>|
 
-|<^1T-DOLL PILOT: ^7Roger X-ray, engaging the 3 story building.>|
+|<^1T-DOLL PILOT: ^7Roger G-11, engaging the 3 story building.>|
 
 |<^1T-DOLL PILOT: ^7Roger that. Wild fire on the 4 story building.>|
 
-|<^1T-DOLL PILOT: ^7Gotcha X-ray. Firing on the 5 story building.>|
+|<^1T-DOLL PILOT: ^7Gotcha G-11. Firing on the 5 story building.>|
 
 |<^1T-DOLL PILOT: ^7Coordinates confirmed. Contact at the 6 story building.>|
 
@@ -402,15 +402,15 @@
 
 |<^1UMP45: ^7Texas, ordnance on my mark.>|
 
-|<^1T-DOLL PILOT: ^7Roger X-ray, hold tight.>|
+|<^1T-DOLL PILOT: ^7Roger G-11, hold tight.>|
 
 |<^1UMP45: ^7Marking coordinates. Take 'em out.>|
 
-|<^1T-DOLL PILOT: ^7Clear X-ray. We are engaging.>|
+|<^1T-DOLL PILOT: ^7Clear G-11. We are engaging.>|
 
 |<^1UMP45: ^7Texas hit that nest right now. Danger close!>|
 
-|<^1T-DOLL PILOT: ^7Comin' in X-ray. Keep your heads down.>|
+|<^1T-DOLL PILOT: ^7Comin' in G-11. Keep your heads down.>|
 
 |<^1UMP45: ^7Target marked. Hit 'em hard.>|
 
@@ -418,31 +418,31 @@
 
 |<^1UMP45: ^7Texas, your target is tagged.>|
 
-|<^1T-DOLL PILOT: ^7We see you X-ray. Support on the way.>|
+|<^1T-DOLL PILOT: ^7We see you G-11. Support on the way.>|
 
-|<^1T-DOLL PILOT: ^7Negative X-ray we see friendlies on your mark.>|
+|<^1T-DOLL PILOT: ^7Negative G-11 we see friendlies on your mark.>|
 
-|<^1T-DOLL PILOT: ^7X-ray those coordinates are on friendlies. Confirm, over?>|
+|<^1T-DOLL PILOT: ^7G-11 those coordinates are on friendlies. Confirm, over?>|
 
-|<^1T-DOLL PILOT: ^7Negative X-ray, that is not a valid target.>|
+|<^1T-DOLL PILOT: ^7Negative G-11, that is not a valid target.>|
 
-|<^1T-DOLL PILOT: ^7That's a negative X-ray - We see RPGs on the rooftops.>|
+|<^1T-DOLL PILOT: ^7That's a negative G-11 - We see RPGs on the rooftops.>|
 
-|<^1T-DOLL PILOT: ^7X-ray - its too hot! Clear out those RPGs!>|
+|<^1T-DOLL PILOT: ^7G-11 - its too hot! Clear out those RPGs!>|
 
-|<^1T-DOLL PILOT: ^7Understood X-ray. Clear your squad from the area.>|
+|<^1T-DOLL PILOT: ^7Understood G-11. Clear your squad from the area.>|
 
-|<^1T-DOLL PILOT: ^7Understood X-ray. Clear your team from the area.>|
+|<^1T-DOLL PILOT: ^7Understood G-11. Clear your team from the area.>|
 
 |<^1HK416: ^7Clear the area! Danger close!>|
 
-|<^1T-DOLL PILOT: ^7Affirmative X-ray. Clear the area.>|
+|<^1T-DOLL PILOT: ^7Affirmative G-11. Clear the area.>|
 
 |<^1HK416: ^7First squad, get out of there! Inbound fires on our position.>|
 
-|<^1T-DOLL PILOT: ^7X-ray you have contact on the roof of the 4 story building.>|
+|<^1T-DOLL PILOT: ^7G-11 you have contact on the roof of the 4 story building.>|
 
-|<^1T-DOLL PILOT: ^7X-ray, enemy RPG on the roof.>|
+|<^1T-DOLL PILOT: ^7G-11, enemy RPG on the roof.>|
 
 |<^1T-DOLL PILOT: ^7Target eliminated.>|
 
@@ -450,13 +450,13 @@
 
 |<^1T-DOLL PILOT: ^7Multiple KHA. Zero is clear.>|
 
-|<^1T-DOLL PILOT: ^7X-ray, the building is secure, over.>|
+|<^1T-DOLL PILOT: ^7G-11, the building is secure, over.>|
 
 |<^1T-DOLL PILOT: ^7We have multiple confirmed kills at zero. Area secure.>|
 
-|<^1T-DOLL PILOT: ^7X-ray you are free to proceed. You have superiority.>|
+|<^1T-DOLL PILOT: ^7G-11 you are free to proceed. You have superiority.>|
 
-|<^1T-DOLL PILOT: ^7X-ray we have control of the building. Move up.>|
+|<^1T-DOLL PILOT: ^7G-11 we have control of the building. Move up.>|
 
 |<^1UMP40: ^7Excellent!!!>|
 
@@ -482,21 +482,21 @@
 
 |<^1UMP9: ^7That Typhon is killing us! 45, put those birds on it!>|
 
-|<^1T-DOLL PILOT: ^7Affirmative X-ray. Texas raining hell.>|
+|<^1T-DOLL PILOT: ^7Affirmative G-11. Texas raining hell.>|
 
-|<^1T-DOLL PILOT: ^7Roger that X-ray. Coming in for a strafing run.>|
+|<^1T-DOLL PILOT: ^7Roger that G-11. Coming in for a strafing run.>|
 
-|<^1T-DOLL PILOT: ^7Tank destroyed - X-ray you are clear to proceed.>|
+|<^1T-DOLL PILOT: ^7Tank destroyed - G-11 you are clear to proceed.>|
 
-|<^1HK416: ^7X-ray, move out!>|
+|<^1HK416: ^7G-11, move out!>|
 
 |<^1HK416: ^7The LZ's half a click away; end of the street.>|
 
-|<^1T-DOLL PILOT: ^7Shit... evasive action... X-ray we are under heavy fire!>|
+|<^1T-DOLL PILOT: ^7Shit... evasive action... G-11 we are under heavy fire!>|
 
-|<^1T-DOLL PILOT: ^7Evasive action... X-ray we are under heavy fire!>|
+|<^1T-DOLL PILOT: ^7Evasive action... G-11 we are under heavy fire!>|
 
-|<^1T-DOLL PILOT: ^7X-ray the grid is hot. RT-Texas is pulling out. Take down that anti-air and we will return support, over.>|
+|<^1T-DOLL PILOT: ^7G-11 the grid is hot. RT-Texas is pulling out. Take down that anti-air and we will return support, over.>|
 
 |<^1UMP45: ^7Understood Texas.>|
 
@@ -532,7 +532,7 @@
 
 |<^1HK416: ^7Blocked. Up the stairs.>|
 
-|<^1UMP9: ^7X-ray, Charlie's moving in on us. Pick it up.>|
+|<^1UMP9: ^7G-11, Charlie's moving in on us. Pick it up.>|
 
 |<^1HK416: ^7We're on it!>|
 
@@ -558,7 +558,7 @@
 
 |<^1UMP40: ^7Good work, 45!>|
 
-|<^1T-DOLL PILOT: ^7X-ray - Air support is offline while we evacuate the wounded.>|
+|<^1T-DOLL PILOT: ^7G-11 - Air support is offline while we evacuate the wounded.>|
 
 |<^1HK416: ^7Roger that.>|
 
@@ -624,7 +624,7 @@
 
 |<^1UMP40: ^7They're not retreating - They are regrouping!>|
 
-|<^1HK416: ^7Commander! - X-ray one zero!>|
+|<^1HK416: ^7Commander! - G-11 one zero!>|
 
 |<^1HK416: ^7We got a prairie fire down here - Where's our damn evac?!!>|
 
@@ -634,23 +634,23 @@
 
 |<^1COMMANDER: ^7We'll find another way - hold your position.>|
 
-|<^1COMMANDER: ^7X-ray - We're trying to wrangle you a Navy boat, but it's going to take some time. Hold your position.>|
+|<^1COMMANDER: ^7G-11 - We're trying to wrangle you a Navy boat, but it's going to take some time. Hold your position.>|
 
 |<^1HK416: ^7Stay on it!>|
 
-|<^1COMMANDER: ^7X-ray - Check your six. We have a Navy PBR on its way.>|
+|<^1COMMANDER: ^7G-11 - Check your six. We have a Navy PBR on its way.>|
 
 |<^1HK416: ^7Roger that! None too soon.>|
 
 |<^1COMMANDER: ^7Direct fire support to cover arrival. Delta squadron is on station.>|
 
-|<^1HK416: ^7Got it. X-ray out.>|
+|<^1HK416: ^7Got it. G-11 out.>|
 
 |<^1HK416: ^745! - Mark that target!>|
 
 |<^1UMP45: ^7Marking coordinates. Delta Squadron - Burn 'em up.>|
 
-|<^1T-DOLL PILOT: ^7Roger X-ray. Target run, get your people back.>|
+|<^1T-DOLL PILOT: ^7Roger G-11. Target run, get your people back.>|
 
 |<^1UMP9: ^7PBR's here!!!>|
 
@@ -670,13 +670,13 @@
 
 |<^1UMP45: ^7RPK16.>|
 
-|<^1T-DOLL PILOT: ^7Roger X-Ray - Standby for strafing run.>|
+|<^1T-DOLL PILOT: ^7Roger G-11 - Standby for strafing run.>|
 
-|<^1T-DOLL PILOT: ^7X-Ray - We're coming in hot.>|
+|<^1T-DOLL PILOT: ^7G-11 - We're coming in hot.>|
 
-|<^1T-DOLL PILOT: ^7X-Ray, our PBR is a minute out from your position. Hold tight>|
+|<^1T-DOLL PILOT: ^7G-11, our PBR is a minute out from your position. Hold tight>|
 
-|<^1T-DOLL PILOT: ^7X-Ray, your EVAC is on it's way.>|
+|<^1T-DOLL PILOT: ^7G-11, your EVAC is on it's way.>|
 
 |<^1T-DOLL PILOT: ^7ETA: 2 minutes>|
 

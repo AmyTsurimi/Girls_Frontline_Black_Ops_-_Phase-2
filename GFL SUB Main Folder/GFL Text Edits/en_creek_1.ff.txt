@@ -96,9 +96,9 @@
 
 |<^1T-DOLL PILOT: ^7This is Hotel-91. We are going down in sector Bravo Tango Seven Niner. May day may day...>|
 
-|<^1UMP9: ^7Lima niner X-ray - do you monitor?>|
+|<^1UMP9: ^7Lima niner G-11 - do you monitor?>|
 
-|<^1UMP9: ^7Lima niner X-ray - do you read me?>|
+|<^1UMP9: ^7Lima niner G-11 - do you read me?>|
 
 |<^1T-DOLL PILOT: ^7Ugh...>|
 
@@ -116,7 +116,7 @@
 
 |<^1HK416: ^7We're going under 45!>|
 
-|<^1HK416: ^7Stay sharp 45, they're out there. This is Lima 9 X-ray...>|
+|<^1HK416: ^7Stay sharp 45, they're out there. This is Lima 9 G-11...>|
 
 |<^1UMP40: ^7Left flank, 45! On the ridge!>|
 
@@ -128,7 +128,7 @@
 
 |<^1UMP45: ^7Understood. Stay close 40.>|
 
-|<^1UMP9: ^7Lima niner X-ray, this is Reina. You out there?>|
+|<^1UMP9: ^7Lima niner G-11, this is Reina. You out there?>|
 
 |<^1HK416: ^7Yeah. Reina, go.>|
 
@@ -184,7 +184,7 @@
 
 |<^1T-DOLL MARINE: ^7Sierra has cleared the North perimeter. Moving to the village.>|
 
-|<^1HK416: ^7X-ray is clearing the West flank. ETA 3 minutes. We gotta split up. I'll take the high ground. You cross the river, find a place for the Semtex.>|
+|<^1HK416: ^7G-11 is clearing the West flank. ETA 3 minutes. We gotta split up. I'll take the high ground. You cross the river, find a place for the Semtex.>|
 
 |<^1HK416: ^7Xray is clearing the east flank. ETA 3 minutes. We're splitting up. I'll take the high ground. Cross the river to the right and find a place for the Semtex.>|
 
@@ -200,7 +200,7 @@
 
 |<^1UMP9: ^7Reina ready.>|
 
-|<^1HK416: ^7Roger, X-ray inbound.>|
+|<^1HK416: ^7Roger, G-11 inbound.>|
 
 |<^1HK416: ^7You got that detonator?>|
 
@@ -262,7 +262,7 @@
 
 |<^1UMP9: ^7Get those birds in here NOW!>|
 
-|<^1T-DOLL PILOT: ^7Lima niner X-ray this is Kentucky. Green Hornets are inbound.>|
+|<^1T-DOLL PILOT: ^7Lima niner G-11 this is Kentucky. Green Hornets are inbound.>|
 
 |<^1T-DOLL PILOT: ^7Keep your shit tucked. We are coming in hot!>|
 
@@ -352,9 +352,9 @@
 
 |<^1ZETA: ^7Ain't fighting no more.>|
 
-|<^1HK416: ^7Lima niner, this is X-Ray. Prep for recon sweep 3 kay radius.>|
+|<^1HK416: ^7Lima niner, this is G-11. Prep for recon sweep 3 kay radius.>|
 
-|<^1T-DOLL PILOT: ^7Roger that, X-Ray.>|
+|<^1T-DOLL PILOT: ^7Roger that, G-11.>|
 
 |<^1HK416: ^7Here. Take this. Stay on it. We'll find your Nyto. You make it out of there alive. 9, point! Let's move!>|
 
@@ -486,7 +486,7 @@
 
 |<^1UMP40: ^7GO! GO!>|
 
-|<^1UMP45: ^7X-ray - do you monitor?!>|
+|<^1UMP45: ^7G-11 - do you monitor?!>|
 
 |<^1UMP45: ^7Dammit!>|
 
