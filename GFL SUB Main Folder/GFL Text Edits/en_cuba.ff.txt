@@ -119,7 +119,7 @@ The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
 
 |<^1INTERROGATOR: ^7We're losing her. Do it again, we have no choice.>|
 
-|<^1UMP45: ^7AARRRGH!!! What the $&#*!>|
+|<^1UMP45: ^7AARRRGH!!! What the... fuck?!>|
 
 |<^1UMP45: ^7AARRRGH!!! What the...>|
 
@@ -169,7 +169,7 @@ The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
 
 |<^1HK416: ^7We're here for Castro.>|
 
-|<^1HK416: ^79, P90.  Lay down covering fire.  We fight our way through the streets.>|
+|<^1HK416: ^79, P90. Lay down covering fire. We fight our way through the streets.>|
 
 |<^1HK416: ^745 - on me.>|
 
@@ -189,9 +189,9 @@ The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
 
 |<^1HK416: ^7Weapons free.>|
 
-|<^1HK416: ^7Clear 'em out!  Move up the street!>|
+|<^1HK416: ^7Clear 'em out! Move up the street!>|
 
-|<^1HK416: ^79!  Take the right!>|
+|<^1HK416: ^79! Take the right!>|
 
 |<^1UMP9: ^7On it.>|
 
@@ -211,7 +211,7 @@ The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
 
 |<^1P90: ^7Alright... This is where I leave you, my friends...>|
 
-|<^1P90: ^7I will see you at the airstrip!  Suerte, My friends!>|
+|<^1P90: ^7I will see you at the airstrip! Suerte, My friends!>|
 
 |<^1P90: ^7The path is that way - It will lead you to Castro's compound...>|
 
@@ -261,7 +261,7 @@ The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
 
 |<^1HK416: ^7Perfect. They're all focused on the airfield.>|
 
-|<^1HK416: ^7Convoy ahead.  Do not engage.>|
+|<^1HK416: ^7Convoy ahead. Do not engage.>|
 
 |<^1HK416: ^7Sit tight... let them pass.>|
 
@@ -278,7 +278,7 @@ to get to him for three years.>|
 
 |<^1HK416: ^7This way - up the stairs.>|
 
-|<^1UMP9: ^7Looks like they were expecting us.>|
+|<^1UMP9: ^7This way - up the stairs.>|
 
 |<^1HK416: ^7Inside. Go.>|
 
@@ -310,7 +310,7 @@ to get to him for three years.>|
 
 |<^1UMP9: ^7Better make it fast. B26's are about to begin their bombing run.>|
 
-|<^1HK416: ^7Target should be up ahead>|
+|<^1HK416: ^7Target should be up ahead.>|
 
 |<^1UMP45: ^7Roger.>|
 
@@ -341,13 +341,13 @@ and she still protects him?!!>|
 
 |<^1UMP45: ^7Castro's supporters are fanatical in their devotion to him...>|
 
-|<^1UMP45: ^7Castro's supporters are fanatics.  They'd give their lives for him.>|
+|<^1UMP45: ^7Castro's supporters are fanatics. They'd give their lives for him.>|
 
 |<^1HK416: ^7KCCO... I'll never understand them.>|
 
 |<^1HK416: ^79 - The target is down.>|
 
-|<^1UMP9: ^7Word from P90 isn't good;  They're barely holding out... They got half the Cuban army down there!>|
+|<^1UMP9: ^7Word from P90 isn't good; They're barely holding out... They got half the Cuban army down there!>|
 
 |<^1UMP9: ^7And those B26's ain't hitting anything!>|
 
@@ -368,7 +368,7 @@ those damn planes blow us to pieces!>|
 
 |<^1HK416: ^7Go! Outside!>|
 
-|<^1UMP9: ^7This ain't good!  There's too many of them!>|
+|<^1UMP9: ^7This ain't good! There's too many of them!>|
 
 |<^1UMP9: ^7P90' T-Dolls should be here!>|
 
@@ -406,7 +406,7 @@ those damn planes blow us to pieces!>|
 
 |<^1HK416: ^7Go!>|
 
-|<^1P90: ^7416!  It's all falling apart...  You need to get out of here!>|
+|<^1P90: ^7416! It's all falling apart... You need to get out of here!>|
 
 |<^1HK416: ^7You secure our transport?>|
 
@@ -422,7 +422,7 @@ those damn planes blow us to pieces!>|
 
 |<^1P90: ^7We can't wait any longer!!>|
 
-|<^1HK416: ^745!  Come on!!!>|
+|<^1HK416: ^745! Come on!!!>|
 
 |<^1HK416: ^7Give us cover, 45!>|
 
@@ -430,7 +430,7 @@ those damn planes blow us to pieces!>|
 
 |<^1UMP9: ^7They're trying to take out our engines!>|
 
-|<^1HK416: ^7Shit!  .50 Cal!>|
+|<^1HK416: ^7Shit! .50 Cal!>|
 
 |<^1HK416: ^7.50 Cal!>|
 
@@ -460,7 +460,7 @@ those damn planes blow us to pieces!>|
 
 |<^1HK416: ^745, are you crazy? They'll chew you up out there.>|
 
-|<^1HK416: ^745!  What are you doing?!!!>|
+|<^1HK416: ^745! What are you doing?!!!>|
 
 |<^1HK416: ^745!!!!>|
 
@@ -516,7 +516,7 @@ those damn planes blow us to pieces!>|
 
 |<^1UMP9: ^7Stay close.>|
 
-|<^1HK416: ^745 take point.>|
+|<^1HK416: ^745, take point.>|
 
 |<^1HK416: ^745, grab that rope, let's go!>|
 
