@@ -43,7 +43,7 @@ LANG_ENGLISH		"^LTransmission # 9-19. Designate: MIKE^L"
 REFERENCE			INTRO_LOCATION
 LANG_ENGLISH		"^C1Beale AFB, Calif.^C"
 REFERENCE			INTRO_NAME
-LANG_ENGLISH		"^LOperation lead^L ^C1Captain Mosely^C"
+LANG_ENGLISH		"^LOperation lead^L ^C1Anna Viktorovna^C"
 REFERENCE			JEEP_ENEMIES
 LANG_ENGLISH		"Eliminate enemies by the jeep"
 REFERENCE			KILLED_BY_HIT_BY_VEHICLE
