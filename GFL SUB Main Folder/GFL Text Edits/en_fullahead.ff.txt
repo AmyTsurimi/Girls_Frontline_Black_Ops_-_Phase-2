@@ -144,11 +144,11 @@
 
 |<^1UMP40: ^7No... Our leaders had other plans...>|
 
-|<^1UMP40: ^7My creator was a scientist in Stalingrad.  During the Paradeus occupation, the work of his research filled with magnificent knowledge - Persica, Lycoris - many of the great nationalist scientist...>|
+|<^1UMP40: ^7My creator was a scientist in Stalingrad. During the Paradeus occupation, the work of his research filled with magnificent knowledge - Persica, Lycoris - many of the great nationalist scientist...>|
 
-|<^1UMP40: ^7To my countrymen it was a symbol of hope.  To the Paradeus - it was a symbol of defiance.  Even now, his voice still haunts me...>|
+|<^1UMP40: ^7To my countrymen it was a symbol of hope. To the Paradeus - it was a symbol of defiance. Even now, his voice still haunts me...>|
 
-|<^1UMP40: ^7The Paradeus slit his throat while he slept. Collaborating with any Paradeus -- is a betrayal.  A betrayal against all of Mother Russia. RPK16 and Nyto, were not troubled by such matters...>|
+|<^1UMP40: ^7The Paradeus slit his throat while he slept. Collaborating with any Paradeus -- is a betrayal. A betrayal against all of Mother Russia. RPK16 and Nyto, were not troubled by such matters...>|
 
 |<^1UMP40: ^7They looked only to advance their own interests and agendas...>|
 
@@ -176,15 +176,15 @@
 
 |<^1RPK16: ^7Put aside your petty rivalry Nyto. Captain UMP40 will do as she is told.>|
 
-|<^1RPK16: ^7We are here for one Doll and one Doll only... T-Doll Suomi.  This doll has offered her cooperation to our cause...>|
+|<^1RPK16: ^7We are here for one Doll and one Doll only... T-Doll Suomi. This doll has offered her cooperation to our cause...>|
 
-|<^1RPK16: ^7She is not to be harmed...  Disobey this order... and you will be shot!>|
+|<^1RPK16: ^7She is not to be harmed... Disobey this order... and you will be shot!>|
 
 |<^1PPSh-41: ^7What happened in Stalingrad, between you and RPK16?>|
 
 |<^1UMP40: ^7When the Paradeus occupation began, she and her lap dog Nyto left my dolls and I hopelessly outnumbered...>|
 
-|<^1UMP40: ^7Promises of reinforcements were made.  Made... But not kept.>|
+|<^1UMP40: ^7Promises of reinforcements were made. Made... But not kept.>|
 
 |<^1UMP40: ^7RPK16 and Nyto are opportunists... Manipulators...>|
 
@@ -206,7 +206,7 @@
 
 |<^1UMP40: ^7Yes, my friend... One final victory.>|
 
-|<^1UMP40: ^7Search every corner of this camp!  Only Suomi is to be spared.>|
+|<^1UMP40: ^7Search every corner of this camp! Only Suomi is to be spared.>|
 
 |<^1USSR T-DOLL: ^7They are trying to surrender!>|
 
@@ -226,7 +226,7 @@
 
 |<^1PPSh-41: ^7Check the launch control building!>|
 
-|<^1UMP40: ^7Clear the building.  Leave no stone unturned!>|
+|<^1UMP40: ^7Clear the building. Leave no stone unturned!>|
 
 |<^1PPSh-41: ^7She is not here...>|
 
@@ -280,7 +280,7 @@
 
 |<^1UMP40: ^7Die! You Paradeus rats!!>|
 
-|<^1PPSh-41: ^740 - if  you have any more smoke grenades - Use them now!>|
+|<^1PPSh-41: ^740 - if you have any more smoke grenades - Use them now!>|
 
 |<^1PPSh-41: ^7Use your smoke grenades!>|
 
@@ -306,7 +306,7 @@
 
 |<^1SUOMI: ^7You will take me to RPK16.>|
 
-|<^1UMP40: ^7As I looked into the Paradeus's eyes I saw all the evil of the Paradeus still burning strong...>|
+|<^1UMP40: ^7As I looked into the doll's eyes I saw all the evil of Paradeus still burning strong...>|
 
 |<^1UMP40: ^7At that moment, every fiber of my being yearned to put an end to her wretched life...>|
 
@@ -324,7 +324,7 @@
 
 |<^1RPK16: ^7You assured me that there would be no problems...>|
 
-|<^1SUOMI: ^7I cannot control the actions of the Paradeus, RPK16...  They are sworn to defend Paradeus till their last breath...>|
+|<^1SUOMI: ^7I cannot control the actions of the Paradeus, RPK16... They are sworn to defend Paradeus till their last breath...>|
 
 |<^1RPK16: ^7Noble... but futile.>|
 
@@ -350,7 +350,7 @@
 
 |<^1SUOMI: ^7However, what we finally developed was a weapon more effective than we had ever dared to imagine... The weapon now housed within this vessel.>|
 
-|<^1RPK16: ^7Rain 4.>|
+|<^1RPK16: ^7Parapluie.>|
 
 |<^1PPSh-41: ^7He's been dead for days... Before we attacked.>|
 
@@ -436,9 +436,9 @@
 
 |<^1RPK16: ^7UMP40 - open the door.>|
 
-|<^1UMP40: ^7We had found what we were looking for... Parapluie.  The Paradeus weapon of mass destruction now belonged to Mother Russia.>|
+|<^1UMP40: ^7We had found what we were looking for... Parapluie. Paradeus' weapon of mass destruction now belonged to Mother Russia.>|
 
-|<^1UMP40: ^7Or so it seemed.  Our victory was to be short lived.>|
+|<^1UMP40: ^7Or so it seemed. Our victory was to be short lived.>|
 
 |<^1UMP40: ^7RPK16 wanted to see the effects of the virus first hand.>|
 
@@ -478,7 +478,7 @@
 
 |<^1UMP40: ^7We will plunge this vessel into the depths of hell! We cannot let either side possess this terrible weapon.>|
 
-|<^1ALPHA: ^7We can't hold forever!  Arm the explosives, 40.>|
+|<^1ALPHA: ^7We can't hold forever! Arm the explosives, 40.>|
 
 |<^1ALPHA: ^7Hurry! - Get the explosives armed.>|
 
@@ -546,9 +546,9 @@
 
 |<^1ALPHA: ^7Down the rope! Hurry!>|
 
-|<^1ALPHA: ^7Go, 40!  Go!!!>|
+|<^1ALPHA: ^7Go, 40! Go!!!>|
 
-|<^1UMP40: ^7I had destroyed the Parapluie shipment and kept it from the  British. But I was a fool to think that it was over.  It was only after I was sent to Vorkuta, that I learned of RPK16's intentions. She will die before she gives up on Parapluie.>|
+|<^1UMP40: ^7I had destroyed the Parapluie shipment and kept it from the British. But I was a fool to think that it was over. It was only after I was sent to Vorkuta, that I learned of RPK16's intentions. She will die before she gives up on Parapluie.>|
 
 |<^1UMP40: ^745, listen to me...>|
 
