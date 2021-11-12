@@ -12,9 +12,9 @@
 
 |<Press ^3[{+speed_throw}]^7 to fire missiles>|
 
-|<Use    to aim>|
+|<Use  to aim>|
 
-|<Use   to move
+|<Use  to move
 >|
 
 |<^L1300 hours,^L ^C1February 11, 1968^C>|
@@ -48,7 +48,7 @@
 
 |<Escape!>|
 
-|<BOAT HP  >|
+|<BOAT HP >|
 
 |<Failed to engage the enemy patrol boat>|
 
@@ -654,7 +654,7 @@
 
 |<^1UMP45: ^7You got it.>|
 
-|<^1HK416: ^745! Down there, enemy PT boat. They're trying to sink our PBR.  Use your China Lake! Destroy their PT boat.>|
+|<^1HK416: ^745! Down there, enemy PT boat. They're trying to sink our PBR. Use your China Lake! Destroy their PT boat.>|
 
 |<^1UMP9: ^745, use the grenade launcher. Destroy that boat!>|
 
@@ -694,7 +694,7 @@
 
 |<^1RPK16: ^7We must make up for lost time.>|
 
-|<^1HK416: ^745!  Take out those snipers!>|
+|<^1HK416: ^745! Take out those snipers!>|
 
 |<^1HK416: ^7Clear - Move up.>|
 

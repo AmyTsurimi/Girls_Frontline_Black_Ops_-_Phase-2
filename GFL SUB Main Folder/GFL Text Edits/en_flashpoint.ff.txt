@@ -138,15 +138,15 @@
 
 |<^LPresidential Order# 8-5. Designate: ZULU^L>|
 
-|<Press ^3[{+actionslot 3}]^7  to switch to explosive bolts>|
+|<Press ^3[{+actionslot 3}]^7 to switch to explosive bolts>|
 
-|<Press ^3[{+actionslot 3}]^7  to use to Dragon's Breath shells>|
+|<Press ^3[{+actionslot 3}]^7 to use to Dragon's Breath shells>|
 
 |<Hold ^3[{+speed_throw}]^7 to aim guided missile at rocket>|
 
 |<Use  to guide the missile in flight>|
 
-|<Press ^3[{+melee}]^7  to Stealth takedown an enemy from behind>|
+|<Press ^3[{+melee}]^7 to Stealth takedown an enemy from behind>|
 
 |<Kill the Head Scientist>|
 
@@ -208,7 +208,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1UMP45: ^7But then we ran into RPK16's limo. I had her.>|
 
-|<^1UMP45: ^7We searched the whole base. We couldn't find the bastard anywhere.  But then we ran into RPK16's limo. I had her.>|
+|<^1UMP45: ^7We searched the whole base. We couldn't find the bastard anywhere. But then we ran into RPK16's limo. I had her.>|
 
 |<^1UMP45: ^7Nyto escaped before we could get to her.>|
 
@@ -442,9 +442,9 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Okay... 9. Delta.>|
 
-|<^1UMP9: ^7E'j!  Vy dvoe.>|
+|<^1UMP9: ^7E'j! Vy dvoe.>|
 
-|<^1UMP9: ^7U nas problema.  Za mnoj.>|
+|<^1UMP9: ^7U nas problema. Za mnoj.>|
 
 |<^1HK416: ^7You ready?>|
 
@@ -496,7 +496,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Copy that. 45 gonna breach the building.>|
 
-|<^1HK416: ^745 -  get over here.>|
+|<^1HK416: ^745 - get over here.>|
 
 |<^1HK416: ^7Gunfire's drawin' attention.>|
 

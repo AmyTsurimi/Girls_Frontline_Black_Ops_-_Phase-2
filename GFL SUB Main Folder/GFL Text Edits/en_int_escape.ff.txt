@@ -3,7 +3,7 @@
 4 0 2 12 18 21 9 8 21 12 17 6 23 2 24 19 19 2 25 3 7 
 7 1 15 21 23 22 19 12 6 11 23 15>|
 
-|<^LTransmission # 8-5.  Designate: TANGO^L>
+|<^LTransmission # 8-5. Designate: TANGO^L>
 
 |<^LLocation:^L ^C1ROOM 9^C>|
 
@@ -43,13 +43,13 @@
 
 |<^1INTERROGATOR: ^7We can't give up now. She was at Vorkuta. She knows how to translate the codes. She's heard the broadcasts which we know contain the location. It's all in her head somewhere. She does know where it is!>|
 
-|<^1INTERROGATOR: ^7We have to get to the bunker!  We're at DEFCON 2... You've tried everything...>|
+|<^1INTERROGATOR: ^7We have to get to the bunker! We're at DEFCON 2... You've tried everything...>|
 
 |<^1INTERROGATOR: ^7Not yet...I have one more card to play.>|
 
 |<^1INTERROGATOR: ^7Leave her here. She's not worth it.>|
 
-|<^1M16A1: ^7Get out of here, AK-12.  Tell them I failed.>|
+|<^1M16A1: ^7Get out of here, AK-12. Tell them I failed.>|
 
 |<^1AK-12: ^7You want to die with her?...Your choice.>|
 
@@ -85,11 +85,11 @@
 
 |<^1RPK16: ^7So - what is the problem?>|
 
-|<^1SUOMI: ^7Her responses to our orders have been - sporadic.  Unpredictable.  She shows a remarkable resilience.>|
+|<^1SUOMI: ^7Her responses to our orders have been - sporadic. Unpredictable. She shows a remarkable resilience.>|
 
 |<^1RPK16: ^7Why?>|
 
-|<^1SUOMI: ^7She is unusual... atypical.  Few dolls possess such will... Our other test subjects have been far more successful.>|
+|<^1SUOMI: ^7She is unusual... atypical. Few dolls possess such will... Our other test subjects have been far more successful.>|
 
 |<^1RPK16: ^7If she will not follow the orders embedded in the numbers, then she is of no use to me...>|
 
@@ -113,7 +113,7 @@
 
 |<^1UMP40: ^7She and us, are not so different... We are all soldiers without an army.>|
 
-|<^1UMP40: ^7Betrayed.  Forgotten.  Abandoned.>|
+|<^1UMP40: ^7Betrayed. Forgotten. Abandoned.>|
 
 |<^1UMP40: ^7You will survive... You have to...>|
 
@@ -169,7 +169,7 @@
 
 |<^1UMP45: ^7Never thought I'd see you alive...>|
 
-|<^1M16A1: ^7She was never in Vietnam.  The real defector with the Parapluie dossier died during the attack on the DEFY.>|
+|<^1M16A1: ^7She was never in Vietnam. The real defector with the Parapluie dossier died during the attack on the DEFY.>|
 
 |<^1M16A1: ^7She was never in the rat tunnels.>|
 
@@ -179,7 +179,7 @@
 
 |<^1UMP40: ^7This way! We cannot let her slip through our grasp!>|
 
-|<^1HK416: ^745?!  What the fuck are you doing?!! We gotta get these guys out.>|
+|<^1HK416: ^745?! What the fuck are you doing?!! We gotta get these guys out.>|
 
 |<^1HK416: ^745?! We gotta get these guys out.>|
 
@@ -251,7 +251,7 @@
 
 |<^1SUOMI: ^7What we did to you...>|
 
-|<^1RPK16: ^7...[indistinct] all agents.  Our new allies in Cuba have graciously permitted the construction of a new... and permanent... broadcast station within their borders.>|
+|<^1RPK16: ^7...[indistinct] all agents. Our new allies in Cuba have graciously permitted the construction of a new... and permanent... broadcast station within their borders.>|
 
 |<^1RPK16: ^7...and permanent... broadcast station within their borders.>|
 
@@ -283,7 +283,7 @@
 
 |<^1UMP45: ^7Echelon. Oswald, compromised. Ascension. 45. Down assigned target.>|
 
-|<^1UMP45: ^7Echelon. Scheduled Parapluie deployment jeopardized. Griffin  breach.>|
+|<^1UMP45: ^7Echelon. Scheduled Parapluie deployment jeopardized. Griffin breach.>|
 
 |<^1UMP45: ^7Ascension. All points. Down target RFB. Priority one. Await final coordinates.>|
 
@@ -307,7 +307,7 @@
 
 |<^1UMP45: ^7Ascension. 45. Location. Texas School Book Depository. 6th Floor. 6.5MM Carcano Rifle. Dallas. Dealey Plaza. 11.22.>|
 
-|<^1UMP45: ^7RPK16.  Nyto.  Suomi.  All must die.>|
+|<^1UMP45: ^7RPK16. Nyto. Suomi. All must die.>|
 
 |<^1UMP45: ^7Echelon. Rogue sleeper. 45. Programming corrupted. RPK16 down. Griffin-HQ sleeper activated. Griffin sleeper activated. Ascension. All points. Down target 45. Priority supersedes all previous instruction.>|
 

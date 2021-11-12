@@ -250,7 +250,7 @@
 
 |<^1AK-12: ^7Molotovs! On the roof!>|
 
-|<^1M16A1: ^745!  Take out those Molotovs!>|
+|<^1M16A1: ^745! Take out those Molotovs!>|
 
 |<^1M16A1: ^7RPGS!!!>|
 
@@ -316,7 +316,7 @@
 
 |<^1M16A1: ^7Got it.>|
 
-|<^1AK-12: ^7Damn it! M16!  We can't move until we take out those choppers.>|
+|<^1AK-12: ^7Damn it! M16! We can't move until we take out those choppers.>|
 
 |<^1M16A1: ^7Yeah, I got it.>|
 

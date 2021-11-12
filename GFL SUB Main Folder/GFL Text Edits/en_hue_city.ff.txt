@@ -20,7 +20,7 @@
 
 |<Take radio>|
 
-|<Press ^3[{+actionslot 3}]^7  to use to Dragon's Breath shells>|
+|<Press ^3[{+actionslot 3}]^7 to use to Dragon's Breath shells>|
 
 |<Press ^3[{+attack}]^7 to target air support>|
 
@@ -30,21 +30,21 @@
 
 |<Huey Gunship>|
 
-|<Press  ^3[{+activate}]^7  to Push>|
+|<Press ^3[{+activate}]^7 to Push>|
 
-|<Press ^3[{+actionslot 4}]^7  to call air support>|
+|<Press ^3[{+actionslot 4}]^7 to call air support>|
 
-|<Press  ^3[{+activate}]^7  to pickup explosives>|
+|<Press ^3[{+activate}]^7 to pickup explosives>|
 
-|<Press ^3[{+actionslot 1}]^7  to equip C4 Charges>|
+|<Press ^3[{+actionslot 1}]^7 to equip C4 Charges>|
 
-|<Press ^3[{+speed_throw}]^7 to throw and  ^3[{+attack}]^7 to detonate C4>|
+|<Press ^3[{+speed_throw}]^7 to throw and ^3[{+attack}]^7 to detonate C4>|
 
-|<Press ^3[{+actionslot 4}]^7  to equip C4 Charges>|
+|<Press ^3[{+actionslot 4}]^7 to equip C4 Charges>|
 
 |<Press ^3[{+attack}]^7 to use Claymores>|
 
-|<Press  ^3[{+activate}]^7  to pickup Claymores>|
+|<Press ^3[{+activate}]^7 to pickup Claymores>|
 
 |<Hold ^3[{+activate}]^7 to plant explosives>|
 
@@ -314,7 +314,7 @@
 
 |<^1UMP40: ^7She must be stopped, 45.>|
 
-|<^1UMP40: ^7RPK16... Nyto... Suomi...  All must die.>|
+|<^1UMP40: ^7RPK16... Nyto... Suomi... All must die.>|
 
 |<^1UMP40: ^7Are these your men?>|
 

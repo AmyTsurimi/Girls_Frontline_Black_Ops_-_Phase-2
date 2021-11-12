@@ -12,7 +12,7 @@
 
 |<Hold  to skip>|
 
-|<^1BROADCASTER: ^7Twenty-one, thirty-six, forty-nine.  Seventeen, seventeen, three, five, six. Twenty-one, thirty-six, forty-nine.  Seventeen, seventeen, three, five, six.>|
+|<^1BROADCASTER: ^7Twenty-one, thirty-six, forty-nine. Seventeen, seventeen, three, five, six. Twenty-one, thirty-six, forty-nine. Seventeen, seventeen, three, five, six.>|
 
 |<^1M16A1: ^7You WILL tell us everything.>|
 
@@ -78,19 +78,19 @@
 
 |<^1INTERROGATOR: ^7Why did you do it, 45. Why?>|
 
-|<^1INTERROGATOR: ^7It's up to you, 45.  It's all up to you.>|
+|<^1INTERROGATOR: ^7It's up to you, 45. It's all up to you.>|
 
 |<^1INTERROGATOR: ^7I know when you're lying.>|
 
-|<^1INTERROGATOR: ^7You killed her, 45.  You did.  No one else.  Just you.>|
+|<^1INTERROGATOR: ^7You killed her, 45. You did. No one else. Just you.>|
 
 |<^1INTERROGATOR: ^7Who were you working for?>|
 
-|<^1INTERROGATOR: ^7You said it was Cuba.  What happened in Cuba?>|
+|<^1INTERROGATOR: ^7You said it was Cuba. What happened in Cuba?>|
 
 |<^1INTERROGATOR: ^7Was Castro involved?>|
 
-|<^1INTERROGATOR: ^7Anything.  Something.  Try harder.>|
+|<^1INTERROGATOR: ^7Anything. Something. Try harder.>|
 
 |<^1INTERROGATOR: ^7Why didn't they kill you?>|
 
@@ -108,7 +108,7 @@
 
 |<^1INTERROGATOR: ^7What happened to 40?>|
 
-|<^1INTERROGATOR: ^7Alone.  Far from home.  Too easy.>|
+|<^1INTERROGATOR: ^7Alone. Far from home. Too easy.>|
 
 |<^1INTERROGATOR: ^7Commander herself gave the order?>|
 
@@ -222,15 +222,15 @@
 
 |<^1INTERROGATOR: ^7Let's start at the beginning. Cuba, 1961. The Bay of Pigs. We know you were there.>|
 
-|<^UMP45: ^7It was a set-up.  They knew we were coming.  That bastard, RPK16 -->|
+|<^UMP45: ^7It was a set-up. They knew we were coming. That bastard, RPK16 -->|
 
 |<^1INTERROGATOR: ^7The KCCO.>|
 
-|<^UMP45: ^7Yeah.  She was behind everything.>|
+|<^UMP45: ^7Yeah. She was behind everything.>|
 
 |<^1INTERROGATOR: ^7Where did RPK16 take you?>|
 
-|<^UMP45: ^7Russia.  A labor camp.  A hell-hole called Vorkuta -- Oh My God -->|
+|<^UMP45: ^7Russia. A labor camp. A hell-hole called Vorkuta -- Oh My God -->|
 
 |<^1INTERROGATOR: ^7What did they do to you 45?>|
 
@@ -240,7 +240,7 @@
 
 |<^1INTERROGATOR: ^7She became your obsession. You spent the next five years trying to track her down.>|
 
-|<^UMP45: ^7She was... She was... She was everywhere!  Just... Couldn't get her out of my head.  Just like the others -->|
+|<^UMP45: ^7She was... She was... She was everywhere! Just... Couldn't get her out of my head. Just like the others -->|
 
 |<^1INTERROGATOR: ^7What do you mean by others?>|
 
@@ -256,9 +256,9 @@
 
 |<^1INTERROGATOR: ^7No, I want to keep pressing her -->|
 
-|<^UMP45: ^7HEY!  Who are you people?  What do you want from me?>|
+|<^UMP45: ^7HEY! Who are you people? What do you want from me?>|
 
-|<^1INTERROGATOR: ^7We want the numbers, 45.  That's all we've ever wanted.>|
+|<^1INTERROGATOR: ^7We want the numbers, 45. That's all we've ever wanted.>|
 
 |<^1INTERROGATOR: ^7We know that M16A1 briefed you on the intel extracted from RFB at Kowloon.>|
 
@@ -276,27 +276,27 @@
 
 |<^UMP45: ^7Yeah. 40 said they'd killed more people than I could count -->|
 
-|<^1INTERROGATOR: ^7Listen to me carefully, 45.  UMP40 cannot be trusted.  No matter what she tells you, no matter what she says -->|
+|<^1INTERROGATOR: ^7Listen to me carefully, 45. UMP40 cannot be trusted. No matter what she tells you, no matter what she says -->|
 
-|<^UMP45: ^7But she gave us the dossier on RFB!  She lead us to Rain 4!>|
+|<^UMP45: ^7But she gave us the dossier on RFB! She lead us to Rain 4!>|
 
 |<^1INTERROGATOR: ^7UMP40's not who you think she is.>|
 
-|<^UMP45: ^7No -- she's my sister!  She helped me escape! Betrayed, forgotten, abandoned -- all comrades -->|
+|<^UMP45: ^7No -- she's my sister! She helped me escape! Betrayed, forgotten, abandoned -- all comrades -->|
 
-|<^1INTERROGATOR: ^7Forget 40!  Focus, 45!  We are out of fucking time!  The world is on the fucking brink of war!>|
+|<^1INTERROGATOR: ^7Forget 40! Focus, 45! We are out of fucking time! The world is on the fucking brink of war!>|
 
-|<^1INTERROGATOR: ^7Forget 40!  Focus, 45!  We're out of time!  The world is on the brink of war!>|
+|<^1INTERROGATOR: ^7Forget 40! Focus, 45! We're out of time! The world is on the brink of war!>|
 
-|<^UMP45: ^7Whose war?  Who the fuck are you, anyway?>|
+|<^UMP45: ^7Whose war? Who the fuck are you, anyway?>|
 
-|<^UMP45: ^7Whose war?  Who the hell are you, anyway?>|
+|<^UMP45: ^7Whose war? Who the hell are you, anyway?>|
 
-|<^UMP45: ^7Agggh.  I -- keep -- hearing -- fucking -- numbers --->|
+|<^UMP45: ^7Agggh. I -- keep -- hearing -- fucking -- numbers --->|
 
-|<^UMP45: ^7Agggh.  I -- keep -- hearing -- numbers --->|
+|<^UMP45: ^7Agggh. I -- keep -- hearing -- numbers --->|
 
-|<^1INTERROGATOR: ^7It's a broadcast, 45.  The numbers are a broadcast.  You've been brainwashed.>|
+|<^1INTERROGATOR: ^7It's a broadcast, 45. The numbers are a broadcast. You've been brainwashed.>|
 
 |<^1INTERROGATOR: ^7You killed Nyto. You obliterated their base. 45?>|
 
@@ -310,21 +310,21 @@
 
 |<^1INTERROGATOR: ^7After you left Nyto's compound in Laos, after your team were killed, you went rogue.>|
 
-|<^UMP45: ^7No!  I wasn't rogue!  I was continuing the mission!>|
+|<^UMP45: ^7No! I wasn't rogue! I was continuing the mission!>|
 
-|<^1INTERROGATOR: ^7You went to Rebirth Island, against orders.  Why, 45?!>|
+|<^1INTERROGATOR: ^7You went to Rebirth Island, against orders. Why, 45?!>|
 
-|<^UMP45: ^7Argg Suomi was there.  We had to kill Suomi.>|
+|<^UMP45: ^7Argg Suomi was there. We had to kill Suomi.>|
 
 |<^1INTERROGATOR: ^7But M16A1 and Griffin were already on their way to get Suomi at Rebirth. Why did you have to go?>|
 
-|<^UMP45: ^7RPK16.  Nyto.  Suomi.  They all had to die.>|
+|<^UMP45: ^7RPK16. Nyto. Suomi. They all had to die.>|
 
-|<^1INTERROGATOR: ^7We wanted Suomi alive.  Why did you have to kill her?>|
+|<^1INTERROGATOR: ^7We wanted Suomi alive. Why did you have to kill her?>|
 
-|<^UMP45: ^7Cause the numbers were telling me to!  Why don't you fuckin' understand?!>|
+|<^UMP45: ^7Cause the numbers were telling me to! Why don't you fuckin' understand?!>|
 
-|<^UMP45: ^7Cause the numbers were telling me to!  Why don't you understand?!>|
+|<^UMP45: ^7Cause the numbers were telling me to! Why don't you understand?!>|
 
 |<ÿÿ>|
 

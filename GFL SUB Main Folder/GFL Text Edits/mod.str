@@ -1,6 +1,6 @@
-VERSION             "1.3.6.1"
-CONFIG              "C:\projects\cod\t5\bin\StringEd.cfg"
-FILENOTES           "VORKUTA"
+VERSION       "1.3.6.1"
+CONFIG       "C:\projects\cod\t5\bin\StringEd.cfg"
+FILENOTES      "VORKUTA"
 
 
 REFERENCE			VORKUTA_DIRECTIONAL_WARNING1
@@ -354,7 +354,7 @@ REFERENCE			VORKUTA_VOX_VOR1_S3_106A_REZN_F
 LANG_ENGLISH		"^1UMP40: ^7Today, my comrades..."
 
 REFERENCE			VORKUTA_VOX_VOR1_S3_107A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7Vorkuta -  BURNS!!!"
+LANG_ENGLISH		"^1UMP40: ^7Vorkuta - BURNS!!!"
 
 REFERENCE			VORKUTA_VOX_VOR1_S3_108A_RRD3
 LANG_ENGLISH		"^1U.S.S.R PRISONER: ^7Ready the slingshot!"
@@ -720,7 +720,7 @@ REFERENCE			VORKUTA_VOX_VOR1_S4_618A_REZN
 LANG_ENGLISH		"^1UMP40: ^745! Get to the roof! The men have readied your weapon!"
 
 REFERENCE			VORKUTA_VOX_VOR1_S4_619A_REZN
-LANG_ENGLISH		"^1UMP40: ^7Upstairs!  Get to the harpoon!"
+LANG_ENGLISH		"^1UMP40: ^7Upstairs! Get to the harpoon!"
 
 REFERENCE			VORKUTA_VOX_VOR1_S4_620A_REZN
 LANG_ENGLISH		"^1UMP40: ^745! Grab the harpoon!"

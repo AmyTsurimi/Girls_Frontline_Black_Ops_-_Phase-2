@@ -68,7 +68,7 @@
 
 |<You failed to stay with your team.>|
 
-|<^LTransmission #00.  Designate:  XRAY^L>|
+|<^LTransmission #00. Designate: XRAY^L>|
 
 |<^L1700 hours,^L ^C1February 18, 1968^C>|
 
@@ -120,7 +120,7 @@
 
 |<^1M16A1: ^7BigEye, this is Anti Rain. We have taken the substation.>|
 
-|<^1KALINA: ^7Understood.  Re-calibrating Focal spread. Okay - We have Comstat on Tac. Proceed to next objective.>|
+|<^1KALINA: ^7Understood. Re-calibrating Focal spread. Okay - We have Comstat on Tac. Proceed to next objective.>|
 
 |<^1M16A1: ^7Main facility is located at the base of the ridge.>|
 
@@ -196,7 +196,7 @@
 
 |<^1M16A1: ^7BigEye this is Anti Rain. Confirm that the relay is offline, over?>|
 
-|<^1KALINA: ^7Affirmative Anti Rain. All outbound  communications are have ceased.>|
+|<^1KALINA: ^7Affirmative Anti Rain. All outbound communications are have ceased.>|
 
 |<^1M16A1: ^7Anti Rain - Moving to the Primary Target.>|
 
@@ -220,7 +220,7 @@
 
 |<^1M16A1: ^7We lost Omega!>|
 
-|<^1M16A1: ^7Go!  Go!  Go!>|
+|<^1M16A1: ^7Go! Go! Go!>|
 
 |<^1DELTA: ^7See you at the bottom.>|
 
@@ -272,7 +272,7 @@
 
 |<^1M16A1: ^7The numbers broadcasts - What do they mean?>|
 
-|<^1SUOMI: ^7In 36 hours, the sleeper agents will receive their final orders.  Only I can tell you how to stop the broadcast.>|
+|<^1SUOMI: ^7In 36 hours, the sleeper agents will receive their final orders. Only I can tell you how to stop the broadcast.>|
 
 |<^1SUOMI: ^7I am at Rebirth Island - the Aral Sea... The choice is yours.>|
 

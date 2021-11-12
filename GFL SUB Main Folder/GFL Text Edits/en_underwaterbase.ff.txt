@@ -118,7 +118,7 @@
 
 |<^1T-DOLL PILOT: ^7Taking fire from the bridge!>|
 
-|<^1T-DOLL PILOT: ^7I see 'em.  Moving to engage.>|
+|<^1T-DOLL PILOT: ^7I see 'em. Moving to engage.>|
 
 |<^1T-DOLL PILOT: ^7Target's destroyed.>|
 
@@ -208,7 +208,7 @@
 
 |<^1AK-12: ^7Yankee one, clear to move up.>|
 
-|<^1AK-12: ^7All clear.  Moving up.>|
+|<^1AK-12: ^7All clear. Moving up.>|
 
 |<^1DELTA: ^7Engaging.>|
 
@@ -226,7 +226,7 @@
 
 |<^1DELTA: ^7Yankee two, move up.>|
 
-|<^1DELTA: ^7Clear.  Moving up.>|
+|<^1DELTA: ^7Clear. Moving up.>|
 
 |<^1M16A1: ^7Roger that, Yankee.>|
 
@@ -238,7 +238,7 @@
 
 |<^1AK-12: ^7Moving to lower decks, over.>|
 
-|<^1M16A1: ^7Roger that, Yankee.  Alpha team is right behind you.>|
+|<^1M16A1: ^7Roger that, Yankee. Alpha team is right behind you.>|
 
 |<^1M16A1: ^745 - Take us down.>|
 
@@ -250,17 +250,17 @@
 
 |<^1M16A1: ^7It has to be here.>|
 
-|<^1UMP45: ^7I know it is.  Keep looking.>|
+|<^1UMP45: ^7I know it is. Keep looking.>|
 
 |<^1M16A1: ^7Split up - cover both sides of the ship.>|
 
 |<^1M16A1: ^7Go!>|
 
-|<^1M16A1: ^7Shit!  Enemy HIPS!>|
+|<^1M16A1: ^7Shit! Enemy HIPS!>|
 
 |<^1M16A1: ^7Enemy HIPS!>|
 
-|<^1M16A1: ^745!  Grab that guided missile!>|
+|<^1M16A1: ^745! Grab that guided missile!>|
 
 |<^1M16A1: ^7Take down those HIPS!>|
 
@@ -274,7 +274,7 @@
 
 |<^1M16A1: ^7AK-12?!!>|
 
-|<^1AK-12: ^7We're pinned down in the lower deck!  Get your asses down here ASAP.>|
+|<^1AK-12: ^7We're pinned down in the lower deck! Get your asses down here ASAP.>|
 
 |<^1M16A1: ^7We're on our way!>|
 
@@ -290,11 +290,11 @@
 
 |<^1M16A1: ^7RPK16 is starting the broadcast!>|
 
-|<^1M16A1: ^7Command this is Alpha one.  We have confirmed the Rusalka is the broadcast source!>|
+|<^1M16A1: ^7Command this is Alpha one. We have confirmed the Rusalka is the broadcast source!>|
 
-|<^1M16A1: ^7Bring in the airstrike.  We are on our way out!>|
+|<^1M16A1: ^7Bring in the airstrike. We are on our way out!>|
 
-|<^1UMP45: ^7Not yet.  We need to find RPK16.>|
+|<^1UMP45: ^7Not yet. We need to find RPK16.>|
 
 |<^1M16A1: ^7In less than 15 minutes, the Griffin HOC is going to blow this place apart!>|
 
@@ -322,15 +322,15 @@
 
 |<^1M16A1: ^7This way.>|
 
-|<^1M16A1: ^745, over here!   There's another pool.>|
+|<^1M16A1: ^745, over here!  There's another pool.>|
 
-|<^1M16A1: ^7Hurry up, 45!  The bombs could hit at any minute!>|
+|<^1M16A1: ^7Hurry up, 45! The bombs could hit at any minute!>|
 
-|<^1M16A1: ^7Come on, 45!   We gotta hurry!>|
+|<^1M16A1: ^7Come on, 45!  We gotta hurry!>|
 
 |<^1M16A1: ^7They've begun the attack!>|
 
-|<^1M16A1: ^7AK-12!  What's happening?>|
+|<^1M16A1: ^7AK-12! What's happening?>|
 
 |<^1M16A1: ^7Dammit!>|
 
@@ -338,7 +338,7 @@
 
 |<^1M16A1: ^7Dead end!>|
 
-|<^1M16A1: ^7Way forward's flooded.  We're gonna have to swim for it.>|
+|<^1M16A1: ^7Way forward's flooded. We're gonna have to swim for it.>|
 
 |<^1M16A1: ^7We need to find RPK16 before they bring the whole place down on top of us!>|
 
@@ -354,7 +354,7 @@
 
 |<^1UMP45: ^7RPK16!>|
 
-|<^1M16A1: ^745!  Take the shot!>|
+|<^1M16A1: ^745! Take the shot!>|
 
 |<^1RPK16: ^7You... can not do anything right.>|
 
@@ -396,9 +396,9 @@
 
 |<^1M16A1: ^7I knew we could trust you.>|
 
-|<^1RPK16: ^7Tried?  How do you know we didn't succeed?>|
+|<^1RPK16: ^7Tried? How do you know we didn't succeed?>|
 
-|<^1UMP40: ^745! You did it, 45.  You did what I could not.>|
+|<^1UMP40: ^745! You did it, 45. You did what I could not.>|
 
 |<^1M16A1: ^7Keep moving! We need to stop the broadcast.>|
 
@@ -446,7 +446,7 @@
 
 |<^1M16A1: ^7Keep on 'em!>|
 
-|<^1M16A1: ^7We can't take much more  - 45 get us to Helipad!>|
+|<^1M16A1: ^7We can't take much more - 45 get us to Helipad!>|
 
 |<ÿÿ>|
 

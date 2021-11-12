@@ -323,7 +323,7 @@
 
 |<^1UMP40: ^7Today, comrades...>|
 
-|<^1UMP40: ^7Vorkuta -  BURNS!!!>|
+|<^1UMP40: ^7Vorkuta - BURNS!!!>|
 
 |<^1U.S.S.R PRISONER: ^7Ready the slingshot!>|
 
@@ -443,7 +443,7 @@
 
 |<^1UMP40: ^7Upstairs, quickly!>|
 
-|<^1UMP40: ^7Upstairs!  Get to the harpoon!>|
+|<^1UMP40: ^7Upstairs! Get to the harpoon!>|
 
 |<^1UMP45: ^7DAMN!!!>|
 

@@ -4,7 +4,7 @@
 
 |<^C1Beale AFB, Calif.^C>|
 
-|<^LBlackbird over watch underway, codename:  BIGEYE^L>|
+|<^LBlackbird over watch underway, codename: BIGEYE^L>|
 
 |<^LOperation lead^L ^C1Anna Viktorovna^C>|
 
@@ -142,7 +142,7 @@
 
 |<^1KALINA: ^7Enemy vehicle ahead on the side of the road. On the tac. Move.>|
 
-|<^1KALINA: ^7Anti Rain - the road is hot.  Exit through the rear of the building.>|
+|<^1KALINA: ^7Anti Rain - the road is hot. Exit through the rear of the building.>|
 
 |<^1KALINA: ^7That's a negative Anti Rain.>|
 
@@ -172,13 +172,13 @@
 
 |<^1M16A1: ^7Roger that, Bigeye.>|
 
-|<^1M16A1: ^7Internal comms line cut.  Base is dark.  Moving to second objective.>|
+|<^1M16A1: ^7Internal comms line cut. Base is dark. Moving to second objective.>|
 
 |<^1KALINA: ^7Roger that Anti Rain.>|
 
 |<^1KALINA: ^7Anti Rain we have Infantry inbound - I count at least six targets. Too hot.>|
 
-|<^1KALINA: ^7Stop and drop.  Stay out of sight.>|
+|<^1KALINA: ^7Stop and drop. Stay out of sight.>|
 
 |<^1M16A1: ^7Roger that, Bigeye... digging in.>|
 
@@ -290,7 +290,7 @@
 
 |<^1KALINA: ^7S.K.K - Anti Rain neutralized.>|
 
-|<^1KALINA: ^7Anti Rain?  Come in Anti Rain..>|
+|<^1KALINA: ^7Anti Rain? Come in Anti Rain..>|
 
 |<^1KALINA: ^7S.K.K - Anti Rain. KIA.>|
 

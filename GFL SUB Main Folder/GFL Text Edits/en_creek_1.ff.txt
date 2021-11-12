@@ -1,4 +1,4 @@
-|<Press      to open door>|
+|<Press   to open door>|
 
 |<^3[{+activate}]^7>|
 

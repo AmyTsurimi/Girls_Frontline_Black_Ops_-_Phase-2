@@ -276,7 +276,7 @@
 
 |<^1UMP45: ^7Payback, you bastards!>|
 
-|<^1HK416: ^7Damn it, we can't take this heavy  fire, pull back!>|
+|<^1HK416: ^7Damn it, we can't take this heavy fire, pull back!>|
 
 |<^1HK416: ^7Get us out of here 45!>|
 
@@ -314,7 +314,7 @@
 
 |<^1HK416: ^7Reloading!>|
 
-|<^1HK416: ^7Sampans in the river.  Looks like a .50 cal on the bridge up ahead as well.>|
+|<^1HK416: ^7Sampans in the river. Looks like a .50 cal on the bridge up ahead as well.>|
 
 |<^1HK416: ^7Take that bridge out!>|
 
@@ -502,7 +502,7 @@
 
 |<^1GRIFFIN PRISONER: ^7Who's out there?!>|
 
-|<^1GRIFFIN PRISONER: ^7Help us!!!  Please!!>|
+|<^1GRIFFIN PRISONER: ^7Help us!!! Please!!>|
 
 |<^1HK416: ^745!! They're POWs.>|
 
@@ -522,7 +522,7 @@
 
 |<^1UMP40: ^7This way! We cannot let her slip through our grasp!>|
 
-|<^1HK416: ^745?!  What the fuck are you doing?!! We gotta get these guys out.>|
+|<^1HK416: ^745?! What the fuck are you doing?!! We gotta get these guys out.>|
 
 |<^1HK416: ^745?! ! We gotta get these guys out.>|
 
@@ -594,7 +594,7 @@
 
 |<^1UMP40: ^7Nyto is dead...>|
 
-|<^1UMP40: ^7RPK16.  Nyto. Suomi.  All must die...>|
+|<^1UMP40: ^7RPK16. Nyto. Suomi. All must die...>|
 
 |<^1HK416: ^7Open the cells 45!>|
 

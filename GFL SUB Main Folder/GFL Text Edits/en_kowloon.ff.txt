@@ -20,13 +20,13 @@
 
 |<Shoot>|
 
-|<^LTransmission # 23-1-19.  Designate: VICTOR^L>|
+|<^LTransmission # 23-1-19. Designate: VICTOR^L>|
 
 |<^LTarget: T-Doll RFB located in^L ^C1Kowloon City, Hong Kong.^C>|
 
 |<^LExtraction team:^L ^C1M16A1^C^L, AK-12 and Station 3 operatives on the ground.^L>|
 
-|<^C1Anti Parapluie^C ^Lstation #4568.  Designation "k"^L>|
+|<^C1Anti Parapluie^C ^Lstation #4568. Designation "k"^L>|
 
 |<^L1700 hours^L ^C1February 9, 1968^C>|
 

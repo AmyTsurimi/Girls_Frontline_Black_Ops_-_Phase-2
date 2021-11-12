@@ -160,7 +160,7 @@
 
 |<Quality>|
 
-|<Quality:  Recommended>|
+|<Quality: Recommended>|
 
 |<Video Mode>|
 
@@ -394,7 +394,7 @@
 
 |<View Full>|
 
-|<Friendly Fire:  >|
+|<Friendly Fire: >|
 
 |<Show Max Lives:>|
 
@@ -604,23 +604,23 @@
 
 |<Server Settings>|
 
-|<Game Type:  >|
+|<Game Type: >|
 
-|<Server Name:  >|
+|<Server Name: >|
 
-|<Dedicated:  >|
+|<Dedicated: >|
 
-|<Pure:  >|
+|<Pure: >|
 
-|<Maximum Players:  >|
+|<Maximum Players: >|
 
-|<Minimum Ping:  >|
+|<Minimum Ping: >|
 
-|<Maximum Ping:  >|
+|<Maximum Ping: >|
 
-|<Maximum Rate:  >|
+|<Maximum Rate: >|
 
-|<Password:  >|
+|<Password: >|
 
 |<Both>|
 
@@ -634,23 +634,23 @@
 
 |<LAN/Cable/DSL>|
 
-|<Score Limit (player points):  >|
+|<Score Limit (player points): >|
 
-|<Score Limit (team points):  >|
+|<Score Limit (team points): >|
 
-|<Time Limit (minutes):  >|
+|<Time Limit (minutes): >|
 
-|<Force Respawning:  >|
+|<Force Respawning: >|
 
-|<Friendly Indicators:  >|
+|<Friendly Indicators: >|
 
-|<Carrier Indicator:  >|
+|<Carrier Indicator: >|
 
-|<Grace Period (seconds):  >|
+|<Grace Period (seconds): >|
 
-|<Round Length (minutes):  >|
+|<Round Length (minutes): >|
 
-|<Round Limit (rounds):  >|
+|<Round Limit (rounds): >|
 
 |<Go to Campaign Call of Duty?>|
 
@@ -682,7 +682,7 @@
 
 |<SUBTITLES>|
 
-|<LOD:  >|
+|<LOD: >|
 
 |<Aggressive>|
 
@@ -706,7 +706,7 @@
 
 |<Internet>|
 
-|<Level of Detail:  >|
+|<Level of Detail: >|
 
 |<Add selected server to favorites?>|
 
@@ -714,17 +714,17 @@
 
 |<Shared>|
 
-|<Killcam:  >|
+|<Killcam: >|
 
-|<Allow Voting:  >|
+|<Allow Voting: >|
 
 |<Auto-Update>|
 
-|<Allow Sniper Rifles:  >|
+|<Allow Sniper Rifles: >|
 
-|<Allow Panzerfausts:  >|
+|<Allow Panzerfausts: >|
 
-|<Allow FG42s:  >|
+|<Allow FG42s: >|
 
 |<With Password>|
 
@@ -756,11 +756,11 @@
 
 |<Dedicated Only:>|
 
-|<Auto-Balance Teams:  >|
+|<Auto-Balance Teams: >|
 
-|<Allow Enemy Spectating:  >|
+|<Allow Enemy Spectating: >|
 
-|<Allow Free Spectating:  >|
+|<Allow Free Spectating: >|
 
 |<Allow Downloading>|
 
@@ -774,9 +774,9 @@
 
 |<JOIN GAME>|
 
-|<Cycle Items:  >|
+|<Cycle Items: >|
 
-|<Use Item:  >|
+|<Use Item: >|
 
 |<Hold Breath>|
 
@@ -1038,11 +1038,11 @@
 
 |<Deathmatch>|
 
-|<You are all alone.  Eliminate everyone else.>|
+|<You are all alone. Eliminate everyone else.>|
 
 |<Team Deathmatch>|
 
-|<Axis vs. Allies.  Eliminate the enemy team.>|
+|<Axis vs. Allies. Eliminate the enemy team.>|
 
 |<Capture the Flag>|
 
@@ -1050,11 +1050,11 @@
 
 |<Headquarters>|
 
-|<Teams race to set up a radio and defend it for points.  If the enemy team sets up a radio, you must destroy it.>|
+|<Teams race to set up a radio and defend it for points. If the enemy team sets up a radio, you must destroy it.>|
 
 |<Search & Destroy>|
 
-|<The Allies try to destroy Axis held objectives by planting explosives.  Axis must defuse the explosives if they are planted.>|
+|<The Allies try to destroy Axis held objectives by planting explosives. Axis must defuse the explosives if they are planted.>|
 
 |<Custom Match>|
 
@@ -1134,7 +1134,7 @@
 
 |<Warning>|
 
-|<Capture Limit:  >|
+|<Capture Limit: >|
 
 |<Continue restart?>|
 
@@ -1250,7 +1250,7 @@ or you may not have file write priviledges.
 
 |<Loading...>|
 
-|<Connection:  >|
+|<Connection: >|
 
 |<Ranking:>|
 
@@ -1342,7 +1342,7 @@ or you may not have file write priviledges.
 
 |<DirectX® 9>|
 
-|<We recommend using "Optimal System Settings."  Manually changing settings could result in poor performance.>|
+|<We recommend using "Optimal System Settings." Manually changing settings could result in poor performance.>|
 
 |<Changing difficulty will restart the current level.>|
 
@@ -1526,13 +1526,13 @@ or you may not have file write priviledges.
 
 |<Lobby>|
 
-|<If you accept this invite, you will quit your current game lobby.  Accept invitation?>|
+|<If you accept this invite, you will quit your current game lobby. Accept invitation?>|
 
-|<If you join another session, you will disband your party.  Disband party?>|
+|<If you join another session, you will disband your party. Disband party?>|
 
 |<Leave Party?>|
 
-|<If you join another session, you will leave your party.  Leave party?>|
+|<If you join another session, you will leave your party. Leave party?>|
 
 |<Leave Party>|
 
@@ -1558,7 +1558,7 @@ or you may not have file write priviledges.
 
 |<Progress through the campaign maps alongside a friend taking on AI & enemy players alike.>|
 
-|<Voice Chat:  >|
+|<Voice Chat: >|
 
 |<Cheats>|
 
@@ -1594,11 +1594,11 @@ or you may not have file write priviledges.
 
 |<Defend and destroy the objective. No respawning.>|
 
-|<3 flags in the level must be captured.  Your team gets points for having control of a flag.  The more flags your team holds, the more points you gain.>|
+|<3 flags in the level must be captured. Your team gets points for having control of a flag. The more flags your team holds, the more points you gain.>|
 
 |<Get the enemy flag and return it to yours to capture it.>|
 
-|<A neutral base to capture is marked in the level.  Capture and hold it to gain points.  The team that holds the HQ doesn't respawn.>|
+|<A neutral base to capture is marked in the level. Capture and hold it to gain points. The team that holds the HQ doesn't respawn.>|
 
 |<Check how your score stacks up against your friends and the world.>|
 
@@ -1628,7 +1628,7 @@ or you may not have file write priviledges.
 
 |<Save Corrupted>|
 
-|<This will overwrite your current mission's progress.  Do you wish to continue?>|
+|<This will overwrite your current mission's progress. Do you wish to continue?>|
 
 |<If you continue, your current mission's progress will be overwritten.>|
 
@@ -1798,7 +1798,7 @@ in a level of your choice.>|
 
 |<Vertical Split Screen>|
 
-|<Capture battlefield command points.  Secure and hold all positions to achieve victory.>|
+|<Capture battlefield command points. Secure and hold all positions to achieve victory.>|
 
 |<GRAPHIC CONTENT>|
 
@@ -1834,9 +1834,9 @@ in a level of your choice.>|
 
 |<Kill players and vehicles on the opposing team. The first team to reach the score limit wins!>|
 
-|<Difficulty:  >|
+|<Difficulty: >|
 
-|<Hardcore Mode:  >|
+|<Hardcore Mode: >|
 
 |<Playlist Setting>|
 
@@ -1846,7 +1846,7 @@ in a level of your choice.>|
 
 |<Vehicles>|
 
-|<Capture battlefield command points using tanks and other combat vehicles.  Secure and hold all positions to achieve victory.>|
+|<Capture battlefield command points using tanks and other combat vehicles. Secure and hold all positions to achieve victory.>|
 
 |<PARTY PRIVACY: OPEN>|
 
@@ -2018,7 +2018,7 @@ Note: Graphic content will not be reduced during online play.>|
 
 |<Cheat Description:>|
 
-|<Vehicles:  >|
+|<Vehicles: >|
 
 |<MISSION SUCCESS>|
 
@@ -2418,7 +2418,7 @@ Do you want to create online profile now?>|
 |<SKILL TREE>|
 
 |<Are you sure that you want to purchase &&1?
-Cost &&2CP  - you have &&3CP.>|
+Cost &&2CP - you have &&3CP.>|
 
 |<CONFIRM PURCHASE>|
 
@@ -2464,7 +2464,7 @@ Cost &&2CP  - you have &&3CP.>|
 
 |<FILMS>|
 
-|<Record Film:  >|
+|<Record Film: >|
 
 |<End Film>|
 
@@ -2848,19 +2848,19 @@ PLAYERCARD>|
 
 |< >|
 
-|<The game is full, but you can try to auto join.  This will disband your current party and put you in the auto join lobby.>|
+|<The game is full, but you can try to auto join. This will disband your current party and put you in the auto join lobby.>|
 
-|<We were unable to auto join.  The most common reason is that another player took the available space.  You can continue to try to autojoin or cancel the auto joining and be returned to matchmaking.>|
+|<We were unable to auto join. The most common reason is that another player took the available space. You can continue to try to autojoin or cancel the auto joining and be returned to matchmaking.>|
 
 |<CONFIRM AUTO JOIN>|
 
 |<Auto join >|
 
-|<?  This will disband your current party and put you in the Auto Join lobby.>|
+|<? This will disband your current party and put you in the Auto Join lobby.>|
 
 |<AUTO JOIN NO LONGER AVAILABLE>|
 
-|< can no longer be auto joined because they are no longer signed into XboxLive.  This will close the auto join lobby and return you to the main menu.>|
+|< can no longer be auto joined because they are no longer signed into XboxLive. This will close the auto join lobby and return you to the main menu.>|
 
 |<Would you like to automatically join your friend when they become joinable?>|
 
@@ -3159,9 +3159,9 @@ Time remaining in round: &&3
 |<Battle the undead in this theatrical installment of "ELIDs". New twists and clues could uncover the final plan. It's show time!
 >|
 
-|<Interplanetary zombie action!   Day 1 DLC content.>|
+|<Interplanetary zombie action!  Day 1 DLC content.>|
 
-|<The Griffin-HQ is under attack!  Griffin-HQ is going to DEFCON 1 in this installment of "ELIDs".>|
+|<The Griffin-HQ is under attack! Griffin-HQ is going to DEFCON 1 in this installment of "ELIDs".>|
 
 |<YES>|
 
@@ -3225,7 +3225,7 @@ Time remaining in round: &&3
 
 |<COMBAT TIPS>|
 
-|<Welcome to Call of Duty:  Black Ops>|
+|<Welcome to Call of Duty: Black Ops>|
 
 |<Please configure your system for the optimal experience.
 
@@ -3747,7 +3747,7 @@ Would you like to enable graphic content?>|
 
 |<Please read the information below before continuing the game!>|
 
-|<The story of this game takes place in the fictional world resembling Vietnam, Cuba, USSR and other real world countries of 1960s. All the game events are totally fictional. Any coincidence with real world persons or events is unintended and accidental. By no means, the game authors didn't set a task for themselves to esteem or appraise any real historical or political events, actions, decisions, behavior or attitude of the real world persons or ethnic, political or other people groups including states. Authors, developers and distributors disclaim any responsibility for individual customers' perception or interpretation of the game. The game contains cruelty and violence scenes, harsh language and alcohol and tobacco references. If you believe that the content of the game can conflict with your religious, political or other views or attitudes, offense or humiliate your dignity, or cause you to feel fear or other undesirable emotions, please refrain from continuing this game.  If you press [A, X, enter], you confirm thereby that you've read this warning, are aware of what you can see during the game and willfully want to continue the game. To return to the main menu, please press [B, O, !=enter].>|
+|<The story of this game takes place in the fictional world resembling Vietnam, Cuba, USSR and other real world countries of 1960s. All the game events are totally fictional. Any coincidence with real world persons or events is unintended and accidental. By no means, the game authors didn't set a task for themselves to esteem or appraise any real historical or political events, actions, decisions, behavior or attitude of the real world persons or ethnic, political or other people groups including states. Authors, developers and distributors disclaim any responsibility for individual customers' perception or interpretation of the game. The game contains cruelty and violence scenes, harsh language and alcohol and tobacco references. If you believe that the content of the game can conflict with your religious, political or other views or attitudes, offense or humiliate your dignity, or cause you to feel fear or other undesirable emotions, please refrain from continuing this game. If you press [A, X, enter], you confirm thereby that you've read this warning, are aware of what you can see during the game and willfully want to continue the game. To return to the main menu, please press [B, O, !=enter].>|
 
 |<PC Network>|
 
@@ -3807,9 +3807,9 @@ Would you like to enable graphic content?>|
 
 |<Press^3 &&1 ^7to find game>|
 
-|<Your playlist data is older than the host's.  You must restart the game in order to get the new playlist data.>|
+|<Your playlist data is older than the host's. You must restart the game in order to get the new playlist data.>|
 
-|<Your playlist data is newer than the host's.  You will be unable to play with them until they restart to get the new playlists.>|
+|<Your playlist data is newer than the host's. You will be unable to play with them until they restart to get the new playlists.>|
 
 |<Game lobby closed>|
 
@@ -4181,7 +4181,7 @@ Enable PunkBuster and start?>|
 
 |<PunkBuster:>|
 
-|<PunkBuster:  >|
+|<PunkBuster: >|
 
 |<1. Change Weapon>|
 
@@ -4439,7 +4439,7 @@ Enable PunkBuster and start?>|
 
 |<Maximum party size of &&1>|
 
-|<Unable to initialize Punkbuster.  Punkbuster is disabled.>|
+|<Unable to initialize Punkbuster. Punkbuster is disabled.>|
 
 |<Prestige>|
 
@@ -5001,43 +5001,43 @@ Enable PunkBuster and start?>|
 
 |<SERVICE REPORT>|
 
-|<&&1  TEAM DEATHMATCH  &&2>|
+|<&&1 TEAM DEATHMATCH &&2>|
 
-|<&&1  FREE-FOR-ALL  &&2>|
+|<&&1 FREE-FOR-ALL &&2>|
 
-|<&&1  SABOTAGE  &&2>|
+|<&&1 SABOTAGE &&2>|
 
-|<&&1  SEARCH & DESTROY  &&2>|
+|<&&1 SEARCH & DESTROY &&2>|
 
-|<&&1  CAPTURE THE FLAG  &&2>|
+|<&&1 CAPTURE THE FLAG &&2>|
 
-|<&&1  DOMINATION  &&2>|
+|<&&1 DOMINATION &&2>|
 
-|<&&1  DEMOLITION  &&2>|
+|<&&1 DEMOLITION &&2>|
 
-|<&&1  HEADQUARTERS  &&2>|
+|<&&1 HEADQUARTERS &&2>|
 
-|<&&1  HARDCORE TEAM DEATHMATCH  &&2>|
+|<&&1 HARDCORE TEAM DEATHMATCH &&2>|
 
-|<&&1  HARDCORE FREE-FOR-ALL  &&2>|
+|<&&1 HARDCORE FREE-FOR-ALL &&2>|
 
-|<&&1  HARDCORE SABOTAGE  &&2>|
+|<&&1 HARDCORE SABOTAGE &&2>|
 
-|<&&1  HARDCORE SEARCH & DESTROY  &&2>|
+|<&&1 HARDCORE SEARCH & DESTROY &&2>|
 
-|<&&1  HARDCORE CAPTURE THE FLAG  &&2>|
+|<&&1 HARDCORE CAPTURE THE FLAG &&2>|
 
-|<&&1  HARDCORE DOMINATION  &&2>|
+|<&&1 HARDCORE DOMINATION &&2>|
 
-|<&&1  HARDCORE DEMOLITION  &&2>|
+|<&&1 HARDCORE DEMOLITION &&2>|
 
-|<&&1  HARDCORE HEADQUARTERS  &&2>|
+|<&&1 HARDCORE HEADQUARTERS &&2>|
 
-|<&&1  ALL TIME  &&2>|
+|<&&1 ALL TIME &&2>|
 
-|<&&1  MONTHLY  &&2>|
+|<&&1 MONTHLY &&2>|
 
-|<&&1  WEEKLY  &&2>|
+|<&&1 WEEKLY &&2>|
 
 |<EVERYONE>|
 
@@ -5371,7 +5371,7 @@ Enable PunkBuster and start?>|
 
 |<The winning team splits the reward pool.>|
 
-|<Earn  for each kill.  
+|<Earn  for each kill. 
 Special kills give more COD Points.>|
 
 |<Multi Event: Tier &&1 of &&2>|
@@ -5534,7 +5534,7 @@ Special kills give more COD Points.>|
 
 |<COMPLETED>|
 
-|<&&1 / &&2  (&&3%)>|
+|<&&1 / &&2 (&&3%)>|
 
 |<All progress toward the selected Contract will be lost!>|
 
@@ -6376,7 +6376,7 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 
 |<HUMILIATIONS>|
 
-|<SHARPSHOOTER            KILLS>|
+|<SHARPSHOOTER      KILLS>|
 
 |<x3 KILLS>|
 
@@ -6446,7 +6446,7 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 
 |<Contracts for Headshots, secondary weapons, grenades, and special objectives.>|
 
-|<&&1  &&2  &&3>|
+|<&&1 &&2 &&3>|
 
 |<MATCH XP>|
 
@@ -6475,7 +6475,7 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 |<Browse Films, Clips, Screenshots and Custom Game Modes.>|
 
 |<Score Per 
-  Minute>|
+ Minute>|
 
 |<Per Minute>|
 
@@ -6599,7 +6599,7 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 
 |<Thank you for participating in the Beachhead Beta program.>|
 
-|<The email you have entered does not appear to be valid.  Please check for errors and try again.>|
+|<The email you have entered does not appear to be valid. Please check for errors and try again.>|
 
 |<Edit Email Address>|
 
@@ -7137,7 +7137,7 @@ Set autodownload to No in your settings and you might be able to connect if you 
 
 |<Favorites>|
 
-|<Source:     &&1>|
+|<Source:   &&1>|
 
 |<Filter: &&1>|
 
@@ -7161,13 +7161,13 @@ Make sure you have your sound card's latest drivers and DirectX installed.>|
 
 |<Hunk data failed to allocate &&1 megs.>|
 
-|<Could not load OpenGL.  Make sure that you have the latest drivers for your video card from the manufacturer's web site.>|
+|<Could not load OpenGL. Make sure that you have the latest drivers for your video card from the manufacturer's web site.>|
 
 |<Could not register a window class. This is a Microsoft Windows(TM) error. You may need to reboot.>|
 
 |<Could not create a window. This is a Microsoft Windows(TM) error. You may need to reboot.>|
 
-|<You should install the latest drivers for your video card, being sure to uninstall the old drivers first.  If you already have the latest drivers, you should completely uninstall the drivers and then reinstall them.  This fixes most problems.  If the game still doesn't work, it may be that your video card does not have the minimum features required.  Please check the readme for more information, including a list of supported video cards.>|
+|<You should install the latest drivers for your video card, being sure to uninstall the old drivers first. If you already have the latest drivers, you should completely uninstall the drivers and then reinstall them. This fixes most problems. If the game still doesn't work, it may be that your video card does not have the minimum features required. Please check the readme for more information, including a list of supported video cards.>|
 
 |<Your video card appears to be missing one or more features required to run Call of Duty.>|
 
@@ -7363,7 +7363,7 @@ Please enter your Key Code in the Multiplayer Options/Enter Key Code menu and th
 
 |<Join failed - game is about to end>|
 
-|<Unable to connect.  Duplicate qport on server.>|
+|<Unable to connect. Duplicate qport on server.>|
 
 |<left the game>|
 
@@ -7644,7 +7644,7 @@ Continue restart?>|
 
 |<Press^3 &&1 ^7to mount your weapon>|
 
-|<Press^3 &&1 ^7to  >|
+|<Press^3 &&1 ^7to >|
 
 |<Hold the^3 &&1 ^7key to steady>|
 
@@ -7662,17 +7662,17 @@ Continue restart?>|
 
 |<Press ^3[{+activate}]^7 to skip>|
 
-|<Press  ^3[{+activate}]^7 to spawn>|
+|<Press ^3[{+activate}]^7 to spawn>|
 
-|<Press  ^3[{+activate}]^7 to respawn>|
+|<Press ^3[{+activate}]^7 to respawn>|
 
 |<Press ^3 &&1 ^7to use>|
 
 |<Press ^3 &&1 ^7to drop>|
 
-|<Hold ^3 &&1 ^7to plant explosives  >|
+|<Hold ^3 &&1 ^7to plant explosives >|
 
-|<Hold ^3 &&1 ^7to defuse explosives  >|
+|<Hold ^3 &&1 ^7to defuse explosives >|
 
 |<Press^3 &&1 ^7to use your binoculars to sight distant targets.>|
 
@@ -7749,9 +7749,9 @@ Marketplace>|
 
 |<Reset To Default>|
 
-|<Press ^3  &&1 ^7to switch seats>|
+|<Press ^3 &&1 ^7to switch seats>|
 
-|<Press ^3  &&1 ^7to Cover>|
+|<Press ^3 &&1 ^7to Cover>|
 
 |<Press ^3 &&1 ^7for Coaxial MG>|
 
@@ -7817,7 +7817,7 @@ Marketplace>|
 
 |<When the Hounds are released, find a corner and dig in for the fight.>|
 
-|<Rule Number 1:  Watch yo' back!>|
+|<Rule Number 1: Watch yo' back!>|
 
 |<To move up the Zombies leaderboards, you need to survive into the higher rounds.>|
 
@@ -7829,7 +7829,7 @@ Marketplace>|
 
 |<The Mystery Box in Zombies is a gamble. You could get the most powerful weapon in the chest or end up with a spare pistol.>|
 
-|<A zombie breach is nothing to get spooked about.  Pros keep their windows boarded.>|
+|<A zombie breach is nothing to get spooked about. Pros keep their windows boarded.>|
 
 |<Visit Treyarch.com to go behind-the-scenes with the developers of 'Call of Duty: Black Ops'.>|
 
@@ -7847,7 +7847,7 @@ Marketplace>|
 
 |<In Dead Ops Arcade, you are given an extra life every 200,000 points.>|
 
-|<Dead Ops Arcade supports up to 4 players.   >|
+|<Dead Ops Arcade supports up to 4 players.  >|
 
 |<The Cosmic Silverback awaits your challenge in Dead Ops Arcade.>|
 
@@ -7863,7 +7863,7 @@ Marketplace>|
 
 |<The Cosmic Silverback has many brothers.>|
 
-|<In Dead Ops Arcade, gems are a rare find.  The larger the gem, the bigger the increase to your score multiplier!>|
+|<In Dead Ops Arcade, gems are a rare find. The larger the gem, the bigger the increase to your score multiplier!>|
 
 |<Each setting will be restored to its default value, are you sure?>|
 
@@ -8221,7 +8221,7 @@ Marketplace>|
 
 |<Press ^3[{+activate}]^7 to Use Computer>|
 
-|<Use  ^3[{+movestick}]^7 to move>|
+|<Use ^3[{+movestick}]^7 to move>|
 
 |<Use ^3[{+movestick}]^7 to move / strafe>|
 
@@ -8231,9 +8231,9 @@ Marketplace>|
 
 |<Use ^3[{+lookstick}]^7 to aim>|
 
-|<Use  ^3[{+lookstick}]^7  to aim>|
+|<Use ^3[{+lookstick}]^7 to aim>|
 
-|<Use  ^3[{+movestick}]^7 to move
+|<Use ^3[{+movestick}]^7 to move
 >|
 
 |<Use ^3[{+lookstick}]^7 to guide the missile in flight>|
@@ -8244,7 +8244,7 @@ Marketplace>|
 
 |<MULTIPLAYER SETTINGS>|
 
-|<Use  ^3[{+movestick}]^7 to control the camera>|
+|<Use ^3[{+movestick}]^7 to control the camera>|
 
 |<FIRE (ATTACK)>|
 
@@ -8258,7 +8258,7 @@ Marketplace>|
 
 |<This is the name of your server.>|
 
-|<Indicates the minimum ping required to play on  your server.>|
+|<Indicates the minimum ping required to play on your server.>|
 
 |<Indicates the maximum ping allowed to play on your server.>|
 
@@ -8390,7 +8390,7 @@ Marketplace>|
 
 |<^1UMP45: ^7Shut the $&#* up!>|
 
-|<^1INTERROGATOR: ^7The NVA had surrounded the city.  DEFY had all but burned to the ground. The defector was surely dead.>|
+|<^1INTERROGATOR: ^7The NVA had surrounded the city. DEFY had all but burned to the ground. The defector was surely dead.>|
 
 |<^1UMP45: ^7She wasn't dead!>|
 
@@ -10255,8 +10255,8 @@ Listen for the clicks of the Geiger counter.>|
 
 |<Hold ^3[{+activate}]^7 Weapon [&&1], Ammo [&&2]>|
 
-|<Hold ^3[{+activate}]^7 Weapon [&&1], Ammo [&&2],   
-             Upgraded Ammo [4500]>|
+|<Hold ^3[{+activate}]^7 Weapon [&&1], Ammo [&&2],  
+       Upgraded Ammo [4500]>|
 
 |<Let The Onslaught Begin>|
 
@@ -10404,13 +10404,13 @@ Listen for the clicks of the Geiger counter.>|
 
 |<Hold ^3[{+activate}]^7 to activate the trap [Cost: &&1]>|
 
-|<Hold ^3&&1^7 to buy Bouncing Betty  [Cost: 1000 - one time only ]>|
+|<Hold ^3&&1^7 to buy Bouncing Betty [Cost: 1000 - one time only ]>|
 
 |<You have already purchased Bouncing Betties>|
 
 |<Press ^3[{+actionslot 4}]^7 then ^3[{+attack}]^7 to place a Bouncing Betty>|
 
-|<Hold ^3&&1^7 to buy Claymore  [Cost: 1000]>|
+|<Hold ^3&&1^7 to buy Claymore [Cost: 1000]>|
 
 |<You have already purchased Claymores>|
 
@@ -10931,9 +10931,9 @@ Additional [Cost: &&1]>|
 
 |<Most Killstreak Rewards Earned>|
 
-|<&&1  &&2 Kills>|
+|<&&1 &&2 Kills>|
 
-|<&&1  &&2 Headshots>|
+|<&&1 &&2 Headshots>|
 
 |<Machine Gun>|
 
@@ -10941,7 +10941,7 @@ Additional [Cost: &&1]>|
 
 |<Master Key>|
 
-|<&&1  &&2 Kills >|
+|<&&1 &&2 Kills >|
 
 |<Projectile>|
 
