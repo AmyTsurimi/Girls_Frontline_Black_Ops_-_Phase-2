@@ -30,14 +30,12 @@ REFERENCE			GET_TO_BARRACKS
 LANG_ENGLISH		"Clear barracks and destroy com link"
 REFERENCE			GUIDE_KILO_TO_INSERTION_POINT
 LANG_ENGLISH		"Guide Anti Rain to the insertion point"
-REFERENCE			HELP_EVADE_PATROL
-LANG_ENGLISH		"HELP_EVADE_PATROL"
 REFERENCE			INSERTION_POINT
 LANG_ENGLISH		"Insertion Point"
 REFERENCE			INTRO_DATE
 LANG_ENGLISH		"^L0500 hours,^L ^C1February 18, 1968^C"
 REFERENCE			INTRO_EXTRA
-LANG_ENGLISH		"^LBlackbird over watch underway, codename:  BIGEYE^L"
+LANG_ENGLISH		"^LBlackbird over watch underway, codename: BIGEYE^L"
 REFERENCE			INTRO_LEVELNAME
 LANG_ENGLISH		"^LTransmission # 9-19. Designate: MIKE^L"
 REFERENCE			INTRO_LOCATION
@@ -233,7 +231,7 @@ LANG_ENGLISH		"^1KALINA: ^7Area secure. Top work."
 REFERENCE			VOX_WMD1_S01_127A_USC1_F
 LANG_ENGLISH		"^1ANGELIA: ^7Tac Recon I see enemy vehicles inbound. Get the squad off the road."
 REFERENCE			VOX_WMD1_S01_134A_USC1_F
-LANG_ENGLISH		"^1ANGELIA: ^7Kalina multiple targets on the road! Get AR out of there!"
+LANG_ENGLISH		"^1ANGELIA: ^7Kalina, multiple targets on the road! Get AR out of there!"
 REFERENCE			VOX_WMD1_S01_135A_USC2_F
 LANG_ENGLISH		"^1KALINA: ^7AR, you have hostiles inbound. You need to vanish right now!"
 REFERENCE			VOX_WMD1_S01_136A_HUDS_F
@@ -261,7 +259,7 @@ LANG_ENGLISH		"^1M16A1: ^7Roger that Bigeye 6. We have zero visibility on the gr
 REFERENCE			VOX_WMD1_S01_404A_USC2_F
 LANG_ENGLISH		"^1KALINA: ^7Enemy infantry incoming... Take them out."
 REFERENCE			VOX_WMD1_S01_405A_USC2_F
-LANG_ENGLISH		"^1KALINA: ^7Anti Rain - the road is hot.  Exit through the rear of the building."
+LANG_ENGLISH		"^1KALINA: ^7Anti Rain - the road is hot. Exit through the rear of the building."
 REFERENCE			VOX_WMD1_S01_406A_USC2_F
 LANG_ENGLISH		"^1KALINA: ^7That's a negative Anti Rain."
 REFERENCE			VOX_WMD1_S01_407A_USC2_F
@@ -287,19 +285,19 @@ LANG_ENGLISH		"^1M16A1: ^7Roger that, Bigeye - Stacking up."
 REFERENCE			VOX_WMD1_S01_418A_USC2_F
 LANG_ENGLISH		"^1KALINA: ^7Coming up on the Barracks. Multiple targets inside, breach and clear Anti Rain."
 REFERENCE			VOX_WMD1_S01_419A_HUDS_F
-LANG_ENGLISH		"^1M16A1: ^7Internal comms line cut.  Base is dark.  Moving to second objective."
+LANG_ENGLISH		"^1M16A1: ^7Internal comms line cut. Base is dark. Moving to second objective."
 REFERENCE			VOX_WMD1_S01_420A_USC2_F
-LANG_ENGLISH		"^1KALINA: ^7Roger that Anti Rain."
+LANG_ENGLISH		"^1KALINA: ^7Roger that, Anti Rain."
 REFERENCE			VOX_WMD1_S01_421A_USC2_F
-LANG_ENGLISH		"^1KALINA: ^7Anti Rain we have Infantry inbound - I count at least six targets. Too hot."
+LANG_ENGLISH		"^1KALINA: ^7Anti Rain, we have Infantry inbound - I count at least six targets. Too hot."
 REFERENCE			VOX_WMD1_S01_422A_USC2_F
-LANG_ENGLISH		"^1KALINA: ^7Stop and drop.  Stay out of sight."
+LANG_ENGLISH		"^1KALINA: ^7Stop and drop. Stay out of sight."
 REFERENCE			VOX_WMD1_S01_423A_HUDS_F
 LANG_ENGLISH		"^1M16A1: ^7Roger that, Bigeye... digging in."
 REFERENCE			VOX_WMD1_S01_424A_USC2_F
 LANG_ENGLISH		"^1KALINA: ^7S.K.K - Anti Rain neutralized."
 REFERENCE			VOX_WMD1_S01_425A_USC2_F
-LANG_ENGLISH		"^1KALINA: ^7Anti Rain?  Come in Anti Rain.."
+LANG_ENGLISH		"^1KALINA: ^7Anti Rain? Come in Anti Rain.."
 REFERENCE			VOX_WMD1_S01_426A_USC2_F
 LANG_ENGLISH		"^1KALINA: ^7S.K.K - Anti Rain. KIA."
 REFERENCE			VOX_WMD1_S01_503A_USC2_F
