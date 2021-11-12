@@ -68,7 +68,7 @@
 
 |<You failed to stay with your team.>|
 
-|<^LTransmission #00. Designate: XRAY^L>|
+|<^LTransmission #00. Designate: G-11^L>|
 
 |<^L1700 hours,^L ^C1February 18, 1968^C>|
 

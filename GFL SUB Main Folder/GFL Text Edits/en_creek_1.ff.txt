@@ -4,7 +4,7 @@
 
 |<Repeatedly press ^3[{+activate}]^7 to open the door.>|
 
-|<^LTransmission # 14-15. Designate: XRAY^L>|
+|<^LTransmission # 14-15. Designate: G-11^L>|
 
 |<^LIntel suggests KCCO presence in southern^L ^C1DMZ, Vietnam.^C>|
 
@@ -186,7 +186,7 @@
 
 |<^1HK416: ^7G-11 is clearing the West flank. ETA 3 minutes. We gotta split up. I'll take the high ground. You cross the river, find a place for the Semtex.>|
 
-|<^1HK416: ^7Xray is clearing the east flank. ETA 3 minutes. We're splitting up. I'll take the high ground. Cross the river to the right and find a place for the Semtex.>|
+|<^1HK416: ^7G-11 is clearing the east flank. ETA 3 minutes. We're splitting up. I'll take the high ground. Cross the river to the right and find a place for the Semtex.>|
 
 |<^1UMP45: ^7Roger.>|
 
