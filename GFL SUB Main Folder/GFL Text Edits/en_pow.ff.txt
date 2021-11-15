@@ -82,13 +82,13 @@
 
 |<^1KCCO OPERATIVE: ^7Raggh! Raggh! Raggh!>|
 
-|<^1UMP45: ^79! 9! You fucking son of a bitch!>|
+|<^1UMP45: ^7Nine! ^:NINE^7! You fucking son of a bitch!>|
 
 |<^1UMP45: ^79! 9!>|
 
 |<^1KCCO OPERATIVE: ^7Next.>|
 
-|<^1UMP45: ^7I'm going to kill you all!>|
+|<^1UMP45: ^7I'm going to ^:kill you all^7!>|
 
 |<^1HK416: ^7Don't you touch me...>|
 
@@ -118,7 +118,7 @@
 
 |<^1VC BOOKIE: ^7You shoot doll! You shoot!>|
 
-|<^1HK416: ^7You can't kill ME!>|
+|<^1HK416: ^:You can't kill ME^7!>|
 
 |<^1HK416: ^7Fuck!>|
 
@@ -170,7 +170,7 @@
 
 |<^1UMP45: ^7Not just him. Nyto too.>|
 
-|<^1HK416: ^7For 9.>|
+|<^1HK416: ^7For 9!>|
 
 |<^1UMP45: ^7For 9.>|
 
@@ -524,7 +524,7 @@
 
 |<^1HK416: ^745?! What the fuck are you doing?!! We gotta get these guys out.>|
 
-|<^1HK416: ^745?! ! We gotta get these guys out.>|
+|<^1HK416: ^745?! We gotta get these guys out.>|
 
 |<^1HK416: ^7Wait!!!>|
 
