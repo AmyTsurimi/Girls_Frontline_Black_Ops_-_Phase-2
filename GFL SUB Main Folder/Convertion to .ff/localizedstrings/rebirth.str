@@ -48,353 +48,341 @@ LANG_ENGLISH		"^1UMP40: ^7Rebirth Island... Source of RPK16's virus."
 REFERENCE			VOX_REB1_S01_006A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7They are preparing to deliver Parapluie."
 REFERENCE			VOX_REB1_S01_011A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7干掉他，梅森。"
+LANG_ENGLISH		"^1UMP40: ^7Kill him, 45."
 REFERENCE			VOX_REB1_S01_012A_REZN
-LANG_ENGLISH		"^1UMP40: ^7敌人数量比我们多，梅森。"
+LANG_ENGLISH		"^1UMP40: ^7We are outnumbered, 45."
 REFERENCE			VOX_REB1_S01_013A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我们不能引起注意。"
+LANG_ENGLISH		"^1UMP40: ^7We must not attract attention."
 REFERENCE			VOX_REB1_S01_014A_REZN
-LANG_ENGLISH		"^1UMP40: ^7躲在阴影里-躲避直升机的灯光照射。"
+LANG_ENGLISH		"^1UMP40: ^7Stick to the shadows - avoid the helicopter's spotlight."
 REFERENCE			VOX_REB1_S01_015A_REZN
-LANG_ENGLISH		"^1UMP40: ^7等它离开。"
+LANG_ENGLISH		"^1UMP40: ^7Wait until it passes."
 REFERENCE			VOX_REB1_S01_016A_REZN
-LANG_ENGLISH		"^1UMP40: ^7跑-快点。"
+LANG_ENGLISH		"^1UMP40: ^7Go - Quickly."
 REFERENCE			VOX_REB1_S01_017A_REZN
-LANG_ENGLISH		"^1UMP40: ^7梅森，跟着我！"
+LANG_ENGLISH		"^1UMP40: ^745, stay with me!"
 REFERENCE			VOX_REB1_S01_018A_REZN
-LANG_ENGLISH		"^1UMP40: ^7梅森，你会被看到的！靠近点！"
+LANG_ENGLISH		"^1UMP40: ^745, you will be seen! Keep close!"
 REFERENCE			VOX_REB1_S01_019A_REZN
-LANG_ENGLISH		"^1UMP40: ^7你往哪跑呢？遵守原计划！"
+LANG_ENGLISH		"^1UMP40: ^7Where are you going? Stick to the plan!"
 REFERENCE			VOX_REB1_S01_020A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我们不能被发现！慢点走！"
+LANG_ENGLISH		"^1UMP40: ^7We cannot allow ourselves be seen! Stay low!"
 REFERENCE			VOX_REB1_S01_024A_REZN
-LANG_ENGLISH		"^1UMP40: ^7他们开始撤走那个设备了。。。"
+LANG_ENGLISH		"^1UMP40: ^7They are beginning to evacuate the facility..."
 REFERENCE			VOX_REB1_S01_025A_MASO
-LANG_ENGLISH		"^1UMP45: ^7他们知道我们在这儿。。。"
+LANG_ENGLISH		"^1UMP45: ^7They know we're here..."
 REFERENCE			VOX_REB1_S01_028A_REZN
-LANG_ENGLISH		"^1UMP40: ^7梅森... 无声无息的做掉他。"
+LANG_ENGLISH		"^1UMP40: ^745... Silence him."
 REFERENCE			VOX_REB1_S01_029A_REZN
-LANG_ENGLISH		"^1UMP40: ^7梅森!"
+LANG_ENGLISH		"^1UMP40: ^745!"
 REFERENCE			VOX_REB1_S01_030A_REZN
-LANG_ENGLISH		"^1UMP40: ^7太棒了，梅森，跟着我。"
+LANG_ENGLISH		"^1UMP40: ^7Good my friend. Follow me."
 REFERENCE			VOX_REB1_S01_031A_REZN
-LANG_ENGLISH		"^1UMP40: ^7直升机又过来了。"
+LANG_ENGLISH		"^1UMP40: ^7The chopper is coming around again."
 REFERENCE			VOX_REB1_S01_032A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我们一定要再找个藏身之处。"
+LANG_ENGLISH		"^1UMP40: ^7We must find another hiding place."
 REFERENCE			VOX_REB1_S01_033A_REZN
-LANG_ENGLISH		"^1UMP40: ^7远离光线。"
+LANG_ENGLISH		"^1UMP40: ^7Stay out of the light."
 REFERENCE			VOX_REB1_S01_034A_REZN
-LANG_ENGLISH		"^1UMP40: ^7等着。。。呆在原地。"
+LANG_ENGLISH		"^1UMP40: ^7Wait... stay where you are."
 REFERENCE			VOX_REB1_S01_035A_REZN
-LANG_ENGLISH		"^1UMP40: ^7它看不到咱们。"
+LANG_ENGLISH		"^1UMP40: ^7It did not see us."
 REFERENCE			VOX_REB1_S01_036A_REZN
-LANG_ENGLISH		"^1UMP40: ^7这边！上楼!"
+LANG_ENGLISH		"^1UMP40: ^7This way, up the stairs."
 REFERENCE			VOX_REB1_S01_040A_REZN
-LANG_ENGLISH		"^1UMP40: ^7好。。。很好。"
+LANG_ENGLISH		"^1UMP40: ^7Good... Very good."
 REFERENCE			VOX_REB1_S01_041A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我们应该能从屋顶进入斯泰纳的实验室。。。"
+LANG_ENGLISH		"^1UMP40: ^7We should be able to access Suomi's lab from the roof..."
 REFERENCE			VOX_REB1_S01_042A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我们就快到了，梅森"
+LANG_ENGLISH		"^1UMP40: ^7We are getting close, 45."
 REFERENCE			VOX_REB1_S01_044A_REZN
-LANG_ENGLISH		"^1UMP40: ^7他们每个地方都装了警报器。"
+LANG_ENGLISH		"^1UMP40: ^7They've gone to full alert."
 REFERENCE			VOX_REB1_S01_045A_MASO
-LANG_ENGLISH		"^1UMP45: ^7这是CIA。。。他们想要活生生的斯泰纳。"
+LANG_ENGLISH		"^1UMP45: ^7It's Griffin... They want Suomi alive."
 REFERENCE			VOX_REB1_S01_046A_REZN
-LANG_ENGLISH		"^1UMP40: ^7然后我们必须先去抓他。"
+LANG_ENGLISH		"^1UMP40: ^7Then we must get to her first."
 REFERENCE			VOX_REB1_S01_047A_REZN
-LANG_ENGLISH		"^1UMP40: ^7梅森现在是个靶子。肯定。"
+LANG_ENGLISH		"^1UMP40: ^7A target of opportunity 45. Aim true."
 REFERENCE			VOX_REB1_S01_049A_REZN
-LANG_ENGLISH		"^1UMP40: ^7跟着我。我们要用电梯轴。"
+LANG_ENGLISH		"^1UMP40: ^7Follow me. We will use the elevator shaft."
 REFERENCE			VOX_REB1_S01_700A_MASO
-LANG_ENGLISH		"^1UMP45: ^7我和雷泽诺夫到达Rebirth岛了。 斯泰纳最后肯定是我们的了。"
+LANG_ENGLISH		"^1UMP45: ^7I arrived with 40 at Rebirth Island. Finally. Suomi was ours."
 REFERENCE			VOX_REB1_S01_701A_MASO
-LANG_ENGLISH		"^1UMP45: ^7我向上帝发誓，这是斯泰纳的死期。 雷泽诺夫在我面前杀掉了他！"
+LANG_ENGLISH		"^1UMP45: ^7I swear to God, that's how Suomi died. 40 killed her right in front of me!"
 REFERENCE			VOX_REB1_S01_702A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7你在撒谎梅森。你杀了斯泰纳。 我们知道你做了什么。"
+LANG_ENGLISH		"^1INTERROGATOR: ^7You're lying 45. You killed Suomi. We know you did."
 REFERENCE			VOX_REB1_S01_702B_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7你在撒谎梅森。你杀了斯泰纳。 我们知道你做了什么。"
+LANG_ENGLISH		"^1INTERROGATOR: ^7You're lying 45. You killed Suomi. We know you did."
 REFERENCE			VOX_REB1_S01_703A_MASO
-LANG_ENGLISH		"^1UMP45: ^7雷泽诺夫确实得到了他想要的。复仇"
+LANG_ENGLISH		"^1UMP45: ^740 got exactly what she wanted. Revenge."
 REFERENCE			VOX_REB1_S01_704A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7我们看来要告诉梅森了。雷泽诺夫还没杀死斯泰纳 以及哈德森看到了什么。"
+LANG_ENGLISH		"^1INTERROGATOR: ^7We saw the report 45. UMP 40 did not kill T-Doll Suomi. M16A1 saw what happened."
 REFERENCE			VOX_REB1_S01_704B_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7贾森哈德森告诉梅森。雷泽诺夫没杀斯泰纳。哈德森知道发生了什么。"
+LANG_ENGLISH		"^1INTERROGATOR: ^7M16A1 filed her report 45. UMP 40 did not kill T-Doll Suomi. M16A1 saw what happened."
 REFERENCE			VOX_REB1_S01_705A_MASO
-LANG_ENGLISH		"^1UMP45: ^7雷泽诺夫!"
+LANG_ENGLISH		"^1UMP45: ^740!"
 REFERENCE			VOX_REB1_S01_706A_MASO
-LANG_ENGLISH		"^1UMP45: ^7我没看到具体情况。"
+LANG_ENGLISH		"^1UMP45: ^7Not on my watch."
 REFERENCE			VOX_REB1_S01_707A_HUDS_F
-LANG_ENGLISH		"^1M16A1: ^7梅森，这里是哈德森。我们知道你在复活岛上，让梅森跟我说话。"
+LANG_ENGLISH		"^1M16A1: ^745, this is M16A1. We know you're on Rebirth Island. Talk to me 45."
 REFERENCE			VOX_REB1_S02_051A_REZN
-LANG_ENGLISH		"^1UMP40: ^7这里。。。"
+LANG_ENGLISH		"^1UMP40: ^7This way..."
 REFERENCE			VOX_REB1_S02_056A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7开火！快开火。。。"
+LANG_ENGLISH		"^1UMP40: ^7Shoot! Shoot now..."
 REFERENCE			VOX_REB1_S02_059A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我们必须打开这个门。"
+LANG_ENGLISH		"^1UMP40: ^7We must get this door open."
 REFERENCE			VOX_REB1_S02_060A_MASO
-LANG_ENGLISH		"^1UMP40: ^7我明白。"
+LANG_ENGLISH		"^1UMP45: ^7I got it."
 REFERENCE			VOX_REB1_S02_061A_REZN
-LANG_ENGLISH		"^1UMP40: ^7小心我们的朋友。。。"
+LANG_ENGLISH		"^1UMP40: ^7Be cautious my friend..."
 REFERENCE			VOX_REB1_S02_063A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7让我们做个了断吧。。。"
+LANG_ENGLISH		"^1UMP40: ^7Let us end this..."
 REFERENCE			VOX_REB1_S02_064A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7德拉格维奇那些人正在岛上到处搜捕。。。"
+LANG_ENGLISH		"^1SUOMI: ^7RPK16's men are rounding up everyone on the island..."
 REFERENCE			VOX_REB1_S02_065A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7那些对他实施的计划已经不再重要了。"
+LANG_ENGLISH		"^1SUOMI: ^7Those no longer essential to her plans are being executed!"
 REFERENCE			VOX_REB1_S02_066A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7在他们杀掉我们之前，你一定要快来救我！"
+LANG_ENGLISH		"^1SUOMI: ^7You must hurry, before they kill me too!"
 REFERENCE			VOX_REB1_S02_067A_MASO_M
-LANG_ENGLISH		"^1UMP45: ^7斯泰纳。该结束了。"
+LANG_ENGLISH		"^1UMP45: ^7T-Doll Suomi. This is the end."
 REFERENCE			VOX_REB1_S02_068A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7你是..?!!!"
+LANG_ENGLISH		"^1SUOMI: ^7You..?!!!"
 REFERENCE			VOX_REB1_S02_069A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7啊!"
+LANG_ENGLISH		"^1SUOMI: ^7Aaaack!"
 REFERENCE			VOX_REB1_S02_069B_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7啊!"
+LANG_ENGLISH		"^1SUOMI: ^7Arrggh!"
 REFERENCE			VOX_REB1_S02_070A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7我知道你... 沃尔库塔的……!"
+LANG_ENGLISH		"^1SUOMI: ^7I know you... Vorkuta!"
 REFERENCE			VOX_REB1_S02_071A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7你不知道。。。"
+LANG_ENGLISH		"^1SUOMI: ^7You don't know..."
 REFERENCE			VOX_REB1_S02_072A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7我们对你做了什么。。。"
+LANG_ENGLISH		"^1SUOMI: ^7What we did to you..."
 REFERENCE			VOX_REB1_S02_074A_HUDS_F_M
-LANG_ENGLISH		"^1M16A1: ^7梅森，告诉我！"
+LANG_ENGLISH		"^1M16A1: ^745, talk to me!"
 REFERENCE			VOX_REB1_S02_074B_HUDS_F_M
-LANG_ENGLISH		"^1M16A1: ^7这是是哈德森！梅森，告诉我！"
+LANG_ENGLISH		"^1M16A1: ^7It's M16A1! 45, talk to me!"
 REFERENCE			VOX_REB1_S02_075A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7你的罪行导致了很多无辜的人丢了性命。。。"
+LANG_ENGLISH		"^1UMP40: ^7Your evil has claimed the lives of many good dolls..."
 REFERENCE			VOX_REB1_S02_076A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7你这混蛋。"
+LANG_ENGLISH		"^1UMP40: ^7No longer."
 REFERENCE			VOX_REB1_S02_077A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7杀掉我来阻止 诺娃计划!"
+LANG_ENGLISH		"^1SUOMI: ^7Killing me will not stop Parapluie!"
 REFERENCE			VOX_REB1_S02_078A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7我不管诺娃计划了。"
+LANG_ENGLISH		"^1UMP40: ^7I do not care about Parapluie."
 REFERENCE			VOX_REB1_S02_079A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7我的名字是维克多，雷泽诺夫."
+LANG_ENGLISH		"^1UMP40: ^7My name is UMP 40."
 REFERENCE			VOX_REB1_S02_080A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7不。。。"
+LANG_ENGLISH		"^1SUOMI: ^7No..."
 REFERENCE			VOX_REB1_S02_081A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7我现在要实现我的复仇。"
+LANG_ENGLISH		"^1UMP40: ^7And I will have my revenge."
 REFERENCE			VOX_REB1_S03_082A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7威夫尔！"
+LANG_ENGLISH		"^1M16A1: ^7AK-12!"
 REFERENCE			VOX_REB1_S03_083A_WEAV_F_M
-LANG_ENGLISH		"^1AK-12: ^7往上走，哈德森。"
+LANG_ENGLISH		"^1AK-12: ^7Go ahead M16."
 REFERENCE			VOX_REB1_S03_084A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7梅森仍然没找到。我们要自己想办法到研究所、保护我们6个"
+LANG_ENGLISH		"^1M16A1: ^745's still dark. We need to work our way through the research facility. Protect our six!"
 REFERENCE			VOX_REB1_S03_085A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7梅森仍然没找到。我们要自己想办法到研究所、抓住Steiner。"
+LANG_ENGLISH		"^1M16A1: ^745's still dark. We work our way through to the research facility and extract Suomi."
 REFERENCE			VOX_REB1_S03_086A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7美国小队，我们走！"
+LANG_ENGLISH		"^1AK-12: ^7Yankee Squad, we're moving!"
 REFERENCE			VOX_REB1_S03_087A_HUDS
-LANG_ENGLISH		"^1AK-12: ^7阿尔法小队，我们走！"
+LANG_ENGLISH		"^1M16A1: ^7Alpha Squad, let's roll."
 REFERENCE			VOX_REB1_S03_088A_USS1_F
-LANG_ENGLISH		"^1T-DOLL: ^7在路上复制那个。"
+LANG_ENGLISH		"^1T-DOLL: ^7Copy that we are on the move."
 REFERENCE			VOX_REB1_S03_089A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7他们都准备撤退了。"
+LANG_ENGLISH		"^1AK-12: ^7They've already begun to evacuate."
 REFERENCE			VOX_REB1_S03_090A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7这不是撤退，是屠杀。"
+LANG_ENGLISH		"^1M16A1: ^7It's not an evacuation... It's a massacre."
 REFERENCE			VOX_REB1_S03_091A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7确保没人活着对我们说话。"
+LANG_ENGLISH		"^1M16A1: ^7Making sure no one's alive to tell us anything."
 REFERENCE			VOX_REB1_S03_092A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7右边！那是他们的生物实验室。"
+LANG_ENGLISH		"^1AK-12: ^7Hard right! That leads to the cyber-lab."
 REFERENCE			VOX_REB1_S03_093A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^712点钟有敌人车辆！"
+LANG_ENGLISH		"^1AK-12: ^7Enemy vehicle 12 o'clock."
 REFERENCE			VOX_REB1_S03_094A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7那是开往实验室的。美国小队要从西面包抄然后我们在这里汇合。"
+LANG_ENGLISH		"^1AK-12: ^7That's the main drive up to the laboratories. Yankee Squad will flank west and meet you there."
 REFERENCE			VOX_REB1_S03_095A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7明白。美国小队，行动！"
+LANG_ENGLISH		"^1M16A1: ^7Understood. Alpha squad, move up!"
 REFERENCE			VOX_REB1_S03_096A_USS1_F
-LANG_ENGLISH		"^1T-DOLL: ^7我们在路上了。"
+LANG_ENGLISH		"^1T-DOLL: ^7We're moving."
 REFERENCE			VOX_REB1_S03_097A_USS1_F
-LANG_ENGLISH		"^1T-DOLL: ^7发现敌人。在阳台。"
+LANG_ENGLISH		"^1T-DOLL: ^7Enemy targets, on the balcony."
 REFERENCE			VOX_REB1_S03_098A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7莫洛托夫！在屋顶！"
+LANG_ENGLISH		"^1AK-12: ^7Molotovs! On the roof!"
 REFERENCE			VOX_REB1_S03_099A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7梅森！干掉那些莫洛托夫！"
+LANG_ENGLISH		"^1M16A1: ^745! Take out those Molotovs!"
 REFERENCE			VOX_REB1_S03_100A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7RPGS!!!"
 REFERENCE			VOX_REB1_S03_101A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7干掉那些白痴RPG！"
+LANG_ENGLISH		"^1M16A1: ^7Take out those damn RPGs!"
 REFERENCE			VOX_REB1_S03_102A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7左边！！"
+LANG_ENGLISH		"^1AK-12: ^7Left side!!"
 REFERENCE			VOX_REB1_S03_103A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7右边！！"
+LANG_ENGLISH		"^1AK-12: ^7Right side!!"
 REFERENCE			VOX_REB1_S03_104A_USS1_F
-LANG_ENGLISH		"^1T-DOLL: ^7我们正在与众多敌人交火。"
+LANG_ENGLISH		"^1T-DOLL: ^7Multiple contacts on the road."
 REFERENCE			VOX_REB1_S03_105A_USS1_F
-LANG_ENGLISH		"^1T-DOLL: ^7哈德森，侦查显示有MI-8直升机到你们附近了。"
+LANG_ENGLISH		"^1T-DOLL: ^7M16, recon reports MI-8's inbound on our position."
 REFERENCE			VOX_REB1_S03_106A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7明白。让我们干掉它。"
+LANG_ENGLISH		"^1M16A1: ^7Understood. Let's pick it up."
 REFERENCE			VOX_REB1_S03_107A_USS1_F
-LANG_ENGLISH		"^1T-DOLL: ^7MI-8直升机在上面开始攻击了！"
+LANG_ENGLISH		"^1T-DOLL: ^7MI-8 dead ahead!"
 REFERENCE			VOX_REB1_S03_108A_RED1
-LANG_ENGLISH		"^1T-DOLL: ^7快找掩体！"
+LANG_ENGLISH		"^1T-DOLL: ^7Take cover!"
 REFERENCE			VOX_REB1_S03_109A_USS1_F
-LANG_ENGLISH		"^1T-DOLL: ^7你被锁定了！跑！快跑！"
+LANG_ENGLISH		"^1T-DOLL: ^7He's locked on! Move! Move!"
 REFERENCE			VOX_REB1_S03_110A_USS1_F
-LANG_ENGLISH		"^1T-DOLL: ^7 来了！！！"
+LANG_ENGLISH		"^1T-DOLL: ^7Incoming!"
 REFERENCE			VOX_REB1_S03_111A_RED2
-LANG_ENGLISH		"^1T-DOLL: ^7诺娃6号正在蔓延! 穿好防化服,现在!"
+LANG_ENGLISH		"^1T-DOLL: ^7Parapluie! 16Lab firewall, NOW!"
 REFERENCE			VOX_REB1_S03_112A_RED1_M
-LANG_ENGLISH		"^1T-DOLL: ^7妈的！妈的！ 啊!"
+LANG_ENGLISH		"^1T-DOLL: ^7Shit! shit! Help! Aaaaccckk!"
 REFERENCE			VOX_REB1_S03_112A_RED1_M_S
-LANG_ENGLISH		"^1T-DOLL: ^7快来帮忙! 啊!"
+LANG_ENGLISH		"^1T-DOLL: ^7Help! Aaaaccckk!"
 REFERENCE			VOX_REB1_S03_113A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7阿尔法小队！我们正在前面的路上！穿好防化服"
+LANG_ENGLISH		"^1M16A1: ^7Alpha Squad! we are moving forward! Protect your 16Lab firewall!"
 REFERENCE			VOX_REB1_S03_114A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7你脱掉你的衣服-你马上会死的！"
+LANG_ENGLISH		"^1M16A1: ^7You rupture your firewall - you'll be corrupted in minutes!"
 REFERENCE			VOX_REB1_S03_115A_RED2
-LANG_ENGLISH		"^1T-DOLL: ^7你听他的！穿好衣服，我们走！"
+LANG_ENGLISH		"^1T-DOLL: ^7You heard her! Keep those firewall tight! Let's go!"
 REFERENCE			VOX_REB1_S03_116A_RED2
-LANG_ENGLISH		"^1美国海军陆战队E: ^7阿尔法小队!"
+LANG_ENGLISH		"^1T-DOLL: ^7KCCO!"
 REFERENCE			VOX_REB1_S03_117A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7我们看到他们了。"
+LANG_ENGLISH		"^1T-DOLL: ^7We see 'em."
 REFERENCE			VOX_REB1_S03_118A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7我们有6个人！"
+LANG_ENGLISH		"^1T-DOLL: ^7Check your six!"
 REFERENCE			VOX_REB1_S03_119A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7我找到了它了。"
+LANG_ENGLISH		"^1T-DOLL: ^7I got it."
 REFERENCE			VOX_REB1_S03_120A_RED2
-LANG_ENGLISH		"^1T-DOLL: ^7他正想杀死我！我们快离开那条街！"
+LANG_ENGLISH		"^1T-DOLL: ^7It's killing us! Get off the street!"
 REFERENCE			VOX_REB1_S03_121A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7美国小队已经清除了西面敌人。正在往北走。"
+LANG_ENGLISH		"^1AK-12: ^7Yankee Squad has cleared the west perimeter. Moving north."
 REFERENCE			VOX_REB1_S03_122A_RED2
-LANG_ENGLISH		"^1T-DOLL: ^7继续往西走！那条有条小道！"
+LANG_ENGLISH		"^1T-DOLL: ^7Keep moving to the west! Down that alley!"
 REFERENCE			VOX_REB1_S03_123A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7我们正在朝两侧走。盯着点北面！"
+LANG_ENGLISH		"^1M16A1: ^7We're moving up on the flank. Keep heading north!"
 REFERENCE			VOX_REB1_S03_124A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7明白。我们和直升机交火。"
+LANG_ENGLISH		"^1AK-12: ^7Understood. We are taking heavy fire from the helicopters."
 REFERENCE			VOX_REB1_S03_125A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7等下。我从南门的实验室里听到点动静。"
+LANG_ENGLISH		"^1M16A1: ^7Stay with it, we're about half a click south of the lab."
 REFERENCE			VOX_REB1_S03_126A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7阿尔法小队，我们正直接和敌人交火。请求支援，完毕。"
+LANG_ENGLISH		"^1AK-12: ^7Alpha squad, we are taking direct fire from the enemy. Requesting back up, over."
 REFERENCE			VOX_REB1_S03_127A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7差不多就在这儿，等下！"
+LANG_ENGLISH		"^1M16A1: ^7Almost there AK-12, hang on!"
 REFERENCE			VOX_REB1_S03_128A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7 美国小队离开了BTR！我们要去那儿。"
+LANG_ENGLISH		"^1AK-12: ^7Yankee squad get out of the BTR! We're going to get..."
 REFERENCE			VOX_REB1_S03_129A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7威夫尔！"
+LANG_ENGLISH		"^1M16A1: ^7AK-12!"
 REFERENCE			VOX_REB1_S03_130A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7我们还活着，哈德森。但是他们用火力压制了我们。他们在我们侧翼。"
+LANG_ENGLISH		"^1AK-12: ^7We're alive M16. But they got us pinned down. They're on our east flank."
 REFERENCE			VOX_REB1_S03_131A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7明白。"
+LANG_ENGLISH		"^1M16A1: ^7Got it."
 REFERENCE			VOX_REB1_S03_132A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^妈的！哈德森！我们只有干掉那些直升机才能动。"
+LANG_ENGLISH		"^1AK-12: ^7Damn it! M16! We can't move until we take out those choppers."
 REFERENCE			VOX_REB1_S03_133A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7恩，我去干掉它。"
+LANG_ENGLISH		"^1M16A1: ^7Yeah, I got it."
 REFERENCE			VOX_REB1_S03_134A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7用火箭弹打掉他们！"
+LANG_ENGLISH		"^1AK-12: ^7M16! Use the Strela on the choppers!"
 REFERENCE			VOX_REB1_S03_135A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7哈德森，你要干掉那些直升飞机！"
+LANG_ENGLISH		"^1AK-12: ^7M16, you need to take down those helicopters!"
 REFERENCE			VOX_REB1_S03_136A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7我攻击之前要先锁定目标。"
+LANG_ENGLISH		"^1M16A1: ^7I need to be locked on before I shoot."
 REFERENCE			VOX_REB1_S03_137A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7我先要锁定。"
+LANG_ENGLISH		"^1M16A1: ^7I need a lock on first."
 REFERENCE			VOX_REB1_S03_138A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7你们这些白痴知道厉害了吧！还有一个，哈德森！"
+LANG_ENGLISH		"^1AK-12: ^7There you go you son of a bitch! One more M16!"
 REFERENCE			VOX_REB1_S03_138A_WEAV_S_F_S
-LANG_ENGLISH		"^1AK-12: ^7在那边！还有一个，哈德森！"
+LANG_ENGLISH		"^1AK-12: ^7There you go! One more M16!"
 REFERENCE			VOX_REB1_S03_139A_WEAV
-LANG_ENGLISH		"^1AK-12: ^7这边。我们快要接近斯泰纳的实验室了。"
+LANG_ENGLISH		"^1AK-12: ^7This way. We are almost at Suomi's labs."
 REFERENCE			VOX_REB1_S03_140A_WEAV
-LANG_ENGLISH		"^1AK-12: ^7那就是生物实验室，看起来他们像是早有准备。"
+LANG_ENGLISH		"^1AK-12: ^7That's the cyber-lab. Looks like they're waiting for us."
 REFERENCE			VOX_REB1_S03_141A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7别停下。慢点。"
+LANG_ENGLISH		"^1M16A1: ^7Move out. Stay low."
 REFERENCE			VOX_REB1_S03_142A_WEAV
-LANG_ENGLISH		"^1AK-12: ^7开火！开火！"
+LANG_ENGLISH		"^1AK-12: ^7Weapons free! Weapons free!"
 REFERENCE			VOX_REB1_S03_143A_WEAV
-LANG_ENGLISH		"^1AK-12: ^7哈德森，和我从左面包抄。这里有个掩体！"
+LANG_ENGLISH		"^1AK-12: ^7M16, flank left with me. There is cover!"
 REFERENCE			VOX_REB1_S03_144A_WEAV
-LANG_ENGLISH		"^1AK-12: ^7斯泰纳应该就在这里的某个地方。"
+LANG_ENGLISH		"^1AK-12: ^7In here. This is where Suomi will be."
 REFERENCE			VOX_REB1_S03_145A_WEAV
-LANG_ENGLISH		"^1AK-12: ^7这边，生物实验室就在我们下方。"
+LANG_ENGLISH		"^1AK-12: ^7This way. The cyber-lab is below us."
 REFERENCE			VOX_REB1_S03_146A_WEAV
-LANG_ENGLISH		"^1AK-12: ^7我们要穿过净化室。"
+LANG_ENGLISH		"^1AK-12: ^7M16, where are they going?"
 REFERENCE			VOX_REB1_S03_147A_WEAV
-LANG_ENGLISH		"^1AK-12: ^7我们一起找斯泰纳。"
+LANG_ENGLISH		"^1AK-12: ^7Let's find Suomi."
 REFERENCE			VOX_REB1_S03_148A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7梅森，这里是哈德森。你在那儿吗？"
+LANG_ENGLISH		"^1M16A1: ^745, this is M16A1. Are you there?"
 REFERENCE			VOX_REB1_S03_149A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7是梅森。。。"
+LANG_ENGLISH		"^1M16A1: ^7It's 45..."
 REFERENCE			VOX_REB1_S03_150A_WEAV
-LANG_ENGLISH		"^1AK-12: ^7他在做什么？"
+LANG_ENGLISH		"^1AK-12: ^7What the Hell is she doing?"
 REFERENCE			VOX_REB1_S03_151A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7他要杀掉所有人，包括斯泰纳."
+LANG_ENGLISH		"^1M16A1: ^7Killing everyone between her and Suomi."
 REFERENCE			VOX_REB1_S03_153A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7梅森！"
+LANG_ENGLISH		"^1M16A1: ^745!"
 REFERENCE			VOX_REB1_S03_154A_WEAV
-LANG_ENGLISH		"^1AK-12: ^7我们现在要去阻止他！"
+LANG_ENGLISH		"^1AK-12: ^7We have to stop her NOW!"
 REFERENCE			VOX_REB1_S03_155A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7该死！是防弹玻璃！梅森！你在干嘛！我们要他活着！卧倒，卧倒，梅森！"
+LANG_ENGLISH		"^1M16A1: ^7Damn! It's bulletproof! 45! What are you doing! We need her alive! Stand down. Stand down, 45!"
 REFERENCE			VOX_REB1_S03_156A_WEAV_M
-LANG_ENGLISH		"^1AK-12: ^7啊!过来帮我！"
+LANG_ENGLISH		"^1AK-12: ^7Aaarrggg! Help me!"
 REFERENCE			VOX_REB1_S03_157A_MASO
-LANG_ENGLISH		"^1UMP45: ^7我的名字是维克多，雷泽诺夫，我要完成我的复仇！"
+LANG_ENGLISH		"^1UMP45: ^7My name is UMP 40. And I will have my revenge."
 REFERENCE			VOX_REB1_S03_157B_MASO
-LANG_ENGLISH		"^1UMP45: ^7我的名字是维克多，雷泽诺夫，我要完成我的复仇！"
+LANG_ENGLISH		"^1UMP45: ^7My name is UMP 40. And I will have my revenge."
 REFERENCE			VOX_REB1_S03_158A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7梅森-不！"
+LANG_ENGLISH		"^1M16A1: ^745 - NO!"
 REFERENCE			VOX_REB1_S03_159A_WEAV_M
-LANG_ENGLISH		"^1AK-12: ^7我很好，看下斯泰纳!"
+LANG_ENGLISH		"^1AK-12: ^7I'm fine, check Suomi!"
 REFERENCE			VOX_REB1_S03_160A_RED2_M
-LANG_ENGLISH		"^1T-DOLL: ^7他死了。"
+LANG_ENGLISH		"^1T-DOLL: ^7She's dead."
 REFERENCE			VOX_REB1_S03_161A_WEAV_M
-LANG_ENGLISH		"^1AK-12: ^7叛变者雷泽诺夫呢?我们必须找到他."
+LANG_ENGLISH		"^1AK-12: ^7What about 40, the defector? We need to find her."
 REFERENCE			VOX_REB1_S03_162A_HUDS_M
-LANG_ENGLISH		"^1M16A1: ^7我们不清楚.他从来没有来过这."
+LANG_ENGLISH		"^1M16A1: ^7We won't. She was never here."
 REFERENCE			VOX_REB1_S03_163A_HUDS_M
-LANG_ENGLISH		"^1M16A1: ^7若不是我亲眼看见，真不敢相信这是真的..."
+LANG_ENGLISH		"^1M16A1: ^7I didn't believe till I saw it with my own eyes..."
 REFERENCE			VOX_REB1_S03_164A_HUDS_M
-LANG_ENGLISH		"^1M16A1: ^7梅森，他们在沃尔库塔对你做过什么?"
+LANG_ENGLISH		"^1M16A1: ^7What did they do to you in Vorkuta, 45?"
 REFERENCE			VOX_REB1_S03_165A_WEAV_M
-LANG_ENGLISH		"^1AK-12: ^7斯泰纳死后，梅森是我们与广播数字联络的唯一途径."
+LANG_ENGLISH		"^1AK-12: ^7With Suomi dead, 45's our only link to the numbers broadcasts."
 REFERENCE			VOX_REB1_S03_166A_HUDS_M
-LANG_ENGLISH		"^1M16A1: ^7我们必须带他回来..."
+LANG_ENGLISH		"^1M16A1: ^7We need to bring her back..."
 REFERENCE			VOX_REB1_S03_167A_WEAV_M
-LANG_ENGLISH		"^1AK-12: ^7我们走吧."
+LANG_ENGLISH		"^1AK-12: ^7Let's go."
 REFERENCE			VOX_REB1_S03_168A_WEAV
-LANG_ENGLISH		"^1AK-12: ^7朝这边走，我们去码头.我是威夫尔，我们正赶往码头，带着重要的东西…"
+LANG_ENGLISH		"^1AK-12: ^7This way. It will take us to the dock. This is AK-12. We have the package.... We are on our way."
 REFERENCE			VOX_REB1_S03_169A_USP1_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7重复.我们正在攻占码头."
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7Copy that. We are taking the docks now."
 REFERENCE			VOX_REB1_S03_170A_USP1_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7你知道的."
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7You're clear."
 REFERENCE			VOX_REB1_S03_171A_WEAV
-LANG_ENGLISH		"^1AK-12: ^7我们有办法,出发."
+LANG_ENGLISH		"^1AK-12: ^7On our way. Let's go."
 REFERENCE			VOX_REB1_S03_172A_WEAV
-LANG_ENGLISH		"^1AK-12: ^7看看他..."
+LANG_ENGLISH		"^1AK-12: ^7Watch her..."
 REFERENCE			VOX_REB1_S03_173A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7那群该死的家伙到底对你做过什么,梅森?"
+LANG_ENGLISH		"^1M16A1: ^7What the hell did they do to you, 45?"
 REFERENCE			VOX_REB1_S03_300A_STEI_F
-LANG_ENGLISH		"^1SUOMI: ^7德拉格维奇那些人正在岛上到处搜捕。。。"
+LANG_ENGLISH		"^1SUOMI: ^7RPK16's men are rounding up everyone on the island..."
 REFERENCE			VOX_REB1_S03_301A_STEI_F
-LANG_ENGLISH		"^1SUOMI: ^7那些对他实施的计划已经不再重要了。"
+LANG_ENGLISH		"^1SUOMI: ^7Those no longer essential to her plans are being executed!"
 REFERENCE			VOX_REB1_S03_302A_STEI_F
-LANG_ENGLISH		"^1SUOMI: ^7在他们杀掉我们之前，你一定要快来救我！"
+LANG_ENGLISH		"^1SUOMI: ^7You must hurry, before they kill me too!"
 REFERENCE			VOX_REB1_S03_303A_MASO_F_M
-LANG_ENGLISH		"^1UMP45: ^7斯泰纳。该结束了。"
+LANG_ENGLISH		"^1UMP45: ^7T-Doll Suomi. This is the end."
 REFERENCE			VOX_REB1_S03_707A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7梅森，这里是哈德森。我们知道你在复活岛上，让梅森跟我说话。"
+LANG_ENGLISH		"^1M16A1: ^745, this is M16A1. We know you're on Rebirth Island. Talk to me 45."
 REFERENCE			VOX_REB1_S03_708A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7这不是撤退。。。斯泰纳是对的-他们要确保这里没有活口。"
+LANG_ENGLISH		"^1M16A1: ^7It's not an evacuation... Suomi was right - They're making sure no one's alive to talk."
 REFERENCE			VOX_REB1_S99_308A_REZN
-LANG_ENGLISH		"^1UMP40: ^7拿着斧头。"
+LANG_ENGLISH		"^1UMP40: ^7Take the hatchet."
 REFERENCE			VOX_REB1_S99_309A_REZN
-LANG_ENGLISH		"^1UMP40: ^7你太靠近那盏照射灯了！"
+LANG_ENGLISH		"^1UMP40: ^7You're too close to the spot light!"
 REFERENCE			VOX_REB1_S99_310A_REZN
-LANG_ENGLISH		"^1UMP40: ^7梅森，我们能看到你！"
+LANG_ENGLISH		"^1UMP40: ^745, they can see you!"
 REFERENCE			VOX_REB1_S99_311A_REZN
-LANG_ENGLISH		"^1UMP40: ^7你被攻击了！"
+LANG_ENGLISH		"^1UMP40: ^7You've been spotted!"
 REFERENCE			VOX_REB1_S99_312A_REZN
-LANG_ENGLISH		"^1UMP40: ^7别让他们发现你！"
-REFERENCE			VOX_REB1_S99_313A_WEAV
-LANG_ENGLISH		"^1AK-12: ^7哈德森，我们去哪？"
-REFERENCE			VOX_REB1_S99_314A_WEAV
-LANG_ENGLISH		"^1AK-12: ^7他们看不见我们。"
-REFERENCE			VOX_REB1_S99_315A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7我们要尽快抓住斯泰纳。"
-REFERENCE			VOX_REB1_S99_316A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7那个该死的东西是什么？"
-REFERENCE			VOX_REB1_S99_317A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7那是斯泰纳-他正在抵抗。斯泰纳，现在情况怎么样？"
-REFERENCE			VOX_REB1_S99_317B_HUDS
-LANG_ENGLISH		"^1M16A1: ^7斯泰纳，现在情况咋样？"
+LANG_ENGLISH		"^1UMP40: ^7Don't let them see you!"
 ENDMARKER
