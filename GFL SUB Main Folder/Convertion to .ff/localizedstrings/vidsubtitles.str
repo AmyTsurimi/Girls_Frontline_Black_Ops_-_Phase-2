@@ -195,71 +195,71 @@ LANG_ENGLISH		"^1UMP45: ^7I...keep...hearing...the fucking...numbers..."
 REFERENCE			RIVER_A_VIDEO20
 LANG_ENGLISH		"^1INTERROGATOR: ^7It's a broadcast, 45. The broadcast."
 REFERENCE			SO_NARRATIVE5_A_VIDEO11
-LANG_ENGLISH		"^1INTERROGATOR: ^7你杀了克里夫琴科.你端掉了他们的基地,梅森?"
+LANG_ENGLISH		"^1INTERROGATOR: ^7You killed Nyto. You obliterated their base. UMP45?"
 REFERENCE			SO_NARRATIVE5_A_VIDEO12
-LANG_ENGLISH		"^1INTERROGATOR: ^7伍兹和鲍恩都被杀了,整个SOG小队成员都命丧黄泉,除了你,梅森."
+LANG_ENGLISH		"^1INTERROGATOR: ^7HK416 and UMP9 were both killed. Your entire 404 team, wiped out. Only you survived, 45. You. No one else."
 REFERENCE			SO_NARRATIVE5_A_VIDEO13
-LANG_ENGLISH		"^1UMP45: ^7不,雷泽诺夫活下来了."
+LANG_ENGLISH		"^1UMP45: ^7No, UMP 40 surivived."
 REFERENCE			SO_NARRATIVE5_A_VIDEO14
-LANG_ENGLISH		"^1INTERROGATOR: ^7只有你梅森."
+LANG_ENGLISH		"^1INTERROGATOR: ^7Just you UMP45."
 REFERENCE			SO_NARRATIVE5_A_VIDEO15
-LANG_ENGLISH		"^1UMP45: ^7不,不...自从沃尔科塔开始,雷泽诺夫就与我一起."
+LANG_ENGLISH		"^1UMP45: ^7No, no... 40 is still with me...since Vorkuta."
 REFERENCE			UNDERWATERBASE_A_VIDEO11
-LANG_ENGLISH		"^1肯尼迪: ^7我们受到了共X党的严重威胁,我们的自由,生活,都受到了威胁…"
+LANG_ENGLISH		"^1COMMANDER: ^7We are in grave danger from the Sangvis Ferri. Our freedom... Our very way of life is at risk."
 REFERENCE			UNDERWATERBASE_A_VIDEO12
-LANG_ENGLISH		"^1RPK16: ^7我们计划针对西部核心的打击行动已经开始."
+LANG_ENGLISH		"^1RPK16: ^7Our plan to strike at the very heart of Griffin is now in motion."
 REFERENCE			UNDERWATERBASE_A_VIDEO13
-LANG_ENGLISH		"^1UMP40: ^7梅森,你必须阻止他."
+LANG_ENGLISH		"^1UMP40: ^7She must be stopped, 45."
 REFERENCE			UNDERWATERBASE_A_VIDEO14
-LANG_ENGLISH		"^1SPRINGFIELD: ^7他不会畏惧任何事.没有人性.所以他没有弱点."
+LANG_ENGLISH		"^1SPRINGFIELD: ^7She has no fear. No conscience. No weakness."
 REFERENCE			UNDERWATERBASE_A_VIDEO15
-LANG_ENGLISH		"^1SUOMI: ^7德拉格维奇派遣到美国的所有特工,都在等待着释放诺娃6号释放毒气的信号."
+LANG_ENGLISH		"^1SUOMI: ^7All across Griffin, RPK16 has sleeper cells waiting for the signal to release the Parapluie."
 REFERENCE			UNDERWATERBASE_A_VIDEO16
-LANG_ENGLISH		"^1肯尼迪: ^7我们认为你是最棒的."
+LANG_ENGLISH		"^1COMMANDER: ^7Im told that you are the very best that we have. Anywhere."
 REFERENCE			UNDERWATERBASE_A_VIDEO17
-LANG_ENGLISH		"^1UMP40: ^7德拉格维奇…克里夫琴科…斯泰纳…"
+LANG_ENGLISH		"^1UMP40: ^7RPK16... Nyto... Suomi..."
 REFERENCE			UNDERWATERBASE_A_VIDEO18
-LANG_ENGLISH		"^1肯尼迪: ^7而且你必须做到最好."
+LANG_ENGLISH		"^1COMMANDER: ^7You will need to be."
 REFERENCE			UNDERWATERBASE_A_VIDEO19
-LANG_ENGLISH		"^1UMP40: ^7这些"人"必须死..."
+LANG_ENGLISH		"^1UMP40: ^7These Dolls must die..."
 REFERENCE			UNDERWATERBASE_A_VIDEO20
-LANG_ENGLISH		"^1肯尼迪: ^7梅森先生?"
+LANG_ENGLISH		"^1COMMANDER: ^7UMP 45..."
 REFERENCE			VORKUTA_A_VIDEO11
-LANG_ENGLISH		"^1INTERROGATOR: ^7为什么卡斯特罗没有杀了你,而是把你给了德拉格维奇?"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Why didn't Castro just kill you? Why did he give you to RPK16?"
 REFERENCE			VORKUTA_A_VIDEO12
-LANG_ENGLISH		"^1UMP45: ^7因为卡斯特罗与德拉格维奇是一伙的."
+LANG_ENGLISH		"^1UMP45: ^7Cause, Castro and RPK16 were working together."
 REFERENCE			VORKUTA_A_VIDEO13
-LANG_ENGLISH		"^1INTERROGATOR: ^7恩,把你作为礼物…"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Eh... You were a gift."
 REFERENCE			VORKUTA_A_VIDEO14
-LANG_ENGLISH		"^1UMP45: ^7没错…"
+LANG_ENGLISH		"^1UMP45: ^7Eh... Right..."
 REFERENCE			VORKUTA_A_VIDEO15
-LANG_ENGLISH		"^1INTERROGATOR: ^7德拉格维奇是在哪抓到你的?"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Where did RPK16 take you?"
 REFERENCE			VORKUTA_A_VIDEO16
-LANG_ENGLISH		"^1UMP45: ^7沃尔克塔…我必须战斗...为了继续生存下去."
+LANG_ENGLISH		"^1UMP45: ^7Vorkuta...had to fight...just to survive."
 REFERENCE			VORKUTA_A_VIDEO17
-LANG_ENGLISH		"^1INTERROGATOR: ^7在沃尔克塔发生了什么,梅森?"
+LANG_ENGLISH		"^1INTERROGATOR: ^7What happened in Vorkuta, 45?"
 REFERENCE			VORKUTA_A_VIDEO18
-LANG_ENGLISH		"^1UMP45: ^7在近一年的时间里，我孤身一人,只能依靠自己."
+LANG_ENGLISH		"^1UMP45: ^7I was on my own -- almost a year."
 REFERENCE			VORKUTA_A_VIDEO19
-LANG_ENGLISH		"^1INTERROGATOR: ^7想想,梅森...他们到底说了些什么?"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Think, 45...what did they do to you?"
 REFERENCE			VORKUTA_A_VIDEO20
-LANG_ENGLISH		"^1UMP45: ^7我都快放弃了,但维克多却找到了一个方法."
+LANG_ENGLISH		"^1UMP45: ^7I'd given up hope of ever getting out...but UMP 40 found a way."
 REFERENCE			WMD_A_VIDEO11
-LANG_ENGLISH		"^1INTERROGATOR: ^7杰森，哈德森指挥了对亚曼陀的进攻行动."
+LANG_ENGLISH		"^1INTERROGATOR: ^7M16A1 led the attack on Yamantau."
 REFERENCE			WMD_A_VIDEO12
-LANG_ENGLISH		"^1UMP45: ^7是啊,零下20度,装备里他妈都结冰了."
+LANG_ENGLISH		"^1UMP45: ^7Yeah. 20 degrees below zero. $&#**^% ice cube was in her element."
 REFERENCE			WMD_B_VIDEO11
-LANG_ENGLISH		"^1INTERROGATOR: ^7你再次被德拉格维奇抓获,你的同伴在老挝一战中失踪,被认定为死亡.而你的上司,哈德森,别无他法,只有在缺少你的情况下完成寻找Nova 6的任务."
+LANG_ENGLISH		"^1INTERROGATOR: ^7You were captured by RPK16 a second time. Your unit was MIA in Laos, presumed dead. Your handler, M16A1, had no choice but to continue the hunt for Parapluie without you --"
 REFERENCE			WMD_B_VIDEO12
-LANG_ENGLISH		"^1UMP45: ^7他去了亚曼陀山 -- 该死的苏联毁灭末日碉堡."
+LANG_ENGLISH		"^1UMP45: ^7She went to Mt. Yamantau -- $&#*^% KCCO doomsday bunker --"
 REFERENCE			WMD_B_VIDEO13
-LANG_ENGLISH		"^1INTERROGATOR: ^7是的,一整个拥有极强战斗力的部队被深深地埋在了乌拉尔山脉下."
+LANG_ENGLISH		"^1INTERROGATOR: ^7That's right. A fully operational military complex buried deep in the Ural Mountains."
 REFERENCE			WMD_B_VIDEO14
-LANG_ENGLISH		"^1UMP45: ^7就在那里,弗雷德里希联系了哈德森 -- 纳粹科学家为德拉格维奇培养了第一棵Nova 6的菌株."
+LANG_ENGLISH		"^1UMP45: ^7That's where M16 was contacted by Suomi -- the T-Doll that developed the initial program of Parapluie for RPK16 --"
 REFERENCE			WMD_B_VIDEO15
-LANG_ENGLISH		"^1INTERROGATOR: ^7就是在那,哈德森获知了数字的秘密.广播站 -- 我去过那儿,梅森,去过亚曼陀山."
+LANG_ENGLISH		"^1INTERROGATOR: ^7M16A1 learned about the numbers there. The broadcasts -- I've been there, 45. I've been to the Yamantau complex."
 REFERENCE			WMD_B_VIDEO16
-LANG_ENGLISH		"^1UMP45: ^7天呐,那些数字是真的…"
+LANG_ENGLISH		"^1UMP45: ^7My God... The numbers are REAL..."
 REFERENCE			WMD_B_VIDEO17
-LANG_ENGLISH		"^1INTERROGATOR: ^7那些数字本来就是真的,梅森.这不好玩,我们正面临着灭顶之灾.除非你帮我们,梅森."
+LANG_ENGLISH		"^1INTERROGATOR: ^7They've always been real, 45. This isn't a game. We face annihilation unless you cooperate. Where is the broadcast station?!"
 ENDMARKER
