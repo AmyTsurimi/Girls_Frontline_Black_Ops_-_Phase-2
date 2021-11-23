@@ -115,9 +115,9 @@ LANG_ENGLISH		"^1RPK16: ^7...[indistinct] all agents.  Our new allies in Cuba ha
 REFERENCE			VOX_INT1_S01_094B_DRAG
 LANG_ENGLISH		"^1RPK16: ^7...permanent... broadcast station within their borders."
 REFERENCE			VOX_INT1_S01_095A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7From now until Project Parapluie's initiation, all instructions will broadcast from the ^:Rusalka^7."
+LANG_ENGLISH		"^1RPK16: ^7From now until Project Parapluie's initiation, all instructions will be broadcast from the ^:Rusalka^7."
 REFERENCE			VOX_INT1_S01_095B_DRAG
-LANG_ENGLISH		"^1RPK16: ^7...all instructions will broadcast from the ^:Rusalka^7."
+LANG_ENGLISH		"^1RPK16: ^7...all instructions will be broadcast from the ^:Rusalka^7."
 REFERENCE			VOX_INT1_S01_096A_DRAG
 LANG_ENGLISH		"^1RPK16: ^7Our plan to strike at the very heart of the West is now in motion."
 REFERENCE			VOX_INT1_S01_097A_DRAG
@@ -141,7 +141,7 @@ LANG_ENGLISH		"^1UMP45: ^7Proceed... to... target...!"
 REFERENCE			VOX_INT1_S01_207A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Carcano... Compromised..."
 REFERENCE			VOX_INT1_S01_208A_MASO
-LANG_ENGLISH		"^1UMP45: ^7Commander...SKK...Machlian. I'm told you were the very best that we have. Anywhere."
+LANG_ENGLISH		"^1UMP45: ^7Commander...SKK...Machlian. I'm told you were the best that we have... Anywhere."
 REFERENCE			VOX_INT1_S01_300A_MASO
 LANG_ENGLISH		"^1UMP45: ^7I remember! Arrrgh... ^:VORKUTA^7!!!"
 REFERENCE			VOX_PEN1_S01_011A_MASO_M_B
