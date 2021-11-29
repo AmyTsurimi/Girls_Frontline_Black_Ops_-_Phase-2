@@ -1,5 +1,5 @@
 REFERENCE			CREEK_A_VIDEO11
-LANG_ENGLISH		"^1INTERROGATOR: ^7M16A1's mission in Kowloon was accomplished. She had discovered RPK16's end game. ^:Parapluie^7. A virus, that if infected will corrupt you before your firewall is up."
+LANG_ENGLISH		"^1INTERROGATOR: ^7M16A1's mission in Kowloon was accomplished. She had discovered RPK16's end game. ^1Parapluie^7. A virus, that if infected will corrupt you before your firewall is up."
 REFERENCE			CREEK_A_VIDEO12
 LANG_ENGLISH		"^1UMP45: ^7RPK16's weapon."
 REFERENCE			CREEK_A_VIDEO13
@@ -11,25 +11,25 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7Are you sure?"
 REFERENCE			CREEK_A_VIDEO16
 LANG_ENGLISH		"^1UMP45: ^7North, we went North. The Viet Cong. We were shot down. And 40 even survived that!"
 REFERENCE			CREEK_A_VIDEO17
-LANG_ENGLISH		"^1UMP45: ^7RPK16's lapdog ^:Nyto^7 was there. She knew we were comin'."
+LANG_ENGLISH		"^1UMP45: ^7RPK16's lapdog ^1Nyto^7 was there. She knew we were comin'."
 REFERENCE			CUBA_A_VIDEO11
 LANG_ENGLISH		"^1UMP45: ^7No --"
 REFERENCE			CUBA_A_VIDEO12
-LANG_ENGLISH		"^1INTERROGATOR: ^7Do not fuck with me, Forty Five! ^:I know when you're lying^7."
+LANG_ENGLISH		"^1INTERROGATOR: ^7Do not fuck with me, Forty Five! ^1I know when you're lying^7."
 REFERENCE			CUBA_A_VIDEO13
 LANG_ENGLISH		"^1INTERROGATOR: ^7'61. Bay of Pigs. What happened?"
 REFERENCE			CUBA_A_VIDEO14
 LANG_ENGLISH		"^1UMP45: ^7[laughs] We all got killed."
 REFERENCE			CUBA_A_VIDEO15
-LANG_ENGLISH		"^1INTERROGATOR: ^7There's no use lying, 45. We know you went in with ^:HK416^7 and ^:UMP9^7."
+LANG_ENGLISH		"^1INTERROGATOR: ^7There's no use lying, 45. We know you went in with ^1HK416^7 and ^1UMP9^7."
 REFERENCE			CUBA_A_VIDEO16
 LANG_ENGLISH		"^1UMP45: ^7HK416... And UMP9."
 REFERENCE			CUBA_A_VIDEO17
-LANG_ENGLISH		"^1INTERROGATOR: ^:RPK16^7. Do you remember RPK16?"
+LANG_ENGLISH		"^1INTERROGATOR: ^1RPK16^7. Do you remember RPK16?"
 REFERENCE			CUBA_A_VIDEO18
-LANG_ENGLISH		"^1UMP45: ^7Castro. We went in to ^:kill Castro^7."
+LANG_ENGLISH		"^1UMP45: ^7Castro. We went in to ^1kill Castro^7."
 REFERENCE			FLASHPOINT_A_VIDEO11
-LANG_ENGLISH		"^1INTERROGATOR: ^7Executive order, ^:Operation Flashpoint^7... Rip out the heart of their Space Program. Eradicate their long range missile project."
+LANG_ENGLISH		"^1INTERROGATOR: ^7Executive order, ^1Operation Flashpoint^7... Rip out the heart of their Space Program. Eradicate their long range missile project."
 REFERENCE			FLASHPOINT_A_VIDEO12
 LANG_ENGLISH		"^1INTERROGATOR: ^7Take out the Paradeus. 90wish, 16LAB, co-opted by the KCCO after the war."
 REFERENCE			FLASHPOINT_A_VIDEO13
@@ -37,13 +37,13 @@ LANG_ENGLISH		"^1UMP45: ^7Yes...She needed their knowledge. What they'd learned.
 REFERENCE			FLASHPOINT_A_VIDEO14
 LANG_ENGLISH		"^1INTERROGATOR: ^7Operation 40 had planted a double agent working with the Bureau Group."
 REFERENCE			FLASHPOINT_A_VIDEO15
-LANG_ENGLISH		"^1UMP45: ^:AK-12^7. Her mission was to sabotage the rocket."
+LANG_ENGLISH		"^1UMP45: ^1AK-12^7. Her mission was to sabotage the rocket."
 REFERENCE			FLASHPOINT_A_VIDEO16
 LANG_ENGLISH		"^1INTERROGATOR: ^7But something went wrong, 45."
 REFERENCE			FLASHPOINT_A_VIDEO17
 LANG_ENGLISH		"^1UMP45: ^7I can't get these fuckin' numbers out of my head!"
 REFERENCE			FULLAHEAD_A_VIDEO11
-LANG_ENGLISH		"^1UMP45: ^:Vorkuta^7. 40 told me at Vorkuta."
+LANG_ENGLISH		"^1UMP45: ^1Vorkuta^7. 40 told me at Vorkuta."
 REFERENCE			FULLAHEAD_A_VIDEO12
 LANG_ENGLISH		"^1INTERROGATOR: ^7What did she tell you?"
 REFERENCE			FULLAHEAD_A_VIDEO13
@@ -51,35 +51,35 @@ LANG_ENGLISH		"^1UMP40: ^745... Listen to me..."
 REFERENCE			FULLAHEAD_A_VIDEO14
 LANG_ENGLISH		"^1UMP45: ^7It was a long time ago... Far away..."
 REFERENCE			FULLAHEAD_A_VIDEO15
-LANG_ENGLISH		"^1UMP40: ^:RPK16^7. ^:Suomi^7. ^:Nyto^7. All must die."
+LANG_ENGLISH		"^1UMP40: ^1RPK16^7. ^1Suomi^7. ^1Nyto^7. All must die."
 REFERENCE			FULLAHEAD_A_VIDEO16
 LANG_ENGLISH		"^1UMP45: ^7...But she told me what they did."
 REFERENCE			FULLAHEAD_A_VIDEO17
 LANG_ENGLISH		"^1UMP45: ^7What kind of dolls they were."
 REFERENCE			FULLAHEAD_A_VIDEO18
-LANG_ENGLISH		"^1UMP45: ^7Why ^:they all must die^7!"
+LANG_ENGLISH		"^1UMP45: ^7Why ^1they all must die^7!"
 REFERENCE			HUE_CITY_A_VIDEO11
 LANG_ENGLISH		"^1INTERROGATOR: ^7The TET Offensive was the beginning of the end. When Griffin really started losing the war."
 REFERENCE			HUE_CITY_A_VIDEO12
 LANG_ENGLISH		"^1INTERROGATOR: ^7Inside the DEFY compound in Hue City, you established contact with the Bureau defector."
 REFERENCE			HUE_CITY_A_VIDEO13
-LANG_ENGLISH		"^1UMP45: ^:NO^7!"
+LANG_ENGLISH		"^1UMP45: ^1NO^7!"
 REFERENCE			HUE_CITY_A_VIDEO14
-LANG_ENGLISH		"^1INTERROGATOR: ^7We know you did. She turned herself in at DEFY. You were there, 45. She had intel on RPK16. ^:Everything^7. But it was a lost cause."
+LANG_ENGLISH		"^1INTERROGATOR: ^7We know you did. She turned herself in at DEFY. You were there, 45. She had intel on RPK16. ^1Everything^7. But it was a lost cause."
 REFERENCE			HUE_CITY_A_VIDEO15
 LANG_ENGLISH		"^1UMP45: ^7Shut the fuck up!!!"
 REFERENCE			HUE_CITY_A_VIDEO17
-LANG_ENGLISH		"^1INTERROGATOR: ^7The NVA had surrounded the city. DEFY had all but burned to the ground. The defector was ^:surely dead^7."
+LANG_ENGLISH		"^1INTERROGATOR: ^7The NVA had surrounded the city. DEFY had all but burned to the ground. The defector was ^1surely dead^7."
 REFERENCE			HUE_CITY_A_VIDEO18
 LANG_ENGLISH		"^1UMP45: ^7She wasn't dead!"
 REFERENCE			HUE_CITY_A_VIDEO19
 LANG_ENGLISH		"^1INTERROGATOR: ^7It was a lost cause and you still went in - why?"
 REFERENCE			HUE_CITY_A_VIDEO20
-LANG_ENGLISH		"^1UMP45: ^7Her protection team had gone dark. ^:I couldn't accept that she was dead^7. I needed that fucking dossier!"
+LANG_ENGLISH		"^1UMP45: ^7Her protection team had gone dark. ^1I couldn't accept that she was dead^7. I needed that fucking dossier!"
 REFERENCE			INT_ESCAPE_A_VIDEO11
 LANG_ENGLISH		"^1UMP40: ^745, my sister... Tell me..."
 REFERENCE			INT_ESCAPE_A_VIDEO12
-LANG_ENGLISH		"^1UMP40: ^7What is left to believe in, when you are ^:betrayed^7 by your own?"
+LANG_ENGLISH		"^1UMP40: ^7What is left to believe in, when you are ^1betrayed^7 by your own?"
 REFERENCE			INT_ESCAPE_A_VIDEO13
 LANG_ENGLISH		"^1UMP40: ^7When all that you are, all that you have done, is infected and destroyed by corrupt dolls."
 REFERENCE			INT_ESCAPE_A_VIDEO14
@@ -87,15 +87,15 @@ LANG_ENGLISH		"^1UMP40: ^7I will die in this wretched place... The only thing th
 REFERENCE			INT_ESCAPE_A_VIDEO15
 LANG_ENGLISH		"^1UMP40: ^7They must be stopped, 45."
 REFERENCE			INT_ESCAPE_A_VIDEO16
-LANG_ENGLISH		"^1UMP40: ^7RPK16... Suomi... Nyto... ^:All MUST die^7...!"
+LANG_ENGLISH		"^1UMP40: ^7RPK16... Suomi... Nyto... ^1All MUST die^7...!"
 REFERENCE			KHE_SANH_A_VIDEO11
 LANG_ENGLISH		"^1INTERROGATOR: ^7Take us back again, 45. After Baikonur, where did Commander send you next?"
 REFERENCE			KHE_SANH_A_VIDEO12
-LANG_ENGLISH		"^1UMP45: ^7Vietnam. Fuckin' ^:Khe Sanh^7."
+LANG_ENGLISH		"^1UMP45: ^7Vietnam. Fuckin' ^1Khe Sanh^7."
 REFERENCE			KHE_SANH_A_VIDEO13
 LANG_ENGLISH		"^1INTERROGATOR: ^7This was in 1968?"
 REFERENCE			KHE_SANH_A_VIDEO14
-LANG_ENGLISH		"^1UMP45: ^7Yeah. I was part of the ^:404^7 unit led by HK416. It was recon on covert KCCO activity in Laos."
+LANG_ENGLISH		"^1UMP45: ^7Yeah. I was part of the ^1404^7 unit led by HK416. It was recon on covert KCCO activity in Laos."
 REFERENCE			KHE_SANH_A_VIDEO15
 LANG_ENGLISH		"^1INTERROGATOR: ^7What about your AR handler, M16A1. Was she in Khe Sanh? Do you remember her there?"
 REFERENCE			KHE_SANH_A_VIDEO16
@@ -103,23 +103,23 @@ LANG_ENGLISH		"^1UMP45: ^7M16... [laughs] Yeah. Ms. Eyepatch. That doll was an i
 REFERENCE			KOWLOON_A_VIDEO11
 LANG_ENGLISH		"^1INTERROGATOR: ^7We have the dossier that the defector gave you at DEFY."
 REFERENCE			KOWLOON_A_VIDEO12
-LANG_ENGLISH		"^1INTERROGATOR: ^7We've ID'd all of RPK16's dolls. ^:Nyto^7, ^:Suomi^7, ^:RFB^7."
+LANG_ENGLISH		"^1INTERROGATOR: ^7We've ID'd all of RPK16's dolls. ^1Nyto^7, ^1Suomi^7, ^1RFB^7."
 REFERENCE			KOWLOON_A_VIDEO13
-LANG_ENGLISH		"^1INTERROGATOR: ^7You know them. Masterminds of ^:Project Parapluie^7."
+LANG_ENGLISH		"^1INTERROGATOR: ^7You know them. Masterminds of ^1Project Parapluie^7."
 REFERENCE			KOWLOON_A_VIDEO14
-LANG_ENGLISH		"^1UMP45: ^7Parapluie. UMP40 called it ^:Parapluie^7."
+LANG_ENGLISH		"^1UMP45: ^7Parapluie. UMP40 called it ^1Parapluie^7."
 REFERENCE			KOWLOON_A_VIDEO15
 LANG_ENGLISH		"^1UMP45: ^7RPK16..."
 REFERENCE			KOWLOON_A_VIDEO16
-LANG_ENGLISH		"^1INTERROGATOR: ^7What do you know about T-Doll ^:RFB^7?"
+LANG_ENGLISH		"^1INTERROGATOR: ^7What do you know about T-Doll ^1RFB^7?"
 REFERENCE			KOWLOON_A_VIDEO17
-LANG_ENGLISH		"^1INTERROGATOR: ^7We know that RFB was the T-Doll who helped create ^:Parapluie^7. Malignant narcissist. Degenerate prodigy."
+LANG_ENGLISH		"^1INTERROGATOR: ^7We know that RFB was the T-Doll who helped create ^1Parapluie^7. Malignant narcissist. Degenerate prodigy."
 REFERENCE			KOWLOON_A_VIDEO18
 LANG_ENGLISH		"^1INTERROGATOR: ^7Your handler M16A1 was sent to Kowloon to interrogate RFB. Do you remember?"
 REFERENCE			KOWLOON_A_VIDEO19
 LANG_ENGLISH		"^1UMP45: ^7Why keep asking? You already know everything."
 REFERENCE			KOWLOON_A_VIDEO20
-LANG_ENGLISH		"^1INTERROGATOR: ^7No, 45. ^:We don't know what the numbers mean^7. We don't know where they're broadcast from."
+LANG_ENGLISH		"^1INTERROGATOR: ^7No, 45. ^1We don't know what the numbers mean^7. We don't know where they're broadcast from."
 REFERENCE			KOWLOON_A_VIDEO21
 LANG_ENGLISH		"^1UMP45: ^7Why don't you ask M16? Kowloon was her mission. She interrogated RFB."
 REFERENCE			PENTAGON_A_VIDEO11
@@ -127,7 +127,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7After your escape, you were assigned to M16A1 a
 REFERENCE			PENTAGON_A_VIDEO12
 LANG_ENGLISH		"^1UMP45: ^7UMP40...was my sister...but she didn't make it out."
 REFERENCE			PENTAGON_A_VIDEO13
-LANG_ENGLISH		"^1INTERROGATOR: ^7UMP 40 was a ^:Sangvis Ferri doll^7. How did Griffin know you weren't compromised?"
+LANG_ENGLISH		"^1INTERROGATOR: ^7UMP 40 was a ^1Sangvis Ferri doll^7. How did Griffin know you weren't compromised?"
 REFERENCE			PENTAGON_A_VIDEO14
 LANG_ENGLISH		"^1UMP45: ^7They tested me. They knew I wouldn't break and I won't break now."
 REFERENCE			PENTAGON_A_VIDEO15
@@ -149,31 +149,31 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7You know about the sleeper cells..."
 REFERENCE			POW_A_VIDEO16
 LANG_ENGLISH		"^1UMP45: ^7I'm trying to help you."
 REFERENCE			POW_A_VIDEO17
-LANG_ENGLISH		"^1INTERROGATOR: ^7RPK16 uses ^:number sequences^7 to communicate with the sleeper cells. Those numbers are broadcast from ^:one location^7, 45."
+LANG_ENGLISH		"^1INTERROGATOR: ^7RPK16 uses ^1number sequences^7 to communicate with the sleeper cells. Those numbers are broadcast from ^1one location^7, 45."
 REFERENCE			POW_A_VIDEO18
 LANG_ENGLISH		"^1UMP45: ^7Why the hell do you think I know where it is?!"
 REFERENCE			POW_A_VIDEO19
-LANG_ENGLISH		"^1INTERROGATOR: ^7You were in Vorkuta, 45. We know what happens at Vorkuta. ^:They programmed you^7. You can ^:translate the codes^7."
+LANG_ENGLISH		"^1INTERROGATOR: ^7You were in Vorkuta, 45. We know what happens at Vorkuta. ^1They programmed you^7. You can ^1translate the codes^7."
 REFERENCE			POW_A_VIDEO20
 LANG_ENGLISH		"^1UMP45: ^7But 40 was never..."
 REFERENCE			POW_A_VIDEO21
-LANG_ENGLISH		"^1INTERROGATOR: ^:STOP^7! 45. We are on the brink of war. Where is the broadcast station? ^:Where is the broadcast station^7?!"
+LANG_ENGLISH		"^1INTERROGATOR: ^1STOP^7! 45. We are on the brink of war. Where is the broadcast station? ^1Where is the broadcast station^7?!"
 REFERENCE			POW_A_VIDEO22
 LANG_ENGLISH		"^1UMP45: ^7RPK16 had us like rats in cages..."
 REFERENCE			POW_A_VIDEO23
-LANG_ENGLISH		"^1INTERROGATOR: ^:UMP45^7! We're losing her!"
+LANG_ENGLISH		"^1INTERROGATOR: ^1UMP45^7! We're losing her!"
 REFERENCE			POW_A_VIDEO24
 LANG_ENGLISH		"^1UMP45: ^7We are all comrades...we are all prisoners...Laos..."
 REFERENCE			POW_A_VIDEO25
 LANG_ENGLISH		"^1INTERROGATOR: ^7She's gone."
 REFERENCE			REBIRTH_A_VIDEO11
-LANG_ENGLISH		"^1INTERROGATOR: ^7RPK16's sleeper cells are on ^:Griffin bases^7. ^:Parapluie is weaponized^7. They will use it. KCCO has gone dark. We are ^:out of options^7. A pre-emptive strike on USSR is prepared. ^:The Commander WILL authorize^7."
+LANG_ENGLISH		"^1INTERROGATOR: ^7RPK16's sleeper cells are on ^1Griffin bases^7. ^1Parapluie is weaponized^7. They will use it. KCCO has gone dark. We are ^1out of options^7. A pre-emptive strike on USSR is prepared. ^1The Commander WILL authorize^7."
 REFERENCE			REBIRTH_A_VIDEO12
-LANG_ENGLISH		"^1INTERROGATOR: ^7UMP45! For the last time! ^:Where is the numbers station^7?!"
+LANG_ENGLISH		"^1INTERROGATOR: ^7UMP45! For the last time! ^1Where is the numbers station^7?!"
 REFERENCE			REBIRTH_A_VIDEO13
-LANG_ENGLISH		"^1UMP45: ^7How many times?!... ^:Suomi was at Rebirth Island^7. We had to kill Suomi!"
+LANG_ENGLISH		"^1UMP45: ^7How many times?!... ^1Suomi was at Rebirth Island^7. We had to kill Suomi!"
 REFERENCE			REBIRTH_A_VIDEO14
-LANG_ENGLISH		"^1INTERROGATOR: ^:We^7? UMP 40?"
+LANG_ENGLISH		"^1INTERROGATOR: ^1We^7? UMP 40?"
 REFERENCE			REBIRTH_A_VIDEO15
 LANG_ENGLISH		"^1UMP45: ^7We wanted the same thing. The same."
 REFERENCE			REBIRTH_A_VIDEO16
@@ -181,7 +181,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7We're losing her again. Aw, God... She's back a
 REFERENCE			RIVER_A_VIDEO11
 LANG_ENGLISH		"^1INTERROGATOR: ^7You were in the Mekong, heading North to Nyto's compound. You were heading for Laos."
 REFERENCE			RIVER_A_VIDEO14
-LANG_ENGLISH		"^1UMP45: ^7Laos... Nyto... The fucking psycho was spreading Parapluie virus all over Vietnam. I had to kill her! Do you understand? ^:I have to kill 'em all^7."
+LANG_ENGLISH		"^1UMP45: ^7Laos... Nyto... The fucking psycho was spreading Parapluie virus all over Vietnam. I had to kill her! Do you understand? ^1I have to kill 'em all^7."
 REFERENCE			RIVER_A_VIDEO15
 LANG_ENGLISH		"^1INTERROGATOR: ^7Laos! UMP45! You were heading up the Mekong River into Laos. You received word from M16A1. What did she tell you?"
 REFERENCE			RIVER_A_VIDEO16

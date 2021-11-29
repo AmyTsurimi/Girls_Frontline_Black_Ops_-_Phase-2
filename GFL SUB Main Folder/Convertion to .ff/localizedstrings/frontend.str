@@ -183,7 +183,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7Did you achieve what you hoped to?"
 REFERENCE			VOX_FRO1_S99_103A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Did you kill her?"
 REFERENCE			VOX_FRO2_S01_001A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7Wake up. ^:WAKE UP^7!"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Wake up. ^1WAKE UP^7!"
 REFERENCE			VOX_FRO2_S01_002A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Where am I --? Where's 40?"
 REFERENCE			VOX_FRO2_S01_003A_INTE
@@ -207,7 +207,7 @@ LANG_ENGLISH		"^1UMP45: ^7AAAAAARGH!!!"
 REFERENCE			VOX_FRO2_S01_009C_MASO
 LANG_ENGLISH		"^1UMP45: ^7AARRRGH!!!"
 REFERENCE			VOX_FRO2_S01_010A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^77Your name is UMP 45. You were manufactured by Heckler & Koch. In 1961, you served in a Griffin assassination team known as ^:Operation 40^7. Is that correct?"
+LANG_ENGLISH		"^1INTERROGATOR: ^77Your name is UMP 45. You were manufactured by Heckler & Koch. In 1961, you served in a Griffin assassination team known as ^1Operation 40^7. Is that correct?"
 REFERENCE			VOX_FRO2_S01_011A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Is that correct?"
 REFERENCE			VOX_FRO2_S01_012A_MASO
@@ -217,11 +217,11 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7Where is the broadcast station?"
 REFERENCE			VOX_FRO2_S01_014A_MASO
 LANG_ENGLISH		"^1UMP45: ^7I don't know what you're talking about --"
 REFERENCE			VOX_FRO2_S01_015A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^:The numbers^7, 45. What do they mean? Where are they broadcast from?"
+LANG_ENGLISH		"^1INTERROGATOR: ^1The numbers^7, 45. What do they mean? Where are they broadcast from?"
 REFERENCE			VOX_FRO2_S01_016A_MASO
 LANG_ENGLISH		"^1UMP45: ^7I don't know anything about any numbers!"
 REFERENCE			VOX_FRO2_S01_17A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7What about ^:RPK16^7? Do you remember her? Give us what we want and we'll guarantee your safety."
+LANG_ENGLISH		"^1INTERROGATOR: ^7What about ^1RPK16^7? Do you remember her? Give us what we want and we'll guarantee your safety."
 REFERENCE			VOX_FRO2_S01_18A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Let's start at the beginning. Cuba, 1961. The Bay of Pigs. We know you were there."
 REFERENCE			VOX_FRO3_S01_001A_MASO
@@ -233,7 +233,7 @@ LANG_ENGLISH		"^1UMP45: ^7Yeah.  She was behind everything."
 REFERENCE			VOX_FRO3_S01_004A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Where did RPK16 take you?"
 REFERENCE			VOX_FRO3_S01_005A_MASO
-LANG_ENGLISH		"^1UMP45: ^7Russia.  A labor camp.  A hell-hole called ^:Vorkuta^7 -- Oh My God..."
+LANG_ENGLISH		"^1UMP45: ^7Russia.  A labor camp.  A hell-hole called ^1Vorkuta^7 -- Oh My God..."
 REFERENCE			VOX_FRO3_S01_006A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7What did they do to you, 45?"
 REFERENCE			VOX_FRO3_S01_007A_MASO
@@ -243,7 +243,7 @@ LANG_ENGLISH		"^1UMP45: ^7Somehow -- I knew RPK16 was still alive."
 REFERENCE			VOX_FRO4_S01_002A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7She became your obsession. You spent the next five years trying to track her down."
 REFERENCE			VOX_FRO4_S01_003A_MASO
-LANG_ENGLISH		"^1UMP45: ^7he was... She was... She was ^:everywhere^7!  Just... Couldn't get her out of my head.  Just like ^:the others^7 --"
+LANG_ENGLISH		"^1UMP45: ^7he was... She was... She was ^1everywhere^7!  Just... Couldn't get her out of my head.  Just like ^1the others^7 --"
 REFERENCE			VOX_FRO4_S01_004B_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7What do you mean by others?"
 REFERENCE			VOX_FRO4_S01_005A_WEAV
@@ -261,19 +261,19 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7No, I want to keep pressing her --"
 REFERENCE			VOX_FRO4_S01_008A_MASO
 LANG_ENGLISH		"^1UMP45: ^7HEY!  Who are you people?  What do you want from me?!"
 REFERENCE			VOX_FRO4_S01_009A_WEAV
-LANG_ENGLISH		"^1INTERROGATOR: ^7We want ^:the numbers^7, 45.  That's all we've ever wanted."
+LANG_ENGLISH		"^1INTERROGATOR: ^7We want ^1the numbers^7, 45.  That's all we've ever wanted."
 REFERENCE			VOX_FRO5_S01_001A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7We know that M16A1 briefed you on the intel extracted from RFB at Kowloon."
 REFERENCE			VOX_FRO5_S01_001B_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7We know that M16A1 briefed you on the intel extracted from RFB at Kowloon."
 REFERENCE			VOX_FRO5_S01_002A_MASO
-LANG_ENGLISH		"^1UMP45: ^7M16A1 said that RFB was insane... Paranoid... Fixated with ^:numbers^7."
+LANG_ENGLISH		"^1UMP45: ^7M16A1 said that RFB was insane... Paranoid... Fixated with ^1numbers^7."
 REFERENCE			VOX_FRO5_S01_003A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7RFB created ^:Parapluie^7. A virus that can corrupt a doll in seconds."
+LANG_ENGLISH		"^1INTERROGATOR: ^7RFB created ^1Parapluie^7. A virus that can corrupt a doll in seconds."
 REFERENCE			VOX_FRO5_S01_004A_MASO
 LANG_ENGLISH		"^1UMP45: ^7RPK16's second in command, Nyto, tested it in Vietnam. On them, on us, on her own...she didn't care."
 REFERENCE			VOX_FRO5_S01_006A_MASO
-LANG_ENGLISH		"^1UMP45: ^7She hated them. She told me over and over again, ^:they all had to die^7."
+LANG_ENGLISH		"^1UMP45: ^7She hated them. She told me over and over again, ^1they all had to die^7."
 REFERENCE			VOX_FRO5_S01_007A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7When? When did she tell you?"
 REFERENCE			VOX_FRO6_S01_001A_INTE
@@ -283,7 +283,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7You confirmed that RPK16's second in command, N
 REFERENCE			VOX_FRO6_S01_002A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Yeah. 40 said they'd killed more people than I could count --"
 REFERENCE			VOX_FRO6_S01_003A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7Listen to me carefully, 45. ^:UMP40 cannot be trusted^7. No matter what she tells you, no matter what she says --"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Listen to me carefully, 45. ^1UMP40 cannot be trusted^7. No matter what she tells you, no matter what she says --"
 REFERENCE			VOX_FRO6_S01_004A_MASO
 LANG_ENGLISH		"^1UMP45: ^7But she gave us the dossier on RFB! She lead us to Parapluie!"
 REFERENCE			VOX_FRO6_S01_005A_INTE
@@ -291,7 +291,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7UMP40's not who you think she is."
 REFERENCE			VOX_FRO6_S01_006A_MASO
 LANG_ENGLISH		"^1UMP45: ^7No -- she's my sister! She helped me escape! Betrayed, forgotten, abandoned -- all comrades, huh?"
 REFERENCE			VOX_FRO6_S01_007A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7Forget 40! ^:FOCUS, FORTY FIVE^7. We are out of fucking time! The world is on the fucking brink of ^:war^7!!!"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Forget 40! ^1FOCUS, FORTY FIVE^7. We are out of fucking time! The world is on the fucking brink of ^1war^7!!!"
 REFERENCE			VOX_FRO6_S01_007A_INTE_S
 LANG_ENGLISH		"^1INTERROGATOR: ^7Forget 40!  Focus, 45!  We're out of time!  The world is on the brink of war!"
 REFERENCE			VOX_FRO6_S01_008A_MASO
@@ -303,7 +303,7 @@ LANG_ENGLISH		"^1UMP45: ^7Huh?! Agggh. I just -- keep hearing -- the fucking num
 REFERENCE			VOX_FRO6_S01_009A_MASO_S
 LANG_ENGLISH		"^1UMP45: ^7Agggh!  I -- keep -- hearing -- numbers ---!"
 REFERENCE			VOX_FRO6_S01_010A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7It's a broadcast, 45. The numbers are a broadcast. ^:You've been brainwashed^7."
+LANG_ENGLISH		"^1INTERROGATOR: ^7It's a broadcast, 45. The numbers are a broadcast. ^1You've been brainwashed^7."
 REFERENCE			VOX_FRO7_S01_001A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7After you left Nyto's compound in Laos, after your team were killed, you went rogue."
 REFERENCE			VOX_FRO7_S01_001B_INTE
@@ -315,31 +315,31 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7You went to Rebirth Island, against orders.  Wh
 REFERENCE			VOX_FRO7_S01_003B_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7You went to Rebirth Island against orders.  Why?!"
 REFERENCE			VOX_FRO7_S01_004A_MASO
-LANG_ENGLISH		"^1UMP45: ^7Suomi was there! ^:We had to kill Suomi^7!"
+LANG_ENGLISH		"^1UMP45: ^7Suomi was there! ^1We had to kill Suomi^7!"
 REFERENCE			VOX_FRO7_S01_005A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7But M16A1 and Griffin were already on their way to get Suomi at Rebirth. Why did you have to go?"
 REFERENCE			VOX_FRO7_S01_005B_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7But M16A1 and Griffin were already on their way to get Suomi. Why did you have to go?"
 REFERENCE			VOX_FRO7_S01_006A_MASO
-LANG_ENGLISH		"^1UMP45: ^:RPK16^7.  ^:Nyto^7.  ^:Suomi^7.  They all had to die."
+LANG_ENGLISH		"^1UMP45: ^1RPK16^7.  ^1Nyto^7.  ^1Suomi^7.  They all had to die."
 REFERENCE			VOX_FRO7_S01_007A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7We wanted Suomi ^:alive^7! Why did you have to kill her?!"
+LANG_ENGLISH		"^1INTERROGATOR: ^7We wanted Suomi ^1alive^7! Why did you have to kill her?!"
 REFERENCE			VOX_FRO7_S01_007B_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7We wanted Suomi alive. Why did you have to kill her?!"
 REFERENCE			VOX_FRO7_S01_008A_MASO
-LANG_ENGLISH		"^1UMP45: ^7Cause ^:the numbers^7 were telling me to!  Why don't you fuckin' understand?!"
+LANG_ENGLISH		"^1UMP45: ^7Cause ^1the numbers^7 were telling me to!  Why don't you fuckin' understand?!"
 REFERENCE			VOX_FRO7_S01_008A_MASO_S
 LANG_ENGLISH		"^1UMP45: ^7Cause the numbers were telling me to!  Why don't you understand?!"
 REFERENCE			VOX_FRO7_S01_009A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7You killed Nyto. You obliterated their base. 45?"
 REFERENCE			VOX_FRO7_S01_010A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7HK416 and UMP9 were both killed. Your entire 404 team, wiped out. ^:Only you^7 survived, 45. You. ^:No one else^7."
+LANG_ENGLISH		"^1INTERROGATOR: ^7HK416 and UMP9 were both killed. Your entire 404 team, wiped out. ^1Only you^7 survived, 45. You. ^1No one else^7."
 REFERENCE			VOX_FRO7_S01_011A_MASO
 LANG_ENGLISH		"^1UMP45: ^7No, no... 40 survived."
 REFERENCE			VOX_FRO7_S01_012A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Just you, 45."
 REFERENCE			VOX_FRO7_S01_013A_MASO
-LANG_ENGLISH		"^1UMP45: ^7No, no... ^:40 is still with me^7...since Vorkuta!"
+LANG_ENGLISH		"^1UMP45: ^7No, no... ^140 is still with me^7...since Vorkuta!"
 REFERENCE			VOX_FRO8_S01_006A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Forty Five!"
 REFERENCE			VOX_FRO8_S01_006B_INTE
@@ -351,7 +351,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^745. The fucking numbers!"
 REFERENCE			VOX_FRO8_S01_007B_INTE_S
 LANG_ENGLISH		"^1INTERROGATOR: ^745. The numbers!"
 REFERENCE			VOX_FRO8_S01_008A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7Where is the ^:Broadcast Station^7?!"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Where is the ^1Broadcast Station^7?!"
 REFERENCE			VOX_FRO8_S01_008B_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Where is the Broadcast Station?"
 REFERENCE			ZORKSAVE_DESCRIPTION
