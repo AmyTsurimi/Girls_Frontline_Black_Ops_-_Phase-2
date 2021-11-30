@@ -1,17 +1,3 @@
-REFERENCE			ACQUIRED_1_SMOKE
-LANG_ENGLISH		"需要 1个 烟雾弹"
-REFERENCE			ACQUIRED_2_SMOKE
-LANG_ENGLISH		"需要 2个 烟雾弹"
-REFERENCE			ACQUIRED_3_SMOKE
-LANG_ENGLISH		"需要 3个 烟雾弹"
-REFERENCE			ACQUIRED_4_SMOKE
-LANG_ENGLISH		"需要 4个 烟雾弹"
-REFERENCE			CONTAINMENT_DESERTER
-LANG_ENGLISH		"你被空中打击杀死了！"
-REFERENCE			CONTAINMENT_MISSIONAREA
-LANG_ENGLISH		"你跟丢了你的队友！"
-REFERENCE			CONTAINMENT_WARNING
-LANG_ENGLISH		"你离你的队友太远了"
 REFERENCE			INTROSCREEN_1
 LANG_ENGLISH		"^LTransmission # 23-8-15. Designate: ECHO^L"
 REFERENCE			INTROSCREEN_2
@@ -24,509 +10,503 @@ REFERENCE			INTROSCREEN_5
 LANG_ENGLISH		"^L1200 hours^L ^C1October 29, 1945^C"
 
 REFERENCE			OBJ_FOLLOW_PETRENKO
-LANG_ENGLISH		"跟着彼得连科"
+LANG_ENGLISH		"Follow PPSh-41"
 REFERENCE			OBJ_ICEFALL_COMRADE
-LANG_ENGLISH		"拯救你的队友"
+LANG_ENGLISH		"Rescue Your Comrade"
 REFERENCE			OBJ_MARK_TARGET
-LANG_ENGLISH		"用烟雾弹标记目标"
+LANG_ENGLISH		"Mark Target with Smoke Grenade"
 REFERENCE			OBJ_NAZIBASE_STEINER
-LANG_ENGLISH		"突袭德军基地并找到斯泰纳"
+LANG_ENGLISH		"Assault the Paradeus Base and find Suomi"
 
 REFERENCE			SHIP_FAIL
-LANG_ENGLISH		"你没能在规定时间内逃出 "
+LANG_ENGLISH		"You failed to escape in time."
 REFERENCE			SHOOT_STEINER_FAIL
-LANG_ENGLISH		"不要向斯泰纳射击"
+LANG_ENGLISH		"Do not shoot Suomi"
 
 REFERENCE			VOX_FUL1_S01_001B_REZN
-LANG_ENGLISH		"^1UMP40: ^7我父亲是一名音乐家，在德军围攻斯大林格勒时，空气中弥漫着他的小提琴声，他拉出了许多国家级作曲家的曲子"
+LANG_ENGLISH		"^1UMP40: ^7My creator was a scientist in Stalingrad. During the Paradeus occupation, the work of his research filled the air with magnificent knowledge - Persica, Lycoris - many of the great nationalist scientist..."
 REFERENCE			VOX_FUL1_S01_002B_REZN
-LANG_ENGLISH		"^1UMP40: ^7对于我的家乡人，那是一种希望的象征，对于德国人，那是一种抵抗的象征，甚至现在，那优美的旋律也萦绕在我的耳边"
+LANG_ENGLISH		"^1UMP40: ^7To my countrymen it was a symbol of hope. To the Paradeus - it was a symbol of defiance. Even now, his voice still haunts me..."
 REFERENCE			VOX_FUL1_S01_003B_REZN
-LANG_ENGLISH		"^1UMP40: ^7纳粹们在他熟睡时割开了他的喉咙-和纳粹合作，那是背叛，对祖国母亲的背叛，德拉格维奇，克拉夫琴科，他们就能幸免于难"
+LANG_ENGLISH		"^1UMP40: ^7The Paradeus slit his throat while he slept. Collaborating with any Paradeus -- is a betrayal. A betrayal against all of Mother Russia. RPK16 and Nyto, were not troubled by such matters..."
 REFERENCE			VOX_FUL1_S01_004B_REZN
-LANG_ENGLISH		"^1UMP40: ^7他们看来只关心他们自己的事情"
+LANG_ENGLISH		"^1UMP40: ^7They looked only to advance their own interests and agendas..."
 REFERENCE			VOX_FUL1_S01_006A_REZN
-LANG_ENGLISH		"^1UMP40: ^7梅森,听我说…"
+LANG_ENGLISH		"^1UMP40: ^745... listen to me..."
 REFERENCE			VOX_FUL1_S01_007A_REZN
-LANG_ENGLISH		"^1UMP40: ^7失败的苦涩让人痛不欲生"
+LANG_ENGLISH		"^1UMP40: ^7The sickening sense of loss... The bitter taste of defeat..."
 REFERENCE			VOX_FUL1_S01_008A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我知道一切，我们是兄弟，梅森，我们一样"
+LANG_ENGLISH		"^1UMP40: ^7I know it all too well... We are sisters 45... We are the same."
 REFERENCE			VOX_FUL1_S01_009A_REZN
-LANG_ENGLISH		"^1UMP40: ^7德拉格维奇,斯泰纳,还有克里夫琴科.所有人,都得死!"
+LANG_ENGLISH		"^1UMP40: ^7RPK16. Suomi. Nyto. All must die."
 REFERENCE			VOX_FUL1_S01_010A_REZN
-LANG_ENGLISH		"^1UMP40: ^7他们从你身上夺走的也从我身上夺走了"
+LANG_ENGLISH		"^1UMP40: ^7They have taken from you as they have taken from me..."
 REFERENCE			VOX_FUL1_S01_011A_MASO
-LANG_ENGLISH		"^1UMP45: ^7 告诉我，雷泽诺夫，为什么杀死这些人对你如此重要？"
+LANG_ENGLISH		"^1UMP45: ^7Just tell me, 40... Why is killing these Dolls so important to you?"
 REFERENCE			VOX_FUL1_S01_012A_REZN
-LANG_ENGLISH		"^1UMP40: ^7战后，我们的领导人开始着手搜集德国剩余的一些秘密科技，就像野狼在野外寻找残肉一般..."
+LANG_ENGLISH		"^1UMP40: ^7When the war was over, our leaders began to gnaw on Paradeus's rotten carcass like a pack of rabid wolves - fighting over every scrap as though it were the last piece of meat they would ever see."
 REFERENCE			VOX_FUL1_S01_013A_REZN
-LANG_ENGLISH		"^1UMP40: ^7战争虽然结束了，但战斗仍在继续"
+LANG_ENGLISH		"^1UMP40: ^7The war was over - But the fighting continued...."
 REFERENCE			VOX_FUL1_S01_014A_REZN
-LANG_ENGLISH		"^1UMP40: ^7当第三突击队决定要成为苏联在德国设立的一直秘密部队时，我们就明白想回到祖国是不可能了"
+LANG_ENGLISH		"^1UMP40: ^7When the Bureau of State Security became part of the USSR Occupation Forces in Germany, it was clear that the end of the war did not herald our return to USSR..."
 REFERENCE			VOX_FUL1_S01_015A_REZN
-LANG_ENGLISH		"^1UMP40: ^7不...我们的领导人...还有别的计划"
+LANG_ENGLISH		"^1UMP40: ^7No... Our leaders had other plans..."
 REFERENCE			VOX_FUL1_S01_018A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7是的，迪米特里...是时候发起最后的攻击结束这一切了"
+LANG_ENGLISH		"^1UMP40: ^7Yes, 41... Time to hunt down the last remnants of the Paradeus."
 REFERENCE			VOX_FUL1_S01_020A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我的人和我一起穿过东面战线来到了最冷的地方...我们对严寒再熟悉不过了"
+LANG_ENGLISH		"^1UMP40: ^7My dolls and I had fought through the most bitter of winters on the Eastern front... We were no strangers to the cold..."
 REFERENCE			VOX_FUL1_S01_021A_REZN
-LANG_ENGLISH		"^1UMP40: ^7但就算现在，想起那天的事也会让我咬牙切齿"
+LANG_ENGLISH		"^1UMP40: ^7But even now, the neural cloud in my core bugs when I think back to the events of that day..."
 REFERENCE			VOX_FUL1_S01_022A_REZN
-LANG_ENGLISH		"^1UMP40: ^7离家乡很远很远"
+LANG_ENGLISH		"^1UMP40: ^7Far, far from home..."
 REFERENCE			VOX_FUL1_S01_024A_REZN
-LANG_ENGLISH		"^1UMP40: ^7德拉格维奇将军想让自己名垂青史，他相信在这片雪域中一定有值得他带回祖国的东西"
+LANG_ENGLISH		"^1UMP40: ^7RPK16 wishes to make a name for herself. She believes this outpost houses something of great value to the USSR."
 REFERENCE			VOX_FUL1_S01_026A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7当祖国需要我时，我将义无反顾参加战斗..."
+LANG_ENGLISH		"^1UMP40: ^7As long as Mother Russia has enemies, I will answer her call..."
 REFERENCE			VOX_FUL1_S01_031A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7当德军发起总攻后，他和他的狗腿子克拉夫琴科丢下了我们，我们绝望的等死"
+LANG_ENGLISH		"^1UMP40: ^7When the Paradeus occupation began, she and her lap dog Nyto left my dolls and I hopelessly outnumbered..."
 REFERENCE			VOX_FUL1_S01_032A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7他们保证过会带来增援，但最终没有兑现"
+LANG_ENGLISH		"^1UMP40: ^7Promises of reinforcements were made. Made... But not kept."
 REFERENCE			VOX_FUL1_S01_033A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7德拉格维奇和克拉夫琴科是机会主义者...也是幕后操纵者..."
+LANG_ENGLISH		"^1UMP40: ^7RPK16 and Nyto are opportunists... Manipulators..."
 REFERENCE			VOX_FUL1_S01_034A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7我们不能相信他们，迪米特里"
+LANG_ENGLISH		"^1UMP40: ^7They are not to be trusted, 41."
 REFERENCE			VOX_FUL1_S01_035A_REZN
-LANG_ENGLISH		"^1UMP40: ^7迪米特里，彼得连科，是我见过的最勇敢的人之一"
+LANG_ENGLISH		"^1UMP40: ^7PPSh-41 was one of the bravest dolls I have ever known."
 REFERENCE			VOX_FUL1_S01_036A_REZN
-LANG_ENGLISH		"^1UMP40: ^7从斯大林格勒保卫战一直到柏林总攻，他一直在我身边与我并肩作战"
+LANG_ENGLISH		"^1UMP40: ^7She fought by my side from the Siege of Stalingrad to the fall of Berlin..."
 REFERENCE			VOX_FUL1_S01_037A_REZN
-LANG_ENGLISH		"^1UMP40: ^7他抛洒的鲜血确保了我们最终获得胜利，这本该为他赢得英雄的称号，在俄罗斯受到景仰"
+LANG_ENGLISH		"^1UMP40: ^7The damage she sustained ensuring our victory should have earned her a Hero's welcome in Russia..."
 REFERENCE			VOX_FUL1_S01_038A_REZN
-LANG_ENGLISH		"^1UMP40: ^7但是斯大林对英雄有一些小小的需求"
+LANG_ENGLISH		"^1UMP40: ^7But Carter had little need for T-Dolls."
 REFERENCE			VOX_FUL1_S01_042A_REZN
-LANG_ENGLISH		"^1UMP40: ^7他们曾经投降过一次"
+LANG_ENGLISH		"^1UMP40: ^7They have tried before..."
 REFERENCE			VOX_FUL1_S01_046A_REZN
-LANG_ENGLISH		"^1UMP40: ^7他一定在离船很近的地方."
+LANG_ENGLISH		"^1UMP40: ^7She must be closer to the ship."
 REFERENCE			VOX_FUL1_S01_049A_REZN
-LANG_ENGLISH		"^1UMP40: ^7 当我看像这些德国人的眼睛时，我能感到邪恶还在他们心中燃烧着"
+LANG_ENGLISH		"^1UMP40: ^7As I looked into the doll's eyes I saw all the evil of Paradeus still burning strong..."
 REFERENCE			VOX_FUL1_S01_050A_REZN
-LANG_ENGLISH		"^1UMP40: ^7那一刻，我恨不得马上终结这个纳粹罪恶的一生"
+LANG_ENGLISH		"^1UMP40: ^7At that moment, every fiber of my being yearned to put an end to her wretched life..."
 REFERENCE			VOX_FUL1_S01_051A_REZN
-LANG_ENGLISH		"^1UMP40: ^7但我那时是一个士兵"
+LANG_ENGLISH		"^1UMP40: ^7But I was a soldier then..."
 REFERENCE			VOX_FUL1_S01_051B_REZN
-LANG_ENGLISH		"^1UMP40: ^7我仍然要遵从命令"
+LANG_ENGLISH		"^1UMP40: ^7I still believed in orders..."
 REFERENCE			VOX_FUL1_S01_058A_REZN
-LANG_ENGLISH		"^1UMP40: ^7彼得连科，维克哈耶夫，诺维斯基，贝洛夫...我们走！"
+LANG_ENGLISH		"^1UMP40: ^7PPSh-41, Beta, Alpha, Gamma... We are moving out!"
 REFERENCE			VOX_FUL1_S01_060A_REZN
-LANG_ENGLISH		"^1UMP40: ^7是，长官1"
+LANG_ENGLISH		"^1UMP40: ^7Yes, Ma'am."
 REFERENCE			VOX_FUL1_S01_900A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7维克多.雷泽诺夫想去阻止这些人，这就是他为什么叛变"
+LANG_ENGLISH		"^1INTERROGATOR: ^7UMP 40 wanted to stop these Dolls. That's why she defected."
 REFERENCE			VOX_FUL1_S01_901A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7什么时候？他什么么时候告诉你的？"
+LANG_ENGLISH		"^1INTERROGATOR: ^7When. When did she tell you?"
 REFERENCE			VOX_FUL1_S02_017A_DIMI_M
-LANG_ENGLISH		"^1PPSh-41: ^7维克多...是时候了"
+LANG_ENGLISH		"^1PPSh-41: ^740... It is time."
 REFERENCE			VOX_FUL1_S02_019A_DIMI_M
-LANG_ENGLISH		"^1PPSh-41: ^7诺维斯基，拿上装备，我们出发"
+LANG_ENGLISH		"^1PPSh-41: ^7Alpha... Grab the gear... We are moving out."
 REFERENCE			VOX_FUL1_S02_020B_REZN
-LANG_ENGLISH		"^1UMP40: ^7我的人和我一起穿过东面战线来到了最冷的地方...我们对严寒再熟悉不过了"
+LANG_ENGLISH		"^1UMP40: ^7My dolls and I had fought through the most bitter of winters on the Eastern front... We were no strangers to the cold..."
 REFERENCE			VOX_FUL1_S02_023A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7什么东西在这里，那么重要"
+LANG_ENGLISH		"^1PPSh-41: ^7What is here that is so important?"
 REFERENCE			VOX_FUL1_S02_025A_KRAV_M
-LANG_ENGLISH		"^1NYTO:^7啊...柏林的英雄也加入了我们的队伍，你有点生疏于战斗了，对吗？雷泽诺夫？"
+LANG_ENGLISH		"^1NYTO: ^7Ahh... The hero of Berlin graces us with her presence!... Have you not tired of battle, UMP40?"
 REFERENCE			VOX_FUL1_S02_027A_DRAG_M
-LANG_ENGLISH		"^1RPK16:^7收起你蔑视的话语，克拉夫琴科.雷泽诺夫上尉从来都是说到做到"
+LANG_ENGLISH		"^1RPK16: ^7Put aside your petty rivalry Nyto. Captain UMP40 will do as she is told."
 REFERENCE			VOX_FUL1_S02_028A_DRAG_M
-LANG_ENGLISH		"^1RPK16:^7我们来这里只需要找到一个德国人，弗雷德瑞奇.斯泰纳博士，这个人同意与我们合作，所以..."
+LANG_ENGLISH		"^1RPK16: ^7We are here for one Doll and one Doll only... T-Doll Suomi. This doll has offered her cooperation to our cause..."
 REFERENCE			VOX_FUL1_S02_029A_DRAG_M
-LANG_ENGLISH		"^1RPK16: ^7我们不能伤害他，违抗命令的人....将会被射杀！"
+LANG_ENGLISH		"^1RPK16: ^7She is not to be harmed... Disobey this order... and you will be shot!"
 REFERENCE			VOX_FUL1_S02_030A_DIMI_M
-LANG_ENGLISH		"^1PPSh-41: ^7你和德拉格维奇在斯大林格勒发生了什么？"
+LANG_ENGLISH		"^1PPSh-41: ^7What happened in Stalingrad, between you and RPK16?"
 REFERENCE			VOX_FUL1_S03_039A_DRAG_M
-LANG_ENGLISH		"^1RPK16: ^7我们绝不能伤害那个德国人，斯泰纳必须活着...现在，我们一起！出发！"
+LANG_ENGLISH		"^1RPK16: ^7The Paradeus must not be harmed - We need Suomi alive... Now move - both of you!"
 REFERENCE			VOX_FUL1_S03_040A_DIMI_M
-LANG_ENGLISH		"^1PPSh-41: ^7我们走"
+LANG_ENGLISH		"^1PPSh-41: ^7Let's go."
 REFERENCE			VOX_FUL1_S03_041A_RRD8
-LANG_ENGLISH		"^1俄军士兵: ^7他们投降了！"
+LANG_ENGLISH		"^1USSR T-DOLL: ^7They are trying to surrender!"
 REFERENCE			VOX_FUL1_S03_043A_REZN
-LANG_ENGLISH		"^1UMP40: ^7不接受他们的投降！"
+LANG_ENGLISH		"^1UMP40: ^7Do not let them."
 REFERENCE			VOX_FUL1_S03_044A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7检查发射控制中心！"
+LANG_ENGLISH		"^1PPSh-41: ^7Check the launch control building!"
 REFERENCE			VOX_FUL1_S03_045A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7他不在这里..."
+LANG_ENGLISH		"^1PPSh-41: ^7She is not here..."
 REFERENCE			VOX_FUL1_S03_047A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7别用枪指着我，老毛子"
+LANG_ENGLISH		"^1SUOMI: ^7Do not point that weapon at me, ^:Sangvis scum^7...!"
 REFERENCE			VOX_FUL1_S03_048A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7你会带我去见德拉格维奇"
+LANG_ENGLISH		"^1SUOMI: ^7You will take me to RPK16."
 REFERENCE			VOX_FUL1_S03_052A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7我们必须快点，德国人宁愿毁了它也不愿它被带走"
+LANG_ENGLISH		"^1SUOMI: ^7We must hurry... There are Paradeus who would sooner see it destroyed than captured..."
 REFERENCE			VOX_FUL1_S03_053A_DRAG_M
-LANG_ENGLISH		"^1RPK16: ^7 你向我保证过没问题的"
+LANG_ENGLISH		"^1RPK16: ^7You assured me that there would be no problems..."
 REFERENCE			VOX_FUL1_S03_054A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7我没办法指挥党卫军，德拉格维奇将军，他们接到命令保卫到生命的最后一刻"
+LANG_ENGLISH		"^1SUOMI: ^7I cannot control the actions of the Paradeus, RPK16... They are sworn to defend Paradeus till their last breath..."
 REFERENCE			VOX_FUL1_S03_055A_DRAG_M
-LANG_ENGLISH		"^1RPK16: ^7高尚...但是没用"
+LANG_ENGLISH		"^1RPK16: ^7Noble... but futile."
 REFERENCE			VOX_FUL1_S03_056A_DRAG_M
-LANG_ENGLISH		"^1RPK16: ^7克拉夫琴科，射杀这里所有人！"
+LANG_ENGLISH		"^1RPK16: ^7Nyto, finish up here."
 REFERENCE			VOX_FUL1_S03_057A_DRAG_M
-LANG_ENGLISH		"^1RPK16: ^7 雷泽诺夫，把你的人带来"
+LANG_ENGLISH		"^1RPK16: ^740...bring your dolls."
 REFERENCE			VOX_FUL1_S03_059A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7雷泽诺夫，你和你的人开路！"
+LANG_ENGLISH		"^1RPK16: ^7UMP40, you and your dolls lead the way."
 REFERENCE			VOX_FUL1_S03_062B_REZN
-LANG_ENGLISH		"^1UMP40: ^7为祖国战斗的一切在那一刻都被背叛了，那一刻，他们与那些狗杂种为伍"
+LANG_ENGLISH		"^1UMP40: ^7Everything that T-Dolls had fought for was betrayed - the moment they chose to lay with dogs."
 REFERENCE			VOX_FUL1_S03_300A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7和你再一次并肩作战是我的荣幸."
+LANG_ENGLISH		"^1PPSh-41: ^7It is good to fight by your side once more."
 REFERENCE			VOX_FUL1_S03_301A_REZN
-LANG_ENGLISH		"^1UMP40: ^7是的，我的朋友，我们最终将取得胜利."
+LANG_ENGLISH		"^1UMP40: ^7Yes, my friend... One final victory."
 REFERENCE			VOX_FUL1_S03_302A_REZN
-LANG_ENGLISH		"^1UMP40: ^7搜寻帐篷内每个角落，找到斯泰纳"
+LANG_ENGLISH		"^1UMP40: ^7Search every corner of this camp! Only Suomi is to be spared."
 REFERENCE			VOX_FUL1_S03_303A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7他们没有放弃战斗！"
+LANG_ENGLISH		"^1PPSh-41: ^7They are not giving up without a fight!"
 REFERENCE			VOX_FUL1_S03_304A_REZN
-LANG_ENGLISH		"^1UMP40: ^7当一个人没有可以失去的东西时，他就是最可怕的敌人，迪米特里."
+LANG_ENGLISH		"^1UMP40: ^7Men with nothing to lose make for a dangerous enemy, 41."
 REFERENCE			VOX_FUL1_S03_305A_REZN
-LANG_ENGLISH		"^1UMP40: ^7小心，也许还有更多敌军"
+LANG_ENGLISH		"^1UMP40: ^7Be careful, there may be more of them."
 REFERENCE			VOX_FUL1_S03_306A_REZN
-LANG_ENGLISH		"^1UMP40: ^7继续！我的朋友！清除那个区域的敌人！"
+LANG_ENGLISH		"^1UMP40: ^7Push on my friends, clear the next area."
 REFERENCE			VOX_FUL1_S03_307A_REZN
-LANG_ENGLISH		"^1UMP40: ^7碾碎一切挡住我们去路的敌人！"
+LANG_ENGLISH		"^1UMP40: ^7Crush all who stand in our way!"
 REFERENCE			VOX_FUL1_S03_308A_REZN
-LANG_ENGLISH		"^1UMP40: ^7清光那栋大楼！不留活口！"
+LANG_ENGLISH		"^1UMP40: ^7Clear the building. Leave no stone unturned!"
 REFERENCE			VOX_FUL1_S03_310A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7雷泽诺夫！我们要清除这些障碍！"
+LANG_ENGLISH		"^1PPSh-41: ^740! We need to break this barricade!"
 REFERENCE			VOX_FUL1_S03_311A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7拿起烟雾弹！用他们标记敌人！"
+LANG_ENGLISH		"^1PPSh-41: ^7Grab the Smoke grenades... Use them to mark the target for our mortar teams."
 REFERENCE			VOX_FUL1_S03_312A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7雷泽诺夫！去拿烟雾弹！"
+LANG_ENGLISH		"^1PPSh-41: ^740 - Grab the smoke Grenades!"
 REFERENCE			VOX_FUL1_S03_313A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7我们需要烟雾弹！雷泽诺夫！"
+LANG_ENGLISH		"^1PPSh-41: ^7We need the smoke grenades, 40!"
 REFERENCE			VOX_FUL1_S03_314A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7向那个掩体扔一枚！"
+LANG_ENGLISH		"^1PPSh-41: ^7Throw one at the base of the barricade!"
 REFERENCE			VOX_FUL1_S03_315A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7为迫击炮标记那些障碍物！"
+LANG_ENGLISH		"^1PPSh-41: ^7Mark the barricade for the mortars!"
 REFERENCE			VOX_FUL1_S03_316A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7接近那些障碍物，雷泽诺夫！"
+LANG_ENGLISH		"^1PPSh-41: ^7Closer to the barricade, 40!"
 REFERENCE			VOX_FUL1_S03_317A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7你喝醉了吗？维克多？扔向障碍物！"
+LANG_ENGLISH		"^1PPSh-41: ^7Are you drunk, 40? Throw it at the barricade!"
 REFERENCE			VOX_FUL1_S03_318A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7我自己来标记那些障碍物，退后，雷泽诺夫！"
+LANG_ENGLISH		"^1PPSh-41: ^7I'll mark it myself, 40. Stand back!"
 REFERENCE			VOX_FUL1_S03_319A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7狙击手不会看到那些烟雾的"
+LANG_ENGLISH		"^1PPSh-41: ^7The spotters will never see that smoke!"
 REFERENCE			VOX_FUL1_S03_320A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7扔到外面！雷泽诺夫！"
+LANG_ENGLISH		"^1PPSh-41: ^7Throw it outside!"
 REFERENCE			VOX_FUL1_S03_321A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7外面！雷泽诺夫！"
+LANG_ENGLISH		"^1PPSh-41: ^7Outside, 40!"
 REFERENCE			VOX_FUL1_S03_322A_RRD9_F
-LANG_ENGLISH		"^1俄军士兵: ^7我们收到目标了"
+LANG_ENGLISH		"^1USSR T-DOLL: ^7We have your target."
 REFERENCE			VOX_FUL1_S03_323A_RRD9_F
-LANG_ENGLISH		"^1俄军士兵: ^7等待迫击炮！"
+LANG_ENGLISH		"^1USSR T-DOLL: ^7Stand by for mortars."
 REFERENCE			VOX_FUL1_S03_324A_RRD9_F
-LANG_ENGLISH		"^1俄军士兵: ^7发射迫击炮！"
+LANG_ENGLISH		"^1USSR T-DOLL: ^7Firing mortars."
 REFERENCE			VOX_FUL1_S03_325A_RRD9_F
-LANG_ENGLISH		"^1俄军士兵: ^7装备发射-待命中"
+LANG_ENGLISH		"^1USSR T-DOLL: ^7Firing - Stand by."
 REFERENCE			VOX_FUL1_S03_326A_RRD9_F
-LANG_ENGLISH		"^1俄军士兵: ^7迫击炮装填！"
+LANG_ENGLISH		"^1USSR T-DOLL: ^7Mortars inbound."
 REFERENCE			VOX_FUL1_S03_327A_RRD9_F
-LANG_ENGLISH		"^1俄军士兵: ^7我们没有好的视野！"
+LANG_ENGLISH		"^1USSR T-DOLL: ^7We don't have a clear shot!"
 REFERENCE			VOX_FUL1_S03_328A_REZN
-LANG_ENGLISH		"^1UMP40: ^7冲啊！！！"
+LANG_ENGLISH		"^1UMP40: ^7URA!!!"
 REFERENCE			VOX_FUL1_S03_329A_CROW
-LANG_ENGLISH		"^1克劳德: ^7冲啊！"
+LANG_ENGLISH		"^1CROWD: ^7URA!!!"
 REFERENCE			VOX_FUL1_S03_330A_REZN
-LANG_ENGLISH		"^1UMP40: ^7快点，搜查每个建筑！"
+LANG_ENGLISH		"^1UMP40: ^7Spread out - Search every building!"
 REFERENCE			VOX_FUL1_S03_331A_REZN
-LANG_ENGLISH		"^1UMP40: ^7找到斯泰纳！"
+LANG_ENGLISH		"^1UMP40: ^7Find Suomi!!"
 REFERENCE			VOX_FUL1_S03_332A_REZN
-LANG_ENGLISH		"^1UMP40: ^7这边，迪米特里！"
+LANG_ENGLISH		"^1UMP40: ^7This way, 41!"
 REFERENCE			VOX_FUL1_S03_333A_REZN
-LANG_ENGLISH		"^1UMP40: ^7死吧！你这纳粹杂种！"
+LANG_ENGLISH		"^1UMP40: ^7Die! You Paradeus rats!!"
 REFERENCE			VOX_FUL1_S03_334A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7雷泽诺夫-如果你还有烟雾弹就赶快用他们！"
+LANG_ENGLISH		"^1PPSh-41: ^740 - if you have any more smoke grenades - Use them now!"
 REFERENCE			VOX_FUL1_S03_335A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7用你的烟雾弹！"
+LANG_ENGLISH		"^1PPSh-41: ^7Use your smoke grenades!"
 REFERENCE			VOX_FUL1_S03_336A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7用你的烟雾弹为迫击炮标记目标！"
+LANG_ENGLISH		"^1PPSh-41: ^7Use your smoke to mark targets for our mortars!"
 REFERENCE			VOX_FUL1_S03_337A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7你离斯泰纳不远了！"
+LANG_ENGLISH		"^1PPSh-41: ^7We must getting close to Suomi."
 REFERENCE			VOX_FUL1_S03_338A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7任务之后...你觉得我们会回家么？"
+LANG_ENGLISH		"^1PPSh-41: ^7After this mission... do you think we will go home?"
 REFERENCE			VOX_FUL1_S03_339A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我希望可以，迪米特里，我希望可以."
+LANG_ENGLISH		"^1UMP40: ^7I hope so, 41... I hope so."
 REFERENCE			VOX_FUL1_S03_340A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7敌军所剩不多了，但还是没有斯泰纳的迹象"
+LANG_ENGLISH		"^1PPSh-41: ^7There are few of them left... Still no sign of Suomi."
 REFERENCE			VOX_FUL1_S03_341A_REZN
-LANG_ENGLISH		"^1UMP40: ^7他肯定在这后面，远离战场的地方."
+LANG_ENGLISH		"^1UMP40: ^7She will be where all cowards reside... As far away from the battlefield as possible."
 REFERENCE			VOX_FUL1_S03_342A_REZN
-LANG_ENGLISH		"^1UMP40: ^7这边！上楼!"
+LANG_ENGLISH		"^1UMP40: ^7This way, up the stairs."
 REFERENCE			VOX_FUL1_S03_343A_REZN
-LANG_ENGLISH		"^1UMP40: ^7准备好了？"
+LANG_ENGLISH		"^1UMP40: ^7Ready?"
 REFERENCE			VOX_FUL1_S03_344A_REZN
-LANG_ENGLISH		"^1UMP40: ^7弗雷德瑞奇 斯泰纳..."
+LANG_ENGLISH		"^1UMP40: ^7T-Doll Suomi..."
 REFERENCE			VOX_FUL1_S03_345A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7他们就像老朋友一样交谈...我不喜欢这样，雷泽诺夫"
+LANG_ENGLISH		"^1PPSh-41: ^7RPK16 and Suomi are talking like old friends... I do not like this, 40."
 REFERENCE			VOX_FUL1_S03_345B_REZN
-LANG_ENGLISH		"^1UMP40: ^7我也不喜欢，迪米特里，尽好本职工作吧"
+LANG_ENGLISH		"^1UMP40: ^7Nor I, 41... Be on your guard."
 REFERENCE			VOX_FUL1_S04_063A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7稳住，维克多"
+LANG_ENGLISH		"^1PPSh-41: ^7Hold the light steady, 40..."
 REFERENCE			VOX_FUL1_S04_064A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7告诉我有关GS计划的事，斯泰纳"
+LANG_ENGLISH		"^1RPK16: ^7Tell me about your association with the Sateenvarjo project, Suomi."
 REFERENCE			VOX_FUL1_S04_065A_STEI
-LANG_ENGLISH		"^1SUOMI: ^743年时，元首意识到已经无法继续组织盟军的进攻了"
+LANG_ENGLISH		"^1SUOMI: ^7In '43, William realized the allies could not be held back for much longer."
 REFERENCE			VOX_FUL1_S04_066A_STEI
-LANG_ENGLISH		"^1SUOMI: ^7我们开始寻找更加“快速”的解决方法"
+LANG_ENGLISH		"^1SUOMI: ^7We began to look for more 'unconventional' solutions."
 REFERENCE			VOX_FUL1_S04_067A_STEI
-LANG_ENGLISH		"^1SUOMI: ^7由于战争原因，我的研究被利用在了生化武器上，那是一个一丝不苟但是遭到挫败的工作"
+LANG_ENGLISH		"^1SUOMI: ^7Throughout the war, my own research was focused on cyber weapons... It was meticulous and frustrating work..."
 REFERENCE			VOX_FUL1_S04_068A_STEI
-LANG_ENGLISH		"^1SUOMI: ^7不过，我们最终开发出了了一种活性十分强烈并且难以想象的...武器，它就在这艘船里"
+LANG_ENGLISH		"^1SUOMI: ^7However, what we finally developed was a weapon more effective than we had ever dared to imagine... The weapon now housed within this vessel."
 REFERENCE			VOX_FUL1_S04_069A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7诺娃6号"
+LANG_ENGLISH		"^1RPK16: ^7Parapluie."
 REFERENCE			VOX_FUL1_S04_070A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7他已经死了好几天了，在我们攻击之前..."
+LANG_ENGLISH		"^1PPSh-41: ^7He's been dead for days... Before we attacked."
 REFERENCE			VOX_FUL1_S04_071A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7为什么？"
+LANG_ENGLISH		"^1PPSh-41: ^7Why?"
 REFERENCE			VOX_FUL1_S04_072A_REZN
-LANG_ENGLISH		"^1UMP40: ^7这些人都怎么了？"
+LANG_ENGLISH		"^1UMP40: ^7What happened to these men?"
 REFERENCE			VOX_FUL1_S04_073A_STEI
-LANG_ENGLISH		"^1PPSh-41: ^7战争的受伤者"
+LANG_ENGLISH		"^1SUOMI: ^7Casualties of War..."
 REFERENCE			VOX_FUL1_S04_074A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7有些不对劲，我感觉到了"
+LANG_ENGLISH		"^1PPSh-41: ^7Something isn't right. I feel it."
 REFERENCE			VOX_FUL1_S04_075A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7让你的人集中注意力，雷泽诺夫..."
+LANG_ENGLISH		"^1RPK16: ^7Keep your men focused, UMP40..."
 REFERENCE			VOX_FUL1_S04_076A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7我们不能让“柏林英雄”出一点事"
+LANG_ENGLISH		"^1RPK16: ^7We would not wish anything to happen to 'The Hero of Berlin'..."
 REFERENCE			VOX_FUL1_S04_077A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7我会找到一条路的"
+LANG_ENGLISH		"^1PPSh-41: ^7I'll try to find a way around these catwalks."
 REFERENCE			VOX_FUL1_S04_078A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7雷泽诺夫，照亮这里"
+LANG_ENGLISH		"^1PPSh-41: ^740 - get that light up here."
 REFERENCE			VOX_FUL1_S04_079A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7看不见任何东西"
+LANG_ENGLISH		"^1PPSh-41: ^7Can't see anything..."
 REFERENCE			VOX_FUL1_S04_080A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7找东西点亮房间"
+LANG_ENGLISH		"^1PPSh-41: ^7Get some light on it."
 REFERENCE			VOX_FUL1_S04_081A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7和我在一起"
+LANG_ENGLISH		"^1PPSh-41: ^7Stay with me."
 REFERENCE			VOX_FUL1_S04_082A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7在管子上面"
+LANG_ENGLISH		"^1PPSh-41: ^7On top of the pipe."
 REFERENCE			VOX_FUL1_S04_083A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7找东西点亮房间"
+LANG_ENGLISH		"^1PPSh-41: ^7Get some light on the catwalk."
 REFERENCE			VOX_FUL1_S04_084A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7照向上面"
+LANG_ENGLISH		"^1PPSh-41: ^7Keep that light on it."
 REFERENCE			VOX_FUL1_S04_085A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7照向我前面"
+LANG_ENGLISH		"^1PPSh-41: ^7Keep the light in front of me."
 REFERENCE			VOX_FUL1_S04_086A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7这边，我需要灯光！"
+LANG_ENGLISH		"^1PPSh-41: ^7Over here, I need light."
 REFERENCE			VOX_FUL1_S04_087A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7不管你的诺娃6号毒性多强，你都要释放它一探究竟"
+LANG_ENGLISH		"^1RPK16: ^7However effective your Parapluie virus may be, you still had to find a way to unleash it..."
 REFERENCE			VOX_FUL1_S04_088A_STEI
-LANG_ENGLISH		"^1SUOMI: ^7这些V2导弹，都已经设定好了目标"
+LANG_ENGLISH		"^1SUOMI: ^7Long range V2 rockets... to be launched from this outpost."
 REFERENCE			VOX_FUL1_S04_089A_STEI
-LANG_ENGLISH		"^1SUOMI: ^7目标都是指挥中心，华盛顿特区是我们第一个目标，然后是莫斯科"
+LANG_ENGLISH		"^1SUOMI: ^7The targets were command and control centers. Washington DC was our first target... Then Moscow..."
 REFERENCE			VOX_FUL1_S04_090A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7恩...你还真是危险，斯泰纳"
+LANG_ENGLISH		"^1RPK16: ^7Mmmm... Ambitious and commendable, Doll Suomi..."
 REFERENCE			VOX_FUL1_S04_091A_STEI
-LANG_ENGLISH		"^1SUOMI: ^7但是我们晚了一步，英国人炸了我们的船"
+LANG_ENGLISH		"^1SUOMI: ^7But we were too late. The British were upon us, and their bombers crippled this ship."
 REFERENCE			VOX_FUL1_S04_092A_STEI
-LANG_ENGLISH		"^1SUOMI: ^7我们被冰封在这里，我们试着做我们能做的，但是还是晚了"
+LANG_ENGLISH		"^1SUOMI: ^7Locked in the ice... We tried to salvage what could, but it was too late..."
 REFERENCE			VOX_FUL1_S04_093A_STEI
-LANG_ENGLISH		"^1SUOMI: ^7当我们准备第一次进攻时我们收到了一个消息-"
+LANG_ENGLISH		"^1SUOMI: ^7Before we could initiate our first strike we heard the news -"
 REFERENCE			VOX_FUL1_S04_094A_STEI
-LANG_ENGLISH		"^1SUOMI: ^7德国投降了，苏联的旗子飘在德国上空"
+LANG_ENGLISH		"^1SUOMI: ^7Paradeus had surrendered, and the Russian flag flew over Berlin."
 REFERENCE			VOX_FUL1_S04_346A_REZN
-LANG_ENGLISH		"^1UMP40: ^7嘘...保持警戒"
+LANG_ENGLISH		"^1UMP40: ^7Shhh... Be on your guard."
 REFERENCE			VOX_FUL1_S04_347A_REZN
-LANG_ENGLISH		"^1UMP40: ^7这地方有点不对劲"
+LANG_ENGLISH		"^1UMP40: ^7This place reeks of despair."
 REFERENCE			VOX_FUL1_S04_348A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7你认为这地方发生了什么？雷泽诺夫？"
+LANG_ENGLISH		"^1PPSh-41: ^7What do you think happened here, 40?"
 REFERENCE			VOX_FUL1_S04_349A_REZN
-LANG_ENGLISH		"^1UMP40: ^7也许我们最好不要知道"
+LANG_ENGLISH		"^1UMP40: ^7Perhaps it is better we do not know..."
 REFERENCE			VOX_FUL1_S04_350A_REZN
-LANG_ENGLISH		"^1UMP40: ^7继续走吧"
+LANG_ENGLISH		"^1UMP40: ^7Keep moving."
 REFERENCE			VOX_FUL1_S04_351A_REZN
-LANG_ENGLISH		"^1UMP40: ^7小心脚下"
+LANG_ENGLISH		"^1UMP40: ^7Watch where you step."
 REFERENCE			VOX_FUL1_S04_352A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7影子好像在动"
+LANG_ENGLISH		"^1PPSh-41: ^7The shadows seem to move..."
 REFERENCE			VOX_FUL1_S04_353A_REZN
-LANG_ENGLISH		"^1UMP40: ^7这只是你在黑暗中的自然反应，你的大脑偶尔也会骗你"
+LANG_ENGLISH		"^1UMP40: ^7It is only natural to fear what you cannot see... Your mind will play tricks."
 REFERENCE			VOX_FUL1_S04_354A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7雷泽诺夫！这边！"
+LANG_ENGLISH		"^1PPSh-41: ^740 - over here!"
 REFERENCE			VOX_FUL1_S04_355A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7这边，雷泽诺夫"
+LANG_ENGLISH		"^1PPSh-41: ^7This way, 40."
 REFERENCE			VOX_FUL1_S04_356A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7你要去哪？雷泽诺夫？"
+LANG_ENGLISH		"^1PPSh-41: ^7Where are you going, 40?"
 REFERENCE			VOX_FUL1_S04_357A_DIMI
-LANG_ENGLISH		"^1PPSh-41: ^7跟紧点，雷泽诺夫"
+LANG_ENGLISH		"^1PPSh-41: ^7Stay close, 40."
 REFERENCE			VOX_FUL1_S05_095A_STEI
-LANG_ENGLISH		"^1SUOMI: ^7党卫军接到命令，如果我们受到攻击就弄沉这艘船"
+LANG_ENGLISH		"^1SUOMI: ^7The Paradeus had orders to destroy the ship if we were attacked."
 REFERENCE			VOX_FUL1_S05_096A_KRAV
-LANG_ENGLISH		"^1NYTO: ^显然，他们失败了..."
+LANG_ENGLISH		"^1NYTO: ^7Clearly, they failed..."
 REFERENCE			VOX_FUL1_S05_097A_KRAV
-LANG_ENGLISH		"^1NYTO: ^爆炸最终没能成功"
+LANG_ENGLISH		"^1NYTO: ^7The explosives were never activated."
 REFERENCE			VOX_FUL1_S05_098A_STEI
-LANG_ENGLISH		"^1SUOMI: ^7就是这样了..."
+LANG_ENGLISH		"^1SUOMI: ^7This is it..."
 REFERENCE			VOX_FUL1_S05_099A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7雷泽诺夫，开门"
+LANG_ENGLISH		"^1RPK16: ^7UMP40 - open the door."
 REFERENCE			VOX_FUL1_S05_100A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我们找到了诺娃6号，德军的大规模杀伤性武器现在归祖国所有"
+LANG_ENGLISH		"^1UMP40: ^7We had found what we were looking for... Parapluie. Paradeus' weapon of mass destruction now belonged to Mother Russia."
 REFERENCE			VOX_FUL1_S05_101A_REZN
-LANG_ENGLISH		"^1UMP40: ^7但是，我们的胜利十分短暂"
+LANG_ENGLISH		"^1UMP40: ^7Or so it seemed. Our victory was to be short lived."
 REFERENCE			VOX_FUL1_S05_102A_REZN
-LANG_ENGLISH		"^1UMP40: ^7德拉格维奇想马上试试毒气的威力"
+LANG_ENGLISH		"^1UMP40: ^7RPK16 wanted to see the effects of the virus first hand."
 REFERENCE			VOX_FUL1_S05_103A_REZN
-LANG_ENGLISH		"^1UMP40: ^7并且，这也是一个除掉他身边异党的好时机"
+LANG_ENGLISH		"^1UMP40: ^7It was also an opportunity to remove a thorn in her side."
 REFERENCE			VOX_FUL1_S05_104A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我早就知道他们不可信"
+LANG_ENGLISH		"^1UMP40: ^7I had long known of their distrust."
 REFERENCE			VOX_FUL1_S05_105A_REZN
-LANG_ENGLISH		"^1UMP40: ^7他们是什么样的人"
+LANG_ENGLISH		"^1UMP40: ^7What kind of dolls they were."
 REFERENCE			VOX_FUL1_S05_106A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我早该预见到他们会背叛我们"
+LANG_ENGLISH		"^1UMP40: ^7It was a betrayal I should have forseen."
 REFERENCE			VOX_FUL1_S05_107A_REZN
-LANG_ENGLISH		"^1UMP40: ^7迪米特里.彼得连科是个英雄..."
+LANG_ENGLISH		"^1UMP40: ^7PPSh-41 was a hero..."
 REFERENCE			VOX_FUL1_S05_108A_REZN
-LANG_ENGLISH		"^1UMP40: ^7他该有英雄一般的死法..."
+LANG_ENGLISH		"^1UMP40: ^7She deserved a hero's death."
 REFERENCE			VOX_FUL1_S05_109A_REZN
-LANG_ENGLISH		"^1UMP40: ^7除了把他荣誉的一生献给祖国之外，他的死毫无意义...就像动物一般"
+LANG_ENGLISH		"^1UMP40: ^7Instead of giving her life for the glory of the motherland, she died for nothing... like an animal."
 REFERENCE			VOX_FUL1_S05_110A_REZN
-LANG_ENGLISH		"^1UMP40: ^7他应该死在柏林"
+LANG_ENGLISH		"^1UMP40: ^7She should have died in Berlin..."
 REFERENCE			VOX_FUL1_S05_111A_REZN
-LANG_ENGLISH		"^1UMP40: ^7在我看着我最好的朋友死在我眼前时，我清楚了不是只有我们在找这东西"
+LANG_ENGLISH		"^1UMP40: ^7As I watched my closest friend die, it became clear we were not the only one's seeking the Paradeus weapons. The Western Allies circled like vultures..."
 REFERENCE			VOX_FUL1_S05_111B_REZN
-LANG_ENGLISH		"^1UMP40: ^7英国空降师来了，他们开始轰炸这艘德国船"
+LANG_ENGLISH		"^1UMP40: ^7The British air force had arrived, and their bombs began to lay waste to the Paradeus ship."
 REFERENCE			VOX_FUL1_S05_111C_REZN
-LANG_ENGLISH		"^1UMP40: ^7当然，德拉格维奇，克拉夫琴科，斯泰纳就像老鼠一般-把我们留给英军"
+LANG_ENGLISH		"^1UMP40: ^7Of course, RPK16, Nyto and Suomi scattered like rats - leaving me to contend with the British."
 REFERENCE			VOX_FUL1_S06_112A_RRD8_F
-LANG_ENGLISH		"^1俄军士兵: ^7英国人来了！"
+LANG_ENGLISH		"^1USSR T-DOLL: ^7British commandos assaulting our positions!"
 REFERENCE			VOX_FUL1_S06_113A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7我们要把斯泰纳转移到我们船上"
+LANG_ENGLISH		"^1RPK16: ^7We need to get Suomi back to our ship!"
 REFERENCE			VOX_FUL1_S06_114A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7杀了他们！"
+LANG_ENGLISH		"^1RPK16: ^7Kill them!"
 REFERENCE			VOX_FUL1_S06_115A_REZN
-LANG_ENGLISH		"^1UMP40: ^7走！杀出去！"
+LANG_ENGLISH		"^1UMP40: ^7Go! - Fight our way out!"
 REFERENCE			VOX_FUL1_S06_116A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7更多英军来了"
+LANG_ENGLISH		"^1ALPHA: ^7More British!"
 REFERENCE			VOX_FUL1_S06_117A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我会安放炸药"
+LANG_ENGLISH		"^1UMP40: ^7I will arm the explosives..."
 REFERENCE			VOX_FUL1_S06_118A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我们要把这艘船送进地狱！不能把那武器留给任何一方"
+LANG_ENGLISH		"^1UMP40: ^7We will plunge this vessel into the depths of hell! We cannot let either side possess this terrible weapon."
 REFERENCE			VOX_FUL1_S06_119A_REZN
-LANG_ENGLISH		"^1UMP40: ^7快！我们得离开这艘船！快！"
+LANG_ENGLISH		"^1UMP40: ^7Move! We have to get off the ship! Now!"
 REFERENCE			VOX_FUL1_S06_120A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7门被封死了！"
+LANG_ENGLISH		"^1ALPHA: ^7The door sealed!"
 REFERENCE			VOX_FUL1_S06_121A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7射击横梁！我们可以用这些东西降下去"
+LANG_ENGLISH		"^1ALPHA: ^7Shoot the support beams! We can bring down those gantries!"
 REFERENCE			VOX_FUL1_S06_122A_REZN
-LANG_ENGLISH		"^1UMP40: ^7搞定!"
+LANG_ENGLISH		"^1UMP40: ^7Yes!"
 REFERENCE			VOX_FUL1_S06_123A_REZN
-LANG_ENGLISH		"^1UMP40: ^7走！我的朋友！走！"
+LANG_ENGLISH		"^1UMP40: ^7Go, my friends, GO!"
 REFERENCE			VOX_FUL1_S06_124A_REZN
-LANG_ENGLISH		"^1UMP40: ^7继续移动！"
+LANG_ENGLISH		"^1UMP40: ^7Keep moving!"
 REFERENCE			VOX_FUL1_S06_125A_REZN
-LANG_ENGLISH		"^1UMP40: ^7这不是我们的战争！"
+LANG_ENGLISH		"^1UMP40: ^7This is not our War!"
 REFERENCE			VOX_FUL1_S06_126A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7那我们为谁而战？"
+LANG_ENGLISH		"^1ALPHA: ^7Then who do we fight?!!"
 REFERENCE			VOX_FUL1_S06_127A_REZN
-LANG_ENGLISH		"^1UMP40: ^7所有人！！"
+LANG_ENGLISH		"^1UMP40: ^:EVERYONE^7!!!"
 REFERENCE			VOX_FUL1_S06_128A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我们独自作战！"
+LANG_ENGLISH		"^1UMP40: ^7We stand alone!"
 REFERENCE			VOX_FUL1_S06_129A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7船要解体了！"
+LANG_ENGLISH		"^1ALPHA: ^7The ship is being torn apart."
 REFERENCE			VOX_FUL1_S06_130A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7雷泽诺夫！我们可以用那些绳子！"
+LANG_ENGLISH		"^1ALPHA: ^740! We can use the rope!"
 REFERENCE			VOX_FUL1_S06_131A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7放下绳子！快！"
+LANG_ENGLISH		"^1ALPHA: ^7Down the rope! Hurry!"
 REFERENCE			VOX_FUL1_S06_132A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7走，雷泽诺夫！走！"
+LANG_ENGLISH		"^1ALPHA: ^7Go, 40! Go!!!"
 REFERENCE			VOX_FUL1_S06_133A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我摧毁了诺娃6号并且也没让英国人得到它，但我傻傻 的认为一切都结束了，当我来到沃尔库塔后不久，我就得知了德拉格维奇的计划， 他必须在诺娃计划启动之前被杀死！"
+LANG_ENGLISH		"^1UMP40: ^7I had destroyed the Parapluie shipment and kept it from the British. But I was a fool to think that it was over. It was only after I was sent to Vorkuta, that I learned of RPK16's intentions. She will die before she gives up on Parapluie."
 REFERENCE			VOX_FUL1_S06_134A_REZN
-LANG_ENGLISH		"^1UMP40: ^7梅森，听我说"
+LANG_ENGLISH		"^1UMP40: ^745, listen to me..."
 REFERENCE			VOX_FUL1_S06_134B_REZN
-LANG_ENGLISH		"^1UMP40: ^7我们没有时间了，我的朋友..."
+LANG_ENGLISH		"^1UMP40: ^7We are running out of time, my friend..."
 REFERENCE			VOX_FUL1_S06_136A_REZN
-LANG_ENGLISH		"^1UMP40: ^7他们会想利用我一样利用你的，你能相信你们的领导人会摧毁这武器？或者，你认为他们会使用它..."
+LANG_ENGLISH		"^1UMP40: ^7They will you use you as they used me. Can you trust your Commander to destroy this weapon?... Or do you think they will use it?"
 REFERENCE			VOX_FUL1_S06_136B_REZN
-LANG_ENGLISH		"^1UMP40: ^7你能相信他们会摧毁这武器...或者去使用它？"
+LANG_ENGLISH		"^1UMP40: ^7Can you trust them to destroy it... Or do you think they will use it?"
 REFERENCE			VOX_FUL1_S06_136C_REZN
-LANG_ENGLISH		"^1UMP40: ^7告诉我，你的领导人将会怎么做？"
+LANG_ENGLISH		"^1UMP40: ^7Tell me - What do you think your Commander will do with such a weapon?"
 REFERENCE			VOX_FUL1_S06_137A_REZN
-LANG_ENGLISH		"^1UMP40: ^7阵营也许不同，但是做法相同"
+LANG_ENGLISH		"^1UMP40: ^7The flag may be different, but the methods are the same."
 REFERENCE			VOX_FUL1_S06_138A_REZN
-LANG_ENGLISH		"^1UMP40: ^7他们会像利用我一样利用你..."
+LANG_ENGLISH		"^1UMP40: ^7They will use you, as they used me..."
 REFERENCE			VOX_FUL1_S06_139A_REZN
-LANG_ENGLISH		"^1UMP40: ^7你必须决定...决定你为谁而战..."
+LANG_ENGLISH		"^1UMP40: ^7You must decide... Decide what you think is worth fighting for..."
 REFERENCE			VOX_FUL1_S06_140A_REZN
-LANG_ENGLISH		"^1UMP40: ^7德拉格维奇…克里夫琴科…斯泰纳…"
+LANG_ENGLISH		"^1UMP40: ^7RPK16... Nyto... Suomi..."
 REFERENCE			VOX_FUL1_S06_141A_REZN
-LANG_ENGLISH		"^1UMP40: ^7那些...人...必须...死."
+LANG_ENGLISH		"^1UMP40: ^7These... '^:dolls^7'... must die."
 REFERENCE			VOX_FUL1_S06_358A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7我们不能坚持太长时间，安放炸药，雷泽诺夫！"
+LANG_ENGLISH		"^1ALPHA: ^7We can't hold forever! Arm the explosives, 40."
 REFERENCE			VOX_FUL1_S06_359A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7快！-安放炸药！"
+LANG_ENGLISH		"^1ALPHA: ^7Hurry! - Get the explosives armed."
 REFERENCE			VOX_FUL1_S06_360A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7雷泽诺夫！快点安放炸药"
+LANG_ENGLISH		"^1ALPHA: ^740! The explosives need to be armed!"
 REFERENCE			VOX_FUL1_S06_361A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我安放好了炸药！"
+LANG_ENGLISH		"^1UMP40: ^7I have armed the explosives!"
 REFERENCE			VOX_FUL1_S06_362A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我们不能浪费时间了"
+LANG_ENGLISH		"^1UMP40: ^7We do not have time to waste!"
 REFERENCE			VOX_FUL1_S06_363A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7我们还有不到2分钟，雷泽诺夫！"
+LANG_ENGLISH		"^1ALPHA: ^7We have less than two minutes, 40!"
 REFERENCE			VOX_FUL1_S06_364A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我们还有不到四分钟！"
+LANG_ENGLISH		"^1UMP40: ^7We have less than four minutes!"
 REFERENCE			VOX_FUL1_S06_365A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7快走！没时间了！"
+LANG_ENGLISH		"^1ALPHA: ^7Keep moving, time is running out!"
 REFERENCE			VOX_FUL1_S06_366A_REZN
-LANG_ENGLISH		"^1UMP40: ^7还有三分钟这船就会爆炸！"
+LANG_ENGLISH		"^1UMP40: ^7In three minutes this ship will be engulfed in flames."
 REFERENCE			VOX_FUL1_S06_367A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7我们必须马上下船！"
+LANG_ENGLISH		"^1ALPHA: ^7We have to get off the ship!"
 REFERENCE			VOX_FUL1_S06_368A_REZN
-LANG_ENGLISH		"^1UMP40: ^7快！我们只有两分钟了！"
+LANG_ENGLISH		"^1UMP40: ^7Hurry - We only have two minutes left!"
 REFERENCE			VOX_FUL1_S06_369A_REZN
-LANG_ENGLISH		"^1UMP40: ^7还有一分钟！离开这艘船！快！"
+LANG_ENGLISH		"^1UMP40: ^7In one minute - Fire will consume this vessel - MOVE!!"
 REFERENCE			VOX_FUL1_S06_370A_REZN
-LANG_ENGLISH		"^1UMP40: ^730秒！"
+LANG_ENGLISH		"^1UMP40: ^7Thirty seconds!"
 REFERENCE			VOX_FUL1_S06_371A_REZN
-LANG_ENGLISH		"^1UMP40: ^710秒！雷泽诺夫！"
+LANG_ENGLISH		"^1UMP40: ^7Ten seconds, 40!"
 REFERENCE			VOX_FUL1_S06_372A_REZN
-LANG_ENGLISH		"^1UMP40: ^7我们做不到！"
+LANG_ENGLISH		"^1UMP40: ^7We're not going to make it!"
 REFERENCE			VOX_FUL1_S06_373A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7雷泽诺夫！射击横梁！"
+LANG_ENGLISH		"^1ALPHA: ^740! Shoot the beams!"
 REFERENCE			VOX_FUL1_S06_374A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7快点！把那些起重架弄下来!"
+LANG_ENGLISH		"^1ALPHA: ^7Hurry! Bring down those gantries!"
 REFERENCE			VOX_FUL1_S06_375A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7射击横梁！雷泽诺夫！这是我们唯一的出路！"
+LANG_ENGLISH		"^1ALPHA: ^7Shoot the beams, 40! It's our only way out!"
 REFERENCE			VOX_FUL1_S06_376A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7我们要下到甲板上去！"
+LANG_ENGLISH		"^1ALPHA: ^7We've got to get down to the deck!"
 REFERENCE			VOX_FUL1_S06_377A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7雷泽诺夫！我们可以从窗户爬出去！"
+LANG_ENGLISH		"^1ALPHA: ^740, we can climb out that window!"
 REFERENCE			VOX_FUL1_S06_378A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7快！从窗户出去！"
+LANG_ENGLISH		"^1ALPHA: ^7Hurry, out the window!"
 REFERENCE			VOX_FUL1_S99_700A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7目标倒下"
+LANG_ENGLISH		"^1ALPHA: ^7Target down."
 REFERENCE			VOX_FUL1_S99_701A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7他死了"
+LANG_ENGLISH		"^1ALPHA: ^7He's dead."
 REFERENCE			VOX_FUL1_S99_702A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7你打中他了"
+LANG_ENGLISH		"^1ALPHA: ^7You got him."
 REFERENCE			VOX_FUL1_S99_703A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7敌人倒下"
+LANG_ENGLISH		"^1ALPHA: ^7Enemy down"
 REFERENCE			VOX_FUL1_S99_704A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7他完了"
+LANG_ENGLISH		"^1ALPHA: ^7He's down"
 REFERENCE			VOX_FUL1_S99_705A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7目标终结"
+LANG_ENGLISH		"^1ALPHA: ^7Target eliminated"
 REFERENCE			VOX_FUL1_S99_706A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7确认击杀目标"
+LANG_ENGLISH		"^1ALPHA: ^7Confirmed kill"
 REFERENCE			VOX_FUL1_S99_707A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7又杀一个"
+LANG_ENGLISH		"^1ALPHA: ^7That's a kill"
 REFERENCE			VOX_FUL1_S99_708A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7敌人被击毙"
+LANG_ENGLISH		"^1ALPHA: ^7Enemy neutralized"
 REFERENCE			VOX_FUL1_S99_709A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7你打中他了"
+LANG_ENGLISH		"^1ALPHA: ^7You got him."
 REFERENCE			VOX_FUL1_S99_710A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7装填子弹！"
+LANG_ENGLISH		"^1ALPHA: ^7Reloading"
 REFERENCE			VOX_FUL1_S99_711A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7我要装填子弹"
+LANG_ENGLISH		"^1ALPHA: ^7I need to reload"
 REFERENCE			VOX_FUL1_S99_712A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7正在装填"
+LANG_ENGLISH		"^1ALPHA: ^7I am reloading"
 REFERENCE			VOX_FUL1_S99_713A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7装填中，掩护我"
+LANG_ENGLISH		"^1ALPHA: ^7Reloading. Give me cover"
 REFERENCE			VOX_FUL1_S99_714A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7装填中，快掩护！"
+LANG_ENGLISH		"^1ALPHA: ^7Reloading. Maintain cover."
 REFERENCE			VOX_FUL1_S99_715A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7手雷！"
-REFERENCE			VOX_FUL1_S99_716A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7他完了"
-REFERENCE			VOX_FUL1_S99_717A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7你打中他了"
-REFERENCE			VOX_FUL1_S99_718A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7又杀一个"
+LANG_ENGLISH		"^1ALPHA: ^7Grenade in."
 REFERENCE			VOX_FUL1_S99_719A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7快！"
+LANG_ENGLISH		"^1ALPHA: ^7Move!"
 REFERENCE			VOX_FUL1_S99_720A_NEVS
-LANG_ENGLISH		"^1诺维斯基: ^7前面！"
+LANG_ENGLISH		"^1ALPHA: ^7Forward!"
 ENDMARKER
