@@ -37,7 +37,7 @@ LANG_ENGLISH		"^L0500 hours,^L ^C1February 18, 1968^C"
 REFERENCE			INTRO_EXTRA
 LANG_ENGLISH		"^LBlackbird over watch underway, codename: BIGEYE^L"
 REFERENCE			INTRO_LEVELNAME
-LANG_ENGLISH		"^LTransmission # 9-19. Designate: MIKE^L"
+LANG_ENGLISH		"^LTransmission # 6-23-4. Designate: MIKE^L"
 REFERENCE			INTRO_LOCATION
 LANG_ENGLISH		"^C1Beale AFB, Calif.^C"
 REFERENCE			INTRO_NAME

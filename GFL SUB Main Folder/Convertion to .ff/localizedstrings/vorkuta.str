@@ -25,7 +25,7 @@ REFERENCE			INTROSCREEN_DATE
 LANG_ENGLISH		"^L0600 hrs^L ^C1October 6, 1963^C"
 
 REFERENCE			INTROSCREEN_EXTRA
-LANG_ENGLISH		"^LTransmission# 9-19. Designate: OSCAR^L"
+LANG_ENGLISH		"^LTransmission # 4-24-21-8-8-19-8. Designate: OSCAR^L"
 
 REFERENCE			INTROSCREEN_PLACE
 LANG_ENGLISH		"^LBut the exact whereabouts of^L ^C1UMP45^C ^Lis unknown^L"

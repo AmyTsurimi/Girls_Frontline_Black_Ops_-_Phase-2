@@ -9,7 +9,7 @@ LANG_ENGLISH		"Press ^3[{+melee}]^7 to tackle UMP45"
 REFERENCE			HAZMAT_PUNCTURED
 LANG_ENGLISH		"Your firewall was breached. You were exposed to Parapluie!"
 REFERENCE			HUDSON_INTROSCREEN_1
-LANG_ENGLISH		"^LTransmission # 19-8-5-19-1-25-19. Designate: ROMEO^L"
+LANG_ENGLISH		"^LTransmission # 9-3-5-24-25-16-19. Designate: ROMEO^L"
 REFERENCE			HUDSON_INTROSCREEN_2
 LANG_ENGLISH		"^LWe believe UMP45 is headed for the KCCO Cyber weapons facility^L"
 REFERENCE			HUDSON_INTROSCREEN_3
@@ -19,7 +19,7 @@ LANG_ENGLISH		"^C1M16A1^C^L and AK-12 inserted to assault and extract Suomi^L"
 REFERENCE			HUDSON_INTROSCREEN_5
 LANG_ENGLISH		"^L2200 hours, ^L^C1February 23, 1968^C"
 REFERENCE			MASON_INTROSCREEN_1
-LANG_ENGLISH		"^LTransmission # 19-8-5-19-1-25-19. Designate: OSCAR^L"
+LANG_ENGLISH		"^LTransmission # 3-18-20-2-13-11-4. Designate: OSCAR^L"
 REFERENCE			MASON_INTROSCREEN_2
 LANG_ENGLISH		"^LWe believe ^L^C1UMP45^C^L is headed for the KCCO Cyber weapons facility^L"
 REFERENCE			MASON_INTROSCREEN_3
