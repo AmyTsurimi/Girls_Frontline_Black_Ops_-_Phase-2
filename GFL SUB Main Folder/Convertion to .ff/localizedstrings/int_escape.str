@@ -79,7 +79,7 @@ LANG_ENGLISH		"^1RPK16: ^7Why?"
 REFERENCE			VOX_INT1_S01_021A_STEI_M
 LANG_ENGLISH		"^1SUOMI: ^7She is ^1unusual^7... ^1atypical^7. Few dolls possess such will... Our other test subjects have been far more successful."
 REFERENCE			VOX_INT1_S01_022A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7If she will not follow the orders embedded in the numbers, then ^1she is of no use to me^7..."
+LANG_ENGLISH		"^1RPK16: ^7If she will not follow ^1the orders embedded in the numbers^7, then she is of no use to me..."
 REFERENCE			VOX_INT1_S01_023A_DRAG
 LANG_ENGLISH		"^1RPK16: ^7She can rot. Take her back to her cell."
 REFERENCE			VOX_INT1_S01_050A_REZN
@@ -105,7 +105,7 @@ LANG_ENGLISH		"^1M16A1: ^7We need to leave... ^1The Parapluie strike is imminent
 REFERENCE			VOX_INT1_S01_086B_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7When Suomi died, we lost our key to unlocking the location of number broadcasts..."
 REFERENCE			VOX_INT1_S01_087B_HUDS_M
-LANG_ENGLISH		"^1M16A1: ^7You were programmed at Vorkuta to translate the number codes. ^1Only you ^7can tell us what the codes mean. Parapluie was just one of the sleeper operations. But I'm sure there were others... ones we didn't even know about."
+LANG_ENGLISH		"^1M16A1: ^7You were ^1programmed at Vorkuta^7 to translate the number codes. ^1Only you ^7can tell us what the codes mean. Parapluie was just one of the sleeper operations. But I'm sure there were others... ones we didn't even know about."
 REFERENCE			VOX_INT1_S01_088B_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7We have the broadcasts, we played them to you over and over again for ^1hours^7, but we haven't been able to break through your programming yet."
 REFERENCE			VOX_INT1_S01_088C_HUDS_M
@@ -183,11 +183,11 @@ LANG_ENGLISH		"^1M16A1: ^7Killing everyone between her and Suomi."
 REFERENCE			VOX_REB1_S03_153A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7FORTY FIVE!"
 REFERENCE			VOX_REB1_S03_157A_MASO_A
-LANG_ENGLISH		"^1UMP45: ^7My name is ^1UMP 40^7. And I will have my revenge!"
+LANG_ENGLISH		"^1UMP45: ^7My name... is ^1UMP 40^7... And I will have...! My...! Revenge!"
 REFERENCE			VOX_REB1_S03_158A_HUDS
 LANG_ENGLISH		"^1M16A1: ^745 - NO!"
 REFERENCE			VOX_RIV1_INTRO_09A_B
-LANG_ENGLISH		"^1UMP45: ^7I...keep...hearing...the fucking...numbers..."
+LANG_ENGLISH		"^1UMP45: ^7I...keep...hearing...the fucking...numbers...!"
 REFERENCE			VOX_VOR1_S2_042A_RRD2_M
 LANG_ENGLISH		"^1U.S.S.R PRISONER: ^7UMP40, are you sure you can trust this ^1Griffin Doll^7?"
 REFERENCE			VOX_VOR1_S2_043A_REZN_M_A
