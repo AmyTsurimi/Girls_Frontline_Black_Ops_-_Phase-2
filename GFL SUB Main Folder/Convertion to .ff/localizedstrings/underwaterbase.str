@@ -1,7 +1,7 @@
 REFERENCE			HELI_INSTRUCTION_3
 LANG_ENGLISH		"Press ^3[{+melee}]^7 to zoom in and out"
 REFERENCE			INTROSCREEN_1
-LANG_ENGLISH		"^LTransmission # 24-19-23-8-9-26. Designate: YANKEE^L"
+LANG_ENGLISH		"^LTransmission # 13-13-12-19. Designate: YANKEE^L"
 REFERENCE			INTROSCREEN_2
 LANG_ENGLISH		"^C1UMP45^C^L, M16A1 and AK-12 headed to intercept KCCO Commercial ship Rusalka.^L"
 REFERENCE			INTROSCREEN_3

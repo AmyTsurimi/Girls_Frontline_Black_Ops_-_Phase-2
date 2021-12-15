@@ -39,7 +39,7 @@ LANG_ENGLISH		"EXECUTIVE ORDER"
 REFERENCE			LEVEL_FLASHPOINT_DESC
 LANG_ENGLISH		"Strike down the angel of KCCO and its creators."
 REFERENCE			LEVEL_FULLAHEAD_CAPS
-LANG_ENGLISH		"PROJECT NOVA"
+LANG_ENGLISH		"PROJECT ZONTIK"
 REFERENCE			LEVEL_FULLAHEAD_DESC
 LANG_ENGLISH		"Heroes, loyalty, and beliefs. The price to pay in the awakening of Parapluie from its slumber."
 REFERENCE			LEVEL_HUE_CITY_CAPS
@@ -51,7 +51,7 @@ LANG_ENGLISH		"REVELATIONS"
 REFERENCE			LEVEL_INTERROGATION_ESCAPE_DESC
 LANG_ENGLISH		"Be like a butterfly escaping its cocoon. See the world for real, now for the first time..."
 REFERENCE			LEVEL_KHE_SANH_CAPS
-LANG_ENGLISH		"S.O.G."
+LANG_ENGLISH		"404"
 REFERENCE			LEVEL_KHE_SANH_DESC
 LANG_ENGLISH		"Old shadow looms over the new frontier. May your old allies help you, in your search after old enemies."
 REFERENCE			LEVEL_KOWLOON_CAPS
@@ -59,7 +59,7 @@ LANG_ENGLISH		"NUMBERS"
 REFERENCE			LEVEL_KOWLOON_DESC
 LANG_ENGLISH		"To understand the rain, one must understand the numbers. The answer might lie within the knowledge of this doll."
 REFERENCE			LEVEL_PENTAGON_CAPS
-LANG_ENGLISH		"U.S.S.D"
+LANG_ENGLISH		"G.K.HQ"
 REFERENCE			LEVEL_PENTAGON_DESC
 LANG_ENGLISH		"Back at Griffin, meet with the Commander to discuss the infectious virus posed by Sangvis Ferri."
 REFERENCE			LEVEL_POW_CAPS
@@ -82,6 +82,8 @@ REFERENCE			LEVEL_VORKUTA_CAPS
 LANG_ENGLISH		"VORKUTA"
 REFERENCE			LEVEL_VORKUTA_DESC
 LANG_ENGLISH		"Escape from Vorkuta; at a cost. An eye for an eye, an arm for an arm, a life for a life."
+REFERENCE			LEVEL_WMD_CAPS
+LANG_ENGLISH		"RMD"
 REFERENCE			LEVEL_WMD_DESC
 LANG_ENGLISH		"The numbers whispers from deepths of the giants' den. Will you overcome the challenge or will you be buried under its weight?"
 ENDMARKER

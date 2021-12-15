@@ -7,7 +7,7 @@ LANG_ENGLISH		"^LExtraction team:^L ^C1M16A1^C^L, AK-12 and Station 3 operatives
 REFERENCE			INTROSCREEN_PLACE
 LANG_ENGLISH		"^LTarget: T-Doll RFB located in^L ^C1Kowloon City, Hong Kong.^C"
 REFERENCE			INTROSCREEN_TITLE
-LANG_ENGLISH		"^LTransmission # 3-20-19-10-2-18.  Designate: LIMA^L"
+LANG_ENGLISH		"^LTransmission # 4-8-16-21-20-6-24-8-18-18-19-8.  Designate: LIMA^L"
 REFERENCE			JUMP_DEATH
 LANG_ENGLISH		"You need to sprint and jump to make it across."
 REFERENCE			NOVA6_DEATH

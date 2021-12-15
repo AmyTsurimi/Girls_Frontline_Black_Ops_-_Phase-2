@@ -63,7 +63,7 @@ LANG_ENGLISH		"^C1UMP45^C^L, HK416 and UMP9 have orders to eliminate all threats
 REFERENCE			INTROSCREEN_PLACE
 LANG_ENGLISH		"^C1Baikonur, U.S.S.R.^C^L: Intel confirms RPK16 and Bureau group on site.^L"
 REFERENCE			INTROSCREEN_TITLE
-LANG_ENGLISH		"^LPresidential Order # 20-8-20-3-6-25-3. Designate: KILO^L"
+LANG_ENGLISH		"^LPresidential Order # 23-16-11-4-23-11. Designate: KILO^L"
 REFERENCE			LIMO_DESTROYED
 LANG_ENGLISH		"Limo Destroyed!"
 REFERENCE			LIMO_ESCAPED
