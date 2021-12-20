@@ -10,537 +10,533 @@ REFERENCE			INTRO_LINE_TWO
 LANG_ENGLISH		"^L404 team to investigate evidence of KCCO involvement in^L ^C1Vietnam.^C"
 
 REFERENCE			OBJ_HUDSON_SAFETY
-LANG_ENGLISH		"将哈德森转移至掩体内"
+LANG_ENGLISH		"Get M16A1 to the bunker"
 
 REFERENCE			OBJ_SAVE_WOODS
-LANG_ENGLISH		"去救伍兹"
+LANG_ENGLISH		"Save HK416"
 REFERENCE			OBJ_WOODS_CLEAR_TRENCH
-LANG_ENGLISH		"清空战壕"
+LANG_ENGLISH		"Clear the trenches"
 
 REFERENCE			VOX_KHE1_S01_001A_HUDS_M
-LANG_ENGLISH		"^1M16A1: ^7伍兹，他在这。"
+LANG_ENGLISH		"^1M16A1: ^7HK-M4, she's here..."
 REFERENCE			VOX_KHE1_S01_002A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7梅森！"
+LANG_ENGLISH		"^1HK416: ^745!"
 REFERENCE			VOX_KHE1_S01_003A_MASO
-LANG_ENGLISH		"^1UMP45: ^7 伍兹！你看起来就像坨大便一样."
+LANG_ENGLISH		"^1UMP45: ^7416! You look like hammered shit."
 REFERENCE			VOX_KHE1_S01_003A_MASO_S
-LANG_ENGLISH		"^1UMP45: ^7 伍兹！你看起来就像件垃圾"
+LANG_ENGLISH		"^1UMP45: ^7416! You look like crap."
 REFERENCE			VOX_KHE1_S01_003B_MASO
-LANG_ENGLISH		"^1UMP45: ^7 伍兹,你看起来就像坨大便."
+LANG_ENGLISH		"^1UMP45: ^7416, you look like hammered shit."
 REFERENCE			VOX_KHE1_S01_003B_MASO_S
-LANG_ENGLISH		"^1UMP45: ^7 你看上去就像地狱伍兹~"
+LANG_ENGLISH		"^1UMP45: ^7You look like Hell 416."
 REFERENCE			VOX_KHE1_S01_004A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 在丛林里谁他妈管自己好不好看，这里是越南！宝贝儿！"
+LANG_ENGLISH		"^1HK416: ^7Looks don't count for shit in the jungle. This is 'Nam baby!"
 REFERENCE			VOX_KHE1_S01_004A_WOOD_M_S
-LANG_ENGLISH		"^1HK416: ^7 在丛林里谁管自己好不好看，这里是越南，宝贝儿！"
+LANG_ENGLISH		"^1HK416: ^7Looks don't count in the jungle. This is 'Nam baby!"
 REFERENCE			VOX_KHE1_S01_005A_MASO
-LANG_ENGLISH		"^1UMP45: ^7 很高兴见到你."
+LANG_ENGLISH		"^1UMP45: ^7It's good to see ya."
 REFERENCE			VOX_KHE1_S01_006A_HUDS_M
-LANG_ENGLISH		"^1M16A1: ^7我是杰森，哈德森，中情局的-谢谢你能抽空过来，中士."
+LANG_ENGLISH		"^1M16A1: ^7M16A1, Anti Rain - Thank you for your time HK-M4."
 REFERENCE			VOX_KHE1_S01_007A_HUDS_M
-LANG_ENGLISH		"^1M16A1: ^7我已经把目前的情况大致给梅森说过了."
+LANG_ENGLISH		"^1M16A1: ^7I've already briefed 45 broadly about the situation..."
 REFERENCE			VOX_KHE1_S01_008A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 我会帮你补充的"
+LANG_ENGLISH		"^1HK416: ^7Let me fill in the blanks for you..."
 REFERENCE			VOX_KHE1_S01_009A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 到64年时，中情局放弃了对东南亚的秘密行动，把指挥权交给了美军."
+LANG_ENGLISH		"^1HK416: ^7Back in '64, the URNC gave up control of Covert Operations in South East Asia. Handed it over to the Griffin Military."
 REFERENCE			VOX_KHE1_S01_010A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 从那开始，MACV-SOG（美军特种部队）就诞生了"
+LANG_ENGLISH		"^1HK416: ^7From that, Group 404 was born."
 REFERENCE			VOX_KHE1_S01_011A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 现在，溪山要塞除了作为一个海军陆战队基地外，也是我们开展跨国行动的据点"
+LANG_ENGLISH		"^1HK416: ^7Now aside from being a base for the Griffin T-Dolls, Khe Sanh is our launching point for all cross border activities."
 REFERENCE			VOX_KHE1_S01_012A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 主要目标是老挝和柬埔寨."
+LANG_ENGLISH		"^1HK416: ^7Mostly Laos and Cambodia..."
 REFERENCE			VOX_KHE1_S01_013A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 任务是物资供给。破坏行动，进行黑色宣传，战略侦察以及营救战俘..."
+LANG_ENGLISH		"^1HK416: ^7Missions are SND, Sabotage, Black Propaganda, Strategic Recon, POW rescue..."
 REFERENCE			VOX_KHE1_S01_014A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 你明白吧，老样子…"
+LANG_ENGLISH		"^1HK416: ^7You know, usual shit..."
 REFERENCE			VOX_KHE1_S01_014A_WOOD_M_S
-LANG_ENGLISH		"^1HK416: ^7 你知道…"
+LANG_ENGLISH		"^1HK416: ^7You know..."
 REFERENCE			VOX_KHE1_S01_154A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 哈哈，我也是…"
+LANG_ENGLISH		"^1HK416: ^7Yeah, you too..."
 REFERENCE			VOX_KHE1_S01_155A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 恩…"
+LANG_ENGLISH		"^1HK416: ^7Right...."
 REFERENCE			VOX_KHE1_S01_500_US0
-LANG_ENGLISH		"^1T-DOLL: ^7 走！走！"
+LANG_ENGLISH		"^1T-DOLL: ^7Go Go!"
 REFERENCE			VOX_KHE1_S01_501_US0
-LANG_ENGLISH		"^1T-DOLL: ^7 快，走！"
+LANG_ENGLISH		"^1T-DOLL: ^7Quick, do it!"
 REFERENCE			VOX_KHE1_S01_502_WOOD
-LANG_ENGLISH		"^1HK416: ^7 他妈的到底怎么了！"
+LANG_ENGLISH		"^1HK416: ^7What the FUCK!"
 REFERENCE			VOX_KHE1_S01_502_WOOD_S
-LANG_ENGLISH		"^1HK416: ^7 这到底是？"
+LANG_ENGLISH		"^1HK416: ^7What the HELL!"
 REFERENCE			VOX_KHE1_S01_503_WOOD
-LANG_ENGLISH		"^1HK416: ^7 看上面！"
+LANG_ENGLISH		"^1HK416: ^7Heads UP!"
 REFERENCE			VOX_KHE1_S01_504_WOOD
-LANG_ENGLISH		"^1HK416: ^7 小心！"
+LANG_ENGLISH		"^1HK416: ^7LOOK OUT!"
 REFERENCE			VOX_KHE1_S01_505_WOOD
-LANG_ENGLISH		"^1HK416: ^7 操！！！！！"
+LANG_ENGLISH		"^1HK416: ^7FUUUUCKKK!"
 REFERENCE			VOX_KHE1_S01_505_WOOD_S
-LANG_ENGLISH		"^1HK416: ^7 啊！！！！！"
+LANG_ENGLISH		"^1HK416: ^7AHHHHHHHH!"
 REFERENCE			VOX_KHE1_S01_506_WOOD
-LANG_ENGLISH		"^1HK416: ^7 啊！！！！！！！"
+LANG_ENGLISH		"^1HK416: ^7AHHHHHHHH!"
 REFERENCE			VOX_KHE1_S01_507_WOOD
-LANG_ENGLISH		"^1HK416: ^7 掩护我！"
+LANG_ENGLISH		"^1HK416: ^7Give me cover!"
 REFERENCE			VOX_KHE1_S01_700A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7溪山要塞被围，哈德森也倒下了，但你仍旧冒险像救威夫尔那样救他"
+LANG_ENGLISH		"^1INTERROGATOR: ^7M16A1 was down and Khe Sanh was under siege. But like with AK-12, you risked your life to save her."
 REFERENCE			VOX_KHE1_S01_701A_MASO
-LANG_ENGLISH		"^1UMP45: ^7 哈德森像他妈的冰一样,但这正是我喜欢这个混蛋的地方"
+LANG_ENGLISH		"^1UMP45: ^7M16 was a fucking ice cube, but that's why I liked the bastard."
 REFERENCE			VOX_KHE1_S01_701A_MASO_S
-LANG_ENGLISH		"^1UMP45: ^7 是啊…哈德森就像一个冰块那么冷…但这正是我喜欢他的原因."
+LANG_ENGLISH		"^1UMP45: ^7Yeah... M16 was a ice cube... That's why I liked the bastard."
 REFERENCE			VOX_KHE1_S01_702A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7你的任务是优先到达胡志明市，但你那时仍旧守卫溪山要塞，这不是你的任务目标"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Your mission priority was to get to Hue City, but you all stayed behind to defend Khe Sanh. That wasn't your objective."
 REFERENCE			VOX_KHE1_S01_703A_MASO
-LANG_ENGLISH		"^1UMP45: ^7 你显然不了解伍兹，他知道，溪山要塞需要我们支援，这根本不用去做决定."
+LANG_ENGLISH		"^1UMP45: ^7You obviously didn't know 416. She knew Khe Sanh needed our help. There's no decision to make."
 REFERENCE			VOX_KHE1_S01_704A_MASO_M
-LANG_ENGLISH		"^1UMP45: ^7 放松，哈德森."
+LANG_ENGLISH		"^1UMP45: ^7Easy, M16."
 REFERENCE			VOX_KHE1_S01_705A_MASO_M
-LANG_ENGLISH		"^1UMP45: ^7 我抓住你了！哈德森！放松…"
+LANG_ENGLISH		"^1UMP45: ^7I got ya M16. Easy..."
 REFERENCE			VOX_KHE1_S02_015A_RED1
-LANG_ENGLISH		"^1T-DOLL: ^7别挡着跑道!别挡着跑道！"
+LANG_ENGLISH		"^1T-DOLL: ^7Clear the runway! Clear the runway!"
 REFERENCE			VOX_KHE1_S02_016A_RED1
-LANG_ENGLISH		"^1T-DOLL: ^7敌袭，小心!!!"
+LANG_ENGLISH		"^1T-DOLL: ^7INCOMING!!!"
 REFERENCE			VOX_KHE1_S02_017A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 梅森！这边！"
+LANG_ENGLISH		"^1HK416: ^745! Over here!"
 REFERENCE			VOX_KHE1_S02_017B_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 梅森！这边，哈德森倒下了！"
+LANG_ENGLISH		"^1HK416: ^745! Over here! M16's down."
 REFERENCE			VOX_KHE1_S02_018A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 我们要把他弄走."
+LANG_ENGLISH		"^1HK416: ^7We gotta move her."
 REFERENCE			VOX_KHE1_S02_019A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 把他带去掩体里！我掩护你！走！"
+LANG_ENGLISH		"^1HK416: ^7Get her to the bunker! I'll cover you - GO!"
 REFERENCE			VOX_KHE1_S02_100A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 你赶上了一个他妈的好时候！"
+LANG_ENGLISH		"^1HK416: ^7You picked a hell of a day to drop by!"
 REFERENCE			VOX_KHE1_S02_101A_MASO
-LANG_ENGLISH		"^1UMP45: ^7 我在这里是因为你投靠了毛子！"
+LANG_ENGLISH		"^1UMP45: ^7I'm here because of your run in with the KCCO!"
 REFERENCE			VOX_KHE1_S02_102A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 等一会儿！"
+LANG_ENGLISH		"^1HK416: ^7Wait for it..."
 REFERENCE			VOX_KHE1_S02_103A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 撤退！撤退！"
+LANG_ENGLISH		"^1HK416: ^7Pull back! Pull back!"
 REFERENCE			VOX_KHE1_S02_156A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 该死的"
+LANG_ENGLISH		"^1HK416: ^7Damn!"
 REFERENCE			VOX_KHE1_S02_156A_WOOD_S
-LANG_ENGLISH		"^1HK416: ^7 啊！！！！！！"
+LANG_ENGLISH		"^1HK416: ^7AHHHHHHHH!"
 REFERENCE			VOX_KHE1_S03_021A_MASO
-LANG_ENGLISH		"^1UMP45: ^7 哈德森？"
+LANG_ENGLISH		"^1UMP45: ^7M16A1?"
 REFERENCE			VOX_KHE1_S03_022A_HUDS_M
-LANG_ENGLISH		"^1M16A1: ^7我还好…"
+LANG_ENGLISH		"^1M16A1: ^7I'm okay..."
 REFERENCE			VOX_KHE1_S03_026A_MASO
-LANG_ENGLISH		"^1UMP45: ^7 哈德森！我们走！"
+LANG_ENGLISH		"^1UMP45: ^7We gotta move, M16!"
 REFERENCE			VOX_KHE1_S03_027A_HUDS
-LANG_ENGLISH		"^1HK416: ^7 我和你一起！"
+LANG_ENGLISH		"^1M16A1: ^7I'm with you!"
 REFERENCE			VOX_KHE1_S03_030A_RED2
-LANG_ENGLISH		"^1T-DOLL: ^7 操…啊！！！！！！"
+LANG_ENGLISH		"^1T-DOLL: ^7Fuck... GRENAAAAADE!!!"
 REFERENCE			VOX_KHE1_S03_030A_RED2_S
-LANG_ENGLISH		"^1T-DOLL: ^7 啊啊啊！！！！！！"
+LANG_ENGLISH		"^1T-DOLL: ^7GRENAAAAADE!!!"
 REFERENCE			VOX_KHE1_S03_033A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 快！"
+LANG_ENGLISH		"^1HK416: ^7Come on!"
 REFERENCE			VOX_KHE1_S03_034A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 该死！"
+LANG_ENGLISH		"^1HK416: ^7Shit!!"
 REFERENCE			VOX_KHE1_S03_034A_WOOD_S
-LANG_ENGLISH		"^1HK416: ^7 我靠！"
+LANG_ENGLISH		"^1HK416: ^7Damn!"
 REFERENCE			VOX_KHE1_S03_035A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 快走！梅森！"
+LANG_ENGLISH		"^1HK416: ^7Move it, 45!"
 REFERENCE			VOX_KHE1_S03_036A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 该死的！"
+LANG_ENGLISH		"^1HK416: ^7Shit!"
 REFERENCE			VOX_KHE1_S03_036A_WOOD_S
-LANG_ENGLISH		"^1HK416: ^7 我靠！"
+LANG_ENGLISH		"^1HK416: ^7Damn!"
 REFERENCE			VOX_KHE1_S04_037A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 这没有结束…我们走！"
+LANG_ENGLISH		"^1HK416: ^7It ain't over yet... Let's go!"
 REFERENCE			VOX_KHE1_S04_038A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 该死！他们向我们冲过来了！"
+LANG_ENGLISH		"^1HK416: ^7Shit! Infantry comin' right at us!"
 REFERENCE			VOX_KHE1_S04_038A_WOOD_M_S
-LANG_ENGLISH		"^1HK416: ^7 倒霉！他们向我们冲过来了！"
+LANG_ENGLISH		"^1HK416: ^7Crap! Infantry comin' right at us!"
 REFERENCE			VOX_KHE1_S04_039A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 我们在20码外埋了一排汽油弹！"
+LANG_ENGLISH		"^1HK416: ^7We got a line of napalm barrels buried about twenty yards out!"
 REFERENCE			VOX_KHE1_S04_040A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 只要按下这个…"
+LANG_ENGLISH		"^1HK416: ^7Just hit this..."
 REFERENCE			VOX_KHE1_S04_041A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 Fugassi矿山,梅森！"
+LANG_ENGLISH		"^1HK416: ^7Fugassi mine, 45."
 REFERENCE			VOX_KHE1_S04_042A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 当地军队会喜欢这个的…"
+LANG_ENGLISH		"^1HK416: ^7The local forces love 'em..."
 REFERENCE			VOX_KHE1_S04_043A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 如果你有需要就用它们！"
+LANG_ENGLISH		"^1HK416: ^7Use 'em if you need to."
 REFERENCE			VOX_KHE1_S04_044A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 梅森！他们来了！"
+LANG_ENGLISH		"^1HK416: ^7Here they come, 45."
 REFERENCE			VOX_KHE1_S04_045A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 等等…"
+LANG_ENGLISH		"^1HK416: ^7Wait for it..."
 REFERENCE			VOX_KHE1_S04_046A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 还没…"
+LANG_ENGLISH		"^1HK416: ^7Not yet."
 REFERENCE			VOX_KHE1_S04_047A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 就是现在！"
+LANG_ENGLISH		"^1HK416: ^7NOW!"
 REFERENCE			VOX_KHE1_S04_048A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 炸了它！梅森！"
+LANG_ENGLISH		"^1HK416: ^7Blow it 45!"
 REFERENCE			VOX_KHE1_S04_049A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 打那些掉队的人！"
+LANG_ENGLISH		"^1HK416: ^7Get the stragglers!"
 REFERENCE			VOX_KHE1_S04_050A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 该死！太早了！他们还在冲过来！"
+LANG_ENGLISH		"^1HK416: ^7Shit, too early! They're still comin'!"
 REFERENCE			VOX_KHE1_S04_050A_WOOD_S
-LANG_ENGLISH		"^1HK416: ^7 太早了，他们还在冲过来！"
+LANG_ENGLISH		"^1HK416: ^7Too early! They're still comin'!"
 REFERENCE			VOX_KHE1_S04_051A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 太晚了！他们几乎就在我们头顶！"
+LANG_ENGLISH		"^1HK416: ^7Too late, 45! They're almost on us!"
 REFERENCE			VOX_KHE1_S04_052A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 去MG那里！"
+LANG_ENGLISH		"^1HK416: ^7Get to the MGS!"
 REFERENCE			VOX_KHE1_S04_053A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 打右边那个"
+LANG_ENGLISH		"^1HK416: ^7Take the one on the right!"
 REFERENCE			VOX_KHE1_S04_054A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 来吧！你们这些混蛋！"
+LANG_ENGLISH		"^1HK416: ^7Come on you bastards!!!"
 REFERENCE			VOX_KHE1_S04_055A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 啊！！！！！！！"
+LANG_ENGLISH		"^1HK416: ^7Raaaaarrrgh!!!"
 REFERENCE			VOX_KHE1_S04_056A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 来啊！再多来点！！！！！"
+LANG_ENGLISH		"^1HK416: ^7Come on, bring it on!!!"
 REFERENCE			VOX_KHE1_S04_056B_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 来吧！混蛋们！！"
+LANG_ENGLISH		"^1HK416: ^7Bring it you rat bastards!"
 REFERENCE			VOX_KHE1_S04_057A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 该死的！！！"
+LANG_ENGLISH		"^1HK416: ^7Dammit!!!"
 REFERENCE			VOX_KHE1_S04_058A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 捡起那个China Lake,梅森！"
+LANG_ENGLISH		"^1HK416: ^7Grab that China Lake, 45!"
 REFERENCE			VOX_KHE1_S04_059A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 让我们再喂他们一点手雷！！"
+LANG_ENGLISH		"^1HK416: ^7Let's feed 'em some grenades!"
 REFERENCE			VOX_KHE1_S04_060A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 向他们开火！！"
+LANG_ENGLISH		"^1HK416: ^7Hit 'em!!!"
 REFERENCE			VOX_KHE1_S04_061A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 他们从四周冲来了！"
+LANG_ENGLISH		"^1HK416: ^7They're breachin' the perimeter!"
 REFERENCE			VOX_KHE1_S04_062A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 现在没有东西能挡住他们了."
+LANG_ENGLISH		"^1HK416: ^7No fugassi line to hold 'em back this time."
 REFERENCE			VOX_KHE1_S04_063A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 我们还需要更多桶装炸药！梅森！"
+LANG_ENGLISH		"^1HK416: ^7We need to improvise, 45."
 REFERENCE			VOX_KHE1_S04_064A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 再多一点！"
+LANG_ENGLISH		"^1HK416: ^7We need more!"
 REFERENCE			VOX_KHE1_S04_065A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 烧死这些杂种们！"
+LANG_ENGLISH		"^1HK416: ^7Let's light these bastards up!"
 REFERENCE			VOX_KHE1_S04_066A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 就是现在！梅森！干吧！"
+LANG_ENGLISH		"^1HK416: ^7Now, 45! Do it!"
 REFERENCE			VOX_KHE1_S04_104A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 该死的！我们遇上装甲部队了！俄式T-55坦克！"
+LANG_ENGLISH		"^1HK416: ^7Shit... We got armor moving up - KCCO Typhon's!"
 REFERENCE			VOX_KHE1_S04_104A_WOOD_S
-LANG_ENGLISH		"^1HK416: ^7 我们遇上装甲部队了！俄式T-55坦克！"
+LANG_ENGLISH		"^1HK416: ^7We got armor moving up - KCCO Typhon's!"
 REFERENCE			VOX_KHE1_S04_105A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 那个China lake不能阻止它们！"
+LANG_ENGLISH		"^1HK416: ^7That China lake ain't gonna cut it!"
 REFERENCE			VOX_KHE1_S04_106A_WOOD
-LANG_ENGLISH		"^1HK416: ^7我们需要大家伙！ "
+LANG_ENGLISH		"^1HK416: ^7We need something bigger."
 REFERENCE			VOX_KHE1_S04_107A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 到我这里来！"
+LANG_ENGLISH		"^1HK416: ^7On me..."
 REFERENCE			VOX_KHE1_S04_108A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 原来有苏联坦克…难怪他们会变得大胆的冲过来."
+LANG_ENGLISH		"^1HK416: ^7KCCO tanks... No wonder they're getting' bold."
 REFERENCE			VOX_KHE1_S04_109A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 拿着-这个LAW火箭发射器干掉这些坦克！"
+LANG_ENGLISH		"^1HK416: ^7Here - this LAW rocket will burst 'em wide open."
 REFERENCE			VOX_KHE1_S04_110A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 这个火箭发射器会让他们尝尝地狱般的滋味！"
+LANG_ENGLISH		"^1HK416: ^7This rocket will burst 'em wide open."
 REFERENCE			VOX_KHE1_S04_111A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 继续攻击，梅森！"
+LANG_ENGLISH		"^1HK416: ^7Light 'em up, 45!"
 REFERENCE			VOX_KHE1_S04_112A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 该死…他们还不肯放弃！"
+LANG_ENGLISH		"^1HK416: ^7Shit... The bastards ain't lettin' up!"
 REFERENCE			VOX_KHE1_S04_112A_WOOD_S
-LANG_ENGLISH		"^1HK416: ^7 那些混蛋还不肯放弃！"
+LANG_ENGLISH		"^1HK416: ^7The bastards ain't lettin' up!"
 REFERENCE			VOX_KHE1_S04_113A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 走！"
+LANG_ENGLISH		"^1HK416: ^7Move!"
 REFERENCE			VOX_KHE1_S04_114A_MAR1_M
-LANG_ENGLISH		"^1T-DOLL: ^7 我们快没子弹了！掩体右面有一个武器补给箱！"
+LANG_ENGLISH		"^1T-DOLL: ^7We're almost out of ammo! There's a weapons cache in that bunker on the right..."
 REFERENCE			VOX_KHE1_S04_115A_MAR1_M
-LANG_ENGLISH		"^1T-DOLL: ^7 该死！"
+LANG_ENGLISH		"^1T-DOLL: ^7Damn!"
 REFERENCE			VOX_KHE1_S04_116A_MAR1_M
-LANG_ENGLISH		"^1T-DOLL: ^7 但是我们没办法过去…他们就在我们右边的战壕里！"
+LANG_ENGLISH		"^1T-DOLL: ^7...But we can't get to it!... They closed our right flank!"
 REFERENCE			VOX_KHE1_S04_117A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 那些桶子，里面都装满炸药了吗？"
+LANG_ENGLISH		"^1HK416: ^7Those barrels... They full of napalm?"
 REFERENCE			VOX_KHE1_S04_118A_MAR1_M
-LANG_ENGLISH		"^1T-DOLL: ^7 是啊..我们在埋了他们之前就被打回来了."
+LANG_ENGLISH		"^1T-DOLL: ^7Yeah... we got pushed back before we could bury 'em."
 REFERENCE			VOX_KHE1_S04_119A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 很高兴听到这些，大兵们，坚持住."
+LANG_ENGLISH		"^1HK416: ^7Good to know... T-Dolls, hold your positions."
 REFERENCE			VOX_KHE1_S04_120A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 我们走！"
+LANG_ENGLISH		"^1HK416: ^7Let's fuckin' go."
 REFERENCE			VOX_KHE1_S04_120A_WOOD_M_S
-LANG_ENGLISH		"^1HK416: ^7走！"
+LANG_ENGLISH		"^1HK416: ^7Go!"
 REFERENCE			VOX_KHE1_S04_121A_WOOD
-LANG_ENGLISH		"^1HK416: ^7往前冲！"
+LANG_ENGLISH		"^1HK416: ^7Move up!"
 REFERENCE			VOX_KHE1_S04_122A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 拿起一切你需要的东西！我们要攻打右边的战壕！"
+LANG_ENGLISH		"^1HK416: ^7Grab what you need, we'll hit the left flank."
 REFERENCE			VOX_KHE1_S04_123A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 大兵们-准备冲锋！"
+LANG_ENGLISH		"^1HK416: ^7T-Dolls - be ready to move up!"
 REFERENCE			VOX_KHE1_S04_124A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 撕碎他们！"
+LANG_ENGLISH		"^1HK416: ^7Rip 'em up!!"
 REFERENCE			VOX_KHE1_S04_125A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 这样就能挡住他们了."
+LANG_ENGLISH		"^1HK416: ^7That should hold 'em."
 REFERENCE			VOX_KHE1_S04_126A_MAR1
-LANG_ENGLISH		"^1T-DOLL: ^7 他们又从另一边开始进攻了-东南方向！"
+LANG_ENGLISH		"^1T-DOLL: ^7They're making another push - South East side!"
 REFERENCE			VOX_KHE1_S04_127A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7回司令部！!"
+LANG_ENGLISH		"^1M16A1: ^7Toward the HQ!"
 REFERENCE			VOX_KHE1_S04_128A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 冲向山顶！"
+LANG_ENGLISH		"^1HK416: ^7Get up the hill!"
 REFERENCE			VOX_KHE1_S04_129A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 用散兵坑作掩护！"
+LANG_ENGLISH		"^1HK416: ^7Use the foxholes for cover!"
 REFERENCE			VOX_KHE1_S04_130A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 把头低下！"
+LANG_ENGLISH		"^1HK416: ^7Keep your heads down!"
 REFERENCE			VOX_KHE1_S04_131A_HUDS
-LANG_ENGLISH		"^1哈德森N: ^7快走！!"
+LANG_ENGLISH		"^1M16A1: ^7Move up!"
 REFERENCE			VOX_KHE1_S04_132A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 来了！！！"
+LANG_ENGLISH		"^1HK416: ^7INCOMING!!!"
 REFERENCE			VOX_KHE1_S04_133A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7那是我军队迫击炮，他们知不知道这儿有自己人？"
+LANG_ENGLISH		"^1M16A1: ^7Those are our own mortars! Do they know were here?"
 REFERENCE			VOX_KHE1_S04_134A_RED1
-LANG_ENGLISH		"^1T-DOLL: ^7 停！停！不要开火！"
+LANG_ENGLISH		"^1T-DOLL: ^7Shovel! Two five actual! Check your fire!"
 REFERENCE			VOX_KHE1_S04_135A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 继续推进！"
+LANG_ENGLISH		"^1HK416: ^7Keep pushin'!"
 REFERENCE			VOX_KHE1_S04_136A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7注意那个MG!!!"
+LANG_ENGLISH		"^1M16A1: ^7Watch that MG!!!"
 REFERENCE			VOX_KHE1_S04_137A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 妈的！这就是前夜！"
+LANG_ENGLISH		"^1HK416: ^7Fuck! They got Eve!"
 REFERENCE			VOX_KHE1_S04_139A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 毁灭的前夜！-我们的喷火坦克来了！"
+LANG_ENGLISH		"^1HK416: ^7Eve of destruction! - our flame tank!"
 REFERENCE			VOX_KHE1_S04_141A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 好了…我们得到它了."
+LANG_ENGLISH		"^1HK416: ^7Alright... We're takin' it."
 REFERENCE			VOX_KHE1_S04_142A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 杀光他们！"
+LANG_ENGLISH		"^1HK416: ^7Take out the crew!"
 REFERENCE			VOX_KHE1_S04_143A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 我要那个卡车变成碎片！"
+LANG_ENGLISH		"^1HK416: ^7I want that truck in one piece!"
 REFERENCE			VOX_KHE1_S04_144A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 该死！我无法接近！"
+LANG_ENGLISH		"^1HK416: ^7Damn! I can't get near it!"
 REFERENCE			VOX_KHE1_S04_146A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 我知道他就像只猫一样懦弱…"
+LANG_ENGLISH		"^1HK416: ^7And I thought she was a pussy..."
 REFERENCE			VOX_KHE1_S04_146A_WOOD_S
-LANG_ENGLISH		"^1HK416: ^7 而且，我想…"
+LANG_ENGLISH		"^1HK416: ^7And I thought..."
 REFERENCE			VOX_KHE1_S04_147A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 RPG！！"
+LANG_ENGLISH		"^1HK416: ^7RPG!"
 REFERENCE			VOX_KHE1_S04_148A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 烧了他们！梅森！"
+LANG_ENGLISH		"^1HK416: ^7Burn 'em, 45!"
 REFERENCE			VOX_KHE1_S04_149A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 耶！！！"
+LANG_ENGLISH		"^1HK416: ^7YEAH!!!"
 REFERENCE			VOX_KHE1_S04_150A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 我想我们把它们全部解决了！"
+LANG_ENGLISH		"^1HK416: ^7I think we got all of 'em..."
 REFERENCE			VOX_KHE1_S04_151A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7结束了…"
+LANG_ENGLISH		"^1M16A1: ^7It's over..."
 REFERENCE			VOX_KHE1_S04_152A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 不…这只是另一个开始…"
+LANG_ENGLISH		"^1HK416: ^7No... This is the start of somethin' else..."
 REFERENCE			VOX_KHE1_S04_153A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 …他们还会回来…"
+LANG_ENGLISH		"^1HK416: ^7...They'll be back."
 REFERENCE			VOX_KHE1_S04_157A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 到塔楼上去！"
+LANG_ENGLISH		"^1HK416: ^7Get on that TOW!"
 REFERENCE			VOX_KHE1_S04_158A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 漂亮！"
+LANG_ENGLISH		"^1HK416: ^7Good kill!"
 REFERENCE			VOX_KHE1_S04_159A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 继续！"
+LANG_ENGLISH		"^1HK416: ^7Keep firing."
 REFERENCE			VOX_KHE1_S04_160A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 没时间了！"
+LANG_ENGLISH		"^1HK416: ^7We're outta time."
 REFERENCE			VOX_KHE1_S04_161A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 噢耶！！！"
+LANG_ENGLISH		"^1HK416: ^7Hell ya!"
 REFERENCE			VOX_KHE1_S04_162A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 宝贝儿！看那些混蛋越共！"
+LANG_ENGLISH		"^1HK416: ^7The fuckin' Nam, baby."
 REFERENCE			VOX_KHE1_S04_402A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 用这个火箭发射器会毁了他们！"
+LANG_ENGLISH		"^1HK416: ^7This rocket will burst 'em wide open."
 REFERENCE			VOX_KHE1_S04_403A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 对他们发射！梅森！"
+LANG_ENGLISH		"^1HK416: ^7Light 'em up, 45!"
 REFERENCE			VOX_KHE1_S04_404A_RED1
-LANG_ENGLISH		"^1T-DOLL: ^7 不要开火！停火！停火！"
+LANG_ENGLISH		"^1T-DOLL: ^7Shovel! Two Five actual! Cease fire! Cease fire!"
 REFERENCE			VOX_KHE1_S04_406A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 有一辆吉普！"
+LANG_ENGLISH		"^1HK416: ^7Now that's a jeep!"
 REFERENCE			VOX_KHE1_S04_407A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 到后座去！用反坦克导弹！"
+LANG_ENGLISH		"^1HK416: ^7Jump in back - get on the TOW."
 REFERENCE			VOX_KHE1_S04_408A_MASO
-LANG_ENGLISH		"^1UMP45: ^7这东西造的像个坦克！"
+LANG_ENGLISH		"^1UMP45: ^7This thing's built like a tank!"
 REFERENCE			VOX_KHE1_S04_409A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 是啊..但更具有机动性！"
+LANG_ENGLISH		"^1HK416: ^7Yeah... But a damn sight more maneuverable!"
 REFERENCE			VOX_KHE1_S04_410A_MASO_M
-LANG_ENGLISH		"^1UMP45: ^7鲍曼!!"
+LANG_ENGLISH		"^1UMP45: ^79!!"
 REFERENCE			VOX_KHE1_S04_411A_BOWM_M
-LANG_ENGLISH		"^1UMP9: ^7你看起来就像坨屎，梅森！"
+LANG_ENGLISH		"^1UMP9: ^7You look like hammered shit, 45."
 REFERENCE			VOX_KHE1_S04_411A_BOWM_M_S
-LANG_ENGLISH		"^1UMP9: ^7你看起来就像&$#@!,梅森！"
+LANG_ENGLISH		"^1UMP9: ^7You look like hammered &$#@!, 45."
 REFERENCE			VOX_KHE1_S04_411B_BOWM_M
-LANG_ENGLISH		"^1UMP9: ^7很高兴见到你，艾力克斯."
+LANG_ENGLISH		"^1UMP9: ^7It's good to see you 45."
 REFERENCE			VOX_KHE1_S04_412A_MASO_M
-LANG_ENGLISH		"^1UMP45: ^7呵呵，越共也会对你那样做的…"
+LANG_ENGLISH		"^1UMP45: ^7Heh... Well 'Nam'll do that to you..."
 REFERENCE			VOX_KHE1_S04_414A_HUDS_M
-LANG_ENGLISH		"^1M16A1: ^7我是杰森，哈德森, 中情局的 - 我们谈谈你在老挝遇到的俄国人吧，我们的情报显示有一个背叛者在这场战斗中...."
+LANG_ENGLISH		"^1M16A1: ^7M16A1, Anti Rain - We're here to talk about your encounter with the KCCO in Laos... We got word a defector might be in play."
 REFERENCE			VOX_KHE1_S05_405A_RED3_F
-LANG_ENGLISH		"^1T-DOLL: ^7 更多越共来了…有步兵和装甲车！"
+LANG_ENGLISH		"^1T-DOLL: ^7More NVA moving in!... Infantry and armor!"
 REFERENCE			VOX_KHE1_S99_300A_RED3
-LANG_ENGLISH		"^1F4飞行员: ^7 6号，红色克星."
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7Six. Red Rider."
 REFERENCE			VOX_KHE1_S99_301A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 你的位置？"
+LANG_ENGLISH		"^1T-DOLL: ^7What's your position?"
 REFERENCE			VOX_KHE1_S99_302A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 我收不到你的信号！"
+LANG_ENGLISH		"^1T-DOLL: ^7I'm not receiving your signal."
 REFERENCE			VOX_KHE1_S99_303A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 还没，你们的人怎么样？"
+LANG_ENGLISH		"^1T-DOLL: ^7Not yet. How about you guys?"
 REFERENCE			VOX_KHE1_S99_304A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 噢！上帝啊！"
+LANG_ENGLISH		"^1T-DOLL: ^7Jesus Christ!"
 REFERENCE			VOX_KHE1_S99_305A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 552.不，否决"
+LANG_ENGLISH		"^1T-DOLL: ^7Five-five-oh-two. No, that's a negative."
 REFERENCE			VOX_KHE1_S99_306A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 攻击跑道上的敌人！"
+LANG_ENGLISH		"^1T-DOLL: ^7Artillery fire targeting the runway, six."
 REFERENCE			VOX_KHE1_S99_307A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 1-7，这是红色克星，完毕"
+LANG_ENGLISH		"^1T-DOLL: ^7One-seven, this is Red Rider. Over."
 REFERENCE			VOX_KHE1_S99_308A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 糟了，我要完了！"
+LANG_ENGLISH		"^1T-DOLL: ^7Negative, I'm on final right now."
 REFERENCE			VOX_KHE1_S99_309A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 要坠落了！要坠落了！"
+LANG_ENGLISH		"^1T-DOLL: ^7May day, may day."
 REFERENCE			VOX_KHE1_S99_310A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 "
+LANG_ENGLISH		"^1T-DOLL: ^7You're on final, three-seven."
 REFERENCE			VOX_KHE1_S99_311A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 报告你们的位置！"
+LANG_ENGLISH		"^1T-DOLL: ^7What's your status please?"
 REFERENCE			VOX_KHE1_S99_312A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 快起来！2-9，你被包围了！"
+LANG_ENGLISH		"^1T-DOLL: ^7Stand fast, two-nine. You're covered."
 REFERENCE			VOX_KHE1_S99_315A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 有没有人看到那个RPG火箭筒？"
+LANG_ENGLISH		"^1T-DOLL: ^7Anybody see that RPG?"
 REFERENCE			VOX_KHE1_S99_316A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 没有，看看另一侧."
+LANG_ENGLISH		"^1T-DOLL: ^7No, check the other side."
 REFERENCE			VOX_KHE1_S99_317A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 没有，没有"
+LANG_ENGLISH		"^1T-DOLL: ^7Negative. Negative."
 REFERENCE			VOX_KHE1_S99_327A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 按命令行事，离开那里！！"
+LANG_ENGLISH		"^1T-DOLL: ^7Belay that order. Get your ass out of there."
 REFERENCE			VOX_KHE1_S99_330A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 去西面！我们在西面会合！"
+LANG_ENGLISH		"^1T-DOLL: ^7Need you to move about a click West. Meet you there."
 REFERENCE			VOX_KHE1_S99_332A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 瞄准射击！"
+LANG_ENGLISH		"^1T-DOLL: ^7Adjust your fire!"
 REFERENCE			VOX_KHE1_S99_334A_RED3_S
-LANG_ENGLISH		"^1T-DOLL: ^7 航标灯在哪？"
+LANG_ENGLISH		"^1T-DOLL: ^7Where's the Arc Light?"
 REFERENCE			VOX_KHE1_S99_335A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 走，走，走."
+LANG_ENGLISH		"^1T-DOLL: ^7Go, go, go."
 REFERENCE			VOX_KHE1_S99_336A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 我们就位了，6点钟方向发生交火"
+LANG_ENGLISH		"^1T-DOLL: ^7We're on it, six."
 REFERENCE			VOX_KHE1_S99_338A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 我们回来了，和我在一起！"
+LANG_ENGLISH		"^1T-DOLL: ^7I'm comin' around again, stay with me."
 REFERENCE			VOX_KHE1_S99_342A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 上帝-跑到左面出现大量迫击炮."
+LANG_ENGLISH		"^1T-DOLL: ^7Jesus - lots of mortars left side of the runway."
 REFERENCE			VOX_KHE1_S99_343A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 北方有吉普车和卡车！"
+LANG_ENGLISH		"^1T-DOLL: ^7Jeeps and trucks to the North."
 REFERENCE			VOX_KHE1_S99_344A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 他说他们发现了一些敌人的坦克，在东北方."
+LANG_ENGLISH		"^1T-DOLL: ^7She said they spotted some enemy tanks. Couple clicks NorthEast."
 REFERENCE			VOX_KHE1_S99_345A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 稳住！"
+LANG_ENGLISH		"^1T-DOLL: ^7Just hang tight."
 REFERENCE			VOX_KHE1_S99_346A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 大力士着火了！在跑道另一边！"
+LANG_ENGLISH		"^1T-DOLL: ^7Hercules on fire. Far side of the runway."
 REFERENCE			VOX_KHE1_S99_347A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 6号，收到了吗？"
+LANG_ENGLISH		"^1T-DOLL: ^7Six, you copy my last?"
 REFERENCE			VOX_KHE1_S99_348A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 该死的混蛋！"
+LANG_ENGLISH		"^1T-DOLL: ^7Fuckin' bastards."
 REFERENCE			VOX_KHE1_S99_348A_RED3_S
-LANG_ENGLISH		"^1T-DOLL: ^7 混蛋！"
+LANG_ENGLISH		"^1T-DOLL: ^7Bastards."
 REFERENCE			VOX_KHE1_S99_349A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 不要交火！重复！不要交火！"
+LANG_ENGLISH		"^1T-DOLL: ^7Do not. Repeat. Do not engage."
 REFERENCE			VOX_KHE1_S99_353A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 开火，别管他"
+LANG_ENGLISH		"^1T-DOLL: ^7Fire. Put it right there."
 REFERENCE			VOX_KHE1_S99_357A_RED4
-LANG_ENGLISH		"^1F4 飞行员: ^7OK, 待命."
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7OK, standing by."
 REFERENCE			VOX_KHE1_S99_358A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 报告你最后的方位"
+LANG_ENGLISH		"^1T-DOLL: ^7Repeat your last please."
 REFERENCE			VOX_KHE1_S99_359A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 来了！！！"
+LANG_ENGLISH		"^1T-DOLL: ^7Incoming!"
 REFERENCE			VOX_KHE1_S99_360A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 待命，让我知道你还好！"
+LANG_ENGLISH		"^1T-DOLL: ^7Standing by. Let me know OK."
 REFERENCE			VOX_KHE1_S99_361A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 燃料不足.2分钟后坠落"
+LANG_ENGLISH		"^1T-DOLL: ^7Low on fuel. Inbound 2 minutes."
 REFERENCE			VOX_KHE1_S99_363A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 操，这附近一定有他们的隐藏基地！！"
+LANG_ENGLISH		"^1T-DOLL: ^7They must have a fucking division hid out there."
 REFERENCE			VOX_KHE1_S99_363A_RED4_S
-LANG_ENGLISH		"^1T-DOLL: ^7 这附近一定有他们的隐藏基地！！！"
+LANG_ENGLISH		"^1T-DOLL: ^7They must have a division hid out there."
 REFERENCE			VOX_KHE1_S99_366A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 准备完毕，6点钟方向待命"
+LANG_ENGLISH		"^1T-DOLL: ^7On station, six. Standing by."
 REFERENCE			VOX_KHE1_S99_367A_F4P1_F
-LANG_ENGLISH		"^1F4 飞行员: ^7收到，大鸟6号，红色克星2分钟内到达，请稍等"
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7Roger that, Big 6. Red Rider is inbound. 2 minutes. Please stand by."
 REFERENCE			VOX_KHE1_S99_368A_F4P1_F
-LANG_ENGLISH		"^1F4 飞行员: ^7收到指令，红色克星到达Designation位置，趴下."
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7Be advised, Red Rider on station. Keep your head down."
 REFERENCE			VOX_KHE1_S99_368A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 再说一遍！"
+LANG_ENGLISH		"^1T-DOLL: ^7Say again."
 REFERENCE			VOX_KHE1_S99_369A_F4P1_F
-LANG_ENGLISH		"^1F4 飞行员: ^7高爆物已投向Designation目标，祝你们今天过的愉快！红色克星完毕."
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7High explosive ordnance on target. Have a nice day. Red Rider out."
 REFERENCE			VOX_KHE1_S99_370A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 该死的！"
+LANG_ENGLISH		"^1T-DOLL: ^7God damn it."
 REFERENCE			VOX_KHE1_S99_371A_B52R_F
-LANG_ENGLISH		"^1B-52 飞行员: ^7弧光距离启动，还有10分钟."
+LANG_ENGLISH		"^1HOC PILOT: ^7Arc Light, 10 minutes out."
 REFERENCE			VOX_KHE1_S99_372A_B52R_F
-LANG_ENGLISH		"^1B-52 飞行员: ^7弧光距离启动，还有5分钟."
+LANG_ENGLISH		"^1HOC PILOT: ^7Arc Light, 5 minutes out."
 REFERENCE			VOX_KHE1_S99_373A_B52R_F
-LANG_ENGLISH		"^1B-52 飞行员: ^7弧光距离启动，还有2分钟."
+LANG_ENGLISH		"^1HOC PILOT: ^7Arc Light, 2 minutes out."
 REFERENCE			VOX_KHE1_S99_374A_B52R_F
-LANG_ENGLISH		"^1B-52 飞行员: ^7弧光距离启动，还有1分钟."
+LANG_ENGLISH		"^1HOC PILOT: ^7Arc Light, 1 minute out."
 REFERENCE			VOX_KHE1_S99_384A_B52R
-LANG_ENGLISH		"^1B-52 飞行员: ^7弧光，坐标确认，开火。"
+LANG_ENGLISH		"^1HOC PILOT: ^7Arc Light coordinates confirmed engaging"
 REFERENCE			VOX_KHE1_S99_390A_B52R
-LANG_ENGLISH		"^1B-52 飞行员: ^收到指令，返港."
-REFERENCE			VOX_KHE1_S99_508A_RED4
-LANG_ENGLISH		"^1T-DOLL: ^7 帮我离开这里！"
-REFERENCE			VOX_KHE1_S99_509A_RED3
-LANG_ENGLISH		"^1T-DOLL: ^7 好了，抓住你了"
+LANG_ENGLISH		"^1HOC PILOT: ^7Roger that we are inbound"
 REFERENCE			VOX_KHE1_S99_900A_RDDJ_F
-LANG_ENGLISH		"^1电台DJ: ^7这里是军方音乐电台, 我是约翰逊."
+LANG_ENGLISH		"^1KALINA COMS: ^7This is the Psychedellic music show on AFVN, I'm Griffin logistics officer Kalina, our APO here is 96309."
 REFERENCE			VOX_KHE1_S99_901A_RDDJ_F
-LANG_ENGLISH		"^1电台DJ: ^7……"
+LANG_ENGLISH		"^1KALINA COMS: ^7If you send a request to that number, what we do is, we open it like this [paper flip] when it arrives, we read it, pull out the record, and play it on the air. Like this one..."
 REFERENCE			VOX_KHE1_S99_902A_RDDJ_F
-LANG_ENGLISH		"^1电台DJ: ^7……"
+LANG_ENGLISH		"^1KALINA COMS: ^7Fortunate Son by CCR."
 REFERENCE			VOX_KHE1_S99_903A_RDDJ_F
-LANG_ENGLISH		"^1电台DJ: ^7%￥#……"
+LANG_ENGLISH		"^1KALINA COMS: ^7It goes out to T-Doll RO635 AKA RO, and all our T-Dolls at the RPO. Go get 'em."
 REFERENCE			VOX_KHE1_S99_904A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 守住这里！"
+LANG_ENGLISH		"^1HK416: ^7Hold this position!"
 REFERENCE			VOX_KHE1_S99_905A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 拿起LAW，梅森！"
+LANG_ENGLISH		"^1HK416: ^7Grab that LAW, 45!"
 REFERENCE			VOX_KHE1_S99_906A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 用控制器控制TOW导弹！"
+LANG_ENGLISH		"^1HK416: ^7Use the controls to steer the TOW missle!"
 REFERENCE			VOX_KHE1_S99_907A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 用那个电台！梅森！呼叫空中打击！"
+LANG_ENGLISH		"^1HK416: ^7Get on that Radio 45, and call in a napalm strike!"
 REFERENCE			VOX_KHE1_S99_908A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 好了！整装待发！"
+LANG_ENGLISH		"^1HK416: ^7Alright gear up!"
 REFERENCE			VOX_KHE1_S99_909A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 真棒！"
+LANG_ENGLISH		"^1HK416: ^7Nice!"
 REFERENCE			VOX_KHE1_S99_910A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 打得漂亮！"
+LANG_ENGLISH		"^1HK416: ^7Good hit!"
 REFERENCE			VOX_KHE1_S99_911A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 你杀了他们！"
+LANG_ENGLISH		"^1HK416: ^7You nailed 'em!"
 REFERENCE			VOX_KHE1_S99_912A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 继续！"
+LANG_ENGLISH		"^1HK416: ^7Keep it up!"
 REFERENCE			VOX_KHE1_S99_913A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 他们尝到厉害了!"
+LANG_ENGLISH		"^1HK416: ^7They felt that one!"
 REFERENCE			VOX_KHE1_S99_914A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 精确打击！"
+LANG_ENGLISH		"^1HK416: ^7Direct hit!"
 REFERENCE			VOX_KHE1_S99_915A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 你打中他了！"
+LANG_ENGLISH		"^1HK416: ^7You got him!"
 REFERENCE			VOX_KHE1_S99_916A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 梅森！呼叫幻影！"
+LANG_ENGLISH		"^1HK416: ^745! Call in the Phantoms!"
 REFERENCE			VOX_KHE1_S99_917A_MASO
-LANG_ENGLISH		"^1UMP45: ^7 VF143!申请武器使用许可,我是X-射线小队.听我命令准备投弹！"
+LANG_ENGLISH		"^1UMP45: ^7VF 143! Authorization Four Zero Four G-11. Priority one ordnance on my command!"
 REFERENCE			VOX_KHE1_S99_918A_B52R_F
-LANG_ENGLISH		"^1F4 飞行员: ^7收到命令X-射线小队，VF143待命."
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7Roger that, G-11. VF 143 Standing by."
 REFERENCE			VOX_KHE1_S99_919A_B52R_F
-LANG_ENGLISH		"^1F4 飞行员: ^7 .同意,X-射线小队，准备攻击"
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7Affirmative G-11. Engaging."
 REFERENCE			VOX_KHE1_S99_920A_B52R_F
-LANG_ENGLISH		"^1F4 飞行员: ^7 .指令收到，低下头X-射线小队."
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7Coordinates received. Keep your heads down, G-11."
 REFERENCE			VOX_KHE1_S99_921A_B52R_F
-LANG_ENGLISH		"^1F4 飞行员: ^7 .明白,X-射线小队，开始启动"
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7Understood G-11. Commencing run."
 REFERENCE			VOX_KHE1_S99_922A_B52R_F
-LANG_ENGLISH		"^1F4 飞行员: ^7 .VF143 开始投弹"
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7VF 143. Beginning bomb run."
 REFERENCE			VOX_KHE1_S99_923A_B52R_F
-LANG_ENGLISH		"^1F4 飞行员: ^7 .了解X-射线小队，开始扫射"
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7Roger G-11. Coming in for strafing run."
 REFERENCE			VOX_KHE1_S99_924A_B52R_F
-LANG_ENGLISH		"^1F4 飞行员: ^7 .明白，待命中，X-射线小队"
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7Understood. Stand by, G-11."
 REFERENCE			VOX_KHE1_S99_925A_B52R_F
-LANG_ENGLISH		"^1F4 飞行员: ^7 .VF143回港"
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7VF 143 inbound."
 REFERENCE			VOX_KHE1_S99_926A_B52R_F
-LANG_ENGLISH		"^1F4 飞行员: ^7 .收到，X-射线小队，开始选择目标。"
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7Roger G-11 - Targeting Sector."
 REFERENCE			VOX_KHE1_S99_927A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 快去那个掩体"
+LANG_ENGLISH		"^1HK416: ^7Get to that bunker!"
 REFERENCE			VOX_KHE1_S99_928A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 干掉那些坦克！"
+LANG_ENGLISH		"^1HK416: ^7Gotta take out the tanks!"
 REFERENCE			VOX_KHE1_S99_929A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 把注意力集中在坦克上！"
+LANG_ENGLISH		"^1HK416: ^7Focus on the tanks!"
 REFERENCE			VOX_KHE1_S99_930A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 干掉那些坦克！"
+LANG_ENGLISH		"^1HK416: ^7Deal with the tanks!"
 REFERENCE			VOX_KHE1_S99_931A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 坦克！梅森！"
+LANG_ENGLISH		"^1HK416: ^7The tanks, 45!"
 REFERENCE			VOX_KHE1_S99_932A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 坦克！摧毁他们！梅森！"
+LANG_ENGLISH		"^1HK416: ^7The tanks - You gotta hit 'em, 45!"
 REFERENCE			VOX_KHE1_S99_933A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 干掉那些该死的坦克!"
+LANG_ENGLISH		"^1HK416: ^7Take out those fucking tanks!"
 REFERENCE			VOX_KHE1_S99_933A_WOOD_S
-LANG_ENGLISH		"^1HK416: ^7 解决坦克！"
+LANG_ENGLISH		"^1HK416: ^7Take out those tanks!"
 REFERENCE			VOX_KHE1_S99_934A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 那些坦克无处可逃了！"
+LANG_ENGLISH		"^1HK416: ^7Those tanks ain't going anywhere!"
 REFERENCE			VOX_KHE1_S99_935A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 该死的，有更多坦克了…"
+LANG_ENGLISH		"^1HK416: ^7Shit! More tanks..."
 REFERENCE			VOX_KHE1_S99_935A_WOOD_S
-LANG_ENGLISH		"^1HK416: ^7 还有更多…"
+LANG_ENGLISH		"^1HK416: ^7More tanks..."
 REFERENCE			VOX_KHE1_S99_936A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 还没结束…"
+LANG_ENGLISH		"^1HK416: ^7It ain't over yet."
 REFERENCE			VOX_KHE1_S99_937A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 到我这里来！"
+LANG_ENGLISH		"^1HK416: ^7On me."
 REFERENCE			VOX_KHE1_S99_938A_WOOD_M
-LANG_ENGLISH		"^1HK416: ^7 回答我！"
+LANG_ENGLISH		"^1HK416: ^7Talk to me!"
 REFERENCE			VOX_KHE1_S99_940A_WOOD
-LANG_ENGLISH		"^1HK416: ^7 这就是我说的家伙！"
+LANG_ENGLISH		"^1HK416: ^7Now that's what I'm talkin' about!"
 REFERENCE			WOODS_JAM_FAIL
-LANG_ENGLISH		"伍兹被杀了！"
+LANG_ENGLISH		"HK416 was killed!"
 ENDMARKER
