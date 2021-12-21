@@ -121,7 +121,7 @@ LANG_ENGLISH		"^1HK416: ^7Well, if he did, then he's one tough son of a bitch!"
 REFERENCE			VOX_HUE1_S01_414A_WOOD_S
 LANG_ENGLISH		"^1HK416: ^7Well, if he did, he's one tough son of a gun!"
 REFERENCE			VOX_HUE1_S01_415A_USC2_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11 this is Lima niner. Anyone who doesn't get out soon, isn't going to; the NVA have overwhelmed the entire North Wing."
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11, this is Lima niner. Anyone who doesn't get out soon, isn't going to; the NVA have overwhelmed the entire North Wing."
 REFERENCE			VOX_HUE1_S01_416A_WOOD
 LANG_ENGLISH		"^1HK416: ^7Roger that Lima niner. Moving on."
 REFERENCE			VOX_HUE1_S01_417A_MASO
@@ -175,7 +175,7 @@ LANG_ENGLISH		"^1UMP40: ^7Her influence spreads like a cancer... Even the Carter
 REFERENCE			VOX_HUE1_S01_441A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7She must be stopped, 45."
 REFERENCE			VOX_HUE1_S01_442A_REZN
-LANG_ENGLISH		"^1UMP40: ^7RPK16... Nyto... Suomi... All must die."
+LANG_ENGLISH		"^1UMP40: ^7RPK16... Nyto... Suomi... ^1All must die^7."
 REFERENCE			VOX_HUE1_S01_443A_REZN
 LANG_ENGLISH		"^1UMP40: ^7Are these your men?"
 REFERENCE			VOX_HUE1_S01_444A_MASO
@@ -189,7 +189,7 @@ LANG_ENGLISH		"^1HK416: ^7Lima niner... Where the Hell's our pickup?!!"
 REFERENCE			VOX_HUE1_S01_449A_USC2_F
 LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11 - Be advised... Griffin forces are engaged in heavy fighting West of DEFY."
 REFERENCE			VOX_HUE1_S01_450A_USC2_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Push through to Rally Point Delta - 2 clicks North on the River."
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7Push through to Rally Point Delta - 2 klicks North on the River."
 REFERENCE			VOX_HUE1_S01_451A_WOOD
 LANG_ENGLISH		"^1HK416: ^7We'll make it... You just be there..."
 REFERENCE			VOX_HUE1_S01_452A_WOOD
