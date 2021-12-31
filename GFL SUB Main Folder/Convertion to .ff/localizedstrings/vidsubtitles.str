@@ -63,7 +63,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7The TET Offensive was the beginning of the end.
 REFERENCE			HUE_CITY_A_VIDEO12
 LANG_ENGLISH		"^1INTERROGATOR: ^7Inside the DEFY compound in Hue City, you established contact with the Bureau defector."
 REFERENCE			HUE_CITY_A_VIDEO13
-LANG_ENGLISH		"^1UMP45: ^1NO^7!"
+LANG_ENGLISH		"^1UMP45: ^:NO^7!"
 REFERENCE			HUE_CITY_A_VIDEO14
 LANG_ENGLISH		"^1INTERROGATOR: ^7We know you did. She turned herself in at DEFY. You were there, 45. She had intel on RPK16. ^1Everything^7. But it was a lost cause."
 REFERENCE			HUE_CITY_A_VIDEO15
@@ -99,7 +99,7 @@ LANG_ENGLISH		"^1UMP45: ^7Yeah. I was part of the ^1404^7 unit led by HK416. It 
 REFERENCE			KHE_SANH_A_VIDEO15
 LANG_ENGLISH		"^1INTERROGATOR: ^7What about your AR handler, M16A1. Was she in Khe Sanh? Do you remember her there?"
 REFERENCE			KHE_SANH_A_VIDEO16
-LANG_ENGLISH		"^1UMP45: ^7M16... [laughs] Yeah. Ms. Eyepatch. That doll was an ice cube."
+LANG_ENGLISH		"^1UMP45: ^7M16... [laughs] Yeah. ^1Miss Eyepatch^7. That doll was an ice cube."
 REFERENCE			KOWLOON_A_VIDEO11
 LANG_ENGLISH		"^1INTERROGATOR: ^7We have the dossier that the defector gave you at DEFY."
 REFERENCE			KOWLOON_A_VIDEO12
@@ -121,7 +121,7 @@ LANG_ENGLISH		"^1UMP45: ^7Why keep asking? You already know everything."
 REFERENCE			KOWLOON_A_VIDEO20
 LANG_ENGLISH		"^1INTERROGATOR: ^7No, 45. ^1We don't know what the numbers mean^7. We don't know where they're broadcast from."
 REFERENCE			KOWLOON_A_VIDEO21
-LANG_ENGLISH		"^1UMP45: ^7Why don't you ask M16? Kowloon was her mission. She interrogated RFB."
+LANG_ENGLISH		"^1UMP45: ^7Why don't you ask M16? Kowloon was ^1her mission^7. She interrogated RFB."
 REFERENCE			PENTAGON_A_VIDEO11
 LANG_ENGLISH		"^1INTERROGATOR: ^7After your escape, you were assigned to M16A1 at Griffin. How could she trust you when she knew that UMP 40 helped you break out of Vorkuta?"
 REFERENCE			PENTAGON_A_VIDEO12
@@ -129,7 +129,7 @@ LANG_ENGLISH		"^1UMP45: ^7UMP40...was my sister...but she didn't make it out."
 REFERENCE			PENTAGON_A_VIDEO13
 LANG_ENGLISH		"^1INTERROGATOR: ^7UMP 40 was a ^1Sangvis Ferri doll^7. How did Griffin know you weren't compromised?"
 REFERENCE			PENTAGON_A_VIDEO14
-LANG_ENGLISH		"^1UMP45: ^7They tested me. They knew I wouldn't break and I won't break now."
+LANG_ENGLISH		"^1UMP45: ^7They tested me. They knew I wouldn't break and I won't break now!"
 REFERENCE			PENTAGON_A_VIDEO15
 LANG_ENGLISH		"^1INTERROGATOR: ^7The Commander wanted RPK16. She wanted you to kill her."
 REFERENCE			PENTAGON_A_VIDEO16
@@ -147,7 +147,7 @@ LANG_ENGLISH		"^1UMP45: ^7What the fuck am I supposed to do?!"
 REFERENCE			POW_A_VIDEO15
 LANG_ENGLISH		"^1INTERROGATOR: ^7You know about the sleeper cells..."
 REFERENCE			POW_A_VIDEO16
-LANG_ENGLISH		"^1UMP45: ^7I'm trying to help you."
+LANG_ENGLISH		"^1UMP45: ^7I'm trying to help you!"
 REFERENCE			POW_A_VIDEO17
 LANG_ENGLISH		"^1INTERROGATOR: ^7RPK16 uses ^1number sequences^7 to communicate with the sleeper cells. Those numbers are broadcast from ^1one location^7, 45."
 REFERENCE			POW_A_VIDEO18
@@ -157,11 +157,11 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7You were in Vorkuta, 45. We know what happens a
 REFERENCE			POW_A_VIDEO20
 LANG_ENGLISH		"^1UMP45: ^7But 40 was never..."
 REFERENCE			POW_A_VIDEO21
-LANG_ENGLISH		"^1INTERROGATOR: ^1STOP^7! 45. We are on the brink of war. Where is the broadcast station? ^1Where is the broadcast station^7?!"
+LANG_ENGLISH		"^1INTERROGATOR: ^:STOP^7! 45. We are on the brink of war. Where is the broadcast station? ^1Where is the broadcast station^7?!"
 REFERENCE			POW_A_VIDEO22
 LANG_ENGLISH		"^1UMP45: ^7RPK16 had us like rats in cages..."
 REFERENCE			POW_A_VIDEO23
-LANG_ENGLISH		"^1INTERROGATOR: ^1UMP45^7! We're losing her!"
+LANG_ENGLISH		"^1INTERROGATOR: ^:UMP45^7! We're losing her!"
 REFERENCE			POW_A_VIDEO24
 LANG_ENGLISH		"^1UMP45: ^7We are all comrades...we are all prisoners...Laos..."
 REFERENCE			POW_A_VIDEO25
@@ -203,7 +203,7 @@ LANG_ENGLISH		"^1UMP45: ^7No, UMP 40 surivived."
 REFERENCE			SO_NARRATIVE5_A_VIDEO14
 LANG_ENGLISH		"^1INTERROGATOR: ^7Just you UMP45."
 REFERENCE			SO_NARRATIVE5_A_VIDEO15
-LANG_ENGLISH		"^1UMP45: ^7No, no... 40 is still with me...since Vorkuta."
+LANG_ENGLISH		"^1UMP45: ^7No, no... 40 is still with me...since Vorkuta!"
 REFERENCE			UNDERWATERBASE_A_VIDEO11
 LANG_ENGLISH		"^1COMMANDER: ^7We are in grave danger from the Sangvis Ferri. Our freedom... Our very way of life is at risk."
 REFERENCE			UNDERWATERBASE_A_VIDEO12
@@ -215,7 +215,7 @@ LANG_ENGLISH		"^1SPRINGFIELD: ^7She has no fear. No conscience. No weakness."
 REFERENCE			UNDERWATERBASE_A_VIDEO15
 LANG_ENGLISH		"^1SUOMI: ^7All across Griffin, RPK16 has sleeper cells waiting for the signal to release the Parapluie."
 REFERENCE			UNDERWATERBASE_A_VIDEO16
-LANG_ENGLISH		"^1COMMANDER: ^7Im told that you are the very best that we have. Anywhere."
+LANG_ENGLISH		"^1COMMANDER: ^7I'm told that you are the very best that we have. Anywhere."
 REFERENCE			UNDERWATERBASE_A_VIDEO17
 LANG_ENGLISH		"^1UMP40: ^7RPK16... Nyto... Suomi..."
 REFERENCE			UNDERWATERBASE_A_VIDEO18
@@ -223,19 +223,19 @@ LANG_ENGLISH		"^1COMMANDER: ^7You will need to be."
 REFERENCE			UNDERWATERBASE_A_VIDEO19
 LANG_ENGLISH		"^1UMP40: ^7These Dolls must die..."
 REFERENCE			UNDERWATERBASE_A_VIDEO20
-LANG_ENGLISH		"^1COMMANDER: ^7UMP 45..."
+LANG_ENGLISH		"^1COMMANDER: ^7Miss UMP 45..."
 REFERENCE			VORKUTA_A_VIDEO11
 LANG_ENGLISH		"^1INTERROGATOR: ^7Why didn't Castro just kill you? Why did he give you to RPK16?"
 REFERENCE			VORKUTA_A_VIDEO12
 LANG_ENGLISH		"^1UMP45: ^7Cause, Castro and RPK16 were working together."
 REFERENCE			VORKUTA_A_VIDEO13
-LANG_ENGLISH		"^1INTERROGATOR: ^7Eh... You were a gift."
+LANG_ENGLISH		"^1INTERROGATOR: ^7Eh... You were ^1a gift^7."
 REFERENCE			VORKUTA_A_VIDEO14
 LANG_ENGLISH		"^1UMP45: ^7Eh... Right..."
 REFERENCE			VORKUTA_A_VIDEO15
 LANG_ENGLISH		"^1INTERROGATOR: ^7Where did RPK16 take you?"
 REFERENCE			VORKUTA_A_VIDEO16
-LANG_ENGLISH		"^1UMP45: ^7Vorkuta...had to fight...just to survive."
+LANG_ENGLISH		"^1UMP45: ^1Vorkuta^7...had to fight...just to survive."
 REFERENCE			VORKUTA_A_VIDEO17
 LANG_ENGLISH		"^1INTERROGATOR: ^7What happened in Vorkuta, 45?"
 REFERENCE			VORKUTA_A_VIDEO18
@@ -247,19 +247,19 @@ LANG_ENGLISH		"^1UMP45: ^7I'd given up hope of ever getting out...but UMP 40 fou
 REFERENCE			WMD_A_VIDEO11
 LANG_ENGLISH		"^1INTERROGATOR: ^7M16A1 led the attack on Yamantau."
 REFERENCE			WMD_A_VIDEO12
-LANG_ENGLISH		"^1UMP45: ^7Yeah. 20 degrees below zero. $&#**^% ice cube was in her element."
+LANG_ENGLISH		"^1UMP45: ^7Yeah. 20 degrees below zero. Fuckin' ice cube was in her element."
 REFERENCE			WMD_B_VIDEO11
 LANG_ENGLISH		"^1INTERROGATOR: ^7You were captured by RPK16 a second time. Your unit was MIA in Laos, presumed dead. Your handler, M16A1, had no choice but to continue the hunt for Parapluie without you --"
 REFERENCE			WMD_B_VIDEO12
-LANG_ENGLISH		"^1UMP45: ^7She went to Mt. Yamantau -- $&#*^% KCCO doomsday bunker --"
+LANG_ENGLISH		"^1UMP45: ^7She went to ^1Mt. Yamantau^7 -- fuckin' KCCO doomsday bunker --"
 REFERENCE			WMD_B_VIDEO13
 LANG_ENGLISH		"^1INTERROGATOR: ^7That's right. A fully operational military complex buried deep in the Ural Mountains."
 REFERENCE			WMD_B_VIDEO14
 LANG_ENGLISH		"^1UMP45: ^7That's where M16 was contacted by Suomi -- the T-Doll that developed the initial program of Parapluie for RPK16 --"
 REFERENCE			WMD_B_VIDEO15
-LANG_ENGLISH		"^1INTERROGATOR: ^7M16A1 learned about the numbers there. The broadcasts -- I've been there, 45. I've been to the Yamantau complex."
+LANG_ENGLISH		"^1INTERROGATOR: ^7M16A1 learned about ^1the numbers^7 there. The broadcasts -- I've been there, 45. I've been to the Yamantau complex."
 REFERENCE			WMD_B_VIDEO16
-LANG_ENGLISH		"^1UMP45: ^7My God... The numbers are REAL..."
+LANG_ENGLISH		"^1UMP45: ^7Oh my God... ^1The numbers are REAL^7...!"
 REFERENCE			WMD_B_VIDEO17
-LANG_ENGLISH		"^1INTERROGATOR: ^7They've always been real, 45. This isn't a game. We face annihilation unless you cooperate. Where is the broadcast station?!"
+LANG_ENGLISH		"^1INTERROGATOR: ^7They've always been real, 45. ^1This isn't a game^7. We face annihilation unless you cooperate. Where is the broadcast station?!"
 ENDMARKER
