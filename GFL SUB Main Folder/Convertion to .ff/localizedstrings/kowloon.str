@@ -1,4 +1,4 @@
-REFERENCE			INTROSCREEN_DATE
+scrREFERENCE			INTROSCREEN_DATE
 LANG_ENGLISH		"^L1700 hours^L ^C1February 9, 1968^C"
 REFERENCE			INTROSCREEN_INFO
 LANG_ENGLISH		"^C1Anti Rain^C ^Lstation #4568.  Designation "k"^L"
@@ -43,7 +43,7 @@ LANG_ENGLISH		"^1AK-12: ^7We can do this all day - We got plenty of windows..."
 REFERENCE			VOX_KOW1_S01_006A_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7Or - You can give us what we want, and we guarantee your safety..."
 REFERENCE			VOX_KOW1_S01_007A_CLAR_M
-LANG_ENGLISH		"^1RFB: ^7I'm already a scraped doll...."
+LANG_ENGLISH		"^1RFB: ^7I'm already a scrapped doll...."
 REFERENCE			VOX_KOW1_S01_008A_CLAR_M
 LANG_ENGLISH		"^1RFB: ^7I've been hunted across every corner of the globe..."
 REFERENCE			VOX_KOW1_S01_009A_CLAR_M
