@@ -198,7 +198,7 @@ LANG_ENGLISH		"^1HK416: ^7Let's go. Pick it up."
 REFERENCE			VOX_FLA1_S01_009A_WOOD_M
 LANG_ENGLISH		"^1HK416: ^7Reina come back."
 REFERENCE			VOX_FLA1_S01_010A_BOWM_F_M
-LANG_ENGLISH		"^1UMP9: ^7Go X-ray."
+LANG_ENGLISH		"^1UMP9: ^7Go G-11."
 REFERENCE			VOX_FLA1_S01_011A_WOOD_M
 LANG_ENGLISH		"^1HK416: ^7Soyuz One launch is imminent. We're on our way, over."
 REFERENCE			VOX_FLA1_S01_012A_BOWM_F_M
@@ -262,7 +262,7 @@ LANG_ENGLISH		"^1HK416: ^7Reina team, are you in position?"
 REFERENCE			VOX_FLA1_S01_034B_WOOD_M
 LANG_ENGLISH		"^1HK416: ^79, are you in position?"
 REFERENCE			VOX_FLA1_S01_035A_BOWM_F_M
-LANG_ENGLISH		"^1UMP9: ^7Roger X-ray. Reina is covering the road."
+LANG_ENGLISH		"^1UMP9: ^7Roger G-11. Reina is covering the road."
 REFERENCE			VOX_FLA1_S01_036A_WOOD_M
 LANG_ENGLISH		"^1HK416: ^7AK-12's been compromised. Expect the base to be in elevated alert."
 REFERENCE			VOX_FLA1_S01_037A_WOOD_M
@@ -274,7 +274,7 @@ LANG_ENGLISH		"^1HK416: ^7Alright... Let's go."
 REFERENCE			VOX_FLA1_S01_039B_WOOD_M
 LANG_ENGLISH		"^1HK416: ^7Alright... Move out."
 REFERENCE			VOX_FLA1_S01_354A_WOOD
-LANG_ENGLISH		"^1HK416: ^7This is X-ray two niner. Do you monitor, over?"
+LANG_ENGLISH		"^1HK416: ^7This is G-11 two niner. Do you monitor, over?"
 REFERENCE			VOX_FLA1_S01_800A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Was saving AK-12 more important to you 
 than your objective to kill RPK16?"
@@ -371,7 +371,7 @@ LANG_ENGLISH		"^1HK416: ^7We're good."
 REFERENCE			VOX_FLA1_S03_079A_WOOD
 LANG_ENGLISH		"^1HK416: ^7Delta and 9 should be right up ahead."
 REFERENCE			VOX_FLA1_S03_080A_BOWM_F
-LANG_ENGLISH		"^1UMP9: ^7River, this is Reina. Hostiles in sight. Takin' 'em out."
+LANG_ENGLISH		"^1UMP9: ^7G-11, this is Reina. Hostiles in sight. Takin' 'em out."
 REFERENCE			VOX_FLA1_S03_081A_WOOD
 LANG_ENGLISH		"^1HK416: ^7Hustle up."
 REFERENCE			VOX_FLA1_S03_082A_BOWM_M
