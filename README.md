@@ -37,19 +37,3 @@ Mission File orders:
 16.	en_underwaterbase   	Y
 -	en_frontend
 -	en_outro
-
-D
-A
-E
-D
-S
-I
-0
-4
-P
-M
-U
-8
-I
-S
-D
