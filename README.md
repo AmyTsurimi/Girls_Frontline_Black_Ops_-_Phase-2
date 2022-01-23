@@ -1,7 +1,7 @@
 # Girls' Frontline Black Ops - Phase 2
 
 ## What is this?
-This is the second phase of the [**Girls' Frontline: Black Ops** mod](http://github.com/Loyalists/GFLBO1] by [Loyalists](http://github.com/Loyalists) that includes custom cutscenes and subtitles.
+This is the second phase of the [**Girls' Frontline: Black Ops** mod](http://github.com/Loyalists/GFLBO1) by [Loyalists](http://github.com/Loyalists) that includes custom cutscenes and subtitles.
 
 ## Who are the people responsible for this mod?
 
