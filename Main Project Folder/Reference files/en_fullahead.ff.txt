@@ -1,0 +1,1057 @@
+|<E9: Escape>|
+
+|<E8: On Deck>|
+
+|<E7: At the Bridge (Unreliable)>|
+
+|<E7: Today is Not the Day I Die>|
+
+|<E6: Betrayal>|
+
+|<E5: A Cold Hell>|
+
+|<E4: Into the Black>|
+
+|<E3: Unfinished Business, End (Unreliable)>|
+
+|<E3: Unfinished Business, Hangar (Unreliable)>|
+
+|<E3: Unfinished Business>|
+
+|<E1: The Top of the World>|
+
+|<^LTransmission # 23-8-15. Designate: G-11^L>|
+
+|<^LThe USSR launched Operation Olympus at the end of the war.^L>|
+
+|<^L3rd USSR Bureau of State Security sent to^L ^C1Arctic Circle^C>|
+
+|<^C1UMP 40^C ^Ldetached to unit 40--last known alias after action: "The Wolf"^L>|
+
+|<^L1200 hours^L ^C1October 29, 1945^C>|
+
+|<Regroup at the vehicle>|
+
+|<Exit the Area>|
+
+|<Rescue Your Comrade>|
+
+|<Assault the Paradeus Base and find Suomi>|
+
+|<Pick up Smoke Grenades>|
+
+|<Mark Target with Smoke Grenade>|
+
+|<Secure the Paradeus weapons>|
+
+|<Regroup with RPK16>|
+
+|<Shoot the V2 clamp>|
+
+|<Survive the Ambush>|
+
+|<Locate the Cargo Bay>|
+
+|<Follow RPK16 and Suomi>|
+
+|<Rig the V2 explosives>|
+
+|<Escape the ship>|
+
+|<Escape the ship before detonation>|
+
+|<You are about to abandon your comrades.>|
+
+|<Climb Out the Window to Reach the Deck>|
+
+|<You failed to escape in time.>|
+
+|<^3[{+activate}]^7>|
+
+|<Hold ^3[{+activate}]^7 to open door>|
+
+|<^3[{+activate}]^7 to cut>|
+
+|<Hold ^3[{+activate}]^7 to slide down>|
+
+|<^3[{+activate}]^7 to climb the mast>|
+
+|<^3[{+activate}]^7 to rescue>|
+
+|<^3[{+activate}]^7 to climb on sled>|
+
+|<Hold ^3[{+activate}]^7 to arm explosives>|
+
+|<Escort>|
+
+|<Ship Entrance>|
+
+|<Illuminate>|
+
+|<Open>|
+
+|<Follow>|
+
+|<Dogsled>|
+
+|<Explosives>|
+
+|<Assault>|
+
+|<Home>|
+
+|<Press ^3[{+smoke}]^7 to target mortar strikes>|
+
+|<Acquired a smoke grenade>|
+
+|<Acquired 2 smoke grenades>|
+
+|<Acquired 3 smoke grenades>|
+
+|<Acquired 4 smoke grenades>|
+
+|<Follow PPSh-41>|
+
+|<You have abandoned your comrades!>|
+
+|<You were killed by your own mortar strike.>|
+
+|< >|
+
+|<Do not shoot Suomi>|
+
+|<^1INTERROGATOR: ^7UMP 40 wanted to stop these Dolls. That's why she defected.>|
+
+|<^1INTERROGATOR: ^7When. When did she tell you?>|
+
+|<^1UMP40: ^745... listen to me...>|
+
+|<^1UMP40: ^7The sickening sense of loss... The bitter taste of defeat...>|
+
+|<^1UMP40: ^7I know it all too well... We are sisters 45... We are the same.>|
+
+|<^1UMP40: ^7RPK16. Suomi. Nyto. All must die.>|
+
+|<^1UMP40: ^7They have taken from you as they have taken from me...>|
+
+|<^1UMP45: ^7Just tell me, 40... Why is killing these Dolls so important to you?>|
+
+|<^1UMP40: ^7When the war was over, our leaders began to gnaw on Paradeus's rotten carcass like a pack of rabid wolves - fighting over every scrap as though it were the last piece of meat they would ever see.>|
+
+|<^1UMP40: ^7The war was over - But the fighting continued....>|
+
+|<^1UMP40: ^7When the Bureau of State Security became part of the USSR Occupation Forces in Germany, it was clear that the end of the war did not herald our return to USSR...>|
+
+|<^1UMP40: ^7No... Our leaders had other plans...>|
+
+|<^1UMP40: ^7My creator was a scientist in Stalingrad. During the Paradeus occupation, the work of his research filled the air with magnificent knowledge - Persica, Lycoris - many of the great nationalist scientist...>|
+
+|<^1UMP40: ^7To my countrymen it was a symbol of hope. To the Paradeus - it was a symbol of defiance. Even now, his voice still haunts me...>|
+
+|<^1UMP40: ^7The Paradeus slit his throat while he slept. Collaborating with any Paradeus -- is a betrayal. A betrayal against all of Mother Russia. RPK16 and Nyto, were not troubled by such matters...>|
+
+|<^1UMP40: ^7They looked only to advance their own interests and agendas...>|
+
+|<^1PPSh-41: ^740... It is time.>|
+
+|<^1UMP40: ^7Yes, 41... Time to hunt down the last remnants of the Paradeus.>|
+
+|<^1PPSh-41: ^7Alpha... Grab the gear... We are moving out.>|
+
+|<^1UMP40: ^7My dolls and I had fought through the most bitter of winters on the Eastern front... We were no strangers to the cold...>|
+
+|<^1UMP40: ^7The dolls and I had fought through the most bitter of winters on the Eastern front - We were no strangers to the cold...>|
+
+|<^1UMP40: ^7But even now, the neural cloud in my core bugs when I think back to the events of that day...>|
+
+|<^1UMP40: ^7Far, far from home...>|
+
+|<^1PPSh-41: ^7What is here that is so important?>|
+
+|<^1UMP40: ^7RPK16 wishes to make a name for herself. She believes this outpost houses something of great value to the USSR.>|
+
+|<^1NYTO: ^7Ahh... The hero of Berlin graces us with her presence!... Have you not tired of battle, UMP40?>|
+
+|<^1UMP40: ^7As long as Mother Russia has enemies, I will answer her call...>|
+
+|<^1RPK16: ^7Put aside your petty rivalry Nyto. Captain UMP40 will do as she is told.>|
+
+|<^1RPK16: ^7We are here for one Doll and one Doll only... T-Doll Suomi. This doll has offered her cooperation to our cause...>|
+
+|<^1RPK16: ^7She is not to be harmed... Disobey this order... and you will be shot!>|
+
+|<^1PPSh-41: ^7What happened in Stalingrad, between you and RPK16?>|
+
+|<^1UMP40: ^7When the Paradeus occupation began, she and her lap dog Nyto left my dolls and I hopelessly outnumbered...>|
+
+|<^1UMP40: ^7Promises of reinforcements were made. Made... But not kept.>|
+
+|<^1UMP40: ^7RPK16 and Nyto are opportunists... Manipulators...>|
+
+|<^1UMP40: ^7They are not to be trusted, 41.>|
+
+|<^1UMP40: ^7PPSh-41 was one of the bravest dolls I have ever known.>|
+
+|<^1UMP40: ^7She fought by my side from the Siege of Stalingrad to the fall of Berlin...>|
+
+|<^1UMP40: ^7The damage she sustained ensuring our victory should have earned her a Hero's welcome in Russia...>|
+
+|<^1UMP40: ^7But Carter had little need for T-Dolls.>|
+
+|<^1RPK16: ^7The Paradeus must not be harmed - We need Suomi alive... Now move - both of you!>|
+
+|<^1PPSh-41: ^7Let's go.>|
+
+|<^1PPSh-41: ^7It is good to fight by your side once more.>|
+
+|<^1UMP40: ^7Yes, my friend... One final victory.>|
+
+|<^1UMP40: ^7Search every corner of this camp! Only Suomi is to be spared.>|
+
+|<^1USSR T-DOLL: ^7They are trying to surrender!>|
+
+|<^1UMP40: ^7They have tried before...>|
+
+|<^1UMP40: ^7Do not let them.>|
+
+|<^1PPSh-41: ^7They are not giving up without a fight!>|
+
+|<^1UMP40: ^7Men with nothing to lose make for a dangerous enemy, 41.>|
+
+|<^1UMP40: ^7Be careful, there may be more of them.>|
+
+|<^1UMP40: ^7Push on my friends, clear the next area.>|
+
+|<^1UMP40: ^7Crush all who stand in our way!>|
+
+|<^1PPSh-41: ^7Check the launch control building!>|
+
+|<^1UMP40: ^7Clear the building. Leave no stone unturned!>|
+
+|<^1PPSh-41: ^7She is not here...>|
+
+|<^1UMP40: ^7She must be closer to the ship.>|
+
+|<^1PPSh-41: ^740! We need to break this barricade!>|
+
+|<^1PPSh-41: ^7Grab the Smoke grenades... Use them to mark the target for our mortar teams.>|
+
+|<^1PPSh-41: ^740 - Grab the smoke Grenades!>|
+
+|<^1PPSh-41: ^7We need the smoke grenades, 40!>|
+
+|<^1PPSh-41: ^7Throw one at the base of the barricade!>|
+
+|<^1PPSh-41: ^7Mark the barricade for the mortars!>|
+
+|<^1PPSh-41: ^7Closer to the barricade, 40!>|
+
+|<^1PPSh-41: ^7Are you drunk, 40? Throw it at the barricade!>|
+
+|<^1PPSh-41: ^7I'll mark it myself, 40. Stand back!>|
+
+|<^1PPSh-41: ^7The spotters will never see that smoke!>|
+
+|<^1PPSh-41: ^7Throw it outside!>|
+
+|<^1PPSh-41: ^7Outside, 40!>|
+
+|<^1USSR T-DOLL: ^7We have your target.>|
+
+|<^1USSR T-DOLL: ^7Stand by for mortars.>|
+
+|<^1USSR T-DOLL: ^7Firing mortars.>|
+
+|<^1USSR T-DOLL: ^7Firing - Stand by.>|
+
+|<^1USSR T-DOLL: ^7Mortars inbound.>|
+
+|<^1USSR T-DOLL: ^7We don't have a clear shot!>|
+
+|<^1UMP40: ^7URA!!!>|
+
+|<^1CROWD: ^7URA!!!>|
+
+|<^1UMP40: ^7Spread out - Search every building!>|
+
+|<^1UMP40: ^7Find Suomi!!>|
+
+|<^1UMP40: ^7This way, 41!>|
+
+|<^1UMP40: ^7Die! You Paradeus rats!!>|
+
+|<^1PPSh-41: ^740 - if you have any more smoke grenades - Use them now!>|
+
+|<^1PPSh-41: ^7Use your smoke grenades!>|
+
+|<^1PPSh-41: ^7Use your smoke to mark targets for our mortars!>|
+
+|<^1PPSh-41: ^7We must getting close to Suomi.>|
+
+|<^1PPSh-41: ^7After this mission... do you think we will go home?>|
+
+|<^1UMP40: ^7I hope so, 41... I hope so.>|
+
+|<^1PPSh-41: ^7There are few of them left... Still no sign of Suomi.>|
+
+|<^1UMP40: ^7She will be where all cowards reside... As far away from the battlefield as possible.>|
+
+|<^1UMP40: ^7This way, up the stairs.>|
+
+|<^1UMP40: ^7Ready?>|
+
+|<^1UMP40: ^7T-Doll Suomi...>|
+
+|<^1SUOMI: ^7Do not point that weapon at me, ^:Sangvis scum^7...!>|
+
+|<^1SUOMI: ^7You will take me to RPK16.>|
+
+|<^1UMP40: ^7As I looked into the doll's eyes I saw all the evil of Paradeus still burning strong...>|
+
+|<^1UMP40: ^7At that moment, every fiber of my being yearned to put an end to her wretched life...>|
+
+|<^1UMP40: ^7But I was a soldier then...>|
+
+|<^1UMP40: ^7I still believed in orders...>|
+
+|<^1RPK16: ^740...bring your dolls.>|
+
+|<^1PPSh-41: ^7RPK16 and Suomi are talking like old friends... I do not like this, 40.>|
+
+|<^1UMP40: ^7Nor I, 41... Be on your guard.>|
+
+|<^1SUOMI: ^7We must hurry... There are Paradeus who would sooner see it destroyed than captured...>|
+
+|<^1RPK16: ^7You assured me that there would be no problems...>|
+
+|<^1SUOMI: ^7I cannot control the actions of the Paradeus, RPK16... They are sworn to defend Paradeus till their last breath...>|
+
+|<^1RPK16: ^7Noble... but futile.>|
+
+|<^1RPK16: ^7Nyto, finish up here.>|
+
+|<^1UMP40: ^7PPSh-41, Beta, Alpha, Gamma... We are moving out!>|
+
+|<^1RPK16: ^7UMP40, you and your dolls lead the way.>|
+
+|<^1UMP40: ^7Yes, Ma'am.>|
+
+|<^1UMP40: ^7Everything that T-Dolls had fought for was betrayed - the moment they chose to lay with dogs.>|
+
+|<^1PPSh-41: ^7Hold the light steady, 40...>|
+
+|<^1RPK16: ^7Tell me about your association with the Sateenvarjo project, Suomi.>|
+
+|<^1SUOMI: ^7In '43, William realized the allies could not be held back for much longer.>|
+
+|<^1SUOMI: ^7We began to look for more 'unconventional' solutions.>|
+
+|<^1SUOMI: ^7Throughout the war, my own research was focused on cyber weapons... It was meticulous and frustrating work...>|
+
+|<^1SUOMI: ^7However, what we finally developed was a weapon more effective than we had ever dared to imagine... The weapon now housed within this vessel.>|
+
+|<^1RPK16: ^7Parapluie.>|
+
+|<^1PPSh-41: ^7He's been dead for days... Before we attacked.>|
+
+|<^1PPSh-41: ^7Why?>|
+
+|<^1UMP40: ^7What happened to these men?>|
+
+|<^1SUOMI: ^7Casualties of War...>|
+
+|<^1PPSh-41: ^7Something isn't right. I feel it.>|
+
+|<^1RPK16: ^7Keep your men focused, UMP40...>|
+
+|<^1RPK16: ^7We would not wish anything to happen to 'The Hero of Berlin'...>|
+
+|<^1PPSh-41: ^7I'll try to find a way around these catwalks.>|
+
+|<^1PPSh-41: ^740 - get that light up here.>|
+
+|<^1PPSh-41: ^7Can't see anything...>|
+
+|<^1PPSh-41: ^7Get some light on it.>|
+
+|<^1PPSh-41: ^7Stay with me.>|
+
+|<^1PPSh-41: ^7On top of the pipe.>|
+
+|<^1PPSh-41: ^7Get some light on the catwalk.>|
+
+|<^1PPSh-41: ^7Keep that light on it.>|
+
+|<^1PPSh-41: ^7Keep the light in front of me.>|
+
+|<^1PPSh-41: ^7Over here, I need light.>|
+
+|<^1UMP40: ^7Shhh... Be on your guard.>|
+
+|<^1UMP40: ^7This place reeks of despair.>|
+
+|<^1PPSh-41: ^7What do you think happened here, 40?>|
+
+|<^1UMP40: ^7Perhaps it is better we do not know...>|
+
+|<^1UMP40: ^7Keep moving.>|
+
+|<^1UMP40: ^7Watch where you step.>|
+
+|<^1PPSh-41: ^7The shadows seem to move...>|
+
+|<^1UMP40: ^7It is only natural to fear what you cannot see... Your mind will play tricks.>|
+
+|<^1PPSh-41: ^740 - over here!>|
+
+|<^1PPSh-41: ^7This way, 40.>|
+
+|<^1PPSh-41: ^7Where are you going, 40?>|
+
+|<^1PPSh-41: ^7Stay close, 40.>|
+
+|<^1RPK16: ^7However effective your Parapluie virus may be, you still had to find a way to unleash it...>|
+
+|<^1SUOMI: ^7Long range V2 rockets... to be launched from this outpost.>|
+
+|<^1SUOMI: ^7The targets were command and control centers. Washington DC was our first target... Then Moscow...>|
+
+|<^1RPK16: ^7Mmmm... Ambitious and commendable, Doll Suomi...>|
+
+|<^1SUOMI: ^7But we were too late. The British were upon us, and their bombers crippled this ship.>|
+
+|<^1SUOMI: ^7Locked in the ice... We tried to salvage what could, but it was too late...>|
+
+|<^1SUOMI: ^7Before we could initiate our first strike we heard the news ->|
+
+|<^1SUOMI: ^7Paradeus had surrendered, and the Russian flag flew over Berlin.>|
+
+|<^1SUOMI: ^7The Paradeus had orders to destroy the ship if we were attacked.>|
+
+|<^1NYTO: ^7Clearly, they failed...>|
+
+|<^1NYTO: ^7The explosives were never activated.>|
+
+|<^1SUOMI: ^7This is it...>|
+
+|<^1RPK16: ^7UMP40 - open the door.>|
+
+|<^1UMP40: ^7We had found what we were looking for... Parapluie. Paradeus' weapon of mass destruction now belonged to Mother Russia.>|
+
+|<^1UMP40: ^7Or so it seemed. Our victory was to be short lived.>|
+
+|<^1UMP40: ^7RPK16 wanted to see the effects of the virus first hand.>|
+
+|<^1UMP40: ^7It was also an opportunity to remove a thorn in her side.>|
+
+|<^1UMP40: ^7I had long known of their distrust.>|
+
+|<^1UMP40: ^7What kind of dolls they were.>|
+
+|<^1UMP40: ^7It was a betrayal I should have forseen.>|
+
+|<^1UMP40: ^7PPSh-41 was a hero...>|
+
+|<^1UMP40: ^7She deserved a hero's death.>|
+
+|<^1UMP40: ^7Instead of giving her life for the glory of the motherland, she died for nothing... like an animal.>|
+
+|<^1UMP40: ^7She should have died in Berlin...>|
+
+|<^1UMP40: ^7As I watched my closest friend die, it became clear we were not the only one's seeking the Paradeus weapons. The Western Allies circled like vultures...>|
+
+|<^1UMP40: ^7The British air force had arrived, and their bombs began to lay waste to the Paradeus ship.>|
+
+|<^1UMP40: ^7Of course, RPK16, Nyto and Suomi scattered like rats - leaving me to contend with the British.>|
+
+|<^1USSR T-DOLL: ^7British commandos assaulting our positions!>|
+
+|<^1RPK16: ^7We need to get Suomi back to our ship!>|
+
+|<^1RPK16: ^7Kill them!>|
+
+|<^1UMP40: ^7Go! - Fight our way out!>|
+
+|<^1ALPHA: ^7More British!>|
+
+|<^1UMP40: ^7I will arm the explosives...>|
+
+|<^1UMP40: ^7We will plunge this vessel into the depths of hell! We cannot let either side possess this terrible weapon.>|
+
+|<^1ALPHA: ^7We can't hold forever! Arm the explosives, 40.>|
+
+|<^1ALPHA: ^7Hurry! - Get the explosives armed.>|
+
+|<^1ALPHA: ^740! The explosives need to be armed!>|
+
+|<^1UMP40: ^7I have armed the explosives!>|
+
+|<^1UMP40: ^7Move! We have to get off the ship! Now!>|
+
+|<^1UMP40: ^7We do not have time to waste!>|
+
+|<^1ALPHA: ^7We have less than two minutes, 40!>|
+
+|<^1UMP40: ^7We have less than four minutes!>|
+
+|<^1ALPHA: ^7Keep moving, time is running out!>|
+
+|<^1UMP40: ^7In three minutes this ship will be engulfed in flames.>|
+
+|<^1ALPHA: ^7We have to get off the ship!>|
+
+|<^1UMP40: ^7Hurry - We only have two minutes left!>|
+
+|<^1UMP40: ^7In one minute - Fire will consume this vessel - MOVE!!>|
+
+|<^1UMP40: ^7Thirty seconds!>|
+
+|<^1UMP40: ^7Ten seconds, 40!>|
+
+|<^1UMP40: ^7We're not going to make it!>|
+
+|<^1ALPHA: ^7The door sealed!>|
+
+|<^1ALPHA: ^7Shoot the support beams! We can bring down those gantries!>|
+
+|<^1ALPHA: ^740! Shoot the beams!>|
+
+|<^1ALPHA: ^7Hurry! Bring down those gantries!>|
+
+|<^1ALPHA: ^7Shoot the beams, 40! It's our only way out!>|
+
+|<^1UMP40: ^7Yes!>|
+
+|<^1UMP40: ^7Go, my friends, GO!>|
+
+|<^1ALPHA: ^7We've got to get down to the deck!>|
+
+|<^1ALPHA: ^740, we can climb out that window!>|
+
+|<^1ALPHA: ^7Hurry, out the window!>|
+
+|<^1UMP40: ^7Keep moving!>|
+
+|<^1UMP40: ^7This is not our War!>|
+
+|<^1ALPHA: ^7Then who do we fight?!!>|
+
+|<^1UMP40: ^:EVERYONE^7!!!>|
+
+|<^1UMP40: ^7We stand alone!>|
+
+|<^1ALPHA: ^7The ship is being torn apart.>|
+
+|<^1ALPHA: ^740! We can use the rope!>|
+
+|<^1ALPHA: ^7Down the rope! Hurry!>|
+
+|<^1ALPHA: ^7Go, 40! Go!!!>|
+
+|<^1UMP40: ^7I had destroyed the Parapluie shipment and kept it from the British. But I was a fool to think that it was over. It was only after I was sent to Vorkuta, that I learned of RPK16's intentions. She will die before she gives up on Parapluie.>|
+
+|<^1UMP40: ^745, listen to me...>|
+
+|<^1UMP40: ^7We are running out of time, my friend...>|
+
+|<^1UMP40: ^7They will you use you as they used me. Can you trust your Commander to destroy this weapon?... Or do you think they will use it?>|
+
+|<^1UMP40: ^7Can you trust them to destroy it... Or do you think they will use it?>|
+
+|<^1UMP40: ^7Tell me - What do you think your Commander will do with such a weapon?>|
+
+|<^1UMP40: ^7The flag may be different, but the methods are the same.>|
+
+|<^1UMP40: ^7They will use you, as they used me...>|
+
+|<^1UMP40: ^7You must decide... Decide what you think is worth fighting for...>|
+
+|<^1UMP40: ^7RPK16... Nyto... Suomi...>|
+
+|<^1UMP40: ^7These... '^:dolls^7'... must die.>|
+
+|<^1ALPHA: ^7Target down.>|
+
+|<^1ALPHA: ^7He's dead.>|
+
+|<^1ALPHA: ^7You got him.>|
+
+|<^1ALPHA: ^7Enemy down>|
+
+|<^1ALPHA: ^7He's down>|
+
+|<^1ALPHA: ^7Target eliminated>|
+
+|<^1ALPHA: ^7Confirmed kill>|
+
+|<^1ALPHA: ^7That's a kill>|
+
+|<^1ALPHA: ^7Enemy neutralized>|
+
+|<^1ALPHA: ^7Reloading>|
+
+|<^1ALPHA: ^7I need to reload>|
+
+|<^1ALPHA: ^7I am reloading>|
+
+|<^1ALPHA: ^7Reloading. Give me cover>|
+
+|<^1ALPHA: ^7Reloading. Maintain cover.>|
+
+|<^1ALPHA: ^7Grenade in.>|
+
+|<^1ALPHA: ^7Move!>|
+
+|<^1ALPHA: ^7Forward!>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ª!z>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<QíM#>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<ÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿ>|
+
+|<mc/mtl_p_ger_nazi_flag>|
+
+|<N>|
+
+|<±þÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿµ§ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ9-	ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<µ§ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ9-	ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<9-	ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<Ý
+é£
+­´
+>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<(ÿÿÿÿÿÿÿÿ>|
+
+|<*ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<"ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<(ÿÿÿÿÿÿÿÿ>|
+
+|<*ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<"ÿÿÿÿÿÿÿÿ>|
+
+|<%>|
+
+|<>|
+
+|<'>|
+
+|<>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_c_ger_Suomi_young_body>|
+
+|<½Ô
+>|
+
+|<±ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿYPÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ1êÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<YPÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ1êÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<1êÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<ÙoQY >|
+
+|<>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<!ÿÿÿÿÿÿÿÿ>|
+
+|<+ÿÿÿÿÿÿÿÿ>|
+
+|<-ÿÿÿÿÿÿÿÿ>|
+
+|<!ÿÿÿÿÿÿÿÿ>|
+
+|<%ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<!ÿÿÿÿÿÿÿÿ>|
+
+|<+ÿÿÿÿÿÿÿÿ>|
+
+|<-ÿÿÿÿÿÿÿÿ>|
+
+|<!ÿÿÿÿÿÿÿÿ>|
+
+|<%ÿÿÿÿÿÿÿÿ>|
+
+|<(>|
+
+|<>|
+
+|<*>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_c_ger_Suomi_young_body_char>|
+
+|<>|
+
+|<1¢¦>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<	>|
+
+|<
+
+ÿÿÿÿÿÿÿÿ>|
+
+|<
+ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<>|
+
+|<>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ9>|
+
+|<ÿÿÿÿÿÿÿ9>|
+
+|<wc/a_ger_nazi_flag>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_c_ger_officer_frozen_body>|
+

@@ -1,0 +1,433 @@
+|<UMPFORTYFIVE 3 4 58 20 21 8 0 12 11 13 20 16 6 0 12 
+22 11 1 21 21 23 12 23 21 0 13 21 24 9 19 14 13 19 15 
+4 0 2 12 18 21 9 8 21 12 17 6 23 2 24 19 19 2 25 3 7 
+7 1 15 21 23 22 19 12 6 11 23 15>|
+
+|<^LTransmission # 8-5. Designate: TANGO^L>
+
+|<^LLocation:^L ^C1ROOM 9^C>|
+
+|<^LSubject:^L ^C1H&K, UMP45^C>|
+
+|<^LResuming Questioning: 2300 hours,^L ^C1February 25 1968^C>|
+
+|<Press ^3[{+speed_throw}]^7 to punch>|
+
+|<15 3 4 2 21 1 15 4 15 24 6 5
+1 6 11 2 0 16 6 14 5 21 
+25 24 14 15 10 6 0>|
+
+|<UMPFORTY 3 4 11 1 19 0 6 25 9 12 18 25 15 4 5 12
+14 10 25 22 11 1 2 17 6 22 25 25
+23 15 13 1 17 4 18 18 12 23 8 13 
+11 1 25 24 7 8 9 19 9 25 18 4 16 9 
+22 6 22 1 13 22 7 3 22 19 12 12 8 7
+18 18 6 10 23 21 17 2 6 20 20 23 24
+14 2 4 2 22 21 4 9 23 8 24 0 3 17 6
+20 11 7 22 17>|
+
+|<UMPFORTY 3 4 29 9 0 2 18 20 23 21 
+24 22 23 19 20 3 1 24 5 24 10 20 4 0
+21 16 23 20 0 10 24 2 7 7 18 12 5 0
+20 13 12 16 25 21 22 25 22 6 1 19 21
+5 17 4 8 7 17 10 25 22 0 19 0 18 23
+25 16 8 23 7 1 20 22 9 11 22 10 0 18 
+9 21 14 19 11 20 13 3 12 17 14 17 19 23 7 
+22 0 25 6 7 1 0 22 5 25 21 18 8 1 17 
+8 24 21 17 12 17 12 12 19 7 5 11 0 12 
+10 8 25 9 0 18 24 9 12 17 4 12 23 4 21 
+22 8 6 3 3 8 8 7 17 1 21 24 12 9 3 7 18 
+12 18 6 11 5 18 12 14 15 1 16 24>|
+
+|<^1INTERROGATOR: ^7It is no use... we are out of time!>|
+
+|<^1INTERROGATOR: ^7We can't give up now. She was at Vorkuta. She knows how to translate the codes. She's heard the broadcasts which we know contain the location. It's all in her head somewhere. She does know where it is!>|
+
+|<^1INTERROGATOR: ^7We have to get to the bunker! We're at DEFCON 2... You've tried everything...>|
+
+|<^1INTERROGATOR: ^7Not yet...I have one more card to play.>|
+
+|<^1INTERROGATOR: ^7Leave her here. She's not worth it.>|
+
+|<^1M16A1: ^7Get out of here, AK-12. Tell them I failed.>|
+
+|<^1AK-12: ^7You want to die with her?...Your choice.>|
+
+|<^1M16A1: ^7Dammit! Why can't you remember?!>|
+
+|<^1M16A1: ^740's DEAD, 45! Do you hear me?!!! ^:She's dead^7!!! AK-12's right...we are out of time.>|
+
+|<^1M16A1: ^7The KCCO fucked you up... I know you...you're not a traitor.>|
+
+|<^1M16A1: ^7The KCCO messed you up... I know you...you're not a traitor.>|
+
+|<^1UMP45: ^7The numbers...what...are they saying?...>|
+
+|<^1UMP45: ^740... Where are you?!... 40...>|
+
+|<^1UMP45: ^7Suomi was there... We had to kill Suomi!>|
+
+|<^1UMP45: ^7I...keep...hearing...the fucking...numbers...>|
+
+|<^1UMP45: ^7I...keep...hearing...the &$#@!%...numbers...>|
+
+|<^1NYTO: ^7You.... Again...>|
+
+|<^1NYTO: ^7I should have killed you in Vorkuta!>|
+
+|<^1RPK16: ^7Wait a few moments... Let her rest.>|
+
+|<^1UMP45: ^7I remember. Ahhhh! ^:VORKUTA^7!!!>|
+
+|<^1RPK16: ^7When she regains consciousness - Double the voltage.>|
+
+|<^1SUOMI: ^7The subject has been successfully implanted with the knowledge to translate the number sequences.>|
+
+|<^1RPK16: ^7So - what is the problem?>|
+
+|<^1SUOMI: ^7Her responses to our orders have been - sporadic. Unpredictable. She shows a remarkable resilience.>|
+
+|<^1RPK16: ^7Why?>|
+
+|<^1SUOMI: ^7She is unusual... atypical. Few dolls possess such will... Our other test subjects have been far more successful.>|
+
+|<^1RPK16: ^7If she will not follow the orders embedded in the numbers, then she is of no use to me...>|
+
+|<^1RPK16: ^7She can rot... Take her back to her cell.>|
+
+|<^1UMP45: ^7RPK16...Nyto...Suomi...the pain...oh my God, the pain...>|
+
+|<^1UMP45: ^7RPK16...Nyto...Suomi...>|
+
+|<^1UMP45: ^7The pain...oh my God...>|
+
+|<^1UMP45: ^7Proceed...to...target...>|
+
+|<^1UMP45: ^7Oswald...compromised.>|
+
+|<^1UMP40: ^7In Vorkuta, we are ALL comrades...>|
+
+|<^1U.S.S.R PRISONER: ^7UMP40, are you sure you can trust this Griffin T-Doll?>|
+
+|<^1UMP40: ^7With my life...>|
+
+|<^1UMP40: ^7She and us, are not so different... We are all soldiers without an army.>|
+
+|<^1UMP40: ^7Betrayed. Forgotten. Abandoned.>|
+
+|<^1UMP40: ^7You will survive... You have to...>|
+
+|<^1UMP40: ^7We are comrades 45... We are the same.>|
+
+|<^1COMMANDER: ^7We are in grave danger from the Sangvis Ferri. Our freedom and our very way of life is at risk.>|
+
+|<^1COMMANDER: ^7RPK16.>|
+
+|<^1UMP45: ^7When do I kill her?>|
+
+|<^1UMP45: ^7Commander...SKK...Gentiane. I'm told you are the best we have. Anywhere.>|
+
+|<^1HK416: ^7Okay. Time we got the hell out of here.>|
+
+|<^1UMP45: ^7Not yet...>|
+
+|<^1UMP45: ^7We're going after RPK16.>|
+
+|<^1HK416: ^7No one's getting out.>|
+
+|<^1HK416: ^7Satisfied, 45?>|
+
+|<^1UMP45: ^7No! No, not yet... Not until I see the body.>|
+
+|<^1UMP45: ^7How many times?! Suomi was at Rebirth Island. We had to kill Suomi.>|
+
+|<^1INTERROGATOR: ^7We? UMP 40?>|
+
+|<^1UMP45: ^7We wanted the same thing. The same.>|
+
+|<^1AK-12: ^7What the Hell is she doing?>|
+
+|<^1M16A1: ^7Killing everyone between her and Suomi.>|
+
+|<^1UMP40: ^7The pain is difficult isn't it?>|
+
+|<^1UMP40: ^7RPK16. Nyto. Suomi. All must die...>|
+
+|<^1UMP45: ^7Killing everyone between her and Suomi. I was programmed...to...kill...Suomi...Nyto and RPK16!>|
+
+|<^1M16A1: ^7RPK16 brainwashed you, but UMP40 had plans of her own...>|
+
+|<^1UMP9: ^7You think the defector survived this attack?!>|
+
+|<^1HK416: ^7If he did, then he's one tough son of a bitch!>|
+
+|<^1HK416: ^7If he did, he's one tough son of a gun!>|
+
+|<^1UMP40: ^745?>|
+
+|<^1UMP45: ^740. How'd you get out of Vorkuta?>|
+
+|<^1UMP45: ^7Never thought I'd see you alive...>|
+
+|<^1M16A1: ^7She was never in Vietnam. The real defector with the Parapluie dossier died during the attack on the DEFY.>|
+
+|<^1M16A1: ^7She was never in the rat tunnels.>|
+
+|<^1ZETA: ^7What the *$#%$ wrong with you?>|
+
+|<^1UMP40: ^7Nyto is here!>|
+
+|<^1UMP40: ^7This way! We cannot let her slip through our grasp!>|
+
+|<^1HK416: ^745?! What the fuck are you doing?!! We gotta get these guys out.>|
+
+|<^1HK416: ^745?! We gotta get these guys out.>|
+
+|<^1UMP40: ^7You will survive... You have to!>|
+
+|<^1M16A1: ^7She was never at Rebirth Island.>|
+
+|<^1UMP40: ^7My name is UMP 40.>|
+
+|<^1SUOMI: ^7No...>|
+
+|<^1M16A1: ^745!>|
+
+|<^1UMP45: ^7My name is UMP 40. And I will have my revenge!>|
+
+|<^1M16A1: ^745 - NO!>|
+
+|<^1UMP45: ^7Step eight, 40 - Freedom!>|
+
+|<^1UMP40: ^7For you 45...>|
+
+|<^1UMP40: ^7Not for me...>|
+
+|<^1M16A1: ^7UMP 40's been dead for 5 years. She died at Vorkuta during the escape! 
+			All the years you thought she was with you - that was just in your mind!>|
+
+|<^1INTERROGATOR: ^7UMP 40's been dead for years.>|
+
+|<^1UMP45: ^7No!>|
+
+|<^1INTERROGATOR: ^7She died at Vorkuta during your escape!>|
+
+|<^1UMP45: ^7She can't be dead!>|
+
+|<^1INTERROGATOR: ^7All the years you thought she was with you ->|
+
+|<^1UMP45: ^740...I trusted you.>|
+
+|<^1INTERROGATOR: ^7She was just in your mind!>|
+
+|<^1UMP45: ^7I trusted her.>|
+
+|<^1M16A1: ^7That's why it worked... It was their attempt at MK-Ultra. RPK16 programmed you to kill Commander, but 40 sabotaged you. She wanted revenge for all that RPK16 done to her. RPK16. Nyto. Suomi. Three new victims.>|
+
+|<^1M16A1: ^7There are gaps in your memory. Periods where you went MIA and we couldn't account for you. But now that the brainwashing's been broken, all that lost time will come back.>|
+
+|<^1M16A1: ^7We need to leave... The Parapluie strike is imminent. Hundreds of sleeper agents, hidden in every Griffin base, 
+			are about to unleash this virus on our own T-Dolls.>|
+
+|<^1M16A1: ^7When Suomi died, we lost our key to unlocking the location of number broadcasts...>|
+
+|<^1M16A1: ^7You were programmed at Vorkuta to translate the number codes. Only you can tell us what the codes mean. Parapluie was just one of the sleeper operations. But I'm sure there were others...ones we didn't even know about.>|
+
+|<^1M16A1: ^7We have the broadcasts, we played them to you over and over again for hours, but we haven't been able to break through your programming yet.>|
+
+|<^1M16A1: ^745, this is our last shot. Listen, for God's sake listen again.>|
+
+|<^1M16A1: ^745!... 45!>|
+
+|<^1INTERROGATOR: ^7That's why it worked... That's why 40 could override their programming. Vorkuta was the KCCO' attempt at MK-Ultra - mind control. RPK16 programmed you to kill Commander, but 40 turned the programming around. She wanted revenge for all that T-Doll>|
+
+|<^1CASTRO: ^7Do with her what you wish, RPK16... She's my gift to you, in honor of our new relationship...>|
+
+|<^1CASTRO: ^7...our new relationship...>|
+
+|<^1SUOMI: ^7I know you... Vorkuta!>|
+
+|<^1SUOMI: ^7You don't know...>|
+
+|<^1SUOMI: ^7What we did to you...>|
+
+|<^1RPK16: ^7...[indistinct] all agents. Our new allies in Cuba have graciously permitted the construction of a new... and permanent... broadcast station within their borders.>|
+
+|<^1RPK16: ^7...and permanent... broadcast station within their borders.>|
+
+|<^1RPK16: ^7From now until Project Parapluie's initiation, all instructions will broadcast from the Rusalka.>|
+
+|<^1RPK16: ^7...all instructions will broadcast from the Rusalka.>|
+
+|<^1RPK16: ^7Our plan to strike at the very heart of Griffin is now in motion.>|
+
+|<^1RPK16: ^7Await further instructions.>|
+
+|<^1CASTRO: ^7Just... Make sure that she suffers...>|
+
+|<^1RPK16: ^7She will know suffering beyond she darkest fears...>|
+
+|<^1RPK16: ^7I have plans for you, DSI-8...>|
+
+|<^1UMP45: ^7I know where the numbers station is... It's a ship... I saw it a long time ago... The Rusalka.>|
+
+|<^1M16A1: ^7Where?>|
+
+|<^1UMP45: ^7Cuba.>|
+
+|<^1UMP45: ^7Echelon. Cuban allies authorize construction of permanent broadcast station. Rusalka. Gulf of Mexico. Project Parapluie initiated. Await instruction.>|
+
+|<^1UMP45: ^7Ascension. 45. Prepare down target Commander. SKK. Gentiane. Priority supersedes all previous instruction.>|
+
+|<^1UMP45: ^7Ascension. 45. Proceed to target. Await final coordinates.>|
+
+|<^1UMP45: ^7Echelon. Oswald, compromised. Ascension. 45. Down assigned target.>|
+
+|<^1UMP45: ^7Echelon. Scheduled Parapluie deployment jeopardized. Griffin breach.>|
+
+|<^1UMP45: ^7Ascension. All points. Down target RFB. Priority one. Await final coordinates.>|
+
+|<^1UMP45: ^7Ascension. All points. Phase two.>|
+
+|<^1UMP45: ^7Ascension. All points. Phase three.>|
+
+|<^1UMP45: ^7Ascension. All points. Burn notice. Priority evade capture. Sleepers expendable.>|
+
+|<^1UMP45: ^7Echelon. Parapluie deployment signal imminent.>|
+
+|<^1UMP45: ^7Ascension. 45. Resume directive programming. Respond.>|
+
+|<^1UMP45: ^7Echelon. Griffin-HQ. One. Prospero.>|
+
+|<^1UMP45: ^7Echelon. Griffin-HQ. Two. Ariel.>|
+
+|<^1UMP45: ^7Echelon. Griffin-HQ. Three. Sycorax.>|
+
+|<^1UMP45: ^7Echelon. Caution. Parapluie mutation observed. Subjects exhibit advanced defragmentation hours before complete corruption.>|
+
+|<^1UMP45: ^7Ascension. 45. Location. Texas School Book Depository. 6th Floor. 6.5MM Carcano Rifle. Dallas. Dealey Plaza. 11.22.>|
+
+|<^1UMP45: ^7RPK16. Nyto. Suomi. All must die.>|
+
+|<^1UMP45: ^7Echelon. Rogue sleeper. 45. Programming corrupted. RPK16 down. Griffin-HQ sleeper activated. Griffin sleeper activated. Ascension. All points. Down target 45. Priority supersedes all previous instruction.>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ª!z>|
+
+|<ÿÿ>|
+
+|<>|
+
+|<@#>|
+
+|<@#>|
+
+|<@#>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+

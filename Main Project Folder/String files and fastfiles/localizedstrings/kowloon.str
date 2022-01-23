@@ -1,0 +1,335 @@
+scrREFERENCE			INTROSCREEN_DATE
+LANG_ENGLISH		"^L1700 hours^L ^C1February 9, 1968^C"
+REFERENCE			INTROSCREEN_INFO
+LANG_ENGLISH		"^C1Anti Rain^C ^Lstation #4568.  Designation "k"^L"
+REFERENCE			INTROSCREEN_NAME
+LANG_ENGLISH		"^LExtraction team:^L ^C1M16A1^C^L, AK-12 and Station 3 operatives on the ground.^L"
+REFERENCE			INTROSCREEN_PLACE
+LANG_ENGLISH		"^LTarget: T-Doll RFB located in^L ^C1Kowloon City, Hong Kong.^C"
+REFERENCE			INTROSCREEN_TITLE
+LANG_ENGLISH		"^LTransmission # 4-8-16-21-20-6-24-8-18-18-19-8.  Designate: LIMA^L"
+REFERENCE			JUMP_DEATH
+LANG_ENGLISH		"You need to sprint and jump to make it across."
+REFERENCE			NOVA6_DEATH
+LANG_ENGLISH		"You were exposed to Parapluie!"
+REFERENCE			OBJECTIVE_DEFEND
+LANG_ENGLISH		"Defend"
+REFERENCE			OBJECTIVE_DEFEND_CLARK
+LANG_ENGLISH		"Defend against the KCCO assault"
+REFERENCE			OBJECTIVE_ESCAPE
+LANG_ENGLISH		"Escape with T-Doll RFB"
+REFERENCE			OBJECTIVE_ESCAPE_WEAVER
+LANG_ENGLISH		"Escape with AK-12"
+REFERENCE			OBJECTIVE_FOLLOW
+LANG_ENGLISH		"Escort"
+REFERENCE			OBJECTIVE_FOLLOW_CLARK
+LANG_ENGLISH		"Escort RFB"
+REFERENCE			OBJECTIVE_GO_DOWN
+LANG_ENGLISH		"Follow AK-12"
+REFERENCE			OBJECTIVE_SHOOT
+LANG_ENGLISH		"Shoot"
+REFERENCE			OBJECTIVE_SHOOT_CANISTER
+LANG_ENGLISH		"Shoot the Canister"
+REFERENCE			VOX_KOW1_S01_001A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7Don't you morons get it?"
+REFERENCE			VOX_KOW1_S01_002A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7If you think your government sponsored brutality intimidates me, you clearly don't know anything about RPK16..."
+REFERENCE			VOX_KOW1_S01_003A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7I have nothing to gain by talking to you."
+REFERENCE			VOX_KOW1_S01_004A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7Think about what you have to lose."
+REFERENCE			VOX_KOW1_S01_005A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7We can do this all day - We got plenty of windows..."
+REFERENCE			VOX_KOW1_S01_006A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7Or - You can give us what we want, and we guarantee your safety..."
+REFERENCE			VOX_KOW1_S01_007A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7I'm already a scrapped doll...."
+REFERENCE			VOX_KOW1_S01_008A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7I've been hunted across every corner of the globe..."
+REFERENCE			VOX_KOW1_S01_009A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7...And if you found me, so will they... They know everything you know... They're probably on their way now."
+REFERENCE			VOX_KOW1_S01_010A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7Why?"
+REFERENCE			VOX_KOW1_S01_011A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7RPK16 doesn't like loose ends... I've never even dealt with her directly, only Suomi - The Finnish..."
+REFERENCE			VOX_KOW1_S01_012A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7What was the nature of your business?"
+REFERENCE			VOX_KOW1_S01_013A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7I was hired to help stabilize certain "backdoor conversion"."
+REFERENCE			VOX_KOW1_S01_014A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7What kind of backdoor?!"
+REFERENCE			VOX_KOW1_S01_015A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7Parapluie. A Sangvis Ferri virus."
+REFERENCE			VOX_KOW1_S01_017A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7You led them right to me!"
+REFERENCE			VOX_KOW1_S01_700A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7One minute RFB was being tortured by M16A1, the next RFB was helping her. Why?"
+REFERENCE			VOX_KOW1_S01_701A_MASO
+LANG_ENGLISH		"^1UMP45: ^7Why? The AR just wanted RFB's intel. RPK16 wanted her head."
+REFERENCE			VOX_KOW1_S01_702A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7M16! Get to the van."
+REFERENCE			VOX_KOW1_S01_703A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Come on. Let's get out of here!"
+REFERENCE			VOX_KOW1_S01_704A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7What are we waiting for - get in the van."
+REFERENCE			VOX_KOW1_S02_018A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7Get your head DOWN!"
+REFERENCE			VOX_KOW1_S02_019A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Gunfire's ruptured the canisters!"
+REFERENCE			VOX_KOW1_S02_020A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7You brought your virus to a populated area?!!"
+REFERENCE			VOX_KOW1_S02_021A_CLAR
+LANG_ENGLISH		"^1RFB: ^7I had to!"
+REFERENCE			VOX_KOW1_S02_022A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7What's your escape route?!"
+REFERENCE			VOX_KOW1_S02_023A_CLAR
+LANG_ENGLISH		"^1RFB: ^7There's a hatch in the ceiling!"
+REFERENCE			VOX_KOW1_S02_024A_CLAR
+LANG_ENGLISH		"^1RFB: ^7This way!"
+REFERENCE			VOX_KOW1_S02_025A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Move. Damn it, move!"
+REFERENCE			VOX_KOW1_S02_303A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Get out of the room!"
+REFERENCE			VOX_KOW1_S02_304A_CLAR
+LANG_ENGLISH		"^1RFB: ^7The Parapluie will corrupt you!"
+REFERENCE			VOX_KOW1_S02_305A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Get me out of here I will tell you everything!"
+REFERENCE			VOX_KOW1_S03_026A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Did you inhale the gas?!!"
+REFERENCE			VOX_KOW1_S03_027A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7I don't think so."
+REFERENCE			VOX_KOW1_S03_028A_CLAR
+LANG_ENGLISH		"^1RFB: ^7You're lucky..."
+REFERENCE			VOX_KOW1_S03_029A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Direct exposure is always fatal."
+REFERENCE			VOX_KOW1_S03_032A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7KCCO inbound!"
+REFERENCE			VOX_KOW1_S03_033A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7West hallway!"
+REFERENCE			VOX_KOW1_S03_034A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Which way?"
+REFERENCE			VOX_KOW1_S03_035A_CLAR
+LANG_ENGLISH		"^1RFB: ^7To the roof."
+REFERENCE			VOX_KOW1_S03_036A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Up the stairs!"
+REFERENCE			VOX_KOW1_S03_037A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Right side window! Right side!"
+REFERENCE			VOX_KOW1_S03_038A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Onto the roof!"
+REFERENCE			VOX_KOW1_S03_039A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Chyort! Snipers!"
+REFERENCE			VOX_KOW1_S03_040A_CLAR
+LANG_ENGLISH		"^1RFB: ^7We need to get to the opposite tower!"
+REFERENCE			VOX_KOW1_S03_041A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7How?!!"
+REFERENCE			VOX_KOW1_S03_042A_CLAR
+LANG_ENGLISH		"^1RFB: ^7We jump!!"
+REFERENCE			VOX_KOW1_S03_043A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7You gotta be kidding me!!"
+REFERENCE			VOX_KOW1_S03_044A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Jump!"
+REFERENCE			VOX_KOW1_S03_045A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Let's go!"
+REFERENCE			VOX_KOW1_S03_046A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7What are you waiting for?"
+REFERENCE			VOX_KOW1_S03_047A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Jump, M16, JUMP!!!"
+REFERENCE			VOX_KOW1_S03_048A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Son of a bitch!!!!"
+REFERENCE			VOX_KOW1_S03_048A_HUDS_S
+LANG_ENGLISH		"^1M16A1: ^7Son of a...!"
+REFERENCE			VOX_KOW1_S03_049A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Ooomph!"
+REFERENCE			VOX_KOW1_S04_050A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Here, help me move this!"
+REFERENCE			VOX_KOW1_S04_051A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Grab what you need - They'll be here before you know it."
+REFERENCE			VOX_KOW1_S04_052A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7You are very well prepared for a scraped doll."
+REFERENCE			VOX_KOW1_S04_053A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7Just because I accept the inevitability of my fate does not mean I'm in any hurry to embrace it!"
+REFERENCE			VOX_KOW1_S04_053B_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7I may accept the inevitability of my fate, but I'm in no hurry to embrace it!"
+REFERENCE			VOX_KOW1_S04_054A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7Whatever you say, English."
+REFERENCE			VOX_KOW1_S04_055A_CLAR
+LANG_ENGLISH		"^1RFB: ^7This way!"
+REFERENCE			VOX_KOW1_S04_056A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Okay... On me."
+REFERENCE			VOX_KOW1_S04_057A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7They're on us!"
+REFERENCE			VOX_KOW1_S04_058A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7M16! Eyes left!"
+REFERENCE			VOX_KOW1_S04_060A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7They're breaching the windows!"
+REFERENCE			VOX_KOW1_S04_061A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Which way?"
+REFERENCE			VOX_KOW1_S04_062A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Left door."
+REFERENCE			VOX_KOW1_S04_063A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Onto the rooftops!"
+REFERENCE			VOX_KOW1_S04_064A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7You sure you know where you're going?"
+REFERENCE			VOX_KOW1_S04_065A_CLAR
+LANG_ENGLISH		"^1RFB: ^7I've prepared for this."
+REFERENCE			VOX_KOW1_S04_066A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Quickly - Downstairs!"
+REFERENCE			VOX_KOW1_S05_067A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Down the pipe - Go!"
+REFERENCE			VOX_KOW1_S05_068A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7This doll really a civilian type?"
+REFERENCE			VOX_KOW1_S05_069A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Hurry up!"
+REFERENCE			VOX_KOW1_S05_070A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Get your arses down here!!!"
+REFERENCE			VOX_KOW1_S05_071A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Two more assholes below."
+REFERENCE			VOX_KOW1_S05_071A_WEAV_S
+LANG_ENGLISH		"^1AK-12: ^7Two more below."
+REFERENCE			VOX_KOW1_S05_072A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7No problem."
+REFERENCE			VOX_KOW1_S05_073A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7I got 'em."
+REFERENCE			VOX_KOW1_S05_074A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7RPK16 is going to a lot of trouble to shut you up... What are you not telling us?"
+REFERENCE			VOX_KOW1_S05_075A_CLAR
+LANG_ENGLISH		"^1RFB: ^7I told you about Parapluie..."
+REFERENCE			VOX_KOW1_S05_076A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Where is their base? Nam? Laos? Cambodia?"
+REFERENCE			VOX_KOW1_S05_077A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Her home turf, the Ural Mountains - Yamantau."
+REFERENCE			VOX_KOW1_S05_078A_CLAR
+LANG_ENGLISH		"^1RFB: ^7That's where you'll find Suomi - In her final preparations for Project Parapluie."
+REFERENCE			VOX_KOW1_S05_078B_CLAR
+LANG_ENGLISH		"^1RFB: ^7That's where you'll find her pet doll Suomi - In final preparations for Project Parapluie."
+REFERENCE			VOX_KOW1_S05_079A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7What else?... Whispers. Rumors... ANYTHING?!"
+REFERENCE			VOX_KOW1_S05_080A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Suomi talked with RPK16 about numbers..."
+REFERENCE			VOX_KOW1_S05_081A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7What kind of numbers?"
+REFERENCE			VOX_KOW1_S05_082A_CLAR
+LANG_ENGLISH		"^1RFB: ^7The kind that their plan relies on!"
+REFERENCE			VOX_KOW1_S05_083A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Enemy! 12 o'clock - Low!"
+REFERENCE			VOX_KOW1_S06_085A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7Shit..."
+REFERENCE			VOX_KOW1_S06_085A_CLAR_M_S
+LANG_ENGLISH		"^1RFB: ^7Damn..."
+REFERENCE			VOX_KOW1_S06_086A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7... They've sent in a clean up crew to steal what's left of my research."
+REFERENCE			VOX_KOW1_S06_086B_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7... They're bringing in a clean up crew to steal what's left of my research."
+REFERENCE			VOX_KOW1_S06_087A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7Well, no thank you, RPK16... I can clean up my own mess! [laughs]"
+REFERENCE			VOX_KOW1_S06_087B_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7No thank you, RPK16... I can clean up my own mess!"
+REFERENCE			VOX_KOW1_S06_088A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7Either of you two low on Ammo? - we still have a ways to go."
+REFERENCE			VOX_KOW1_S06_089A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Balcony on the left!"
+REFERENCE			VOX_KOW1_S06_090A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7M16!!! Look out!"
+REFERENCE			VOX_KOW1_S06_091A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Follow the hallway - All the way to the end!"
+REFERENCE			VOX_KOW1_S06_092A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7More KCCO - right side!"
+REFERENCE			VOX_KOW1_S06_093A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7They're breaching the roof!!"
+REFERENCE			VOX_KOW1_S06_094A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Which way now?"
+REFERENCE			VOX_KOW1_S06_095A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Back outside - Balcony on your right!"
+REFERENCE			VOX_KOW1_S06_096A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7How the Hell do you remember all this, RFB?!!!"
+REFERENCE			VOX_KOW1_S06_097A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Onto the next Balcony!"
+REFERENCE			VOX_KOW1_S06_098A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Not far now!"
+REFERENCE			VOX_KOW1_S06_099A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Weapons and ammunition - Grab what you need."
+REFERENCE			VOX_KOW1_S06_100A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7Okay... It's been a while..."
+REFERENCE			VOX_KOW1_S06_102A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7It's the damndest thing... 54... 23... what is it?"
+REFERENCE			VOX_KOW1_S06_103A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^75... 11... 19..... 45?"
+REFERENCE			VOX_KOW1_S06_104A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7On our six!!!"
+REFERENCE			VOX_KOW1_S06_105A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7You forgot your own combination?!!!"
+REFERENCE			VOX_KOW1_S06_106A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7Of course.... Lucky 7!"
+REFERENCE			VOX_KOW1_S06_107A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Numbers tattooed on your body?... What are you holding back, RFB?!!"
+REFERENCE			VOX_KOW1_S06_108A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Come on! Just one more leap of faith!"
+REFERENCE			VOX_KOW1_S06_302A_WEAV
+LANG_ENGLISH		"^1RFB: ^7Go! Go! Go!"
+REFERENCE			VOX_KOW1_S06_306A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Watch my back! I need to unlock this door."
+REFERENCE			VOX_KOW1_S06_307A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Cover me while I get this door open!"
+REFERENCE			VOX_KOW1_S07_109A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Rarhhhh!!"
+REFERENCE			VOX_KOW1_S07_110A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Hrrmph..."
+REFERENCE			VOX_KOW1_S07_111A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7M16, grab him - GO!"
+REFERENCE			VOX_KOW1_S07_112A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Ahhhh! I'm slipping!"
+REFERENCE			VOX_KOW1_S07_113A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Jump, M16!!"
+REFERENCE			VOX_KOW1_S07_114A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7I got you!"
+REFERENCE			VOX_KOW1_S07_115A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7What about the numbers, RFB!!"
+REFERENCE			VOX_KOW1_S07_116A_CLAR_M
+LANG_ENGLISH		"^1RFB: ^7Oh yes... The numbers... They're the key to..."
+REFERENCE			VOX_KOW1_S07_117A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7Fuck... Let's go."
+REFERENCE			VOX_KOW1_S07_117A_WEAV_M_S
+LANG_ENGLISH		"^1AK-12: ^7Let's go."
+REFERENCE			VOX_KOW1_S07_118A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Tug boat this is Red Eye..."
+REFERENCE			VOX_KOW1_S07_119A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Immediate distraction - street level. Tower four. South side."
+REFERENCE			VOX_KOW1_S07_120A_AGT1_F
+LANG_ENGLISH		"^1AGENT: ^7Roger Red Eye... on the way."
+REFERENCE			VOX_KOW1_S07_121A_AGT1_F
+LANG_ENGLISH		"^1AGENT: ^7Been watching the fireworks down here... Did you snatch the asset?"
+REFERENCE			VOX_KOW1_S07_122A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Negative... She's dead."
+REFERENCE			VOX_KOW1_S07_123A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Red Eye out."
+REFERENCE			VOX_KOW1_S07_124A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Come on M16... I see a way down."
+REFERENCE			VOX_KOW1_S07_125A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7This way."
+REFERENCE			VOX_KOW1_S07_126A_AGT1_M
+LANG_ENGLISH		"^1AGENT: ^7Where we headed?"
+REFERENCE			VOX_KOW1_S07_127A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7RFB ID'd a civilian T-Doll working for RPK16. Her name's Suomi. We're going to Russia. Mt. Yamantau."
+REFERENCE			VOX_KOW1_S07_300A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Yamantau."
+REFERENCE			VOX_KOW1_S07_301A_AGT1_F
+LANG_ENGLISH		"^1AGENT: ^7Red Eye we are approaching EVAC. Shit, punch it!"
+REFERENCE			VOX_KOW1_S07_301A_AGT1_S_F_S
+LANG_ENGLISH		"^1AGENT: ^7Red Eye we are approaching EVAC. Punch it!"
+REFERENCE			VOX_KOW1_S99_128A_CLAR
+LANG_ENGLISH		"^1RFB: ^7This way!"
+REFERENCE			VOX_KOW1_S99_129A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Hurry!"
+REFERENCE			VOX_KOW1_S99_130A_CLAR
+LANG_ENGLISH		"^1RFB: ^7We have to keep moving!"
+REFERENCE			VOX_KOW1_S99_131A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Where are you going?"
+REFERENCE			VOX_KOW1_S99_132A_CLAR
+LANG_ENGLISH		"^1RFB: ^7No! That's the wrong way!"
+REFERENCE			VOX_KOW1_S99_133A_CLAR
+LANG_ENGLISH		"^1RFB: ^7Stay close to me!"
+REFERENCE			VOX_KOW1_S99_308A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Flashbang!"
+REFERENCE			VOX_KOW1_S99_308B_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Flashbang!"
+ENDMARKER

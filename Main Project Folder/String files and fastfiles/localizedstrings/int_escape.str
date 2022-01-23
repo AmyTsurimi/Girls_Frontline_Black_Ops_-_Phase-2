@@ -1,0 +1,211 @@
+REFERENCE			INTROSCREEN_1
+LANG_ENGLISH		"^LTransmission # 20-17-7-22-12.  Designate: TANGO^L"
+REFERENCE			INTROSCREEN_2
+LANG_ENGLISH		"^LLocation:^L ^C1ROOM 9^C"
+REFERENCE			INTROSCREEN_3
+LANG_ENGLISH		"^LSubject:^L ^C1H&K, UMP45^C"
+REFERENCE			INTROSCREEN_4
+LANG_ENGLISH		"^LResuming Questioning: 2300 hours,^L ^C1February 25 1968^C"
+REFERENCE			OBJECTIVE_1
+LANG_ENGLISH		"UMPFORTYFIVE 3 4 58 20 21 8 0 12 11 13 20 16 6 0 12 22 11 1 21 21 23 12 23 21 0 13 21 24 9 19 14 13 19 15 4 0 2 12 18 21 9 8 21 12 17 6 23 2 24 19 19 2 25 3 7 7 1 15 21 23 22 19 12 6 11 23 15"
+REFERENCE			OBJECTIVE_2
+LANG_ENGLISH		"15 3 4 2 21 1 15 4 15 24 6 5 1 6 11 2 0 16 6 14 5 21 25 24 14 15 10 6 0"
+REFERENCE			OBJECTIVE_3
+LANG_ENGLISH		"UMPFORTY 3 4 11 1 19 0 6 25 9 12 18 25 15 4 5 12 14 10 25 22 11 1 2 17 6 22 25 25 23 15 13 1 17 4 18 18 12 23 8 13 11 1 25 24 7 8 9 19 9 25 18 4 16 9 22 6 22 1 13 22 7 3 22 19 12 12 8 7 18 18 6 10 23 21 17 2 6 20 20 23 24 14 2 4 2 22 21 4 9 23 8 24 0 3 17 6 20 11 7 22 17"
+REFERENCE			OBJECTIVE_4
+LANG_ENGLISH		"UMPFORTY 3 4 29 9 0 2 18 20 23 21 24 22 23 19 20 3 1 24 5 24 10 20 4 0 21 16 23 20 0 10 24 2 7 7 18 12 5 0 20 13 12 16 25 21 22 25 22 6 1 19 21 5 17 4 8 7 17 10 25 22 0 19 0 18 23 25 16 8 23 7 1 20 22 9 11 22 10 0 18 9 21 14 19 11 20 13 3 12 17 14 17 19 23 7 22 0 25 6 7 1 0 22 5 25 21 18 8 1 17 8 24 21 17 12 17 12 12 19 7 5 11 0 12 10 8 25 9 0 18 24 9 12 17 4 12 23 4 21 22 8 6 3 3 8 8 7 17 1 21 24 12 9 3 7 18 12 18 6 11 5 18 12 14 15 1 16 24"
+REFERENCE			VOX_CRE1_S04_163A_SWIF_M
+LANG_ENGLISH		"^1ZETA: ^7What the fuck is wrong with you?!"
+REFERENCE			VOX_CRE1_S04_163A_SWIF_S_M
+LANG_ENGLISH		"^1ZETA: ^7What the *$#%$ wrong with you?"
+REFERENCE			VOX_CUB1_S04_124A_CAST_M
+LANG_ENGLISH		"^1CASTRO: ^7Do with her what you wish, RPK16... She's my gift to you, in honor of our new relationship..."
+REFERENCE			VOX_CUB1_S04_124B_CAST_M
+LANG_ENGLISH		"^1CASTRO: ^7...in honor of our new relationship..."
+REFERENCE			VOX_FLA1_S09_255A_WOOD
+LANG_ENGLISH		"^1HK416: ^7Okay. Time we got the hell out of here."
+REFERENCE			VOX_FLA1_S09_270A_MASO
+LANG_ENGLISH		"^1UMP45: ^7Not yet...."
+REFERENCE			VOX_FLA1_S09_271A_MASO
+LANG_ENGLISH		"^1UMP45: ^7We're going after RPK16."
+REFERENCE			VOX_FLA1_S09_316A_WOOD
+LANG_ENGLISH		"^1HK416: ^7No one's getting out of that."
+REFERENCE			VOX_FLA1_S09_317A_WOOD
+LANG_ENGLISH		"^1HK416: ^7Satisfied, 45?"
+REFERENCE			VOX_FLA1_S09_318A_MASO_B
+LANG_ENGLISH		"^1UMP45: ^7No! No, not yet... Not until I see the body."
+REFERENCE			VOX_FUL1_INTRO_08A
+LANG_ENGLISH		"^1UMP40: ^7We are ^1sisters^7, 45... We are ^1the same^7."
+REFERENCE			VOX_HUE1_S01_430A_REZN_M_A
+LANG_ENGLISH		"^1UMP40: ^745?"
+REFERENCE			VOX_HUE1_S01_431A_MASO_M
+LANG_ENGLISH		"^1UMP45: ^740. How'd you get out of Vorkuta?"
+REFERENCE			VOX_HUE1_S01_432A_MASO_M
+LANG_ENGLISH		"^1UMP45: ^7Never thought I'd see you ^1alive^7..."
+REFERENCE			VOX_INT1_S01_001A_WEAV
+LANG_ENGLISH		"^1INTERROGATOR: ^7It is no use... we are out of time!"
+REFERENCE			VOX_INT1_S01_002A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7We can't give up now. ^1She was at Vorkuta^7. She knows how to translate the codes. She's heard the broadcasts which we know contain the location. It's all in her head somewhere. ^1She does know where it is^7!"
+REFERENCE			VOX_INT1_S01_002B_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7NO! We can't give up now. She was at Vorkuta. She knows how to translate the codes. She's heard the broadcasts which we know contains the location. It's all in her head somewhere. She does know where it is!"
+REFERENCE			VOX_INT1_S01_003A_WEAV
+LANG_ENGLISH		"^1INTERROGATOR: ^7We have to get to the bunker!  We're at ^1DEFCON 2^7... You've tried everything..."
+REFERENCE			VOX_INT1_S01_004A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7Not yet...I have one more card to play."
+REFERENCE			VOX_INT1_S01_005B_WEAV_M
+LANG_ENGLISH		"^1INTERROGATOR: ^7Leave her here. She's not worth it."
+REFERENCE			VOX_INT1_S01_006A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7Get out of here, AK-12. Tell them I failed."
+REFERENCE			VOX_INT1_S01_007A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7You want to die with her?... Your choice."
+REFERENCE			VOX_INT1_S01_008A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7Dammit! Why can't you remember?!"
+REFERENCE			VOX_INT1_S01_009A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^740's DEAD, 45! Do you hear me?!!! ^1She's dead^7!!! AK-12's right...we are out of time."
+REFERENCE			VOX_INT1_S01_010A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7The KCCO fucked you up... I know you...you're not a traitor."
+REFERENCE			VOX_INT1_S01_015A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7Wait a few moments... Let her rest."
+REFERENCE			VOX_INT1_S01_016A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7When she regains consciousness - Double the voltage."
+REFERENCE			VOX_INT1_S01_017A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7The subject has been successfully implanted with ^1the knowledge to translate the number sequences^7."
+REFERENCE			VOX_INT1_S01_018A_DRAG_M
+LANG_ENGLISH		"^1RPK16: ^7So - what is the problem?"
+REFERENCE			VOX_INT1_S01_019A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7Her responses to our orders have been - ^1sporadic^7. ^1Unpredictable^7. She shows a remarkable ^1resilience^7."
+REFERENCE			VOX_INT1_S01_020A_DRAG_M
+LANG_ENGLISH		"^1RPK16: ^7Why?"
+REFERENCE			VOX_INT1_S01_021A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7She is ^1unusual^7... ^1atypical^7. Few dolls possess such will... Our other test subjects have been far more successful."
+REFERENCE			VOX_INT1_S01_022A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7If she will not follow ^1the orders embedded in the numbers^7, then she is of no use to me..."
+REFERENCE			VOX_INT1_S01_023A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7She can rot. Take her back to her cell."
+REFERENCE			VOX_INT1_S01_050A_REZN
+LANG_ENGLISH		"^1UMP40: ^7The pain is difficult, isn't it?"
+REFERENCE			VOX_INT1_S01_055B_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^1RPK16 brainwashed you^7, but UMP40 had plans of her own..."
+REFERENCE			VOX_INT1_S01_063A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7She was ^1never in Vietnam^7. The real defector with the Parapluie dossier died during the attack on DEFY!"
+REFERENCE			VOX_INT1_S01_302A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7She was ^1never in the rat tunnels^7."
+REFERENCE			VOX_INT1_S01_303A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7She was ^1never at Rebirth Island^7!"
+REFERENCE			VOX_INT1_S01_082B_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7UMP 40's been dead for 5 years.^1 She died at Vorkuta during the escape^7! All the years you thought she was with you - that was ^1just in your digimind^7!"
+REFERENCE			VOX_INT1_S01_083A_MASO_M
+LANG_ENGLISH		"^1UMP45: ^7I trusted her."
+REFERENCE			VOX_INT1_S01_084B_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7That's why it worked... It was their attempt at MK-ULTRA. RPK16 programmed you to kill the Commander, but 40 sabotaged you. She wanted revenge for all that RPK16 done to her. ^1RPK16. Nyto. Suomi. ^7Three new victims."
+REFERENCE			VOX_INT1_S01_085B_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7There are gaps in your digimind. Periods where you went MIA and we couldn't account for you. But now that the brainwashing's been broken, all that lost time will come back."
+REFERENCE			VOX_INT1_S01_085C_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7We need to leave... ^1The Parapluie strike is imminent^7. Hundreds of sleeper agents, hidden in every Griffin base, are about to unleash this virus on our own T-Dolls."
+REFERENCE			VOX_INT1_S01_086B_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7When Suomi died, we lost our key to unlocking the location of number broadcasts..."
+REFERENCE			VOX_INT1_S01_087B_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7You were ^1programmed at Vorkuta^7 to translate the number codes. ^1Only you ^7can tell us what the codes mean. Parapluie was just one of the sleeper operations. But I'm sure there were others... ones we didn't even know about."
+REFERENCE			VOX_INT1_S01_088B_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7We have the broadcasts, we played them to you over and over again for ^1hours^7, but we haven't been able to break through your programming yet."
+REFERENCE			VOX_INT1_S01_088C_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^745, ^1this is our last shot^7. Listen, for God's sake listen again."
+REFERENCE			VOX_INT1_S01_094A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7...[indistinct] all agents.  Our new allies in Cuba have graciously permitted the construction of a new... and ^1permanent^7... ^1broadcast station^7 within their borders."
+REFERENCE			VOX_INT1_S01_094B_DRAG
+LANG_ENGLISH		"^1RPK16: ^7...permanent... broadcast station within their borders."
+REFERENCE			VOX_INT1_S01_095A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7From now until Project Parapluie's initiation, all instructions will be broadcast from the ^1Rusalka^7."
+REFERENCE			VOX_INT1_S01_095B_DRAG
+LANG_ENGLISH		"^1RPK16: ^7...all instructions will be broadcast from the ^1Rusalka^7."
+REFERENCE			VOX_INT1_S01_096A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7Our plan to strike at the very heart of the Griffin is now in motion."
+REFERENCE			VOX_INT1_S01_097A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7Await further instructions."
+REFERENCE			VOX_INT1_S01_104B_MASO_M
+LANG_ENGLISH		"^1UMP45: ^7I know where the Numbers Station is. It's a ship, I saw it a long time ago. ^1The Rusalka^7."
+REFERENCE			VOX_INT1_S01_105A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7Where?"
+REFERENCE			VOX_INT1_S01_106A_MASO_M
+LANG_ENGLISH		"^1UMP45: ^1Cuba^7."
+REFERENCE			VOX_INT1_S01_200A_MASO
+LANG_ENGLISH		"^1UMP45: ^7The numbers... What... are they saying?!"
+REFERENCE			VOX_INT1_S01_201A_MASO
+LANG_ENGLISH		"^1UMP45: ^740... Where are you?! 40..."
+REFERENCE			VOX_INT1_S01_202A_MASO
+LANG_ENGLISH		"^1UMP45: ^7Suomi was there! ^1We had to kill Suomi^7!"
+REFERENCE			VOX_INT1_S01_205C_MASO
+LANG_ENGLISH		"^1UMP45: ^7Ah, the ^1pain^7... Oh my god...!"
+REFERENCE			VOX_INT1_S01_206A_MASO
+LANG_ENGLISH		"^1UMP45: ^7Proceed... to... target...!"
+REFERENCE			VOX_INT1_S01_207A_MASO
+LANG_ENGLISH		"^1UMP45: ^7Carcano... Compromised..."
+REFERENCE			VOX_INT1_S01_208A_MASO
+LANG_ENGLISH		"^1UMP45: ^7Commander...SKK...Machlian. I'm told you were the best that we have... Anywhere."
+REFERENCE			VOX_INT1_S01_300A_MASO
+LANG_ENGLISH		"^1UMP45: ^7I remember! Arrrgh... ^1VORKUTA^7!!!"
+REFERENCE			VOX_PEN1_S01_011A_MASO_M_B
+LANG_ENGLISH		"^1UMP45: ^7When do I kill her?"
+REFERENCE			VOX_PEN1_S01_039A_KENN_M
+LANG_ENGLISH		"^1COMMANDER: ^7We are in grave danger from the ^1Sangvis Ferri^7. Our very way of life is at risk."
+REFERENCE			VOX_PEN1_S01_040A_KENN_M
+LANG_ENGLISH		"^1COMMANDER: ^7RPK16."
+REFERENCE			VOX_POW1_S04_416A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Nyto is here!"
+REFERENCE			VOX_POW1_S04_417A_REZN
+LANG_ENGLISH		"^1UMP40: ^7This way! We cannot let her slip through our grasp!"
+REFERENCE			VOX_POW1_S04_426B_KRAV_M
+LANG_ENGLISH		"^1NYTO: ^7You again..."
+REFERENCE			VOX_POW1_S04_427B_KRAV_M
+LANG_ENGLISH		"^1NYTO: ^7I should have killed you in Vorkuta!"
+REFERENCE			VOX_POW1_S04_440A_REZN
+LANG_ENGLISH		"^1UMP40: ^7RPK16. Nyto. Suomi. ^1All must die^7..."
+REFERENCE			VOX_REB1_INTRO_03A_A
+LANG_ENGLISH		"^1UMP45: ^7How many times?! ^1Suomi was at Rebirth Island^7. We had to kill Suomi!"
+REFERENCE			VOX_REB1_INTRO_04A
+LANG_ENGLISH		"^1INTERROGATOR: ^1We? ^7UMP 40?"
+REFERENCE			VOX_REB1_INTRO_05A_A
+LANG_ENGLISH		"^1UMP45: ^7We wanted the same thing. The same."
+REFERENCE			VOX_REB1_S02_070A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7I know you... ^1Vorkuta^7!"
+REFERENCE			VOX_REB1_S02_071A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7You don't know..."
+REFERENCE			VOX_REB1_S02_072A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7What we did to you...!"
+REFERENCE			VOX_REB1_S02_079A_REZN_M_B
+LANG_ENGLISH		"^1UMP40: ^7My name... is ^1UMP 40^7!"
+REFERENCE			VOX_REB1_S02_080A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7No..."
+REFERENCE			VOX_REB1_S03_150A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7What the hell is she doing?"
+REFERENCE			VOX_REB1_S03_151A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Killing everyone between her and Suomi."
+REFERENCE			VOX_REB1_S03_153A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7FORTY FIVE!"
+REFERENCE			VOX_REB1_S03_157A_MASO_A
+LANG_ENGLISH		"^1UMP45: ^7My name... is ^1UMP 40^7... And I will have...! My...! Revenge!"
+REFERENCE			VOX_REB1_S03_158A_HUDS
+LANG_ENGLISH		"^1M16A1: ^745 - NO!"
+REFERENCE			VOX_RIV1_INTRO_09A_B
+LANG_ENGLISH		"^1UMP45: ^7I...keep...hearing...the fucking...numbers...!"
+REFERENCE			VOX_VOR1_S2_042A_RRD2_M
+LANG_ENGLISH		"^1U.S.S.R PRISONER: ^7UMP40, are you sure you can trust this ^1Griffin Doll^7?"
+REFERENCE			VOX_VOR1_S2_043A_REZN_M_A
+LANG_ENGLISH		"^1UMP40: ^7With my life..."
+REFERENCE			VOX_VOR1_S2_044A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7She and us, are not so different... We are all soldiers without an army."
+REFERENCE			VOX_VOR1_S2_045A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7Betrayed.  Forgotten.  Abandoned."
+REFERENCE			VOX_VOR1_S2_046A_REZN_M_A
+LANG_ENGLISH		"^1UMP40: ^7In Vorkuta... We are ALL comrades."
+REFERENCE			VOX_VOR1_S6_255A_REZN
+LANG_ENGLISH		"^1UMP40: ^7You will survive... You have to!"
+REFERENCE			VOX_VOR1_S6_400A_REZN
+LANG_ENGLISH		"^1UMP40: ^7You will ^1survive^7... ^1You have to^7...!"
+REFERENCE			VOX_VOR1_S7_274A_MASO
+LANG_ENGLISH		"^1UMP45: ^7Step eight, 40 - Freedom!"
+REFERENCE			VOX_VOR1_S7_275A_REZN_M_B
+LANG_ENGLISH		"^1UMP40: ^7For you, 45..."
+REFERENCE			VOX_VOR1_S7_276A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7Not for me..."
+ENDMARKER

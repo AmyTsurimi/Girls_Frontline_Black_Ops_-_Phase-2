@@ -1,0 +1,388 @@
+REFERENCE			BTR_20_AGENTS
+LANG_ENGLISH		"Agents M16A1 and AK-12"
+REFERENCE			BTR_20_BODY
+LANG_ENGLISH		"On the South side of the Island"
+REFERENCE			BTR_20_TITLE
+LANG_ENGLISH		"20 MINUTES EARLIER"
+REFERENCE			TACKLE_MASON
+LANG_ENGLISH		"Press ^3[{+melee}]^7 to tackle UMP45"
+REFERENCE			HAZMAT_PUNCTURED
+LANG_ENGLISH		"Your firewall was breached. You were exposed to Parapluie!"
+REFERENCE			HUDSON_INTROSCREEN_1
+LANG_ENGLISH		"^LTransmission # 14-25-1-26-24-9-18-8-17. Designate: ROMEO^L"
+REFERENCE			HUDSON_INTROSCREEN_2
+LANG_ENGLISH		"^LWe believe UMP45 is headed for the KCCO Cyber weapons facility^L"
+REFERENCE			HUDSON_INTROSCREEN_3
+LANG_ENGLISH		"^Lat Vozrozhdeniye ^L^C1"Rebirth" Island, USSR.^C"
+REFERENCE			HUDSON_INTROSCREEN_4
+LANG_ENGLISH		"^C1M16A1^C^L and AK-12 inserted to assault and extract Suomi^L"
+REFERENCE			HUDSON_INTROSCREEN_5
+LANG_ENGLISH		"^L2200 hours, ^L^C1February 23, 1968^C"
+REFERENCE			MASON_INTROSCREEN_1
+LANG_ENGLISH		"^LTransmission # 9-15-5-22-7-12-21. Designate: OSCAR^L"
+REFERENCE			MASON_INTROSCREEN_2
+LANG_ENGLISH		"^LWe believe ^L^C1UMP45^C^L is headed for the KCCO Cyber weapons facility^L"
+REFERENCE			MASON_INTROSCREEN_3
+LANG_ENGLISH		"^Lat Vozrozhdeniye ^L^C1"Rebirth" Island, USSR.^C"
+REFERENCE			MASON_INTROSCREEN_4
+LANG_ENGLISH		"^LM16A1 and Team 2 inserted to assault and extract Suomi^L"
+REFERENCE			MASON_INTROSCREEN_5
+LANG_ENGLISH		"^L2230 hours, ^L^C1February 23, 1968^C"
+REFERENCE			NOVA6_EXPOSED
+LANG_ENGLISH		"You were exposed to Parapluie!"
+REFERENCE			OBJECTIVE_1
+LANG_ENGLISH		"Infiltrate the KCCO lab and confront T-Doll Suomi"
+REFERENCE			OBJECTIVE_2
+LANG_ENGLISH		"Infiltrate the KCCO lab and capture T-Doll Suomi"
+REFERENCE			OBJECTIVE_3A
+LANG_ENGLISH		"Shoot down the enemy helicopters (2 of 2 remaining)"
+REFERENCE			OBJECTIVE_3B
+LANG_ENGLISH		"Shoot down the enemy helicopters (1 of 2 remaining)"
+REFERENCE			OBJECTIVE_4
+LANG_ENGLISH		"Escape the island"
+
+REFERENCE			VOX_REB1_S01_002A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7We are here."
+REFERENCE			VOX_REB1_S01_004A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7Rebirth Island... Source of RPK16's virus."
+REFERENCE			VOX_REB1_S01_006A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7They are preparing to deliver Parapluie."
+REFERENCE			VOX_REB1_S01_011A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7Kill him, 45."
+REFERENCE			VOX_REB1_S01_012A_REZN
+LANG_ENGLISH		"^1UMP40: ^7We are outnumbered, 45."
+REFERENCE			VOX_REB1_S01_013A_REZN
+LANG_ENGLISH		"^1UMP40: ^7We must not attract attention."
+REFERENCE			VOX_REB1_S01_014A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Stick to the shadows - avoid the helicopter's spotlight."
+REFERENCE			VOX_REB1_S01_015A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Wait until it passes."
+REFERENCE			VOX_REB1_S01_016A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Go - Quickly."
+REFERENCE			VOX_REB1_S01_017A_REZN
+LANG_ENGLISH		"^1UMP40: ^745, stay with me!"
+REFERENCE			VOX_REB1_S01_018A_REZN
+LANG_ENGLISH		"^1UMP40: ^745, you will be seen! Keep close!"
+REFERENCE			VOX_REB1_S01_019A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Where are you going? Stick to the plan!"
+REFERENCE			VOX_REB1_S01_020A_REZN
+LANG_ENGLISH		"^1UMP40: ^7We cannot allow ourselves be seen! Stay low!"
+REFERENCE			VOX_REB1_S01_024A_REZN
+LANG_ENGLISH		"^1UMP40: ^7They are beginning to evacuate the facility..."
+REFERENCE			VOX_REB1_S01_025A_MASO
+LANG_ENGLISH		"^1UMP45: ^7They know we're here..."
+REFERENCE			VOX_REB1_S01_028A_REZN
+LANG_ENGLISH		"^1UMP40: ^745... Silence him."
+REFERENCE			VOX_REB1_S01_029A_REZN
+LANG_ENGLISH		"^1UMP40: ^745!"
+REFERENCE			VOX_REB1_S01_030A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Good my friend. Follow me."
+REFERENCE			VOX_REB1_S01_031A_REZN
+LANG_ENGLISH		"^1UMP40: ^7The chopper is coming around again."
+REFERENCE			VOX_REB1_S01_032A_REZN
+LANG_ENGLISH		"^1UMP40: ^7We must find another hiding place."
+REFERENCE			VOX_REB1_S01_033A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Stay out of the light."
+REFERENCE			VOX_REB1_S01_034A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Wait... stay where you are."
+REFERENCE			VOX_REB1_S01_035A_REZN
+LANG_ENGLISH		"^1UMP40: ^7It did not see us."
+REFERENCE			VOX_REB1_S01_036A_REZN
+LANG_ENGLISH		"^1UMP40: ^7This way, up the stairs."
+REFERENCE			VOX_REB1_S01_040A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Good... Very good."
+REFERENCE			VOX_REB1_S01_041A_REZN
+LANG_ENGLISH		"^1UMP40: ^7We should be able to access Suomi's lab from the roof..."
+REFERENCE			VOX_REB1_S01_042A_REZN
+LANG_ENGLISH		"^1UMP40: ^7We are getting close, 45."
+REFERENCE			VOX_REB1_S01_044A_REZN
+LANG_ENGLISH		"^1UMP40: ^7They've gone to full alert."
+REFERENCE			VOX_REB1_S01_045A_MASO
+LANG_ENGLISH		"^1UMP45: ^7It's Griffin... They want Suomi alive."
+REFERENCE			VOX_REB1_S01_046A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Then we must get to her first."
+REFERENCE			VOX_REB1_S01_047A_REZN
+LANG_ENGLISH		"^1UMP40: ^7A target of opportunity, 45. Aim true."
+REFERENCE			VOX_REB1_S01_049A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Follow me. We will use the elevator shaft."
+REFERENCE			VOX_REB1_S01_700A_MASO
+LANG_ENGLISH		"^1UMP45: ^7I arrived with 40 at Rebirth Island. Finally. Suomi was ours."
+REFERENCE			VOX_REB1_S01_701A_MASO
+LANG_ENGLISH		"^1UMP45: ^7Look... I swear to God, that's how Suomi died. 40 killed her ^1right in front of me^7!"
+REFERENCE			VOX_REB1_S01_702A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7You're lying, 45. ^1You killed Suomi^7. We know you did!"
+REFERENCE			VOX_REB1_S01_702B_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7You're lying 45. You killed Suomi. We know you did."
+REFERENCE			VOX_REB1_S01_703A_MASO
+LANG_ENGLISH		"^1UMP45: ^740 got exactly what she wanted. ^1Revenge^7."
+REFERENCE			VOX_REB1_S01_704A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7We saw the report, 45. UMP 40 ^1did not^7 kill T-Doll Suomi. M16A1 saw what happened."
+REFERENCE			VOX_REB1_S01_704B_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7M16A1 filed her report 45. UMP 40 did not kill T-Doll Suomi. M16A1 saw what happened."
+REFERENCE			VOX_REB1_S01_705A_MASO
+LANG_ENGLISH		"^1UMP45: ^740!"
+REFERENCE			VOX_REB1_S01_706A_MASO
+LANG_ENGLISH		"^1UMP45: ^7Not on my watch."
+REFERENCE			VOX_REB1_S01_707A_HUDS_F
+LANG_ENGLISH		"^1M16A1: ^745, this is M16A1. We know you're on Rebirth Island. Talk to me 45."
+REFERENCE			VOX_REB1_S02_051A_REZN
+LANG_ENGLISH		"^1UMP40: ^7This way..."
+REFERENCE			VOX_REB1_S02_056A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7Shoot! Shoot now..."
+REFERENCE			VOX_REB1_S02_059A_REZN
+LANG_ENGLISH		"^1UMP40: ^7We must get this door open."
+REFERENCE			VOX_REB1_S02_060A_MASO
+LANG_ENGLISH		"^1UMP45: ^7I got it."
+REFERENCE			VOX_REB1_S02_061A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Be cautious my friend..."
+REFERENCE			VOX_REB1_S02_063A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7Let us end this..."
+REFERENCE			VOX_REB1_S02_064A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7RPK16's men are rounding up everyone on the island..."
+REFERENCE			VOX_REB1_S02_065A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7Those no longer essential to her plans are being executed!"
+REFERENCE			VOX_REB1_S02_066A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7You must hurry, before they kill me too!"
+REFERENCE			VOX_REB1_S02_067A_MASO_M
+LANG_ENGLISH		"^1UMP45: ^7T-Doll Suomi. This is the end."
+REFERENCE			VOX_REB1_S02_068A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7You..?!!!"
+REFERENCE			VOX_REB1_S02_069A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7Aaaack!"
+REFERENCE			VOX_REB1_S02_069B_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7Arrggh!"
+REFERENCE			VOX_REB1_S02_070A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7I know you... ^1Vorkuta^7!"
+REFERENCE			VOX_REB1_S02_071A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7You don't know..."
+REFERENCE			VOX_REB1_S02_072A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7What we did to you...!"
+REFERENCE			VOX_REB1_S02_074A_HUDS_F_M
+LANG_ENGLISH		"^1M16A1: ^745, talk to me!"
+REFERENCE			VOX_REB1_S02_074B_HUDS_F_M
+LANG_ENGLISH		"^1M16A1: ^7It's M16A1! 45, talk to me!"
+REFERENCE			VOX_REB1_S02_075A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7Your evil has claimed the lives of many good dolls..."
+REFERENCE			VOX_REB1_S02_076A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7No longer."
+REFERENCE			VOX_REB1_S02_077A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7Killing me will not stop Parapluie!"
+REFERENCE			VOX_REB1_S02_078A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7I do not care about Parapluie!"
+REFERENCE			VOX_REB1_S02_079A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7My name... is ^1UMP 40^7!"
+REFERENCE			VOX_REB1_S02_080A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7No..."
+REFERENCE			VOX_REB1_S02_081A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7And I will have... my... revenge!"
+REFERENCE			VOX_REB1_S03_082A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7AK-12!"
+REFERENCE			VOX_REB1_S03_083A_WEAV_F_M
+LANG_ENGLISH		"^1AK-12: ^7Go ahead M16."
+REFERENCE			VOX_REB1_S03_084A_HUDS
+LANG_ENGLISH		"^1M16A1: ^745's still dark. We need to work our way through the research facility. Protect our six!"
+REFERENCE			VOX_REB1_S03_085A_HUDS
+LANG_ENGLISH		"^1M16A1: ^745's still dark. We work our way through to the research facility and extract Suomi."
+REFERENCE			VOX_REB1_S03_086A_WEAV_F
+LANG_ENGLISH		"^1AK-12: ^7Yankee Squad, we're moving!"
+REFERENCE			VOX_REB1_S03_087A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Alpha Squad, let's roll."
+REFERENCE			VOX_REB1_S03_088A_USS1_F
+LANG_ENGLISH		"^1T-DOLL: ^7Copy that we are on the move."
+REFERENCE			VOX_REB1_S03_089A_WEAV_F
+LANG_ENGLISH		"^1AK-12: ^7They've already begun to evacuate."
+REFERENCE			VOX_REB1_S03_090A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7It's not an evacuation... It's a massacre."
+REFERENCE			VOX_REB1_S03_091A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Making sure no one's alive to tell us anything."
+REFERENCE			VOX_REB1_S03_092A_WEAV_F
+LANG_ENGLISH		"^1AK-12: ^7Hard right! That leads to the cyber-lab."
+REFERENCE			VOX_REB1_S03_093A_WEAV_F
+LANG_ENGLISH		"^1AK-12: ^7Enemy vehicle 12 o'clock."
+REFERENCE			VOX_REB1_S03_094A_WEAV_F
+LANG_ENGLISH		"^1AK-12: ^7That's the main drive up to the laboratories. Yankee Squad will flank west and meet you there."
+REFERENCE			VOX_REB1_S03_095A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Understood. Alpha squad, move up!"
+REFERENCE			VOX_REB1_S03_096A_USS1_F
+LANG_ENGLISH		"^1T-DOLL: ^7We're moving."
+REFERENCE			VOX_REB1_S03_097A_USS1_F
+LANG_ENGLISH		"^1T-DOLL: ^7Enemy targets, on the balcony."
+REFERENCE			VOX_REB1_S03_098A_WEAV_F
+LANG_ENGLISH		"^1AK-12: ^7Molotovs! On the roof!"
+REFERENCE			VOX_REB1_S03_099A_HUDS
+LANG_ENGLISH		"^1M16A1: ^745! Take out those Molotovs!"
+REFERENCE			VOX_REB1_S03_100A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7RPGS!!!"
+REFERENCE			VOX_REB1_S03_101A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Take out those damn RPGs!"
+REFERENCE			VOX_REB1_S03_102A_WEAV_F
+LANG_ENGLISH		"^1AK-12: ^7Left side!!"
+REFERENCE			VOX_REB1_S03_103A_WEAV_F
+LANG_ENGLISH		"^1AK-12: ^7Right side!!"
+REFERENCE			VOX_REB1_S03_104A_USS1_F
+LANG_ENGLISH		"^1T-DOLL: ^7Multiple contacts on the road."
+REFERENCE			VOX_REB1_S03_105A_USS1_F
+LANG_ENGLISH		"^1T-DOLL: ^7M16, recon reports MI-8's inbound on our position."
+REFERENCE			VOX_REB1_S03_106A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Understood. Let's pick it up."
+REFERENCE			VOX_REB1_S03_107A_USS1_F
+LANG_ENGLISH		"^1T-DOLL: ^7MI-8 dead ahead!"
+REFERENCE			VOX_REB1_S03_108A_RED1
+LANG_ENGLISH		"^1T-DOLL: ^7Take cover!"
+REFERENCE			VOX_REB1_S03_109A_USS1_F
+LANG_ENGLISH		"^1T-DOLL: ^7He's locked on! Move! Move!"
+REFERENCE			VOX_REB1_S03_110A_USS1_F
+LANG_ENGLISH		"^1T-DOLL: ^7Incoming!"
+REFERENCE			VOX_REB1_S03_111A_RED2
+LANG_ENGLISH		"^1T-DOLL: ^7Parapluie! 16Lab firewall, NOW!"
+REFERENCE			VOX_REB1_S03_112A_RED1_M
+LANG_ENGLISH		"^1T-DOLL: ^7Shit! shit! Help! Aaaaccckk!"
+REFERENCE			VOX_REB1_S03_112A_RED1_M_S
+LANG_ENGLISH		"^1T-DOLL: ^7Help! Aaaaccckk!"
+REFERENCE			VOX_REB1_S03_113A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Alpha Squad! we are moving forward! Protect your 16Lab firewall!"
+REFERENCE			VOX_REB1_S03_114A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7You rupture your firewall - you'll be corrupted in minutes!"
+REFERENCE			VOX_REB1_S03_115A_RED2
+LANG_ENGLISH		"^1T-DOLL: ^7You heard her! Keep those firewall tight! Let's go!"
+REFERENCE			VOX_REB1_S03_116A_RED2
+LANG_ENGLISH		"^1T-DOLL: ^7KCCO!"
+REFERENCE			VOX_REB1_S03_117A_RED3
+LANG_ENGLISH		"^1T-DOLL: ^7We see 'em."
+REFERENCE			VOX_REB1_S03_118A_RED3
+LANG_ENGLISH		"^1T-DOLL: ^7Check your six!"
+REFERENCE			VOX_REB1_S03_119A_RED3
+LANG_ENGLISH		"^1T-DOLL: ^7I got it."
+REFERENCE			VOX_REB1_S03_120A_RED2
+LANG_ENGLISH		"^1T-DOLL: ^7It's killing us! Get off the street!"
+REFERENCE			VOX_REB1_S03_121A_WEAV_F
+LANG_ENGLISH		"^1AK-12: ^7Yankee Squad has cleared the west perimeter. Moving north."
+REFERENCE			VOX_REB1_S03_122A_RED2
+LANG_ENGLISH		"^1T-DOLL: ^7Keep moving to the west! Down that alley!"
+REFERENCE			VOX_REB1_S03_123A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7We're moving up on the flank. Keep heading north!"
+REFERENCE			VOX_REB1_S03_124A_WEAV_F
+LANG_ENGLISH		"^1AK-12: ^7Understood. We are taking heavy fire from the helicopters."
+REFERENCE			VOX_REB1_S03_125A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Stay with it, we're about half a click south of the lab."
+REFERENCE			VOX_REB1_S03_126A_WEAV_F
+LANG_ENGLISH		"^1AK-12: ^7Alpha squad, we are taking direct fire from the enemy. Requesting back up, over."
+REFERENCE			VOX_REB1_S03_127A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Almost there AK-12, hang on!"
+REFERENCE			VOX_REB1_S03_128A_WEAV_F
+LANG_ENGLISH		"^1AK-12: ^7Yankee squad get out of the BTR! We're going to get..."
+REFERENCE			VOX_REB1_S03_129A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7AK-12!"
+REFERENCE			VOX_REB1_S03_130A_WEAV_F
+LANG_ENGLISH		"^1AK-12: ^7We're alive M16. But they got us pinned down. They're on our east flank."
+REFERENCE			VOX_REB1_S03_131A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Got it."
+REFERENCE			VOX_REB1_S03_132A_WEAV_F
+LANG_ENGLISH		"^1AK-12: ^7Damn it! M16! We can't move until we take out those choppers."
+REFERENCE			VOX_REB1_S03_133A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Yeah, I got it."
+REFERENCE			VOX_REB1_S03_134A_WEAV_F
+LANG_ENGLISH		"^1AK-12: ^7M16! Use the Strela on the choppers!"
+REFERENCE			VOX_REB1_S03_135A_WEAV_F
+LANG_ENGLISH		"^1AK-12: ^7M16, you need to take down those helicopters!"
+REFERENCE			VOX_REB1_S03_136A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7I need to be locked on before I shoot."
+REFERENCE			VOX_REB1_S03_137A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7I need a lock on first."
+REFERENCE			VOX_REB1_S03_138A_WEAV_F
+LANG_ENGLISH		"^1AK-12: ^7There you go you son of a bitch! One more M16!"
+REFERENCE			VOX_REB1_S03_138A_WEAV_S_F_S
+LANG_ENGLISH		"^1AK-12: ^7There you go! One more M16!"
+REFERENCE			VOX_REB1_S03_139A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7This way. We are almost at Suomi's labs."
+REFERENCE			VOX_REB1_S03_140A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7That's the cyber-lab. Looks like they're waiting for us."
+REFERENCE			VOX_REB1_S03_141A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Move out. Stay low."
+REFERENCE			VOX_REB1_S03_142A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Weapons free! Weapons free!"
+REFERENCE			VOX_REB1_S03_143A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7M16, flank left with me. There is cover!"
+REFERENCE			VOX_REB1_S03_144A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7In here. This is where Suomi will be."
+REFERENCE			VOX_REB1_S03_145A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7This way. The cyber-lab is below us."
+REFERENCE			VOX_REB1_S03_146A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7M16, where are they going?"
+REFERENCE			VOX_REB1_S03_147A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Let's find Suomi."
+REFERENCE			VOX_REB1_S03_148A_HUDS
+LANG_ENGLISH		"^1M16A1: ^745, this is M16A1. Are you there?"
+REFERENCE			VOX_REB1_S03_149A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7It's 45..."
+REFERENCE			VOX_REB1_S03_150A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7What the Hell is she doing?"
+REFERENCE			VOX_REB1_S03_151A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Killing everyone between her and Suomi."
+REFERENCE			VOX_REB1_S03_153A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7FORTY FIVE!!!"
+REFERENCE			VOX_REB1_S03_154A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7We have to stop her NOW!"
+REFERENCE			VOX_REB1_S03_155A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Damn! It's bulletproof! 45! What are you doing?! We need her alive! Stand down. STAND DOWN!"
+REFERENCE			VOX_REB1_S03_156A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7Aaarrggg! Help me!"
+REFERENCE			VOX_REB1_S03_157A_MASO
+LANG_ENGLISH		"^1UMP45: ^7My name is UMP 40. And I will have my revenge!"
+REFERENCE			VOX_REB1_S03_157B_MASO
+LANG_ENGLISH		"^1UMP45: ^7My name... is ^1UMP 40^7...! And I will have! my! revenge!"
+REFERENCE			VOX_REB1_S03_158A_HUDS
+LANG_ENGLISH		"^1M16A1: ^745 - NO!"
+REFERENCE			VOX_REB1_S03_159A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7I'm fine, check Suomi!"
+REFERENCE			VOX_REB1_S03_160A_RED2_M
+LANG_ENGLISH		"^1T-DOLL: ^7She's dead."
+REFERENCE			VOX_REB1_S03_161A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7What about 40, the defector? We need to find her."
+REFERENCE			VOX_REB1_S03_162A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7We won't. She was never here."
+REFERENCE			VOX_REB1_S03_163A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7I didn't believe till I saw it with my own eyes..."
+REFERENCE			VOX_REB1_S03_164A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7What did they do to you in Vorkuta, 45?"
+REFERENCE			VOX_REB1_S03_165A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7With Suomi dead, 45's our only link to the numbers broadcasts."
+REFERENCE			VOX_REB1_S03_166A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7We need to bring her back..."
+REFERENCE			VOX_REB1_S03_167A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7Let's go."
+REFERENCE			VOX_REB1_S03_168A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7This way. It will take us to the dock. This is AK-12. We have the package.... We are on our way."
+REFERENCE			VOX_REB1_S03_169A_USP1_F
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7Copy that. We are taking the docks now."
+REFERENCE			VOX_REB1_S03_170A_USP1_F
+LANG_ENGLISH		"^1T-DOLL PILOT: ^7You're clear."
+REFERENCE			VOX_REB1_S03_171A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7On our way. Let's go."
+REFERENCE			VOX_REB1_S03_172A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Watch her..."
+REFERENCE			VOX_REB1_S03_173A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7What the hell did they do to you, 45?"
+REFERENCE			VOX_REB1_S03_300A_STEI_F
+LANG_ENGLISH		"^1SUOMI: ^7RPK16's men are rounding up everyone on the island..."
+REFERENCE			VOX_REB1_S03_301A_STEI_F
+LANG_ENGLISH		"^1SUOMI: ^7Those no longer essential to her plans are being executed!"
+REFERENCE			VOX_REB1_S03_302A_STEI_F
+LANG_ENGLISH		"^1SUOMI: ^7You must hurry, before they kill me too!"
+REFERENCE			VOX_REB1_S03_303A_MASO_F_M
+LANG_ENGLISH		"^1UMP45: ^7T-Doll Suomi. This is the end."
+REFERENCE			VOX_REB1_S03_707A_HUDS
+LANG_ENGLISH		"^1M16A1: ^745, this is M16A1. We know you're on Rebirth Island. Talk to me, 45."
+REFERENCE			VOX_REB1_S03_708A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7We need to get to Suomi before it's too late."
+REFERENCE			VOX_REB1_S99_308A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Take the hatchet."
+REFERENCE			VOX_REB1_S99_309A_REZN
+LANG_ENGLISH		"^1UMP40: ^7You're too close to the spot light!"
+REFERENCE			VOX_REB1_S99_310A_REZN
+LANG_ENGLISH		"^1UMP40: ^745, they can see you!"
+REFERENCE			VOX_REB1_S99_311A_REZN
+LANG_ENGLISH		"^1UMP40: ^7You've been spotted!"
+REFERENCE			VOX_REB1_S99_312A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Don't let them see you!"
+ENDMARKER

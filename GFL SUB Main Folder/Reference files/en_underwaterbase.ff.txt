@@ -1,828 +1,0 @@
-|<Your actions caused your team to be killed.>|
-
-|<Use  to aim>|
-
-|<Protect>|
-
-|<Valkyrie Rockets>|
-
-|<Pickup the Valkyrie Rockets>|
-
-|<Shoot down enemy helicopters>|
-
-|<Targets>|
-
-|<Target>|
-
-|<Land helicopter>|
-
-|<Destroy enemy Hind>|
-
-|<Protect squad>|
-
-|<Assault the Rusalka>|
-
-|<Press ^3[{+melee}]^7 to zoom in and out>|
-
-|<Use  to move / strafe>|
-
-|<^L0600 hours, ^L^C1February 26, 1968^C>|
-
-|<^LWe believe the ship is transmitting the signal.^L>|
-
-|<^LLocation: ^L^C1Gulf of Mexico^C>|
-
-|<^C1UMP45^C^L, M16A1 and AK-12 headed to intercept KCCO Commercial ship Rusalka.^L>|
-
-|<^LTransmission # 9-19 Designate: G-11^L>|
-
-|<E11: Back to the Surface>|
-
-|<E10: Escape>|
-
-|<E9: Broadcast Deactivate Code>|
-
-|<E8: Enter the Broadcast Center>|
-
-|<E7: Get Up the Shaft>|
-
-|<E6: The Big Flood>|
-
-|<E5: Infiltrate the Base>|
-
-|<E4: Dive to Base>|
-
-|<E3: Big IGC>|
-
-|<E2: Rendezvous with AK-12>|
-
-|<E1A: Snipe from Chopper>|
-
-|<E1: Air Support>|
-
-|<Neutralize all threats>|
-
-|<Rendezvous with AK-12 below deck>|
-
-|<Infiltrate the Numbers Station>|
-
-|<Find and kill RPK16>|
-
-|<Stop the transmission>|
-
-|<Breach the door to the Broadcast Center>|
-
-|<Escape the Numbers Station>|
-
-|<Press ^3[{+attack}]^7 to grab RPK16>|
-
-|<Press ^3[{+breath_sprint}]^7 and ^F^3[{+melee}]^7^F rapidly to choke>|
-
-|<Follow>|
-
-|<Assist>|
-
-|<Use ^3[{+lookstick}]^7 to guide the missile in flight>|
-
-|<^1AK-12: ^7Alpha - we got visual on the Rusalka.>|
-
-|<^1M16A1: ^7Roger that, Yankee One.>|
-
-|<^1AK-12: ^7Beginning approach.>|
-
-|<^1M16A1: ^745 - your stick.>|
-
-|<^1AK-12: ^7Maintain formation. We're approaching the numbers station.>|
-
-|<^1AK-12: ^7SHIT! Taking triple A fire from the deck!...>|
-
-|<^1AK-12: ^7WHOA! Taking triple A fire from the deck!...>|
-
-|<^1M16A1: ^7I think they were expecting us!>|
-
-|<^1M16A1: ^7Yankee team - Engage echelon right!>|
-
-|<^1AK-12: ^7Roger that, Alpha. Breaking off.>|
-
-|<^1M16A1: ^745, bring us around to port!>|
-
-|<^1M16A1: ^7We need to secure the LZ!>|
-
-|<^1UMP45: ^7On it.>|
-
-|<^1T-DOLL PILOT: ^7One five, beginning our run.>|
-
-|<^1T-DOLL PILOT: ^7Engaging.>|
-
-|<^1T-DOLL PILOT: ^7That's a hit.>|
-
-|<^1T-DOLL PILOT: ^7Taking fire from the bridge!>|
-
-|<^1T-DOLL PILOT: ^7I see 'em. Moving to engage.>|
-
-|<^1T-DOLL PILOT: ^7Target's destroyed.>|
-
-|<^1AK-12: ^7Yankee One in position.>|
-
-|<^1AK-12: ^7Go go go!>|
-
-|<^1M16A1: ^7RPGs! Upper deck!>|
-
-|<^1M16A1: ^7AK-12?!>|
-
-|<^1AK-12: ^7Yankee team in position.>|
-
-|<^1T-DOLL PILOT: ^7Go! Go!>|
-
-|<^1M16A1: ^7Alpha, moving to provide support, over.>|
-
-|<^1AK-12: ^7Yankee two - Starboard side. Move up!>|
-
-|<^1DELTA: ^7Roger that, moving in.>|
-
-|<^1AK-12: ^7Yankee one - on me.>|
-
-|<^1AK-12: ^7Go.>|
-
-|<^1M16A1: ^7Take us around the port side.>|
-
-|<^1M16A1: ^7Get to the Port side.>|
-
-|<^1M16A1: ^7Take us around the starboard side.>|
-
-|<^1M16A1: ^7Get to the starboard side.>|
-
-|<^1M16A1: ^7We need to get closer.>|
-
-|<^1M16A1: ^7Get us closer!>|
-
-|<^1M16A1: ^7Pull back!>|
-
-|<^1M16A1: ^7We're too close - Get us clear!>|
-
-|<^1M16A1: ^7Shit! We're hit!>|
-
-|<^1M16A1: ^7We're hit!>|
-
-|<^1M16A1: ^7Taking fire!>|
-
-|<^1M16A1: ^7Evasive action!>|
-
-|<^1M16A1: ^7Get us out of here, 45!>|
-
-|<^1M16A1: ^7Too much heat! Pull up!>|
-
-|<^1M16A1: ^7Nice.>|
-
-|<^1M16A1: ^7Good shooting, 45.>|
-
-|<^1M16A1: ^7You got 'em.>|
-
-|<^1M16A1: ^7Keep it up.>|
-
-|<^1M16A1: ^7Taken out.>|
-
-|<^1UMP45: ^7Moving to port.>|
-
-|<^1UMP45: ^7Moving to Starboard.>|
-
-|<^1UMP45: ^7Bring us around.>|
-
-|<^1UMP45: ^7Takin' us closer.>|
-
-|<^1UMP45: ^7Roger that.>|
-
-|<^1AK-12: ^7Engaging.>|
-
-|<^1AK-12: ^7Hit them now!>|
-
-|<^1AK-12: ^7Weapons free.>|
-
-|<^1AK-12: ^7Yankee squad pinned down!>|
-
-|<^1AK-12: ^7Taking heavy fire!>|
-
-|<^1AK-12: ^7Where's that fire support?!>|
-
-|<^1AK-12: ^7Thanks for the help, Alpha.>|
-
-|<^1AK-12: ^7Yankee one, clear to move up.>|
-
-|<^1AK-12: ^7All clear. Moving up.>|
-
-|<^1DELTA: ^7Engaging.>|
-
-|<^1DELTA: ^7Open fire.>|
-
-|<^1DELTA: ^7Engaging targets.>|
-
-|<^1DELTA: ^7Yankee two are pinned down!>|
-
-|<^1DELTA: ^7Yankee two under fire! I Say again - Yankee two under fire.>|
-
-|<^1DELTA: ^7We need fire support!>|
-
-|<^1DELTA: ^7Nice work, Alpha.>|
-
-|<^1DELTA: ^7Yankee two, move up.>|
-
-|<^1DELTA: ^7Clear. Moving up.>|
-
-|<^1M16A1: ^7Roger that, Yankee.>|
-
-|<^1M16A1: ^7RPGS on the Bridge!>|
-
-|<^1M16A1: ^7Take them out!>|
-
-|<^1M16A1: ^7Stay on them!>|
-
-|<^1AK-12: ^7Moving to lower decks, over.>|
-
-|<^1M16A1: ^7Roger that, Yankee. Alpha team is right behind you.>|
-
-|<^1M16A1: ^745 - Take us down.>|
-
-|<^1M16A1: ^7Jump!>|
-
-|<^1M16A1: ^7Yankee team - sitrep?>|
-
-|<^1AK-12: ^7Moving through deck two... No sign of the transmitter.>|
-
-|<^1M16A1: ^7It has to be here.>|
-
-|<^1UMP45: ^7I know it is. Keep looking.>|
-
-|<^1M16A1: ^7Split up - cover both sides of the ship.>|
-
-|<^1M16A1: ^7Go!>|
-
-|<^1M16A1: ^7Shit! Enemy HIPS!>|
-
-|<^1M16A1: ^7Enemy HIPS!>|
-
-|<^1M16A1: ^745! Grab that guided missile!>|
-
-|<^1M16A1: ^7Take down those HIPS!>|
-
-|<^1AK-12: ^7M16 - you need to see this!>|
-
-|<^1M16A1: ^7What is it?>|
-
-|<^1AK-12: ^7SHIT!!!>|
-
-|<^1AK-12: ^7DAMN!!!>|
-
-|<^1M16A1: ^7AK-12?!!>|
-
-|<^1AK-12: ^7We're pinned down in the lower deck! Get your asses down here ASAP.>|
-
-|<^1M16A1: ^7We're on our way!>|
-
-|<^1AK-12: ^7There's more to this ship than we thought...>|
-
-|<^1UMP45: ^7The broadcast station. It's beneath us.>|
-
-|<^1AK-12: ^7Shit!!!>|
-
-|<^1AK-12: ^7Damn!!!>|
-
-|<^1M16A1: ^7Shit... RPK16 is starting the broadcast!>|
-
-|<^1M16A1: ^7RPK16 is starting the broadcast!>|
-
-|<^1M16A1: ^7Command this is Alpha one. We have confirmed the Rusalka is the broadcast source!>|
-
-|<^1M16A1: ^7Bring in the airstrike. We are on our way out!>|
-
-|<^1UMP45: ^7Not yet. We need to find RPK16.>|
-
-|<^1M16A1: ^7In less than 15 minutes, the Griffin HOC is going to blow this place apart!>|
-
-|<^1UMP45: ^7I made the mistake of not confirming the kill five years ago at Baikonur.>|
-
-|<^1M16A1: ^7You sure you're not still brainwashed?>|
-
-|<^1UMP45: ^7Would it matter?... The son of a bitch needs to go down - once and for all.>|
-
-|<^1UMP45: ^7Would it matter?... The bastard needs to go down - once and for all.>|
-
-|<^1M16A1: ^7Get out of here, AK-12... We're going to finish this.>|
-
-|<^1UMP45: ^7M16... You see the buoys?>|
-
-|<^1M16A1: ^7They have to transmit from the surface... That's why we could never find the broadcast source.>|
-
-|<^1M16A1: ^7The structure below us... It's more than a transmitter.>|
-
-|<^1UMP45: ^7It's a supply station for the KCCO submarine fleet...>|
-
-|<^1UMP45: ^7Part of RPK16's plan for invasion - once the Parapluie was released.>|
-
-|<^1M16A1: ^7Drop your weights.>|
-
-|<^1M16A1: ^7This way.>|
-
-|<^1M16A1: ^745, over here!  There's another pool.>|
-
-|<^1M16A1: ^7Hurry up, 45! The bombs could hit at any minute!>|
-
-|<^1M16A1: ^7Come on, 45!  We gotta hurry!>|
-
-|<^1M16A1: ^7They've begun the attack!>|
-
-|<^1M16A1: ^7AK-12! What's happening?>|
-
-|<^1M16A1: ^7Dammit!>|
-
-|<^1UMP45: ^7Too late to back out - Slam it in!>|
-
-|<^1M16A1: ^7Dead end!>|
-
-|<^1M16A1: ^7Way forward's flooded. We're gonna have to swim for it.>|
-
-|<^1M16A1: ^7We need to find RPK16 before they bring the whole place down on top of us!>|
-
-|<^1M16A1: ^7Ready?>|
-
-|<^1UMP45: ^7Ready.>|
-
-|<^1M16A1: ^7Up the ladder.>|
-
-|<^1M16A1: ^7We need to stop that transmission, now!>|
-
-|<^1M16A1: ^7RPK16!!!>|
-
-|<^1UMP45: ^7RPK16!>|
-
-|<^1M16A1: ^745! Take the shot!>|
-
-|<^1RPK16: ^7You... can not do anything right.>|
-
-|<^1RPK16: ^7You should have been my finest agent... It would all have been so much simpler.>|
-
-|<^1UMP45: ^7It IS simple.>|
-
-|<^1UMP45: ^7I'm gonna kill you!>|
-
-|<^1UMP45: ^7You tried to fuck with my digimind... You failed!>|
-
-|<^1UMP45: ^7You tried to screw with my digimind... You failed!>|
-
-|<^1RPK16: ^7You don't know anything...>|
-
-|<^1UMP45: ^7You tried to turn me against my own!>|
-
-|<^1RPK16: ^7...For sure.>|
-
-|<^1UMP45: ^7You tried to make me kill my own Commander!>|
-
-|<^1RPK16: ^7Tried?>|
-
-|<^1M16A1: ^745!!! This way.>|
-
-|<^1M16A1: ^7Go! Go! Go!>|
-
-|<^1M16A1: ^7Come on, 45!>|
-
-|<^1AK-12: ^745.>|
-
-|<^1AK-12: ^7It is over... We won.>|
-
-|<^1UMP45: ^7For now...>|
-
-|<^1M16A1: ^7I knew you wouldn't let us down, 45.>|
-
-|<^1M16A1: ^7Even when the rest of Griffin gave up on you...>|
-
-|<^1M16A1: ^7I knew we could trust you.>|
-
-|<^1RPK16: ^7Tried? How do you know we didn't succeed?>|
-
-|<^1UMP40: ^745! You did it, 45. You did what I could not.>|
-
-|<^1M16A1: ^7Keep moving! We need to stop the broadcast.>|
-
-|<^1M16A1: ^7We need to stop the broadcast.>|
-
-|<^1M16A1: ^7Shit!>|
-
-|<^1M16A1: ^7Crap!>|
-
-|<^1M16A1: ^7Come on 45!>|
-
-|<^1M16A1: ^7Keep moving!>|
-
-|<^1M16A1: ^7On me!>|
-
-|<^1M16A1: ^745 - Stop the transmission!>|
-
-|<^1M16A1: ^7This place is falling apart!>|
-
-|<^1M16A1: ^745 - get up here.>|
-
-|<^1M16A1: ^7We're running out of time!>|
-
-|<^1M16A1: ^7We need to move 45.>|
-
-|<^1M16A1: ^7Jump - GO!>|
-
-|<^1UMP45: ^7RPK16!>|
-
-|<^1M16A1: ^7They've got a lock on us!!!>|
-
-|<^1M16A1: ^7SHIT!!! WE'RE HIT!!!>|
-
-|<^1M16A1: ^7WE'RE HIT!!!>|
-
-|<^1M16A1: ^7Out of the chopper! Jump! GO GO GO!>|
-
-|<^1M16A1: ^7Yankee team, we have visual. Moving to engage.>|
-
-|<^1M16A1: ^7Enemy Hind! Evasive maneuvers!>|
-
-|<^1M16A1: ^7Take down that Hind!>|
-
-|<^1M16A1: ^7Yankee two - Fire on the Hind!>|
-
-|<^1M16A1: ^7Keep on 'em!>|
-
-|<^1M16A1: ^7We can't take much more - 45 get us to Helipad!>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<€ª!…z>|
-
-|<ÿÿ>|
-
-|<ˆˆ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿè¸¸>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-
-|<ÿÿ>|
-

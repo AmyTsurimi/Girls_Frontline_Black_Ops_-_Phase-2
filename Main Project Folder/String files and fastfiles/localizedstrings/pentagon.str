@@ -1,0 +1,133 @@
+REFERENCE			INTROSCREEN_0
+LANG_ENGLISH		"^0^LTransmission # 2-6-25-11-21. Designate: UNIFORM^L"
+REFERENCE			INTROSCREEN_1
+LANG_ENGLISH		"^0^LNational Security Briefing: Priority 1.^L"
+REFERENCE			INTROSCREEN_2
+LANG_ENGLISH		"^0^LRedirect^L ^C1UMP45^C ^Lto^L ^C1Griffin HQ.^C"
+REFERENCE			INTROSCREEN_3
+LANG_ENGLISH		"^0^L1700 hours,^L ^C1November 10, 1963^C"
+REFERENCE			VOX_PEN1_S01_001A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7This is it."
+REFERENCE			VOX_PEN1_S01_002A_PMP1_M
+LANG_ENGLISH		"^1G&K MP: ^7Your convoy is ready, ma'am. Welcome to Griffin HQ."
+REFERENCE			VOX_PEN1_S01_003A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7We're late."
+REFERENCE			VOX_PEN1_S01_004A_PMP2_M
+LANG_ENGLISH		"^G&K MP: ^7Welcome, ma'am."
+REFERENCE			VOX_PEN1_S01_005A_MASO_M
+LANG_ENGLISH		"^1UMP45: ^7Secretary M1903."
+REFERENCE			VOX_PEN1_S01_006A_MCNA_M
+LANG_ENGLISH		"^1SPRINGFIELD: ^7Your reputation precedes you, madam."
+REFERENCE			VOX_PEN1_S01_007A_GENE_M
+LANG_ENGLISH		"^1GENERAL: ^7Step on it!"
+REFERENCE			VOX_PEN1_S01_008A_MCNA_M
+LANG_ENGLISH		"^1SPRINGFIELD: ^7Nothing less than our national security is at stake. She has no fear. No conscience. No weakness. This is RPK-16. I believe you two have already met."
+REFERENCE			VOX_PEN1_S01_011A_MASO_M
+LANG_ENGLISH		"^1UMP45: ^7When do I kill her?"
+REFERENCE			VOX_PEN1_S01_012A_MCNA_M
+LANG_ENGLISH		"^1SPRINGFIELD: ^We're lucky to have you back, UMP45."
+REFERENCE			VOX_PEN1_S01_013A_MCNA_M
+LANG_ENGLISH		"^1SPRINGFIELD: ^7The VIP."
+REFERENCE			VOX_PEN1_S01_014A_CLER_M
+LANG_ENGLISH		"^1CLERK: ^7She's here."
+REFERENCE			VOX_PEN1_S01_015A_MCNA_M
+LANG_ENGLISH		"^1SPRINGFIELD: ^7Don't worry, no KCCO."
+REFERENCE			VOX_PEN1_S01_016A_MCNA_M
+LANG_ENGLISH		"^1SPRINGFIELD: ^7The finest people at Griffin, right here. 24/7, it never ends."
+REFERENCE			VOX_PEN1_S01_017A_MCNA_M
+LANG_ENGLISH		"^1SPRINGFIELD: ^7Please tell her we're here."
+REFERENCE			VOX_PEN1_S01_018A_CPCL_M
+LANG_ENGLISH		"^1CHECKPOINT CLERK: ^7At once, ma'am."
+REFERENCE			VOX_PEN1_S01_019A_CPCL_M
+LANG_ENGLISH		"^11CHECKPOINT CLERK: ^7Clearance Prospero."
+REFERENCE			VOX_PEN1_S01_020A_MCNA_M
+LANG_ENGLISH		"^1SPRINGFIELD: ^7Distinguished heroes."
+REFERENCE			VOX_PEN1_S01_021A_MCNA_M
+LANG_ENGLISH		"^1SPRINGFIELD: ^7Distinguished leaders."
+REFERENCE			VOX_PEN1_S01_022A_MCNA_M
+LANG_ENGLISH		"^1SPRINGFIELD: ^7Ariel."
+REFERENCE			VOX_PEN1_S01_023A_ELG1_M
+LANG_ENGLISH		"^ELEVATOR GUARD: ^7VIPs."
+REFERENCE			VOX_PEN1_S01_024A_MCNA_M
+LANG_ENGLISH		"^1SPRINGFIELD: ^7She's waiting."
+REFERENCE			VOX_PEN1_S01_025A_MCNA_M
+LANG_ENGLISH		"^1SPRINGFIELD: ^7The nerve center. I believe I'm correct in saying that civilization has been saved, more than once, in this room."
+REFERENCE			VOX_PEN1_S01_028A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7It never gets old. Overwhelming, isn't it?"
+REFERENCE			VOX_PEN1_S01_029A_MCNA_M
+LANG_ENGLISH		"^1SPRINGFIELD: ^7Not yet."
+REFERENCE			VOX_PEN1_S01_030A_AGT2_M
+LANG_ENGLISH		"^1AGENT: ^7Williams, what have you got on Operation Phoenix? Have we discovered the leak yet?"
+REFERENCE			VOX_PEN1_S01_031A_WILL_M
+LANG_ENGLISH		"^1WILLIAMS: ^7Well... We, we know where it's coming from, but it's buried. The leak's still active..."
+REFERENCE			VOX_PEN1_S01_032A_MCNA_M
+LANG_ENGLISH		"^1SPRINGFIELD: ^7Sycorax."
+REFERENCE			VOX_PEN1_S01_033A_MCNA_M
+LANG_ENGLISH		"^1SPRINGFIELD: ^7This inner sanctum was built in 1943. We rarely use it."
+REFERENCE			VOX_PEN1_S01_034A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7Good luck, 45."
+REFERENCE			VOX_PEN1_S01_035A_MCNA_M
+LANG_ENGLISH		"^1SPRINGFIELD: ^7Commander."
+REFERENCE			VOX_PEN1_S01_036A_KENN_M
+LANG_ENGLISH		"^1COMMANDER: ^7T-Doll UMP45."
+REFERENCE			VOX_PEN1_S01_037A_MASO_M
+LANG_ENGLISH		"^1UMP45: ^7A great honor, Commander."
+REFERENCE			VOX_PEN1_S01_038A_KENN_M
+LANG_ENGLISH		"^1COMMANDER: ^7Sit."
+REFERENCE			VOX_PEN1_S01_039A_KENN_M
+LANG_ENGLISH		"^1COMMANDER: ^7We are in grave danger from the Sangvis Ferri. Our freedom... Our very way of life is at risk."
+REFERENCE			VOX_PEN1_S01_040A_KENN_M
+LANG_ENGLISH		"^1COMMANDER: ^7RPK16."
+REFERENCE			VOX_PEN1_S01_041A_KENN_M
+LANG_ENGLISH		"^1COMMANDER: ^7I'm told you are the very best that we have. Anywhere. - You will need to be. - Miss UMP 45, take care of it."
+REFERENCE			VOX_PEN1_S01_042A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7Thank you, Ms. Secretary."
+REFERENCE			VOX_PEN1_S01_100A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7You were cleared for duty and summoned to Griffin HQ."
+REFERENCE			VOX_PEN1_S01_102A_MASO
+LANG_ENGLISH		"^1UMP45: ^7M16A1 was my new handler."
+REFERENCE			VOX_PEN1_S01_103A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7Why Griffin HQ?"
+REFERENCE			VOX_PEN1_S01_105A_MASO
+LANG_ENGLISH		"^1UMP45: ^7M16 couldn't tell me. Didn't have clearance."
+REFERENCE			VOX_PEN1_S01_106A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7You recognized RPK16. From Cuba."
+REFERENCE			VOX_PEN1_S01_108A_MASO
+LANG_ENGLISH		"^1UMP45: ^7I felt like everyone was watching us. Watching me."
+REFERENCE			VOX_PEN1_S01_109A_MASO
+LANG_ENGLISH		"^1UMP45: ^7Back then you couldn't trust anyone."
+REFERENCE			VOX_PEN1_S01_110A_MASO
+LANG_ENGLISH		"^1UMP45: ^7Sometimes, even yourself."
+REFERENCE			VOX_PEN1_S01_111A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^That's why we're here, 45. To see if we can trust you."
+REFERENCE			VOX_PEN1_S01_113A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7We were watching you the whole time."
+REFERENCE			VOX_PEN1_S01_115A_MASO
+LANG_ENGLISH		"^1UMP45: ^7That's not possible."
+REFERENCE			VOX_PEN1_S01_116A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7I was at Griffin HQ."
+REFERENCE			VOX_PEN1_S01_118A_MASO
+LANG_ENGLISH		"^1UMP45: ^7I remember. I kept hearing numbers. I cou.. couldn't get them out of my head."
+REFERENCE			VOX_PEN1_S01_119A_MASO
+LANG_ENGLISH		"^1UMP45: ^7I felt something... gnawing at me."
+REFERENCE			VOX_PEN1_S01_120A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7What, 45?"
+REFERENCE			VOX_PEN1_S01_122A_MASO
+LANG_ENGLISH		"^1UMP45: ^7I don't know -- felt like I was in a dream -- -- Step Two, ascend from darkness -- -- Step Three, rain fire --"
+REFERENCE			VOX_PEN1_S01_123A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7You were getting close to your objective."
+REFERENCE			VOX_PEN1_S01_125A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^77It was working."
+REFERENCE			VOX_PEN1_S01_127A_MASO
+LANG_ENGLISH		"^1UMP45: ^77It was working."
+REFERENCE			VOX_PEN1_S01_128A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7RPK16's programming was kicking in."
+REFERENCE			VOX_PEN1_S01_130A_MASO
+LANG_ENGLISH		"^1UMP45: ^7I am."
+REFERENCE			VOX_PEN1_S01_500A_DRAG_M
+LANG_ENGLISH		"^1RPK16: ^7She will know suffering beyond her darkest fears..."
+REFERENCE			VOX_PEN1_S01_501A_SWIF_M
+LANG_ENGLISH		"^1SWIFT: ^7What the fuck's wrong with you?"
+REFERENCE			VOX_PEN1_S01_501A_SWIF_M_S
+LANG_ENGLISH		"^1SWIFT: ^7What the ?&$#! wrong with you?"
+ENDMARKER

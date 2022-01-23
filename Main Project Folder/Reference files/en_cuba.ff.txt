@@ -1,0 +1,936 @@
+|<Your actions caused your team to be killed. >|
+
+|<Zipline>|
+
+|<Compound>|
+
+|<Bar>|
+
+|<Pick Up>|
+
+|<Use zipline to infiltrate the compound>|
+
+|<Find and kill Castro>|
+
+|<Follow>|
+
+|<Objective>|
+
+|<Escape compound>|
+
+|<Captured>|
+
+|<Escape>|
+
+|<Get to the airfield >|
+
+|<Airfield>|
+
+|<Breach>|
+
+|<Mansion>|
+
+|<Get to the plane>|
+
+|<Rappel down into the airfield>|
+
+|<Drive>|
+
+|<Use the ZPU to clear the runway>|
+
+|<Use>|
+
+|<Support>|
+
+|<Escape the police>|
+
+|<Courtyard>|
+
+|<^LTransmission# 15-18. Designate: G-11^L>|
+
+|<^LOP 40 team inserted with^L ^C1Bay of Pigs^C ^Lforces in^L ^C1Cuba^C>|
+
+|<^LHK416, UMP9, and ^L^C1UMP45^C ^Lmeeting contact at Santa Maria^L>|
+
+|<You were killed by Castro.>|
+
+|<Hold ^3[{+activate}]^7 to zipline >|
+
+|<Press ^3[{+melee}]^7 behind guard to take him out>|
+
+|<P90 Died!>|
+
+|<Castro Assasination>|
+
+|<Assasinate>|
+
+|<Hold ^3[{+activate}]^7 to rappel>|
+
+|<Melee>|
+
+|<Watch your head. >|
+
+|<Enter>|
+
+|<It's not safe here! Get on that plane!>|
+
+|<Get on the plane and escape!>|
+
+|<Protect the plane from damage>|
+
+|<You failed to stay with your team.>|
+
+|<You killed your squad.>|
+
+|<Your squad was killed.>|
+
+|<You failed to protect the plane.>|
+
+|<^L0500 hrs ^L ^C1 April 17, 1961 ^C>|
+
+|<^LTarget: Fidel Castro^L>|
+
+|<Squad>|
+
+|<Press ^3[{+activate}]^7 to open the gun chest>|
+
+|<Street>|
+
+|<Get off the streets>|
+
+|<Press ^3[{+attack}]^7 to shoot>|
+
+|<Hold ^3[{+attack}]^7 to drive>|
+
+|<Hold ^3[{+speed_throw}]^7 to reverse>|
+
+|<Alley>|
+
+|<Press ^3[{+stance}]^7 to duck>|
+
+|<Press ^3[{+speed_throw}]^7 to aim down sight>|
+
+|<Press ^3[{+actionslot 3}]^7 to use the M203 Grenade Launcher>|
+
+|<Press ^3[{+breath_sprint}]^7 to sprint>|
+
+|<^1INTERROGATOR: ^7She's fading away. UMP45! You had escaped from the police. 
+The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
+
+|<^1INTERROGATOR: ^7We're losing her. Do it again, we have no choice.>|
+
+|<^1UMP45: ^7AARRRGH!!! What the... fuck?!>|
+
+|<^1UMP45: ^7AARRRGH!!! What the...>|
+
+|<^1UMP45: ^7Nyto. Sadistic, evil...>|
+
+|<^1UMP45: ^7But she was nothing compared to RPK16.>|
+
+|<^1UMP45: ^7Oh, she did. RPK16 sure did.>|
+
+|<^1HK416: ^7The police are gonna be here soon... Let's make this quick.>|
+
+|<^1P90: ^7HK416. It's been a while.>|
+
+|<^1HK416: ^7What about the evac?>|
+
+|<^1P90: ^7We will have transport waiting for you. Just be there.>|
+
+|<^1HK416: ^7Excellent.>|
+
+|<^1HK416: ^7We got company.>|
+
+|<^1UMP45: ^7Just be cool, 416. Wait.>|
+
+|<^1MILITIA CAPTAIN: ^7I said where are you from?>|
+
+|<^1MILITIA CAPTAIN: ^7I'm talking to you!>|
+
+|<^1P90: ^7Alright - everything is ready.>|
+
+|<^1P90: ^7Your weapons are ready.>|
+
+|<^1UMP45: ^7Gear up, ladies.>|
+
+|<^1P90: ^7Here, my friend.>|
+
+|<^1HK416: ^7Sorry about the bar, P90.>|
+
+|<^1P90: ^7No problem... My T-Dolls will dispose of the bodies...>|
+
+|<^1P90: ^7The police are here.>|
+
+|<^1UMP9: ^7Occupants leavin' their vehicles - armed with shotguns.>|
+
+|<^1P90: ^7They expect the invasion.>|
+
+|<^1HK416: ^7Fuck the invasion... We're here for Castro.>|
+
+|<^1HK416: ^7We're here for Castro.>|
+
+|<^1HK416: ^79, P90. Lay down covering fire. We fight our way through the streets.>|
+
+|<^1HK416: ^745 - on me.>|
+
+|<^1P90: ^7Take what you need.>|
+
+|<^1P90: ^7Alright... The streets should be empty... The government has ordered every Cuban to remain indoors and ready for battle.>|
+
+|<^1HK416: ^7They expect the invasion... not what we're gonna do..>|
+
+|<^1UMP45: ^7Let's go...>|
+
+|<^1HK416: ^7Police are here.>|
+
+|<^1P90: ^7KCCO dogs! Lackeys...>|
+
+|<^1HK416: ^7Right now - They're in our way.>|
+
+|<^1HK416: ^7Weapons free.>|
+
+|<^1HK416: ^7Clear 'em out! Move up the street!>|
+
+|<^1HK416: ^79! Take the right!>|
+
+|<^1UMP9: ^7On it.>|
+
+|<^1HK416: ^7Go - Keep moving!>|
+
+|<^1UMP9: ^7Reinforcements!>|
+
+|<^1HK416: ^7Shit... Too many of them!>|
+
+|<^1HK416: ^7Too many of them!>|
+
+|<^1HK416: ^7This way - into the alley.>|
+
+|<^1HK416: ^79 - Cover our six!>|
+
+|<^1HK416: ^7Get to the car!>|
+
+|<^1P90: ^7Alright... This is where I leave you, my friends...>|
+
+|<^1P90: ^7I will see you at the airstrip! Suerte, My friends!>|
+
+|<^1P90: ^7The path is that way - It will lead you to Castro's compound...>|
+
+|<^1P90: ^7Be sure to put a bullet right between his eyes.>|
+
+|<^1P90: ^7Okay, I'll see you at the airstrip... Good luck...>|
+
+|<^1HK416: ^7You too, P90... Let's go.>|
+
+|<^1UMP45: ^7Come on... Come on.>|
+
+|<^1HK416: ^7Make it quick, 45!>|
+
+|<^1UMP45: ^7Got it!>|
+
+|<^1HK416: ^7Hit it! Go!>|
+
+|<^1HK416: ^7Dammit!>|
+
+|<^1HK416: ^7Get the fuck out of our way!>|
+
+|<^1HK416: ^7Out of our way!>|
+
+|<^1UMP9: ^7Roadblock!>|
+
+|<^1UMP45: ^7I see it!>|
+
+|<^1HK416: ^7Floor it, 45!>|
+
+|<^1HK416: ^7Right on schedule.>|
+
+|<^1HK416: ^7Let's hope those Cuban pilots are up to job... Or this is gonna be one short revolution.>|
+
+|<^1HK416: ^7There's the compound... P90 and her T-Dolls should be hittin' the airfield.... Any minute...>|
+
+|<^1HK416: ^7There's the signal.... Now.>|
+
+|<^1HK416: ^745, over here.>|
+
+|<^1HK416: ^7Hook up... This is it.>|
+
+|<^1HK416: ^7We ain't got time to waste.>|
+
+|<^1HK416: ^7Hurry it up.>|
+
+|<^1HK416: ^745 - Take him out.>|
+
+|<^1HK416: ^7Perfect. They're all focused on the airfield.>|
+
+|<^1HK416: ^7Convoy ahead. Do not engage.>|
+
+|<^1HK416: ^7Sit tight... let them pass.>|
+
+|<^1HK416: ^79 - Left flank.>|
+
+|<^1HK416: ^745 - Take out the tower.>|
+
+|<^1HK416: ^7Castro's paranoid... With good reason... we've been trying 
+to get to him for three years.>|
+
+|<^1UMP45: ^7Today's the day we succeed.>|
+
+|<^1HK416: ^7Move out.>|
+
+|<^1HK416: ^7This way - up the stairs.>|
+
+|<^1UMP9: ^7This way - up the stairs.>|
+
+|<^1HK416: ^7Inside. Go.>|
+
+|<^1HK416: ^745!>|
+
+|<^1HK416: ^7Wake the fuck up, 45!>|
+
+|<^1HK416: ^7Wake up, 45!>|
+
+|<^1HK416: ^79 - Take the roof.>|
+
+|<^1HK416: ^7Any trouble - give us a yell.>|
+
+|<^1UMP9: ^7Got it.>|
+
+|<^1HK416: ^745 - on me. We search room to room 'till we find Castro.>|
+
+|<^1HK416: ^7Okay - stack up.>|
+
+|<^1HK416: ^745. Over here.>|
+
+|<^1HK416: ^7What are you waiting for? Come on.>|
+
+|<^1HK416: ^7Ready?>|
+
+|<^1UMP45: ^7Ready.>|
+
+|<^1HK416: ^79 - Nest is empty. We're moving on.>|
+
+|<^1UMP9: ^7Better make it fast. B26's are about to begin their bombing run.>|
+
+|<^1HK416: ^7Target should be up ahead.>|
+
+|<^1UMP45: ^7Roger.>|
+
+|<^1HK416: ^7What the fuck?!!!>|
+
+|<^1HK416: ^7What the... ?!!!>|
+
+|<^1HK416: ^79 - what's happening?>|
+
+|<^1UMP9: ^7The B26's. They're droppin' all over the place.>|
+
+|<^1HK416: ^7No shit...>|
+
+|<^1HK416: ^7No foolin'...>|
+
+|<^1HK416: ^7Sit tight... We'll be done in five...>|
+
+|<^1HK416: ^7Movement inside. Get in position.>|
+
+|<^1HK416: ^7This is it... Ready to make history?>|
+
+|<^1UMP45: ^7Let's do it.>|
+
+|<^1HK416: ^7Crazy bitch... he uses a human shield 
+and she still protects him?!!>|
+
+|<^1HK416: ^7He uses a human shield and she still protects him?!!>|
+
+|<^1UMP45: ^7Castro's supporters are fanatical in their devotion to him...>|
+
+|<^1UMP45: ^7Castro's supporters are fanatics. They'd give their lives for him.>|
+
+|<^1HK416: ^7KCCO... I'll never understand them.>|
+
+|<^1HK416: ^79 - The target is down.>|
+
+|<^1UMP9: ^7Word from P90 isn't good; They're barely holding out... They got half the Cuban army down there!>|
+
+|<^1UMP9: ^7And those B26's ain't hitting anything!>|
+
+|<^1UMP9: ^7Movin' to the main hallway.>|
+
+|<^1HK416: ^7Okay, we're on our way.>|
+
+|<^1HK416: ^79! Take the right!>|
+
+|<^1HK416: ^745 - On me.>|
+
+|<^1HK416: ^7DAMMIT!!!>|
+
+|<^1HK416: ^7Let's get the fuck out of here before 
+those damn planes blow us to pieces!>|
+
+|<^1HK416: ^7Get out of here before those damn planes blow us to pieces!>|
+
+|<^1HK416: ^7Go! Outside!>|
+
+|<^1UMP9: ^7This ain't good! There's too many of them!>|
+
+|<^1UMP9: ^7P90' T-Dolls should be here!>|
+
+|<^1HK416: ^7P90... What's happening?!!>|
+
+|<^1HK416: ^7P90?!!>|
+
+|<^1UMP9: ^7Here they come - over the East wall!>|
+
+|<^1P90: ^7You think I'd let you down, 416?>|
+
+|<^1P90: ^7My T-Dolls will cover your escape.>|
+
+|<^1P90: ^7Now... Hurry, my friends!>|
+
+|<^1HK416: ^7God bless you, P90.>|
+
+|<^1UMP9: ^7This way - into the sugar fields!>|
+
+|<^1HK416: ^7Through the gate! GO!>|
+
+|<^1HK416: ^745!!! We don't have time to wait!>|
+
+|<^1HK416: ^7There's the airfield.>|
+
+|<^1UMP9: ^7Let's hope P90 secured that evac.>|
+
+|<^1HK416: ^7She ain't let us down yet.>|
+
+|<^1UMP9: ^7The T-Dolls are getting their asses kicked!>|
+
+|<^1UMP9: ^7The T-Dolls are getting their butts kicked!>|
+
+|<^1HK416: ^7Better get down there - Hook up...>|
+
+|<^1HK416: ^7Go!>|
+
+|<^1P90: ^7416! It's all falling apart... You need to get out of here!>|
+
+|<^1HK416: ^7You secure our transport?>|
+
+|<^1P90: ^7The plane is ready... but we'll be torn to pieces on take off!>|
+
+|<^1HK416: ^7One problem at a time, sister.>|
+
+|<^1HK416: ^7We're leaving... Move it!>|
+
+|<^1P90: ^7Hurry!!!>|
+
+|<^1P90: ^7Run!>|
+
+|<^1P90: ^7We can't wait any longer!!>|
+
+|<^1HK416: ^745! Come on!!!>|
+
+|<^1HK416: ^7Give us cover, 45!>|
+
+|<^1HK416: ^7We need to keep this plane in one piece!>|
+
+|<^1UMP9: ^7They're trying to take out our engines!>|
+
+|<^1HK416: ^7Shit! .50 Cal!>|
+
+|<^1HK416: ^7.50 Cal!>|
+
+|<^1HK416: ^745! Take out those ZPUs!>|
+
+|<^1UMP9: ^7They're not letting us go without a fight!>|
+
+|<^1HK416: ^7RPGs in the tower!>|
+
+|<^1UMP9: ^7Shit! Takin' damage!>|
+
+|<^1UMP9: ^7Takin' damage!>|
+
+|<^1UMP9: ^7This hunk is barely holdin' together!>|
+
+|<^1UMP9: ^7416! We got a problem!>|
+
+|<^1UMP9: ^7Those fucking vehicles are blocking the runway!>|
+
+|<^1UMP9: ^7Those vehicles are blocking the runway!>|
+
+|<^1UMP45: ^7I hear you, 9.>|
+
+|<^1HK416: ^7We're screwed. There's not enough room for take off!>|
+
+|<^1UMP45: ^7I'll deal with it!>|
+
+|<^1HK416: ^745, are you crazy? They'll chew you up out there.>|
+
+|<^1HK416: ^745! What are you doing?!!!>|
+
+|<^1HK416: ^745!!!!>|
+
+|<^1UMP45: ^7No choice, 416. I knew what I signed up for.>|
+
+|<^1HK416: ^7Damn you, UMP45.>|
+
+|<^1UMP45: ^7Runway's clear.>|
+
+|<^1UMP45: ^7I'll be fine. Go - Get out of here!>|
+
+|<^1UMP45: ^7You're dead... We killed you...>|
+
+|<^1CASTRO: ^7No... You killed a double... You think we didn't know of your plan?>|
+
+|<^1RPK16: ^7We always know...>|
+
+|<^1CASTRO: ^7Do with her what you wish, General... She's my gift to you, in honor of our new relationship...>|
+
+|<^1CASTRO: ^7Just... Make sure that she suffers...>|
+
+|<^1RPK16: ^7She will know suffering beyond her darkest fears...>|
+
+|<^1RPK16: ^7I have plans for you, DSI-8...>|
+
+|<^1P90: ^7I'm pinned down!>|
+
+|<^1HK416: ^7On our way!>|
+
+|<^1UMP9: ^7On our way!>|
+
+|<^1P90: ^7I can't hold them much longer!>|
+
+|<^1P90: ^7Okay, let's move!>|
+
+|<^1HK416: ^7Behind us!>|
+
+|<^1UMP9: ^7Behind us!>|
+
+|<^1HK416: ^7Eyes front...>|
+
+|<^1HK416: ^7We can't stay here! Push forward!>|
+
+|<^1HK416: ^7Move up!>|
+
+|<^1HK416: ^7Push forward!>|
+
+|<^1HK416: ^7We're pinned down here!>|
+
+|<^1HK416: ^7We can't stay here.>|
+
+|<^1HK416: ^7Keep it tight.>|
+
+|<^1UMP9: ^7Stay close.>|
+
+|<^1HK416: ^745, take point.>|
+
+|<^1HK416: ^745, grab that rope, let's go!>|
+
+|<^1HK416: ^745, we have to get going!>|
+
+|<^1HK416: ^7Hook up!>|
+
+|<^1HK416: ^745, we need to move!>|
+
+|<^1HK416: ^745, take out the RPG's!>|
+
+|<^1HK416: ^745, protect the plane!>|
+
+|<^1HK416: ^7Those RPG's are tearing us up!>|
+
+|<^1HK416: ^7We can't take much more 45!>|
+
+|<^1HK416: ^7Take out those damned RPG's 45!>|
+
+|<^1HK416: ^745! RPG!>|
+
+|<^1HK416: ^7We're getting hit!>|
+
+|<^1HK416: ^7C'mon 45!>|
+
+|<^1UMP9: ^7C'mon 45!>|
+
+|<^1HK416: ^7Move quickly!>|
+
+|<^1UMP9: ^7Move it!>|
+
+|<^1HK416: ^7Keep moving!>|
+
+|<^1UMP9: ^7Keep movin'!>|
+
+|<^1HK416: ^7Let's get the fuck out of here. MOVE!>|
+
+|<^1HK416: ^7MOVE!>|
+
+|<^1HK416: ^7Cover me!>|
+
+|<^1HK416: ^7BTR!!>|
+
+|<^1HK416: ^7Take out that .50 cal!>|
+
+|<^1UMP9: ^7Take out that .50 cal!>|
+
+|<^1HK416: ^7Up the stairs. Go! Go! Go!.>|
+
+|<^1UMP9: ^7Area clear.>|
+
+|<^1UMP9: ^7Roger that.>|
+
+|<^1HK416: ^7Move up.>|
+
+|<^1HK416: ^7Area clear.>|
+
+|<^1UMP9: ^745, take him out.>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<€@#¦ôB­m1YÉ—è>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+

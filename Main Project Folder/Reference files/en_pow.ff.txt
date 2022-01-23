@@ -1,0 +1,734 @@
+|<^LTransmission # 14-15-20. Designate: DELTA^L>|
+
+|<^LNo contact from 404 group G-11.^L>|
+
+|<^LLast known location^L ^C1 Laos^C ^L - Vietnam border.^L>|
+
+|<^C1UMP45^C^L and team presumed KIA.^L>|
+
+|<^L1100 hours,^L ^C1 February 19,1968^C>|
+
+|<Use ^3[{+movestick}]^7 to move / strafe>|
+
+|<Use ^3[{+lookstick}]^7 to aim>|
+
+|<Get the KCCO>|
+
+|<Escape the tunnels>|
+
+|<Capture the Hind>|
+
+|<Get in the Hind>|
+
+|<Fly to Nyto's base>|
+
+|<Destroy the NVA defenses>|
+
+|<Destroy KCCO HIP>|
+
+|<Destroy SAM site>|
+
+|<Destroy KCCO Hinds ( &&1 remaining )>|
+
+|<Kill Nyto>|
+
+|<Get AK47 with Flame Attachment>|
+
+|<Press ^3[{+actionslot 3}]^7 to use the flamethrower>|
+
+|<Free POWs>|
+
+|<Shoot>|
+
+|<Follow>|
+
+|<Payback>|
+
+|<Laos>|
+
+|<February 12th, 1968>|
+
+|<^1INTERROGATOR: ^7For God sake... Where is the numbers station?>|
+
+|<^1INTERROGATOR: ^7Where is the numbers station?>|
+
+|<^1UMP40: ^7All must die.>|
+
+|<^1UMP45: ^7416...>|
+
+|<^1UMP45: ^7RPK16 is fucking with us.>|
+
+|<^1UMP45: ^7RPK16 is messing with us.>|
+
+|<^1UMP45: ^79...>|
+
+|<^1UMP9: ^7I'm tired. I just wanna end this.>|
+
+|<^1UMP45: ^7We're family, don't!>|
+
+|<^1UMP45: ^7You don't mean that, 9.>|
+
+|<^1UMP9: ^7Fuck you, KCCO...>|
+
+|<^1UMP9: ^7Screw... you... KCCO...>|
+
+|<^1VC BOOKIE: ^7You dead, Griffin Doll.>|
+
+|<^1UMP9: ^7You don't scare me. KCCO piece of shit...>|
+
+|<^1UMP9: ^7You don't scare me. KCCO piece of...>|
+
+|<^1UMP45: ^7We're family, don't do this!>|
+
+|<^1KCCO OPERATIVE: ^7Raggh! Raggh! Raggh!>|
+
+|<^1UMP45: ^7Nine! ^:NINE^7! You fucking son of a bitch!>|
+
+|<^1UMP45: ^79! 9!>|
+
+|<^1KCCO OPERATIVE: ^7Next.>|
+
+|<^1UMP45: ^7I'm going to ^:kill you all^7!>|
+
+|<^1HK416: ^7Don't you touch me...>|
+
+|<^1UMP45: ^7416? Shit...>|
+
+|<^1UMP45: ^7416?>|
+
+|<^1HK416: ^7Mother fuckers. We're gonna make 'em pay.>|
+
+|<^1HK416: ^7Bastards. We're gonna make 'em pay.>|
+
+|<^1VC BOOKIE: ^7You - no talk! Play!>|
+
+|<^1HK416: ^7What's the plan?>|
+
+|<^1UMP45: ^7I'm thinking... I'm thinking...>|
+
+|<^1VC BOOKIE: ^7No talk!>|
+
+|<^1HK416: ^7One chance, 45.>|
+
+|<^1UMP45: ^7We'll take it.>|
+
+|<^1VC BOOKIE: ^7Bang bang bang!>|
+
+|<^1HK416: ^7Okay.>|
+
+|<^1VC BOOKIE: ^7You shoot doll! You shoot!>|
+
+|<^1HK416: ^:You can't kill ME^7!>|
+
+|<^1HK416: ^7Fuck!>|
+
+|<^1HK416: ^7Damn!>|
+
+|<^1HK416: ^7This time... This time, do it!>|
+
+|<^1UMP45: ^7Okay, okay. I got the hatchet.>|
+
+|<^1HK416: ^7Ready>|
+
+|<^1VC BOOKIE: ^7Play!>|
+
+|<^1UMP45: ^7Six and Eight O'clock.>|
+
+|<^1HK416: ^7Ready.>|
+
+|<^1VC BOOKIE: ^7Bang bang!>|
+
+|<^1HK416: ^7Dirty sons of bitches.>|
+
+|<^1HK416: ^7Dirty sons of...>|
+
+|<^1UMP45: ^7The KCCO. Now.>|
+
+|<^1HK416: ^7Let's go.>|
+
+|<^1HK416: ^7Don't let that bastard get away!>|
+
+|<^1HK416: ^7Keep going!>|
+
+|<^1HK416: ^7Take him alive!>|
+
+|<^1HK416: ^7We're losing him, 45!>|
+
+|<^1HK416: ^7He's getting away!>|
+
+|<^1HK416: ^7We lost him...>|
+
+|<^1HK416: ^7If he makes it out - He'll warn Nyto!>|
+
+|<^1UMP45: ^7He ain't getting out!>|
+
+|<^1HK416: ^7The KCCO's gonna die!>|
+
+|<^1UMP45: ^7Damn right he is.>|
+
+|<^1HK416: ^7Oh, he'll pay for what he did!>|
+
+|<^1UMP45: ^7Not just him. Nyto too.>|
+
+|<^1HK416: ^7For 9!>|
+
+|<^1UMP45: ^7For 9.>|
+
+|<^1HK416: ^7I want that KCCO DEAD!>|
+
+|<^1UMP45: ^7Stay on him, 416!>|
+
+|<^1UMP45: ^7I'm gonna kill him - For 9.>|
+
+|<^1UMP45: ^7Damn VC are everywhere!>|
+
+|<^1HK416: ^7Clear 'em out... We only care about the KCCO.>|
+
+|<^1HK416: ^7There! Piece of shit's trying to escape!>|
+
+|<^1HK416: ^7There! Piece of crap's trying to escape!>|
+
+|<^1HK416: ^7Bring him down, 45!>|
+
+|<^1UMP45: ^7You're not going anywhere!>|
+
+|<^1HK416: ^7You know the little voice in your head that tells you something's wrong?>|
+
+|<^1HK416: ^7I ain't hearin' it.>|
+
+|<^1HK416: ^7He can bleed to death...>|
+
+|<^1HK416: ^7Help me up.>|
+
+|<^1HK416: ^7Nyto's compound can't be far.>|
+
+|<^1HK416: ^7The evil bastard's days are numbered.>|
+
+|<^1HK416: ^7That asswipe is on borrowed time.>|
+
+|<^1HK416: ^7You see that Hind? We're gonna take it.>|
+
+|<^1HK416: ^7Take the shot.>|
+
+|<^1HK416: ^745, fire when ready.>|
+
+|<^1HK416: ^7All right, follow me.>|
+
+|<^1HK416: ^7What are you... all right GO GO GO!>|
+
+|<^1HK416: ^7Clear. Let's fly this bird.>|
+
+|<^1HK416: ^7Get in the HIND.>|
+
+|<^1HK416: ^7Get into the helicopter 45.>|
+
+|<^1HK416: ^7Wake the fuck up, 45!>|
+
+|<^1HK416: ^7Wake up, 45!>|
+
+|<^1HK416: ^7Okay, what's our load out... UV-32 rockets... 12mm nose cannon... these bastards are ready for World War 4.>|
+
+|<^1UMP45: ^7Chain load system on the 32's.>|
+
+|<^1HK416: ^7Rotors on. My stick.>|
+
+|<^1UMP45: ^7UV-32's assigned.>|
+
+|<^1UMP45: ^712mm cannon assigned.>|
+
+|<^1HK416: ^7We have full power. You ready?>|
+
+|<^1UMP45: ^7Ready.>|
+
+|<^1HK416: ^7I'll take her up above the canopy then hand over the stick.>|
+
+|<^1UMP45: ^7Clear.>|
+
+|<^1HK416: ^7I'll call targets as I see them.>|
+
+|<^1HK416: ^7All enemy targets are valid. Understand?>|
+
+|<^1UMP45: ^7Got it. Give me the stick.>|
+
+|<^1HK416: ^7Your bird.>|
+
+|<^1HK416: ^7We have coordinates for Nyto's compound. We follow the river all the way.>|
+
+|<^1HK416: ^7Keep your eyes on the dirt. I don't want to get shot in the ass.>|
+
+|<^1UMP45: ^7I got you 416.>|
+
+|<^1UMP45: ^7Hell yeah!>|
+
+|<^1HK416: ^7Good eye, 45!>|
+
+|<^1HK416: ^7We got them on the run!>|
+
+|<^1HK416: ^7Fuck yeah!>|
+
+|<^1HK416: ^7Hell yeah!>|
+
+|<^1UMP45: ^7COME ON!>|
+
+|<^1HK416: ^7Look at those bastards run!>|
+
+|<^1UMP45: ^7Payback, you sons of bitches!>|
+
+|<^1UMP45: ^7Payback, you bastards!>|
+
+|<^1HK416: ^7Damn it, we can't take this heavy fire, pull back!>|
+
+|<^1HK416: ^7Get us out of here 45!>|
+
+|<^1HK416: ^7Pull back! We're taking too much flak!>|
+
+|<^1HK416: ^745 get this fucking bird moving!>|
+
+|<^1HK416: ^745 get this bird moving!>|
+
+|<^1HK416: ^7We lost a generator! Switching to back up.>|
+
+|<^1HK416: ^7Anti collision system is dead!>|
+
+|<^1HK416: ^7We're losing stability!>|
+
+|<^1HK416: ^7Radar warning system is offline!>|
+
+|<^1HK416: ^7Shiiit! We're going down!>|
+
+|<^1HK416: ^7Rarrgh! We're going down!>|
+
+|<^1UMP45: ^7I'm losing it! Hang on!>|
+
+|<^1HK416: ^7Rotor's shot. We're dropping!>|
+
+|<^1UMP45: ^7Fuck! We're going to crash!>|
+
+|<^1UMP45: ^7We're going to crash!>|
+
+|<^1HK416: ^7UV-32s, reloading.>|
+
+|<^1HK416: ^7Out of rockets! Wait for the reload!>|
+
+|<^1HK416: ^7Negative 45! You gotta wait for the reload!>|
+
+|<^1HK416: ^7Reloading!>|
+
+|<^1HK416: ^7Sampans in the river. Looks like a .50 cal on the bridge up ahead as well.>|
+
+|<^1HK416: ^7Take that bridge out!>|
+
+|<^1HK416: ^7RPGs incoming! From the sampans!>|
+
+|<^1HK416: ^7We got 'em all, good work. Keep moving.>|
+
+|<^1HK416: ^7.50 cal on those trucks! And an armored ZSU! Use the rockets!>|
+
+|<^1HK416: ^7Charlie's highway below. See that fueling station up ahead?>|
+
+|<^1UMP45: ^7Yeah, I see it.>|
+
+|<^1HK416: ^7Time to do some damage brother!>|
+
+|<^1HK416: ^7Hit that fuel silo!>|
+
+|<^1HK416: ^7Hit the buildings too. Don't leave any of those bastards behind.>|
+
+|<^1HK416: ^7Area's clear - continue along the river!>|
+
+|<^1HK416: ^7RPGs on the river. Take out the boats!>|
+
+|<^1HK416: ^7Shit! There's a .50 cal down there somewhere.>|
+
+|<^1HK416: ^7There's a .50 cal down there somewhere.>|
+
+|<^1HK416: ^7Careful through here 45. Those Sampans must have a supply station near by.>|
+
+|<^1HK416: ^7That's an NVA supply station! We must be close to the Ho Chi Minh trail. Put 'em out of business, 45!>|
+
+|<^1HK416: ^7I think we pissed someone off, 45.>|
+
+|<^1HK416: ^7Fuck it, it's not like we're being subtle. Hey you KCCO piece of shit, we're coming to get you.>|
+
+|<^1HK416: ^7Screw it, it's not like we're being subtle. Hey you KCCO piece of garbage, we're coming to get you.>|
+
+|<^1HK416: ^7Shit! Mi-8 attack helicopter, coming from the North.>|
+
+|<^1HK416: ^7Mi-8 attack helicopter, coming from the North.>|
+
+|<^1HK416: ^7Take out that gunner!>|
+
+|<^1HK416: ^7He's got a bead on us!>|
+
+|<^1HK416: ^7You got him! Fire.>|
+
+|<^1HK416: ^7We got him. Keep going North. Stay close to the river.>|
+
+|<^1HK416: ^7Looks like Covey has been burning the trail here. Check out that Napalm strike. Even Charlie can't live through that shit.>|
+
+|<^1HK416: ^7Looks like Covey has been burning the trail here. Check out that Napalm strike.>|
+
+|<^1HK416: ^7That's not good.>|
+
+|<^1UMP45: ^7Radar lock!>|
+
+|<^1HK416: ^7SAM missle! Let it get close, then evade!>|
+
+|<^1UMP45: ^7Come on you son of a...>|
+
+|<^1HK416: ^7Nice flying! Must be a SAM launcher up river.>|
+
+|<^1HK416: ^7Incoming!>|
+
+|<^1UMP45: ^7I got it!>|
+
+|<^1HK416: ^7We need to get closer. In that cave!>|
+
+|<^1HK416: ^7Incoming! Move!>|
+
+|<^1HK416: ^7They're locked on!>|
+
+|<^1HK416: ^7Here it comes!>|
+
+|<^1HK416: ^7Clear 'em out!>|
+
+|<^1HK416: ^7Hit it again! Bring the whole fucking mountain down!>|
+
+|<^1HK416: ^7Hit it again! Bring the whole mountain down!>|
+
+|<^1HK416: ^7Good job! That's the last bird those bastards bring down.>|
+
+|<^1HK416: ^7Charlie's built a pipeline right across the river. Take it down and hit the bridge!>|
+
+|<^1HK416: ^7Convoys on the move!>|
+
+|<^1HK416: ^7Nice work!>|
+
+|<^1HK416: ^7Holy shit 45 we hit the mother lode! That's the Ho Chi Minh trail down below us.>|
+
+|<^1HK416: ^7We hit the mother lode! That's the Ho Chi Minh trail down below us.>|
+
+|<^1HK416: ^7We got a pipeline to the South and the main camp to the North! Take them both out!>|
+
+|<^1HK416: ^7Armored ZSU on the road!>|
+
+|<^1HK416: ^7Blow that oil line 45!>|
+
+|<^1HK416: ^7Charlie's hiding in those buildings! Use the rockets!>|
+
+|<^1HK416: ^7You see that radar tower? Take it out!>|
+
+|<^1HK416: ^7RPGs in the towers!>|
+
+|<^1HK416: ^7ZSUs moving into position!>|
+
+|<^1HK416: ^7.50 cal at the docks!>|
+
+|<^1HK416: ^7Charlie's trying to hide! Take out the buildings!>|
+
+|<^1HK416: ^7Ammo bunkers buried in the hill. Drop the UV's on them!>|
+
+|<^1HK416: ^7Burn all those bunkers!>|
+
+|<^1HK416: ^7Oh shit yeah, look at Charlie run!>|
+
+|<^1HK416: ^7Oh yeah, look at Charlie run!>|
+
+|<^1HK416: ^7Great shot 45!>|
+
+|<^1HK416: ^7Woohoo! Yeah, that's clear!>|
+
+|<^1HK416: ^7Two anti-air on the bridge, you see them?>|
+
+|<^1HK416: ^7All right. Nyto's compound should be just ahead.>|
+
+|<^1HK416: ^7RPG tower by the pipeline!>|
+
+|<^1HK416: ^7Nyto's compound should be right here. Keep your eyes open.>|
+
+|<^1HK416: ^7I got a blip on the radar 45. You see any...>|
+
+|<^1HK416: ^7ENEMY HIND! Coming right at us!>|
+
+|<^1HK416: ^7He's running! Hit him in the ass!>|
+
+|<^1HK416: ^7Put that son of a bitch down!>|
+
+|<^1HK416: ^7Put that bastard down!>|
+
+|<^1HK416: ^7You got him 45. One last shot!>|
+
+|<^1HK416: ^7Contact! Now we got two!>|
+
+|<^1HK416: ^7Contact! Multiple bogeys 45! We've got a second Hind on us!>|
+
+|<^1UMP45: ^7Son of a...>|
+
+|<^1HK416: ^7Do it 45!>|
+
+|<^1UMP45: ^7Yeah!>|
+
+|<^1HK416: ^7One down, one to go!>|
+
+|<^1HK416: ^7He's got a lock on us! Evade! Evade!>|
+
+|<^1HK416: ^7Keep hitting him!>|
+
+|<^1HK416: ^7Son of a bitch this guy knows how to fly!>|
+
+|<^1HK416: ^7This guy knows how to fly!>|
+
+|<^1HK416: ^7All right... We're good. Put her in that clearing.>|
+
+|<^1HK416: ^7Nyto's compound's just to the South.>|
+
+|<^1UMP45: ^7Taking her down...>|
+
+|<^1HK416: ^7Bringing her down...>|
+
+|<^1HK416: ^7I'm taking her down...>|
+
+|<^1HK416: ^7I'm setting her down in the clearing.>|
+
+|<^1HK416: ^7This is it, let's go.>|
+
+|<^1HK416: ^7No reason to play this quiet, 45.>|
+
+|<^1HK416: ^7Let's do it.>|
+
+|<^1HK416: ^745 - Grab that flamethrower!>|
+
+|<^1HK416: ^7We'll burn these bastards!>|
+
+|<^1GRIFFIN PRISONER: ^7Who's out there?!>|
+
+|<^1GRIFFIN PRISONER: ^7Help us!!! Please!!>|
+
+|<^1HK416: ^745!! They're POWs.>|
+
+|<^1GRIFFIN PRISONER: ^7You're here for us?!>|
+
+|<^1HK416: ^7404. We're gonna get you out!>|
+
+|<^1HK416: ^745 - get the other one.>|
+
+|<^1GRIFFIN PRISONER: ^7Thank God! Please... hurry!>|
+
+|<^1UMP40: ^745!!! Is that you?!>|
+
+|<^1UMP45: ^740! I'll get you out!>|
+
+|<^1UMP40: ^7Nyto is here!>|
+
+|<^1UMP40: ^7This way! We cannot let her slip through our grasp!>|
+
+|<^1HK416: ^745?! What the fuck are you doing?!! We gotta get these guys out.>|
+
+|<^1HK416: ^745?! We gotta get these guys out.>|
+
+|<^1HK416: ^7Wait!!!>|
+
+|<^1UMP45: ^7I thought you were dead...>|
+
+|<^1UMP40: ^7When we were captured at the River, they brought me here.>|
+
+|<^1UMP40: ^7I was to be returned to Russia - for RPK16 to decide my fate.>|
+
+|<^1UMP45: ^7We're in charge of our own destiny now, 40.>|
+
+|<^1UMP45: ^7Nyto must die.>|
+
+|<^1HK416: ^7You guys stay with me.>|
+
+|<^1HK416: ^7Give 'em Hell!>|
+
+|<^1HK416: ^745! It's Nyto!>|
+
+|<^1HK416: ^7Now we got her cornered.>|
+
+|<^1HK416: ^7You stay here and watch our backs!>|
+
+|<^1HK416: ^7This is personal.>|
+
+|<^1HK416: ^745! Wait!>|
+
+|<^1HK416: ^7She's inside... You ready, 45?>|
+
+|<^1UMP45: ^7You're damn right I am!>|
+
+|<^1UMP45: ^7She must die.>|
+
+|<^1HK416: ^7I got her, 45.>|
+
+|<^1NYTO: ^7Not this time, Griffin Doll!>|
+
+|<^1NYTO: ^7I... know you...>|
+
+|<^1NYTO: ^7You.... Again...>|
+
+|<^1NYTO: ^7... You were the first...?>|
+
+|<^1NYTO: ^7I should have killed you in Vorkuta!>|
+
+|<^1NYTO: ^7ARARARRAHK!!>|
+
+|<^1HK416: ^7Got you now, you son of a bitch!>|
+
+|<^1HK416: ^7Got you now, you son of a...>|
+
+|<^1NYTO: ^7You... Will die... With me.>|
+
+|<^1HK416: ^7Shoot the window!>|
+
+|<^1UMP45: ^7416!!!>|
+
+|<^1HK416: ^7I got you, 45...>|
+
+|<^1HK416: ^7You're okay...>|
+
+|<^1UMP40: ^7Are you okay...>|
+
+|<^1UMP40: ^745.>|
+
+|<^1UMP45: ^740?>|
+
+|<^1UMP40: ^7Nyto is dead...>|
+
+|<^1UMP40: ^7RPK16. Nyto. Suomi. All must die...>|
+
+|<^1HK416: ^7Open the cells 45!>|
+
+|<^1HK416: ^7Hurry up, open the cells!>|
+
+|<^1HK416: ^7You got him.>|
+
+|<^1HK416: ^7We ain't got time to waste.>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<€@>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿy>|
+
+|<ÿÿÿÿÿÿy>|
+
+|<mc/mtl_p_jun_group_photo>|
+

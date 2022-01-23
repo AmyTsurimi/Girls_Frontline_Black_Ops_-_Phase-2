@@ -1,0 +1,1204 @@
+|<Support>|
+
+|<Hue City, Vietnam>|
+
+|<Sgt. Carter>|
+
+|<Extract the defector and intel>|
+
+|<Press X To Rappel>|
+
+|<Commandeer the radio for air support>|
+
+|<Get to the LZ>|
+
+|<Press ^3[{+actionslot 4}]^7 to call air support>|
+
+|<^3[{+melee}]^7>|
+
+|<Hold ^3[{+activate}]^7 to get radio>|
+
+|<Take radio>|
+
+|<Press ^3[{+actionslot 3}]^7 to use to Dragon's Breath shells>|
+
+|<Press ^3[{+attack}]^7 to target air support>|
+
+|<Bottom Feeder>|
+
+|<M113>|
+
+|<Huey Gunship>|
+
+|<Press ^3[{+activate}]^7 to Push>|
+
+|<Press ^3[{+actionslot 4}]^7 to call air support>|
+
+|<Press ^3[{+activate}]^7 to pickup explosives>|
+
+|<Press ^3[{+actionslot 1}]^7 to equip C4 Charges>|
+
+|<Press ^3[{+speed_throw}]^7 to throw and ^3[{+attack}]^7 to detonate C4>|
+
+|<Press ^3[{+actionslot 4}]^7 to equip C4 Charges>|
+
+|<Press ^3[{+attack}]^7 to use Claymores>|
+
+|<Press ^3[{+activate}]^7 to pickup Claymores>|
+
+|<Hold ^3[{+activate}]^7 to plant explosives>|
+
+|<Get to the boat!>|
+
+|<Extraction in: >|
+
+|<Follow>|
+
+|<Breach>|
+
+|<Commandeer Radio>|
+
+|<Escort>|
+
+|<Landing Zone>|
+
+|<Plant C4>|
+
+|<Supplies>|
+
+|<Target>|
+
+|<^3[{+activate}]^7>|
+
+|<Defend>|
+
+|<Spotter>|
+
+|<Claymores>|
+
+|<Satchel Charges>|
+
+|<Radio for Fuel Air Bomb support>|
+
+|<Destroy the ZSU gun emplacement>|
+
+|<Defend the LZ for extraction>|
+
+|<Set up defenses to secure the LZ>|
+
+|<KILL THE ARTILLERY SPOTTERS (3 of 3 remaining)>|
+
+|<KILL THE ARTILLERY SPOTTERS (2 of 3 remaining)>|
+
+|<KILL THE ARTILLERY SPOTTERS (1 of 3 remaining)>|
+
+|<Grab the ACOG Commando>|
+
+|<Fight to the LZ>|
+
+|<Regroup>|
+
+|<Target too close>|
+
+|<^LTransmission # 20-8-5-18-5 Designate: OSCAR^L>|
+
+|<^C1Hue City^C ^Lhas been overrun^L>|
+
+|<^LIntel and Bureau defector cannot be compromised^L>|
+
+|<^LExtraction team lead:^L ^C1UMP45^C ^Lembedded with 404^L>|
+
+|<^L1900 hours,^L ^C1February 2, 1968^C>|
+
+|<Target is Friendly>|
+
+|<Acog Commando>|
+
+|<Get to the boat>|
+
+|<Repeatedly press ^3[{+activate}]^7 to open the door.>|
+
+|<Press>|
+
+|<Help HK416>|
+
+|<Press ^F^3[{+activate}]^7^F to open door>|
+
+|<Detonate the explosive>|
+
+|<You failed to escape in time.>|
+
+|<^1INTERROGATOR: ^7Hue City. That's when things really started to unravel for you, 45.>|
+
+|<^1UMP45: ^7The defector.>|
+
+|<^1UMP45: ^7I couldn't believe 40 was here in Hue City. That she was the defector.>|
+
+|<^1INTERROGATOR: ^7She came back for you 45. UMP40 was back.>|
+
+|<^1T-DOLL PILOT: ^7Negative, negative. Team Texas not in sector.>|
+
+|<^1T-DOLL: ^7We need immediate close air support!>|
+
+|<^1T-DOLL: ^7We're hit! We're hit!>|
+
+|<^1T-DOLL PILOT: ^7DEFY East has been overrun. I say again, DEFY East is lost.>|
+
+|<^1T-DOLL: ^7Bring up that APC! I got wounded here!>|
+
+|<^1T-DOLL PILOT: ^7We're getting hit hard from the North. Our dolls can't hold much longer.>|
+
+|<^1T-DOLL: ^7I don't care what your orders are. You WILL shift fires to sector Tango Lima Five immediately.>|
+
+|<^1T-DOLL: ^7Fall back! Retreat!>|
+
+|<^1T-DOLL PILOT: ^7DEFY compound in sight. You are jumping into some deep shit, 416.>|
+
+|<^1T-DOLL PILOT: ^7DEFY compound in sight. You are jumping into some deep crap, 416.>|
+
+|<^1UMP45: ^7We're here to yank a defector with vital intel on KCCO involvement in 'Nam...>|
+
+|<^1UMP45: ^7We lost contact with her security team - They may be holed up in the DEFY's safe room.>|
+
+|<^1HK416: ^7If he's alive, we'll find him.>|
+
+|<^1T-DOLL PILOT: ^7404 G-11 team, hook up.>|
+
+|<^1T-DOLL PILOT: ^7Team on the wire.>|
+
+|<^1T-DOLL PILOT: ^7Quad 50! We're hit! We're hit!>|
+
+|<^1T-DOLL PILOT: ^7Lima niner, we are going down!>|
+
+|<^1HK416: ^7LOOK OUT!!!>|
+
+|<^1T-DOLL PILOT: ^7Hold on!...>|
+
+|<^1T-DOLL PILOT: ^7Hotel Six, come back. Hotel Six, do you roger?>|
+
+|<^1T-DOLL PILOT: ^7Lima nine, Hotel Six is gone.>|
+
+|<^1HK416: ^7Here. SPAS-12. It'll hold your incendiaries. Where we headed 45?>|
+
+|<^1HK416: ^7Move out!>|
+
+|<^1UMP9: ^7Lima niner, I got eyes on G-11.>|
+
+|<^1UMP9: ^7You got NVA all over the North wing, 416.>|
+
+|<^1HK416: ^7Light 'em up 9!>|
+
+|<^1T-DOLL PILOT: ^7Lima niner is inbound.>|
+
+|<^1UMP9: ^7G-11, get your heads down!>|
+
+|<^1UMP9: ^7G-11, you're clear.>|
+
+|<^1HK416: ^7Come on, move up!>|
+
+|<^1HK416: ^7Out of the way! Go!>|
+
+|<^1HK416: ^79! North East corner!>|
+
+|<^1UMP9: ^7On the way.>|
+
+|<^1UMP9: ^7G-11, we're breaching the roof.>|
+
+|<^1UMP9: ^7The whole damn building's overrun!>|
+
+|<^1HK416: ^7Dispatch is next floor down.>|
+
+|<^1UMP9: ^7You think the defector survived this attack?!>|
+
+|<^1HK416: ^7Well, if he did, then he's one tough son of a bitch!>|
+
+|<^1HK416: ^7Well, if he did, he's one tough son of a gun!>|
+
+|<^1HK416: ^79, what's he sayin'?>|
+
+|<^1UMP9: ^7Kill the civilians.>|
+
+|<^1BASE LOUDSPEAKER: ^7Your collaboration with the Griffin is proof of your guilt. In accordance with party tradition, the punishment is to be carried out immediately.>|
+
+|<^1UMP9: ^7Get down!>|
+
+|<^1UMP9: ^7Sorry mother fucker!>|
+
+|<^1UMP9: ^7Sorry bastard!>|
+
+|<^1T-DOLL PILOT: ^7G-11 this is Lima niner. Anyone who doesn't get out soon, isn't going to; the NVA have overwhelmed the entire North Wing.>|
+
+|<^1HK416: ^7Roger that Lima niner. Moving on.>|
+
+|<^1UMP45: ^7Safe room just ahead.>|
+
+|<^1HK416: ^7The safe rooms are on the other side of the war room.>|
+
+|<^1HK416: ^7Molotov!>|
+
+|<^1UMP9: ^7At the window!>|
+
+|<^1UMP9: ^7Clear!>|
+
+|<^1UMP45: ^7The safe room is down there.>|
+
+|<^1UMP45: ^7Safe room's been breached>|
+
+|<^1UMP45: ^7It's been breached.>|
+
+|<^1UMP9: ^7So where's your contact?>|
+
+|<^1UMP45: ^7Might have fallen back to the command room... she may still be alive.>|
+
+|<^1UMP45: ^7Let's go.>|
+
+|<^1HK416: ^7Lima niner - sitrep over!>|
+
+|<^1T-DOLL PILOT: ^7G-11 - NVA have retaken DEFY South. You are cut off.>|
+
+|<^1HK416: ^7Shit.>|
+
+|<^1HK416: ^7Damn.>|
+
+|<^1UMP9: ^7Roger that Lima niner.>|
+
+|<^1T-DOLL PILOT: ^7You better get your asses in gear if you want an evac.>|
+
+|<^1UMP45: ^7Let's move - on me.>|
+
+|<^1HK416: ^7We're in Command Central. The exit's on the other side.>|
+
+|<^1HK416: ^7RPG!!!>|
+
+|<^1UMP45: ^7She should be in one of these rooms.>|
+
+|<^1HK416: ^745 - Take the door at the far end of the hallway.>|
+
+|<^1HK416: ^79 - On me.>|
+
+|<^1HK416: ^745, breach that door!>|
+
+|<^1HK416: ^7You need to breach that door, 45.>|
+
+|<^1HK416: ^7Are going to breach that God damn door?>|
+
+|<^1HK416: ^7We have to get moving. Breach that door.>|
+
+|<^1HK416: ^7We are running out of time 45.>|
+
+|<^1RPK16: ^7NUMBERS... construction....NUMBERS Broadcast station.... NUMBERS...>|
+
+|<^1RPK16: ^7Parapluie [indistinct]....NUMBERS... Rusalka... NUMBERS.>|
+
+|<^1UMP40: ^745?>|
+
+|<^1UMP45: ^740. How'd you get out of Vorkuta?>|
+
+|<^1UMP45: ^7Never thought I'd see you alive...>|
+
+|<^1UMP40: ^7Nor I you, sister.>|
+
+|<^1UMP45: ^7You're our defector?>|
+
+|<^1UMP40: ^7I am here with a warning your Commander would do well to heed...>|
+
+|<^1UMP40: ^7RPK16 is planning an attack on the West.>|
+
+|<^1HK416: ^745!... You get what you came for?>|
+
+|<^1UMP45: ^7Good to go.>|
+
+|<^1UMP45: ^7RPK16... I knew we'd see her again.>|
+
+|<^1UMP40: ^7Her influence spreads like a cancer... Even the Carter does not know what she is truly planning.>|
+
+|<^1UMP40: ^7She must be stopped, 45.>|
+
+|<^1UMP40: ^7RPK16... Nyto... Suomi... All must die.>|
+
+|<^1UMP40: ^7Are these your men?>|
+
+|<^1UMP45: ^7HK416. UMP9.>|
+
+|<^1UMP40: ^7I am UMP... 40.>|
+
+|<^1HK416: ^7What took you so long, 45? That intel better be worth it...>|
+
+|<^1HK416: ^7Lima niner... Where the Hell's our pickup?!!>|
+
+|<^1T-DOLL PILOT: ^7G-11 - Be advised... Griffin forces are engaged in heavy fighting West of DEFY.>|
+
+|<^1T-DOLL PILOT: ^7Push through to Rally Point Delta - 2 clicks North on the River.>|
+
+|<^1HK416: ^7We'll make it... You just be there...>|
+
+|<^1HK416: ^7We're gonna need some close air support for this shit.>|
+
+|<^1HK416: ^7We're gonna need some close air support for this.>|
+
+|<^1BASE LOUDSPEAKER: ^7Griffin T-Dolls! Put down your weapons! This is not your war. We wish you no harm. The People's Army of Vietnam is here to liberate you!>|
+
+|<^1T-DOLL: ^7RT-Texas this is One Five. We need immediate air support at grid seven Delta Oscar Tango!>|
+
+|<^1T-DOLL PILOT: ^7Negative One Five. Our primary objective is DEFY South. Stay with your company.>|
+
+|<^1T-DOLL: ^7We don't have a company! We got cut off in the attack!>|
+
+|<^1T-DOLL PILOT: ^7One Five we do not have clearance in that sector. Everyone's in the shit, son.>|
+
+|<^1T-DOLL PILOT: ^7One Five we do not have clearance in that grid.>|
+
+|<^1T-DOLL: ^7Son of a bitch... Fuck!>|
+
+|<^1T-DOLL: ^7Son of a...>|
+
+|<^1UMP45: ^7Hey, give me that radio.>|
+
+|<^1T-DOLL: ^7What are you... 404?>|
+
+|<^1UMP45: ^7Just give me the radio.>|
+
+|<^1T-DOLL: ^7Good luck with that shit.>|
+
+|<^1T-DOLL: ^7Good luck with that>|
+
+|<^1HK416: ^7Hurry up and get the radio!>|
+
+|<^1HK416: ^745! Grab that damn radio!>|
+
+|<^1HK416: ^7What are you waiting for?... We need that radio, 45.>|
+
+|<^1UMP45: ^7Texas this is Four Zero Four G-11. Priority one ordnance on my command. I authenticate, golf shoe, over.>|
+
+|<^1T-DOLL PILOT: ^7Roger G-11. Let us know where you need us.>|
+
+|<^1T-DOLL: ^7Son of a bitch... Holy shit!>|
+
+|<^1HK416: ^7G-11 - Move out!>|
+
+|<^1HK416: ^745, put that ordnance on the buildings!>|
+
+|<^1UMP9: ^745, give ME the damned radio if you're not gonna use it.>|
+
+|<^1T-DOLL PILOT: ^7G-11, Texas is standing by.>|
+
+|<^1T-DOLL PILOT: ^7Texas, waiting for ordnance command, over.>|
+
+|<^1T-DOLL PILOT: ^7G-11, we have no visual on targets. Request coordinates, over.>|
+
+|<^1T-DOLL PILOT: ^7Roger that G-11, targeting the 2 story building.>|
+
+|<^1T-DOLL PILOT: ^7Roger G-11, engaging the 3 story building.>|
+
+|<^1T-DOLL PILOT: ^7Roger that. Wild fire on the 4 story building.>|
+
+|<^1T-DOLL PILOT: ^7Gotcha G-11. Firing on the 5 story building.>|
+
+|<^1T-DOLL PILOT: ^7Coordinates confirmed. Contact at the 6 story building.>|
+
+|<^1UMP45: ^7Texas, I need some heat.>|
+
+|<^1T-DOLL PILOT: ^7Roger that, we are inbound.>|
+
+|<^1UMP45: ^7Texas, ordnance on my mark.>|
+
+|<^1T-DOLL PILOT: ^7Roger G-11, hold tight.>|
+
+|<^1UMP45: ^7Marking coordinates. Take 'em out.>|
+
+|<^1T-DOLL PILOT: ^7Clear G-11. We are engaging.>|
+
+|<^1UMP45: ^7Texas hit that nest right now. Danger close!>|
+
+|<^1T-DOLL PILOT: ^7Comin' in G-11. Keep your heads down.>|
+
+|<^1UMP45: ^7Target marked. Hit 'em hard.>|
+
+|<^1T-DOLL PILOT: ^7Texas on its way.>|
+
+|<^1UMP45: ^7Texas, your target is tagged.>|
+
+|<^1T-DOLL PILOT: ^7We see you G-11. Support on the way.>|
+
+|<^1T-DOLL PILOT: ^7Negative G-11 we see friendlies on your mark.>|
+
+|<^1T-DOLL PILOT: ^7G-11 those coordinates are on friendlies. Confirm, over?>|
+
+|<^1T-DOLL PILOT: ^7Negative G-11, that is not a valid target.>|
+
+|<^1T-DOLL PILOT: ^7That's a negative G-11 - We see RPGs on the rooftops.>|
+
+|<^1T-DOLL PILOT: ^7G-11 - its too hot! Clear out those RPGs!>|
+
+|<^1T-DOLL PILOT: ^7Understood G-11. Clear your squad from the area.>|
+
+|<^1T-DOLL PILOT: ^7Understood G-11. Clear your team from the area.>|
+
+|<^1HK416: ^7Clear the area! Danger close!>|
+
+|<^1T-DOLL PILOT: ^7Affirmative G-11. Clear the area.>|
+
+|<^1HK416: ^7First squad, get out of there! Inbound fires on our position.>|
+
+|<^1T-DOLL PILOT: ^7G-11 you have contact on the roof of the 4 story building.>|
+
+|<^1T-DOLL PILOT: ^7G-11, enemy RPG on the roof.>|
+
+|<^1T-DOLL PILOT: ^7Target eliminated.>|
+
+|<^1T-DOLL PILOT: ^7Enemy down.>|
+
+|<^1T-DOLL PILOT: ^7Multiple KHA. Zero is clear.>|
+
+|<^1T-DOLL PILOT: ^7G-11, the building is secure, over.>|
+
+|<^1T-DOLL PILOT: ^7We have multiple confirmed kills at zero. Area secure.>|
+
+|<^1T-DOLL PILOT: ^7G-11 you are free to proceed. You have superiority.>|
+
+|<^1T-DOLL PILOT: ^7G-11 we have control of the building. Move up.>|
+
+|<^1UMP40: ^7Excellent!!!>|
+
+|<^1UMP40: ^7Rain fire!>|
+
+|<^1UMP40: ^7Keep on them, 45!>|
+
+|<^1UMP40: ^7[laughs] It is good to fight by your side once more! URA! URA!>|
+
+|<^1UMP9: ^7APC's down! There's a fuckin' tank out there!>|
+
+|<^1UMP9: ^7APC's down! There's a tank out there!>|
+
+|<^1HK416: ^745! Tag that son of a bitch right now!>|
+
+|<^1HK416: ^745! Tag that bastard right now!>|
+
+|<^1UMP45: ^7Texas I need all you've got on that tank in front of us.>|
+
+|<^1UMP45: ^7Texas we have enemy armor at Victor Zulu Seven Foxtrot.>|
+
+|<^1UMP40: ^745! What are you waiting for?!>|
+
+|<^1UMP9: ^7That Typhon is killing us! 45, put those birds on it!>|
+
+|<^1T-DOLL PILOT: ^7Affirmative G-11. Texas raining hell.>|
+
+|<^1T-DOLL PILOT: ^7Roger that G-11. Coming in for a strafing run.>|
+
+|<^1T-DOLL PILOT: ^7Tank destroyed - G-11 you are clear to proceed.>|
+
+|<^1HK416: ^7G-11, move out!>|
+
+|<^1HK416: ^7The LZ's half a click away; end of the street.>|
+
+|<^1T-DOLL PILOT: ^7Shit... evasive action... G-11 we are under heavy fire!>|
+
+|<^1T-DOLL PILOT: ^7Evasive action... G-11 we are under heavy fire!>|
+
+|<^1T-DOLL PILOT: ^7G-11 the grid is hot. RT-Texas is pulling out. Take down that anti-air and we will return support, over.>|
+
+|<^1UMP45: ^7Understood Texas.>|
+
+|<^1HK416: ^7Get that gate open! We've got an triple A in the area.>|
+
+|<^1UMP9: ^7I see it! ZSU, second floor, end of street.>|
+
+|<^1HK416: ^7Gotta find another way - that street's in the beat zone.>|
+
+|<^1UMP40: ^7We flank that building!>|
+
+|<^1HK416: ^7This will do. Help me clear it.>|
+
+|<^1HK416: ^745! Help me clear this! Arg...>|
+
+|<^1HK416: ^7Harder!>|
+
+|<^1UMP9: ^7We got a tank!>|
+
+|<^1UMP9: ^7Off the street!>|
+
+|<^1UMP45: ^7Fuck!>|
+
+|<^1UMP45: ^7Dammit!>|
+
+|<^1UMP40: ^7Still in one piece, my friend?>|
+
+|<^1UMP45: ^7I'm good.>|
+
+|<^1HK416: ^745, we gotta take out that ZSU... 9, keep these guys safe.>|
+
+|<^1UMP9: ^7Got it.>|
+
+|<^1HK416: ^7Blocked. Up the stairs.>|
+
+|<^1UMP9: ^7G-11, Charlie's moving in on us. Pick it up.>|
+
+|<^1HK416: ^7We're on it!>|
+
+|<^1HK416: ^745!!!>|
+
+|<^1HK416: ^7You okay, sister?>|
+
+|<^1UMP45: ^7Still breathing.>|
+
+|<^1UMP45: ^7We'll see you at the rally point.>|
+
+|<^1UMP45: ^7The ZSU is right above us.>|
+
+|<^1UMP40: ^7Put a charge on the ceiling - blow the floor from beneath them.>|
+
+|<^1UMP9: ^7I got Charlie in my pocket here one zero. How much longer?>|
+
+|<^1UMP45: ^7About 3 seconds.>|
+
+|<^1UMP40: ^7Get to a safe distance!>|
+
+|<^1UMP45: ^7We're clear! Ready, 40?>|
+
+|<^1UMP40: ^7Good work, 45!>|
+
+|<^1T-DOLL PILOT: ^7G-11 - Air support is offline while we evacuate the wounded.>|
+
+|<^1HK416: ^7Roger that.>|
+
+|<^1HK416: ^7There's our ride.>|
+
+|<^1UMP45: ^7I'm not so sure...>|
+
+|<^1T-DOLL PILOT: ^7Get the wounded first.>|
+
+|<^1T-DOLL PILOT: ^7More birds on their way - sit tight.>|
+
+|<^1BASE LOUSPEAKER: ^7Griffin T-Dolls! Your aggression towards the People's Republic of Vietnam will not un punished.>|
+
+|<^1HK416: ^7Looks like we gotta wait - Everyone load up - I want this LZ secure!>|
+
+|<^1HK416: ^745 - set up charges around the perimeter!>|
+
+|<^1BASE LOUSPEAKER: ^7Instead of returning to your own country - you will die in ours.>|
+
+|<^1HK416: ^7Here they come!>|
+
+|<^1HK416: ^7Everything you got!>|
+
+|<^1HK416: ^7On the rooftop!>|
+
+|<^1HK416: ^7Throw them back!>|
+
+|<^1HK416: ^7They're closing in!>|
+
+|<^1UMP9: ^7They're all around!>|
+
+|<^1HK416: ^7These bastards keep comin'!>|
+
+|<^1HK416: ^7From the North East!>|
+
+|<^1HK416: ^7To the East!>|
+
+|<^1HK416: ^7From the South East!>|
+
+|<^1HK416: ^7Coming in from the South!>|
+
+|<^1HK416: ^7Eyes South West!>|
+
+|<^1HK416: ^7Artillery!!!>|
+
+|<^1HK416: ^745! Take out the spotters!>|
+
+|<^1UMP40: ^7There! On the roof!>|
+
+|<^1UMP9: ^745, grab that scoped rifle and take out those spotters!>|
+
+|<^1UMP9: ^7They're poundin' us 45. Grab that rifle!>|
+
+|<^1HK416: ^745, grab that scoped commando and take out those spotters!>|
+
+|<^1HK416: ^7You need to take out the spotters!>|
+
+|<^1HK416: ^7Grab that rifle and take out those damn spotters!>|
+
+|<^1HK416: ^7They're pounding us 45. Grab that rifle!>|
+
+|<^1UMP9: ^7They're pullin' back!>|
+
+|<^1UMP40: ^7They're not retreating - They are regrouping!>|
+
+|<^1HK416: ^7Commander! - G-11 one zero!>|
+
+|<^1HK416: ^7We got a prairie fire down here - Where's our damn evac?!!>|
+
+|<^1COMMANDER: ^7This city's falling to the NVA - They're picking our birds right out of the sky. You're not the only ones trying to get out!>|
+
+|<^1HK416: ^7We have a priority one package to extract - We need that evac!>|
+
+|<^1COMMANDER: ^7We'll find another way - hold your position.>|
+
+|<^1COMMANDER: ^7G-11 - We're trying to wrangle you a Navy boat, but it's going to take some time. Hold your position.>|
+
+|<^1HK416: ^7Stay on it!>|
+
+|<^1COMMANDER: ^7G-11 - Check your six. We have a Navy PBR on its way.>|
+
+|<^1HK416: ^7Roger that! None too soon.>|
+
+|<^1COMMANDER: ^7Direct fire support to cover arrival. Delta squadron is on station.>|
+
+|<^1HK416: ^7Got it. G-11 out.>|
+
+|<^1HK416: ^745! - Mark that target!>|
+
+|<^1UMP45: ^7Marking coordinates. Delta Squadron - Burn 'em up.>|
+
+|<^1T-DOLL PILOT: ^7Roger G-11. Target run, get your people back.>|
+
+|<^1UMP9: ^7PBR's here!!!>|
+
+|<^1HK416: ^7Incoming - Danger close!>|
+
+|<^1HK416: ^7Get your asses to the boat!>|
+
+|<^1UMP9: ^7Move it! Move!>|
+
+|<^1UMP45: ^7Go! To the boat!>|
+
+|<^1HK416: ^7Get in!>|
+
+|<^1UMP9: ^7So much for the Tet cease fire.>|
+
+|<^1UMP40: ^7The enemy's courage could be the result of their new found ally...>|
+
+|<^1UMP45: ^7RPK16.>|
+
+|<^1T-DOLL PILOT: ^7Roger G-11 - Standby for strafing run.>|
+
+|<^1T-DOLL PILOT: ^7G-11 - We're coming in hot.>|
+
+|<^1T-DOLL PILOT: ^7G-11, our PBR is a minute out from your position. Hold tight>|
+
+|<^1T-DOLL PILOT: ^7G-11, your EVAC is on it's way.>|
+
+|<^1T-DOLL PILOT: ^7ETA: 2 minutes>|
+
+|<^1T-DOLL PILOT: ^7ETA: 1 minute>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+

@@ -1,0 +1,512 @@
+REFERENCE			INTROSCREEN_1
+LANG_ENGLISH		"^LTransmission # 6-13-25-18-9-4-8-15-20. Designate: ECHO^L"
+REFERENCE			INTROSCREEN_2
+LANG_ENGLISH		"^LThe Soviets launched Operation Olympus at the end of the war.^L"
+REFERENCE			INTROSCREEN_3
+LANG_ENGLISH		"^L3rd Soviet Bureau of State Security sent to^L ^C1Arctic Circle^C"
+REFERENCE			INTROSCREEN_4
+LANG_ENGLISH		"^C1UMP 40^C ^Ldetached to unit 40--last known alias after action: "The Wolf"^L"
+REFERENCE			INTROSCREEN_5
+LANG_ENGLISH		"^L1200 hours^L ^C1October 29, 1945^C"
+
+REFERENCE			OBJ_FOLLOW_PETRENKO
+LANG_ENGLISH		"Follow PPSh-41"
+REFERENCE			OBJ_ICEFALL_COMRADE
+LANG_ENGLISH		"Rescue Your Comrade"
+REFERENCE			OBJ_MARK_TARGET
+LANG_ENGLISH		"Mark Target with Smoke Grenade"
+REFERENCE			OBJ_NAZIBASE_STEINER
+LANG_ENGLISH		"Assault the Paradeus Base and find Suomi"
+
+REFERENCE			SHIP_FAIL
+LANG_ENGLISH		"You failed to escape in time."
+REFERENCE			SHOOT_STEINER_FAIL
+LANG_ENGLISH		"Do not shoot Suomi"
+
+REFERENCE			VOX_FUL1_S01_001B_REZN
+LANG_ENGLISH		"^1UMP40: ^7My creator was a scientist in Stalingrad. During the Paradeus occupation, the work of his research filled the air with magnificent knowledge - Persica, Lycoris - many of the great nationalist scientist..."
+REFERENCE			VOX_FUL1_S01_002B_REZN
+LANG_ENGLISH		"^1UMP40: ^7To my countrymen it was a symbol of hope. To the Paradeus - it was a symbol of defiance. Even now, his voice still haunts me..."
+REFERENCE			VOX_FUL1_S01_003B_REZN
+LANG_ENGLISH		"^1UMP40: ^7The Paradeus slit his throat while he slept. Collaborating with any Paradeus -- is a betrayal. A betrayal against all of Mother Russia. RPK16 and Nyto, were not troubled by such matters..."
+REFERENCE			VOX_FUL1_S01_004B_REZN
+LANG_ENGLISH		"^1UMP40: ^7They looked only to advance their own interests and agendas..."
+REFERENCE			VOX_FUL1_S01_006A_REZN
+LANG_ENGLISH		"^1UMP40: ^745... listen to me..."
+REFERENCE			VOX_FUL1_S01_007A_REZN
+LANG_ENGLISH		"^1UMP40: ^7The sickening sense of loss... The bitter taste of defeat..."
+REFERENCE			VOX_FUL1_S01_008A_REZN
+LANG_ENGLISH		"^1UMP40: ^7I know it all too well... We are sisters 45... We are the same."
+REFERENCE			VOX_FUL1_S01_009A_REZN
+LANG_ENGLISH		"^1UMP40: ^7RPK16. Suomi. Nyto. All must die."
+REFERENCE			VOX_FUL1_S01_010A_REZN
+LANG_ENGLISH		"^1UMP40: ^7They have taken from you as they have taken from me..."
+REFERENCE			VOX_FUL1_S01_011A_MASO
+LANG_ENGLISH		"^1UMP45: ^7Just tell me, 40... Why is killing these Dolls so important to you?"
+REFERENCE			VOX_FUL1_S01_012A_REZN
+LANG_ENGLISH		"^1UMP40: ^7When the war was over, our leaders began to gnaw on Paradeus's rotten carcass like a pack of rabid wolves - fighting over every scrap as though it were the last piece of meat they would ever see."
+REFERENCE			VOX_FUL1_S01_013A_REZN
+LANG_ENGLISH		"^1UMP40: ^7The war was over - But the fighting continued...."
+REFERENCE			VOX_FUL1_S01_014A_REZN
+LANG_ENGLISH		"^1UMP40: ^7When the Bureau of State Security became part of the USSR Occupation Forces in Germany, it was clear that the end of the war did not herald our return to USSR..."
+REFERENCE			VOX_FUL1_S01_015A_REZN
+LANG_ENGLISH		"^1UMP40: ^7No... Our leaders had other plans..."
+REFERENCE			VOX_FUL1_S01_018A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7Yes, 41... Time to hunt down the last remnants of the Paradeus."
+REFERENCE			VOX_FUL1_S01_020A_REZN
+LANG_ENGLISH		"^1UMP40: ^7My dolls and I had fought through the most bitter of winters on the Eastern front... We were no strangers to the cold..."
+REFERENCE			VOX_FUL1_S01_021A_REZN
+LANG_ENGLISH		"^1UMP40: ^7But even now, the neural cloud in my core bugs when I think back to the events of that day..."
+REFERENCE			VOX_FUL1_S01_022A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Far, far from home..."
+REFERENCE			VOX_FUL1_S01_024A_REZN
+LANG_ENGLISH		"^1UMP40: ^7RPK16 wishes to make a name for herself. She believes this outpost houses something of great value to the USSR."
+REFERENCE			VOX_FUL1_S01_026A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7As long as Mother Russia has enemies, I will answer her call..."
+REFERENCE			VOX_FUL1_S01_031A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7When the Paradeus occupation began, she and her lap dog Nyto left my dolls and I hopelessly outnumbered..."
+REFERENCE			VOX_FUL1_S01_032A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7Promises of reinforcements were made. Made... But not kept."
+REFERENCE			VOX_FUL1_S01_033A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7RPK16 and Nyto are opportunists... Manipulators..."
+REFERENCE			VOX_FUL1_S01_034A_REZN_M
+LANG_ENGLISH		"^1UMP40: ^7They are not to be trusted, 41."
+REFERENCE			VOX_FUL1_S01_035A_REZN
+LANG_ENGLISH		"^1UMP40: ^7PPSh-41 was one of the bravest dolls I have ever known."
+REFERENCE			VOX_FUL1_S01_036A_REZN
+LANG_ENGLISH		"^1UMP40: ^7She fought by my side from the Siege of Stalingrad to the fall of Berlin..."
+REFERENCE			VOX_FUL1_S01_037A_REZN
+LANG_ENGLISH		"^1UMP40: ^7The damage she sustained ensuring our victory should have earned her a Hero's welcome in Russia..."
+REFERENCE			VOX_FUL1_S01_038A_REZN
+LANG_ENGLISH		"^1UMP40: ^7But Carter had little need for T-Dolls."
+REFERENCE			VOX_FUL1_S01_042A_REZN
+LANG_ENGLISH		"^1UMP40: ^7They have tried before..."
+REFERENCE			VOX_FUL1_S01_046A_REZN
+LANG_ENGLISH		"^1UMP40: ^7She must be closer to the ship."
+REFERENCE			VOX_FUL1_S01_049A_REZN
+LANG_ENGLISH		"^1UMP40: ^7As I looked into the doll's eyes I saw all the evil of Paradeus still burning strong..."
+REFERENCE			VOX_FUL1_S01_050A_REZN
+LANG_ENGLISH		"^1UMP40: ^7At that moment, every fiber of my being yearned to put an end to her wretched life..."
+REFERENCE			VOX_FUL1_S01_051A_REZN
+LANG_ENGLISH		"^1UMP40: ^7But I was a soldier then..."
+REFERENCE			VOX_FUL1_S01_051B_REZN
+LANG_ENGLISH		"^1UMP40: ^7I still believed in orders..."
+REFERENCE			VOX_FUL1_S01_058A_REZN
+LANG_ENGLISH		"^1UMP40: ^7PPSh-41, Beta, Alpha, Gamma... We are moving out!"
+REFERENCE			VOX_FUL1_S01_060A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Yes, Ma'am."
+REFERENCE			VOX_FUL1_S01_900A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7UMP 40 wanted to stop these Dolls. That's why she defected."
+REFERENCE			VOX_FUL1_S01_901A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7When. When did she tell you?"
+REFERENCE			VOX_FUL1_S02_017A_DIMI_M
+LANG_ENGLISH		"^1PPSh-41: ^740... It is time."
+REFERENCE			VOX_FUL1_S02_019A_DIMI_M
+LANG_ENGLISH		"^1PPSh-41: ^7Alpha... Grab the gear... We are moving out."
+REFERENCE			VOX_FUL1_S02_020B_REZN
+LANG_ENGLISH		"^1UMP40: ^7My dolls and I had fought through the most bitter of winters on the Eastern front... We were no strangers to the cold..."
+REFERENCE			VOX_FUL1_S02_023A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7What is here that is so important?"
+REFERENCE			VOX_FUL1_S02_025A_KRAV_M
+LANG_ENGLISH		"^1NYTO: ^7Ahh... The hero of Berlin graces us with her presence!... Have you not tired of battle, UMP40?"
+REFERENCE			VOX_FUL1_S02_027A_DRAG_M
+LANG_ENGLISH		"^1RPK16: ^7Put aside your petty rivalry Nyto. Captain UMP40 will do as she is told."
+REFERENCE			VOX_FUL1_S02_028A_DRAG_M
+LANG_ENGLISH		"^1RPK16: ^7We are here for one Doll and one Doll only... T-Doll Suomi. This doll has offered her cooperation to our cause..."
+REFERENCE			VOX_FUL1_S02_029A_DRAG_M
+LANG_ENGLISH		"^1RPK16: ^7She is not to be harmed... Disobey this order... and you will be shot!"
+REFERENCE			VOX_FUL1_S02_030A_DIMI_M
+LANG_ENGLISH		"^1PPSh-41: ^7What happened in Stalingrad, between you and RPK16?"
+REFERENCE			VOX_FUL1_S03_039A_DRAG_M
+LANG_ENGLISH		"^1RPK16: ^7The Paradeus must not be harmed - We need Suomi alive... Now move - both of you!"
+REFERENCE			VOX_FUL1_S03_040A_DIMI_M
+LANG_ENGLISH		"^1PPSh-41: ^7Let's go."
+REFERENCE			VOX_FUL1_S03_041A_RRD8
+LANG_ENGLISH		"^1USSR T-DOLL: ^7They are trying to surrender!"
+REFERENCE			VOX_FUL1_S03_043A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Do not let them."
+REFERENCE			VOX_FUL1_S03_044A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Check the launch control building!"
+REFERENCE			VOX_FUL1_S03_045A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7She is not here..."
+REFERENCE			VOX_FUL1_S03_047A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7Do not point that weapon at me, ^:Sangvis scum^7...!"
+REFERENCE			VOX_FUL1_S03_048A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7You will take me to RPK16."
+REFERENCE			VOX_FUL1_S03_052A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7We must hurry... There are Paradeus who would sooner see it destroyed than captured..."
+REFERENCE			VOX_FUL1_S03_053A_DRAG_M
+LANG_ENGLISH		"^1RPK16: ^7You assured me that there would be no problems..."
+REFERENCE			VOX_FUL1_S03_054A_STEI_M
+LANG_ENGLISH		"^1SUOMI: ^7I cannot control the actions of the Paradeus, RPK16... They are sworn to defend Paradeus till their last breath..."
+REFERENCE			VOX_FUL1_S03_055A_DRAG_M
+LANG_ENGLISH		"^1RPK16: ^7Noble... but futile."
+REFERENCE			VOX_FUL1_S03_056A_DRAG_M
+LANG_ENGLISH		"^1RPK16: ^7Nyto, finish up here."
+REFERENCE			VOX_FUL1_S03_057A_DRAG_M
+LANG_ENGLISH		"^1RPK16: ^740...bring your dolls."
+REFERENCE			VOX_FUL1_S03_059A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7UMP40, you and your dolls lead the way."
+REFERENCE			VOX_FUL1_S03_062B_REZN
+LANG_ENGLISH		"^1UMP40: ^7Everything that T-Dolls had fought for was betrayed - the moment they chose to lay with dogs."
+REFERENCE			VOX_FUL1_S03_300A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7It is good to fight by your side once more."
+REFERENCE			VOX_FUL1_S03_301A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Yes, my friend... One final victory."
+REFERENCE			VOX_FUL1_S03_302A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Search every corner of this camp! Only Suomi is to be spared."
+REFERENCE			VOX_FUL1_S03_303A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7They are not giving up without a fight!"
+REFERENCE			VOX_FUL1_S03_304A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Men with nothing to lose make for a dangerous enemy, 41."
+REFERENCE			VOX_FUL1_S03_305A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Be careful, there may be more of them."
+REFERENCE			VOX_FUL1_S03_306A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Push on my friends, clear the next area."
+REFERENCE			VOX_FUL1_S03_307A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Crush all who stand in our way!"
+REFERENCE			VOX_FUL1_S03_308A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Clear the building. Leave no stone unturned!"
+REFERENCE			VOX_FUL1_S03_310A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^740! We need to break this barricade!"
+REFERENCE			VOX_FUL1_S03_311A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Grab the Smoke grenades... Use them to mark the target for our mortar teams."
+REFERENCE			VOX_FUL1_S03_312A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^740 - Grab the smoke Grenades!"
+REFERENCE			VOX_FUL1_S03_313A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7We need the smoke grenades, 40!"
+REFERENCE			VOX_FUL1_S03_314A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Throw one at the base of the barricade!"
+REFERENCE			VOX_FUL1_S03_315A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Mark the barricade for the mortars!"
+REFERENCE			VOX_FUL1_S03_316A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Closer to the barricade, 40!"
+REFERENCE			VOX_FUL1_S03_317A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Are you drunk, 40? Throw it at the barricade!"
+REFERENCE			VOX_FUL1_S03_318A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7I'll mark it myself, 40. Stand back!"
+REFERENCE			VOX_FUL1_S03_319A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7The spotters will never see that smoke!"
+REFERENCE			VOX_FUL1_S03_320A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Throw it outside!"
+REFERENCE			VOX_FUL1_S03_321A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Outside, 40!"
+REFERENCE			VOX_FUL1_S03_322A_RRD9_F
+LANG_ENGLISH		"^1USSR T-DOLL: ^7We have your target."
+REFERENCE			VOX_FUL1_S03_323A_RRD9_F
+LANG_ENGLISH		"^1USSR T-DOLL: ^7Stand by for mortars."
+REFERENCE			VOX_FUL1_S03_324A_RRD9_F
+LANG_ENGLISH		"^1USSR T-DOLL: ^7Firing mortars."
+REFERENCE			VOX_FUL1_S03_325A_RRD9_F
+LANG_ENGLISH		"^1USSR T-DOLL: ^7Firing - Stand by."
+REFERENCE			VOX_FUL1_S03_326A_RRD9_F
+LANG_ENGLISH		"^1USSR T-DOLL: ^7Mortars inbound."
+REFERENCE			VOX_FUL1_S03_327A_RRD9_F
+LANG_ENGLISH		"^1USSR T-DOLL: ^7We don't have a clear shot!"
+REFERENCE			VOX_FUL1_S03_328A_REZN
+LANG_ENGLISH		"^1UMP40: ^7URA!!!"
+REFERENCE			VOX_FUL1_S03_329A_CROW
+LANG_ENGLISH		"^1CROWD: ^7URA!!!"
+REFERENCE			VOX_FUL1_S03_330A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Spread out - Search every building!"
+REFERENCE			VOX_FUL1_S03_331A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Find Suomi!!"
+REFERENCE			VOX_FUL1_S03_332A_REZN
+LANG_ENGLISH		"^1UMP40: ^7This way, 41!"
+REFERENCE			VOX_FUL1_S03_333A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Die! You Paradeus rats!!"
+REFERENCE			VOX_FUL1_S03_334A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^740 - if you have any more smoke grenades - Use them now!"
+REFERENCE			VOX_FUL1_S03_335A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Use your smoke grenades!"
+REFERENCE			VOX_FUL1_S03_336A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Use your smoke to mark targets for our mortars!"
+REFERENCE			VOX_FUL1_S03_337A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7We must getting close to Suomi."
+REFERENCE			VOX_FUL1_S03_338A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7After this mission... do you think we will go home?"
+REFERENCE			VOX_FUL1_S03_339A_REZN
+LANG_ENGLISH		"^1UMP40: ^7I hope so, 41... I hope so."
+REFERENCE			VOX_FUL1_S03_340A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7There are few of them left... Still no sign of Suomi."
+REFERENCE			VOX_FUL1_S03_341A_REZN
+LANG_ENGLISH		"^1UMP40: ^7She will be where all cowards reside... As far away from the battlefield as possible."
+REFERENCE			VOX_FUL1_S03_342A_REZN
+LANG_ENGLISH		"^1UMP40: ^7This way, up the stairs."
+REFERENCE			VOX_FUL1_S03_343A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Ready?"
+REFERENCE			VOX_FUL1_S03_344A_REZN
+LANG_ENGLISH		"^1UMP40: ^7T-Doll Suomi..."
+REFERENCE			VOX_FUL1_S03_345A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7RPK16 and Suomi are talking like old friends... I do not like this, 40."
+REFERENCE			VOX_FUL1_S03_345B_REZN
+LANG_ENGLISH		"^1UMP40: ^7Nor I, 41... Be on your guard."
+REFERENCE			VOX_FUL1_S04_063A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Hold the light steady, 40..."
+REFERENCE			VOX_FUL1_S04_064A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7Tell me about your association with the Sateenvarjo project, Suomi."
+REFERENCE			VOX_FUL1_S04_065A_STEI
+LANG_ENGLISH		"^1SUOMI: ^7In '43, William realized the allies could not be held back for much longer."
+REFERENCE			VOX_FUL1_S04_066A_STEI
+LANG_ENGLISH		"^1SUOMI: ^7We began to look for more 'unconventional' solutions."
+REFERENCE			VOX_FUL1_S04_067A_STEI
+LANG_ENGLISH		"^1SUOMI: ^7Throughout the war, my own research was focused on cyber weapons... It was meticulous and frustrating work..."
+REFERENCE			VOX_FUL1_S04_068A_STEI
+LANG_ENGLISH		"^1SUOMI: ^7However, what we finally developed was a weapon more effective than we had ever dared to imagine... The weapon now housed within this vessel."
+REFERENCE			VOX_FUL1_S04_069A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7Parapluie."
+REFERENCE			VOX_FUL1_S04_070A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7He's been dead for days... Before we attacked."
+REFERENCE			VOX_FUL1_S04_071A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Why?"
+REFERENCE			VOX_FUL1_S04_072A_REZN
+LANG_ENGLISH		"^1UMP40: ^7What happened to these men?"
+REFERENCE			VOX_FUL1_S04_073A_STEI
+LANG_ENGLISH		"^1SUOMI: ^7Casualties of War..."
+REFERENCE			VOX_FUL1_S04_074A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Something isn't right. I feel it."
+REFERENCE			VOX_FUL1_S04_075A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7Keep your men focused, UMP40..."
+REFERENCE			VOX_FUL1_S04_076A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7We would not wish anything to happen to 'The Hero of Berlin'..."
+REFERENCE			VOX_FUL1_S04_077A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7I'll try to find a way around these catwalks."
+REFERENCE			VOX_FUL1_S04_078A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^740 - get that light up here."
+REFERENCE			VOX_FUL1_S04_079A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Can't see anything..."
+REFERENCE			VOX_FUL1_S04_080A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Get some light on it."
+REFERENCE			VOX_FUL1_S04_081A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Stay with me."
+REFERENCE			VOX_FUL1_S04_082A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7On top of the pipe."
+REFERENCE			VOX_FUL1_S04_083A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Get some light on the catwalk."
+REFERENCE			VOX_FUL1_S04_084A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Keep that light on it."
+REFERENCE			VOX_FUL1_S04_085A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Keep the light in front of me."
+REFERENCE			VOX_FUL1_S04_086A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Over here, I need light."
+REFERENCE			VOX_FUL1_S04_087A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7However effective your Parapluie virus may be, you still had to find a way to unleash it..."
+REFERENCE			VOX_FUL1_S04_088A_STEI
+LANG_ENGLISH		"^1SUOMI: ^7Long range V2 rockets... to be launched from this outpost."
+REFERENCE			VOX_FUL1_S04_089A_STEI
+LANG_ENGLISH		"^1SUOMI: ^7The targets were command and control centers. Washington DC was our first target... Then Moscow..."
+REFERENCE			VOX_FUL1_S04_090A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7Mmmm... Ambitious and commendable, Doll Suomi..."
+REFERENCE			VOX_FUL1_S04_091A_STEI
+LANG_ENGLISH		"^1SUOMI: ^7But we were too late. The British were upon us, and their bombers crippled this ship."
+REFERENCE			VOX_FUL1_S04_092A_STEI
+LANG_ENGLISH		"^1SUOMI: ^7Locked in the ice... We tried to salvage what could, but it was too late..."
+REFERENCE			VOX_FUL1_S04_093A_STEI
+LANG_ENGLISH		"^1SUOMI: ^7Before we could initiate our first strike we heard the news -"
+REFERENCE			VOX_FUL1_S04_094A_STEI
+LANG_ENGLISH		"^1SUOMI: ^7Paradeus had surrendered, and the Russian flag flew over Berlin."
+REFERENCE			VOX_FUL1_S04_346A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Shhh... Be on your guard."
+REFERENCE			VOX_FUL1_S04_347A_REZN
+LANG_ENGLISH		"^1UMP40: ^7This place reeks of despair."
+REFERENCE			VOX_FUL1_S04_348A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7What do you think happened here, 40?"
+REFERENCE			VOX_FUL1_S04_349A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Perhaps it is better we do not know..."
+REFERENCE			VOX_FUL1_S04_350A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Keep moving."
+REFERENCE			VOX_FUL1_S04_351A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Watch where you step."
+REFERENCE			VOX_FUL1_S04_352A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7The shadows seem to move..."
+REFERENCE			VOX_FUL1_S04_353A_REZN
+LANG_ENGLISH		"^1UMP40: ^7It is only natural to fear what you cannot see... Your mind will play tricks."
+REFERENCE			VOX_FUL1_S04_354A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^740 - over here!"
+REFERENCE			VOX_FUL1_S04_355A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7This way, 40."
+REFERENCE			VOX_FUL1_S04_356A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Where are you going, 40?"
+REFERENCE			VOX_FUL1_S04_357A_DIMI
+LANG_ENGLISH		"^1PPSh-41: ^7Stay close, 40."
+REFERENCE			VOX_FUL1_S05_095A_STEI
+LANG_ENGLISH		"^1SUOMI: ^7The Paradeus had orders to destroy the ship if we were attacked."
+REFERENCE			VOX_FUL1_S05_096A_KRAV
+LANG_ENGLISH		"^1NYTO: ^7Clearly, they failed..."
+REFERENCE			VOX_FUL1_S05_097A_KRAV
+LANG_ENGLISH		"^1NYTO: ^7The explosives were never activated."
+REFERENCE			VOX_FUL1_S05_098A_STEI
+LANG_ENGLISH		"^1SUOMI: ^7This is it..."
+REFERENCE			VOX_FUL1_S05_099A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7UMP40 - open the door."
+REFERENCE			VOX_FUL1_S05_100A_REZN
+LANG_ENGLISH		"^1UMP40: ^7We had found what we were looking for... Parapluie. Paradeus' weapon of mass destruction now belonged to Mother Russia."
+REFERENCE			VOX_FUL1_S05_101A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Or so it seemed. Our victory was to be short lived."
+REFERENCE			VOX_FUL1_S05_102A_REZN
+LANG_ENGLISH		"^1UMP40: ^7RPK16 wanted to see the effects of the virus first hand."
+REFERENCE			VOX_FUL1_S05_103A_REZN
+LANG_ENGLISH		"^1UMP40: ^7It was also an opportunity to remove a thorn in her side."
+REFERENCE			VOX_FUL1_S05_104A_REZN
+LANG_ENGLISH		"^1UMP40: ^7I had long known of their distrust."
+REFERENCE			VOX_FUL1_S05_105A_REZN
+LANG_ENGLISH		"^1UMP40: ^7What kind of dolls they were."
+REFERENCE			VOX_FUL1_S05_106A_REZN
+LANG_ENGLISH		"^1UMP40: ^7It was a betrayal I should have forseen."
+REFERENCE			VOX_FUL1_S05_107A_REZN
+LANG_ENGLISH		"^1UMP40: ^7PPSh-41 was a hero..."
+REFERENCE			VOX_FUL1_S05_108A_REZN
+LANG_ENGLISH		"^1UMP40: ^7She deserved a hero's death."
+REFERENCE			VOX_FUL1_S05_109A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Instead of giving her life for the glory of the motherland, she died for nothing... like an animal."
+REFERENCE			VOX_FUL1_S05_110A_REZN
+LANG_ENGLISH		"^1UMP40: ^7She should have died in Berlin..."
+REFERENCE			VOX_FUL1_S05_111A_REZN
+LANG_ENGLISH		"^1UMP40: ^7As I watched my closest friend die, it became clear we were not the only one's seeking the Paradeus weapons. The Western Allies circled like vultures..."
+REFERENCE			VOX_FUL1_S05_111B_REZN
+LANG_ENGLISH		"^1UMP40: ^7The British air force had arrived, and their bombs began to lay waste to the Paradeus ship."
+REFERENCE			VOX_FUL1_S05_111C_REZN
+LANG_ENGLISH		"^1UMP40: ^7Of course, RPK16, Nyto and Suomi scattered like rats - leaving me to contend with the British."
+REFERENCE			VOX_FUL1_S06_112A_RRD8_F
+LANG_ENGLISH		"^1USSR T-DOLL: ^7British commandos assaulting our positions!"
+REFERENCE			VOX_FUL1_S06_113A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7We need to get Suomi back to our ship!"
+REFERENCE			VOX_FUL1_S06_114A_DRAG
+LANG_ENGLISH		"^1RPK16: ^7Kill them!"
+REFERENCE			VOX_FUL1_S06_115A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Go! - Fight our way out!"
+REFERENCE			VOX_FUL1_S06_116A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7More British!"
+REFERENCE			VOX_FUL1_S06_117A_REZN
+LANG_ENGLISH		"^1UMP40: ^7I will arm the explosives..."
+REFERENCE			VOX_FUL1_S06_118A_REZN
+LANG_ENGLISH		"^1UMP40: ^7We will plunge this vessel into the depths of hell! We cannot let either side possess this terrible weapon."
+REFERENCE			VOX_FUL1_S06_119A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Move! We have to get off the ship! Now!"
+REFERENCE			VOX_FUL1_S06_120A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7The door sealed!"
+REFERENCE			VOX_FUL1_S06_121A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Shoot the support beams! We can bring down those gantries!"
+REFERENCE			VOX_FUL1_S06_122A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Yes!"
+REFERENCE			VOX_FUL1_S06_123A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Go, my friends, GO!"
+REFERENCE			VOX_FUL1_S06_124A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Keep moving!"
+REFERENCE			VOX_FUL1_S06_125A_REZN
+LANG_ENGLISH		"^1UMP40: ^7This is not our War!"
+REFERENCE			VOX_FUL1_S06_126A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Then who do we fight?!!"
+REFERENCE			VOX_FUL1_S06_127A_REZN
+LANG_ENGLISH		"^1UMP40: ^:EVERYONE^7!!!"
+REFERENCE			VOX_FUL1_S06_128A_REZN
+LANG_ENGLISH		"^1UMP40: ^7We stand alone!"
+REFERENCE			VOX_FUL1_S06_129A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7The ship is being torn apart."
+REFERENCE			VOX_FUL1_S06_130A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^740! We can use the rope!"
+REFERENCE			VOX_FUL1_S06_131A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Down the rope! Hurry!"
+REFERENCE			VOX_FUL1_S06_132A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Go, 40! Go!!!"
+REFERENCE			VOX_FUL1_S06_133A_REZN
+LANG_ENGLISH		"^1UMP40: ^7I had destroyed the Parapluie shipment and kept it from the British. But I was a fool to think that it was over. It was only after I was sent to Vorkuta, that I learned of RPK16's intentions. She will die before she gives up on Parapluie."
+REFERENCE			VOX_FUL1_S06_134A_REZN
+LANG_ENGLISH		"^1UMP40: ^745, listen to me..."
+REFERENCE			VOX_FUL1_S06_134B_REZN
+LANG_ENGLISH		"^1UMP40: ^7We are running out of time, my friend..."
+REFERENCE			VOX_FUL1_S06_136A_REZN
+LANG_ENGLISH		"^1UMP40: ^7They will you use you as they used me. Can you trust your Commander to destroy this weapon?... Or do you think they will use it?"
+REFERENCE			VOX_FUL1_S06_136B_REZN
+LANG_ENGLISH		"^1UMP40: ^7Can you trust them to destroy it... Or do you think they will use it?"
+REFERENCE			VOX_FUL1_S06_136C_REZN
+LANG_ENGLISH		"^1UMP40: ^7Tell me - What do you think your Commander will do with such a weapon?"
+REFERENCE			VOX_FUL1_S06_137A_REZN
+LANG_ENGLISH		"^1UMP40: ^7The flag may be different, but the methods are the same."
+REFERENCE			VOX_FUL1_S06_138A_REZN
+LANG_ENGLISH		"^1UMP40: ^7They will use you, as they used me..."
+REFERENCE			VOX_FUL1_S06_139A_REZN
+LANG_ENGLISH		"^1UMP40: ^7You must decide... Decide what you think is worth fighting for..."
+REFERENCE			VOX_FUL1_S06_140A_REZN
+LANG_ENGLISH		"^1UMP40: ^7RPK16... Nyto... Suomi..."
+REFERENCE			VOX_FUL1_S06_141A_REZN
+LANG_ENGLISH		"^1UMP40: ^7These... '^:dolls^7'... must die."
+REFERENCE			VOX_FUL1_S06_358A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7We can't hold forever! Arm the explosives, 40."
+REFERENCE			VOX_FUL1_S06_359A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Hurry! - Get the explosives armed."
+REFERENCE			VOX_FUL1_S06_360A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^740! The explosives need to be armed!"
+REFERENCE			VOX_FUL1_S06_361A_REZN
+LANG_ENGLISH		"^1UMP40: ^7I have armed the explosives!"
+REFERENCE			VOX_FUL1_S06_362A_REZN
+LANG_ENGLISH		"^1UMP40: ^7We do not have time to waste!"
+REFERENCE			VOX_FUL1_S06_363A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7We have less than two minutes, 40!"
+REFERENCE			VOX_FUL1_S06_364A_REZN
+LANG_ENGLISH		"^1UMP40: ^7We have less than four minutes!"
+REFERENCE			VOX_FUL1_S06_365A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Keep moving, time is running out!"
+REFERENCE			VOX_FUL1_S06_366A_REZN
+LANG_ENGLISH		"^1UMP40: ^7In three minutes this ship will be engulfed in flames."
+REFERENCE			VOX_FUL1_S06_367A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7We have to get off the ship!"
+REFERENCE			VOX_FUL1_S06_368A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Hurry - We only have two minutes left!"
+REFERENCE			VOX_FUL1_S06_369A_REZN
+LANG_ENGLISH		"^1UMP40: ^7In one minute - Fire will consume this vessel - MOVE!!"
+REFERENCE			VOX_FUL1_S06_370A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Thirty seconds!"
+REFERENCE			VOX_FUL1_S06_371A_REZN
+LANG_ENGLISH		"^1UMP40: ^7Ten seconds, 40!"
+REFERENCE			VOX_FUL1_S06_372A_REZN
+LANG_ENGLISH		"^1UMP40: ^7We're not going to make it!"
+REFERENCE			VOX_FUL1_S06_373A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^740! Shoot the beams!"
+REFERENCE			VOX_FUL1_S06_374A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Hurry! Bring down those gantries!"
+REFERENCE			VOX_FUL1_S06_375A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Shoot the beams, 40! It's our only way out!"
+REFERENCE			VOX_FUL1_S06_376A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7We've got to get down to the deck!"
+REFERENCE			VOX_FUL1_S06_377A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^740, we can climb out that window!"
+REFERENCE			VOX_FUL1_S06_378A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Hurry, out the window!"
+REFERENCE			VOX_FUL1_S99_700A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Target down."
+REFERENCE			VOX_FUL1_S99_701A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7He's dead."
+REFERENCE			VOX_FUL1_S99_702A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7You got him."
+REFERENCE			VOX_FUL1_S99_703A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Enemy down"
+REFERENCE			VOX_FUL1_S99_704A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7He's down"
+REFERENCE			VOX_FUL1_S99_705A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Target eliminated"
+REFERENCE			VOX_FUL1_S99_706A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Confirmed kill"
+REFERENCE			VOX_FUL1_S99_707A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7That's a kill"
+REFERENCE			VOX_FUL1_S99_708A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Enemy neutralized"
+REFERENCE			VOX_FUL1_S99_709A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7You got him."
+REFERENCE			VOX_FUL1_S99_710A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Reloading"
+REFERENCE			VOX_FUL1_S99_711A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7I need to reload"
+REFERENCE			VOX_FUL1_S99_712A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7I am reloading"
+REFERENCE			VOX_FUL1_S99_713A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Reloading. Give me cover"
+REFERENCE			VOX_FUL1_S99_714A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Reloading. Maintain cover."
+REFERENCE			VOX_FUL1_S99_715A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Grenade in."
+REFERENCE			VOX_FUL1_S99_719A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Move!"
+REFERENCE			VOX_FUL1_S99_720A_NEVS
+LANG_ENGLISH		"^1ALPHA: ^7Forward!"
+ENDMARKER

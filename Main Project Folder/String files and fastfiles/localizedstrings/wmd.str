@@ -1,0 +1,349 @@
+REFERENCE			INTRO_DATE
+LANG_ENGLISH		"^L1700 hours,^L ^C1February 18, 1968^C"
+REFERENCE			INTRO_EXTRA
+LANG_ENGLISH		"^LSite suspected of being Project Parapluie development center.^L"
+REFERENCE			INTRO_LEVELNAME
+LANG_ENGLISH		"^Transmission # 13-4-17-23-23.  Designate:  PAPA^L"
+REFERENCE			INTRO_LOCATION
+LANG_ENGLISH		"^LKCCO base is in^L ^C1Yamantau, USSR.^L"
+REFERENCE			INTRO_NAME
+LANG_ENGLISH		"^C1M16A1^C ^Land AK-12 to lead team for S&D mission into the valley.^L"
+REFERENCE			AVALANCHE
+LANG_ENGLISH		"Truck Avalanche"
+REFERENCE			AVALANCHE_TRUCK
+LANG_ENGLISH		"Press ^3[{+activate}]^7 to Get on Truck"
+REFERENCE			BASE
+LANG_ENGLISH		"Yamantau Base"
+REFERENCE			DOOR_BREACH1
+LANG_ENGLISH		"Breach"
+REFERENCE			EXPLOSIVE_TIP_HINT
+LANG_ENGLISH		"Press ^3[{+actionslot 3}]^7 to Arm Explosive Tip Arrows"
+REFERENCE			FREEFALL
+LANG_ENGLISH		"Use + to Control Freefall"
+REFERENCE			HOOKUP
+LANG_ENGLISH		"Hook up"
+REFERENCE			LEDGE
+LANG_ENGLISH		"Comm Ledge"
+REFERENCE			LEDGE_FAIL
+LANG_ENGLISH		"You failed to stay with your team."
+REFERENCE			OBJ_ESCAPE
+LANG_ENGLISH		"Escape Yamantau facility"
+REFERENCE			OBJ_FOLLOW
+LANG_ENGLISH		"Follow"
+REFERENCE			OBJ_HOOKUP
+LANG_ENGLISH		"Hook up"
+REFERENCE			OBJ_INFILTRATE
+LANG_ENGLISH		"Infiltrate the Parapluie facility"
+REFERENCE			OBJ_INSERTION
+LANG_ENGLISH		"Regroup at insertion point"
+REFERENCE			OBJ_JUMP_POINT
+LANG_ENGLISH		"Proceed to jump point"
+REFERENCE			OBJ_PERSONNEL_A
+LANG_ENGLISH		"Neutralize security personnel in the area."
+REFERENCE			OBJ_PERSONNEL_B
+LANG_ENGLISH		"Neutralize the comstat personnel"
+REFERENCE			OBJ_RADAR
+LANG_ENGLISH		"Disable the comstat"
+REFERENCE			OBJ_STEINER
+LANG_ENGLISH		"Locate Suomi's Office."
+REFERENCE			OBJ_SUBSTATION
+LANG_ENGLISH		"Rappel to substation"
+REFERENCE			OBJ_TRUCK
+LANG_ENGLISH		"Escape on the truck."
+REFERENCE			PULL_CHUTE
+LANG_ENGLISH		"Press ^3[{+activate}]^7 to deploy parachute"
+REFERENCE			RAPPEL
+LANG_ENGLISH		"Rappel"
+REFERENCE			RAPPEL_LT
+LANG_ENGLISH		"Press ^3[{+speed_throw}]^7 to rappel"
+REFERENCE			RAPPEL_RT
+LANG_ENGLISH		"Hold ^3[{+attack}]^7 to brake"
+REFERENCE			REVEAL
+LANG_ENGLISH		"Push forward on + to get up"
+REFERENCE			SHOOT_HINGES
+LANG_ENGLISH		"Shoot the hinges on the door"
+REFERENCE			SNOW_AMBUSH
+LANG_ENGLISH		"Snow Ambush"
+REFERENCE			SPRINT_HINT
+LANG_ENGLISH		"Press ^3[{+breath_sprint}]^7 to sprint"
+REFERENCE			START_BASEJUMP
+LANG_ENGLISH		"Basejump"
+REFERENCE			START_BREACH
+LANG_ENGLISH		"Knife Throw"
+REFERENCE			START_COMSTATION
+LANG_ENGLISH		"Assault the relay station"
+REFERENCE			STEINER
+LANG_ENGLISH		"Locate Suomi's Office."
+REFERENCE			SUPPORT
+LANG_ENGLISH		"Support"
+REFERENCE			TIMER_FAIL
+LANG_ENGLISH		"You failed to escape in time."
+REFERENCE			USE_DESTROY_DISH
+LANG_ENGLISH		"Hold ^3[{+activate}]^7 to disable radar dish"
+REFERENCE			USE_HOOKUP
+LANG_ENGLISH		"Hold ^3[{+activate}]^7 to hook up"
+REFERENCE			VOX_WMD1_S01_137A_USC2_F
+LANG_ENGLISH		"^1KALINA: ^7Stay low... Here they come..."
+REFERENCE			VOX_WMD1_S01_138A_USC2_F
+LANG_ENGLISH		"^1KALINA: ^7Hold... Hold..."
+REFERENCE			VOX_WMD1_S01_139A_USC2_F
+LANG_ENGLISH		"^1KALINA: ^7Clear. More soldiers are on their way. Get to that guard house. GO!"
+REFERENCE			VOX_WMD1_S01_140A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7HALT!"
+REFERENCE			VOX_WMD1_S01_141A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Don't move..."
+REFERENCE			VOX_WMD1_S01_143A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Clear."
+REFERENCE			VOX_WMD1_S01_144A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7BigEye this is Anti Rain. You still have us on Tac?"
+REFERENCE			VOX_WMD1_S01_145A_USC2_F
+LANG_ENGLISH		"^1KALINA: ^7Affirmative Anti Rain."
+REFERENCE			VOX_WMD1_S01_146A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Visibility has improved. We're starting our insertion. Moving to the substation."
+REFERENCE			VOX_WMD1_S01_147A_USC2_F
+LANG_ENGLISH		"^1KALINA: ^7Tracking... Bigeye sees four combatants entering the structure, over."
+REFERENCE			VOX_WMD1_S01_148A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Roger that BigEye, we're going in."
+REFERENCE			VOX_WMD1_S01_149A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7The power relay is just below us. 4 targets."
+REFERENCE			VOX_WMD1_S01_150A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7Then let's go."
+REFERENCE			VOX_WMD1_S01_151A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Ready?"
+REFERENCE			VOX_WMD1_S01_152A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7Ready when you are..."
+REFERENCE			VOX_WMD1_S01_155A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7BigEye, this is Anti Rain. We have taken the substation."
+REFERENCE			VOX_WMD1_S01_157A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Anti Rain approaching the objective."
+REFERENCE			VOX_WMD1_S01_158A_USC2_F
+LANG_ENGLISH		"^1KALINA: ^7Roger."
+REFERENCE			VOX_WMD1_S01_159A_USC2_F
+LANG_ENGLISH		"^1KALINA: ^7Anti Rain, you have multiple targets at the Comstat. Take the storage shed on the South side then head to the power room entrance to the North."
+REFERENCE			VOX_WMD1_S01_160A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Roger that."
+REFERENCE			VOX_WMD1_S01_164A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Pick one."
+REFERENCE			VOX_WMD1_S01_184A_USC1_F
+LANG_ENGLISH		"^1ANGELIA: ^7AR, two targets just entered the power room."
+REFERENCE			VOX_WMD1_S01_185A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Roger that BigEye."
+REFERENCE			VOX_WMD1_S01_186A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Alpha, Delta, control room. Wait for our breach."
+REFERENCE			VOX_WMD1_S01_191A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Clear."
+REFERENCE			VOX_WMD1_S01_192A_USC2_F
+LANG_ENGLISH		"^1KALINA: ^7Good job Anti Rain. You have control of the perimeter."
+REFERENCE			VOX_WMD1_S01_193A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7BigEye, Anti Rain are at the Comstat."
+REFERENCE			VOX_WMD1_S01_194A_USC1_F
+LANG_ENGLISH		"^1ANGELIA: ^7Copy that. Your team is in position at the window?"
+REFERENCE			VOX_WMD1_S01_195A_BROO_F
+LANG_ENGLISH		"^1DELTA: ^7We're in position."
+REFERENCE			VOX_WMD1_S01_197A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7We're clear. M16, shut down the relay dish."
+REFERENCE			VOX_WMD1_S01_198A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7M16! You need to find the relay switch!"
+REFERENCE			VOX_WMD1_S01_199A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Come on M16, we need to get moving!"
+REFERENCE			VOX_WMD1_S01_200A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7BigEye this is Anti Rain. Confirm that the relay is offline, over?"
+REFERENCE			VOX_WMD1_S01_204A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7It won't take them long to figure out we're here. Let's move."
+REFERENCE			VOX_WMD1_S01_206A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7M16! Run! RUN!"
+REFERENCE			VOX_WMD1_S01_216A_USC2_F
+LANG_ENGLISH		"^1KALINA: ^7Leaving recon."
+REFERENCE			VOX_WMD1_S01_219A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Roger that BigEye. Thanks for the help. Stay safe."
+REFERENCE			VOX_WMD1_S01_220A_USC1_F
+LANG_ENGLISH		"^1ANGELIA: ^7Affirmative. BigEye out."
+REFERENCE			VOX_WMD1_S01_222A_BROO_M
+LANG_ENGLISH		"^1DELTA: ^7See you at the bottom."
+REFERENCE			VOX_WMD1_S01_306A_BROO
+LANG_ENGLISH		"^1DELTA: ^7M16, we need to keep this stealthy. Use your crossbow. If we get heat, switch to explosives."
+REFERENCE			VOX_WMD1_S01_307A_USC1_F
+LANG_ENGLISH		"^1ANGELIA: ^7Anti Rain you have multiple targets inbound to the comstat!"
+REFERENCE			VOX_WMD1_S01_308A_BROO
+LANG_ENGLISH		"^1DELTA: ^7M16! Get off the ledge!"
+REFERENCE			VOX_WMD1_S01_427A_USC2_F
+LANG_ENGLISH		"^1KALINA: ^7Understood.  Re-calibrating Focal spread. Okay - We have Comstat on Tac. Proceed to next objective."
+REFERENCE			VOX_WMD1_S01_428A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Main facility is located at the base of the ridge."
+REFERENCE			VOX_WMD1_S01_429A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7If we're gonna find evidence that Parapluie has been weaponized, it'll be there."
+REFERENCE			VOX_WMD1_S01_430A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Once we knock out the external comms, they'll realize something's wrong."
+REFERENCE			VOX_WMD1_S01_431A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7We'll need to move fast - before they can destroy any intel."
+REFERENCE			VOX_WMD1_S01_432A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7So Stay sharp."
+REFERENCE			VOX_WMD1_S01_433A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7One target patrolling outside the shed - two more inside"
+REFERENCE			VOX_WMD1_S01_434A_BROO
+LANG_ENGLISH		"^1DELTA: ^7Two more by the truck on our right..."
+REFERENCE			VOX_WMD1_S01_435A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7One more on the right Gantry,"
+REFERENCE			VOX_WMD1_S01_436A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Okay... Move in."
+REFERENCE			VOX_WMD1_S01_437A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7SHIT! They've triggered the alarm!"
+REFERENCE			VOX_WMD1_S01_437A_WEAV_S
+LANG_ENGLISH		"^1AK-12: ^7They've triggered the alarm!"
+REFERENCE			VOX_WMD1_S01_438A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Weapons free!!"
+REFERENCE			VOX_WMD1_S01_439A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7More infrantry inbound!"
+REFERENCE			VOX_WMD1_S01_440A_BROO
+LANG_ENGLISH		"^1DELTA: ^7M16! switch to your explosive bolts!"
+REFERENCE			VOX_WMD1_S01_441A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Do it! Go! Go! Go!"
+REFERENCE			VOX_WMD1_S01_442A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Shoot the hinges..."
+REFERENCE			VOX_WMD1_S01_443A_USC2_F
+LANG_ENGLISH		"^1KALINA: ^7Be advised - We have about three minutes left before we need to refuel with KC-135"
+REFERENCE			VOX_WMD1_S01_444A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Understood."
+REFERENCE			VOX_WMD1_S01_445A_USC2_F
+LANG_ENGLISH		"^1KALINA: ^7Affirmative Anti Rain. All outbound  communications are have ceased."
+REFERENCE			VOX_WMD1_S01_446A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Anti Rain - Moving to the Primary Target."
+REFERENCE			VOX_WMD1_S01_447A_USC1_F
+LANG_ENGLISH		"^1ANGELIA: ^7Okay Ladies, we're running on fumes now... this is where we bow out."
+REFERENCE			VOX_WMD1_S01_448A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7RPG on the ridge!"
+REFERENCE			VOX_WMD1_S01_449A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Avalanche!!!!"
+REFERENCE			VOX_WMD1_S01_450A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7We lost Omega!"
+REFERENCE			VOX_WMD1_S01_451A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Go!  Go!  Go!"
+REFERENCE			VOX_WMD1_S01_453A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7I'll follow. Pick the LZ carefully M16."
+REFERENCE			VOX_WMD1_S01_900A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7M16A1 led the attack on Yamantau."
+REFERENCE			VOX_WMD1_S01_901A_MASO
+LANG_ENGLISH		"^1UMP45: ^7Yeah. 20 degrees below zero. Fucking ice cube was in her element."
+REFERENCE			VOX_WMD1_S01_901A_MASO_S
+LANG_ENGLISH		"^1UMP45: ^7Yeah. 20 degrees below zero. Damn ice cube was in her element."
+REFERENCE			VOX_WMD1_S01_902A_INTE
+LANG_ENGLISH		"^1INTERROGATOR: ^7The avalanche buried the entire base, but M16A1 and AK-12 made it out alive. It was almost all over 45."
+REFERENCE			VOX_WMD1_S02_454A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Shit... They've already started clearing house - Move!"
+REFERENCE			VOX_WMD1_S02_454A_HUDS_S
+LANG_ENGLISH		"^1M16A1: ^7They've already started clearing house - Move!"
+REFERENCE			VOX_WMD1_S02_460A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Got an MG in the tower!"
+REFERENCE			VOX_WMD1_S02_461A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Into the building!"
+REFERENCE			VOX_WMD1_S02_462A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Here!"
+REFERENCE			VOX_WMD1_S02_463A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7M16... Do you see these wires?"
+REFERENCE			VOX_WMD1_S02_464A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Yeah... Running all through the facility..."
+REFERENCE			VOX_WMD1_S02_465A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7They've got the place rigged to blow..."
+REFERENCE			VOX_WMD1_S02_466A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Make it fast people... We don't have much time!"
+REFERENCE			VOX_WMD1_S02_467A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7Suomi's not here."
+REFERENCE			VOX_WMD1_S02_469A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7It's locking down!"
+REFERENCE			VOX_WMD1_S02_469B_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7The doors are locking down!"
+REFERENCE			VOX_WMD1_S02_470A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7What is that?!"
+REFERENCE			VOX_WMD1_S02_471A_STEI_F_M
+LANG_ENGLISH		"^1SUOMI: ^7This is T-Doll Suomi."
+REFERENCE			VOX_WMD1_S02_472A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7She's jamming our radios... She knew we'd be here."
+REFERENCE			VOX_WMD1_S02_473A_STEI_F_M
+LANG_ENGLISH		"^1SUOMI: ^7RPK16 is burying everything and everyone connected to project Parapluie."
+REFERENCE			VOX_WMD1_S02_474A_STEI_F_M
+LANG_ENGLISH		"^1SUOMI: ^7I am sure I will be next."
+REFERENCE			VOX_WMD1_S02_475A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7What do you want?"
+REFERENCE			VOX_WMD1_S02_476A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7Targets marked across the states..."
+REFERENCE			VOX_WMD1_S02_477A_STEI_F_M
+LANG_ENGLISH		"^1SUOMI: ^7All across Griffin, RPK16 has sleeper cells waiting for the signal to release the Parapluie."
+REFERENCE			VOX_WMD1_S02_478A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7Weaponized Parapluie."
+REFERENCE			VOX_WMD1_S02_479A_HUDS_M
+LANG_ENGLISH		"^1M16A1: ^7The numbers broadcasts - What do they mean?"
+REFERENCE			VOX_WMD1_S02_480A_STEI_F_M
+LANG_ENGLISH		"^1SUOMI: ^7In 36 hours, the sleeper agents will receive their final orders.  Only I can tell you how to stop the broadcast."
+REFERENCE			VOX_WMD1_S02_482A_STEI_F_M
+LANG_ENGLISH		"^1SUOMI: ^7I am at Rebirth Island - the Aral Sea... The choice is yours."
+REFERENCE			VOX_WMD1_S02_483A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7We need to leave - Now!"
+REFERENCE			VOX_WMD1_S02_484A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Move! This place is ready to blow!"
+REFERENCE			VOX_WMD1_S02_485A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7We don't know how long we have!"
+REFERENCE			VOX_WMD1_S02_486A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Move it! Go!"
+REFERENCE			VOX_WMD1_S02_487A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7We don't have time to wait around!"
+REFERENCE			VOX_WMD1_S02_487A_WEAV_S
+LANG_ENGLISH		"^1AK-12: ^7We don't have time to screw around!"
+REFERENCE			VOX_WMD1_S02_488A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Get to that truck!"
+REFERENCE			VOX_WMD1_S02_489A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7AK-12 - Drive!... I'll get on the MG!"
+REFERENCE			VOX_WMD1_S02_490A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Get us out of here!!!"
+REFERENCE			VOX_WMD1_S02_491A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7I have to hotwire it!"
+REFERENCE			VOX_WMD1_S02_492A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Make it fast - they're all over us!"
+REFERENCE			VOX_WMD1_S02_493A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7I need a minute!"
+REFERENCE			VOX_WMD1_S02_494A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7We don't have a minute!!"
+REFERENCE			VOX_WMD1_S02_495A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Come on - Stupid piece of shit truck!"
+REFERENCE			VOX_WMD1_S02_495A_WEAV_S
+LANG_ENGLISH		"^1AK-12: ^7Come on - Stupid piece of garbage truck!"
+REFERENCE			VOX_WMD1_S02_496A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7What are we waiting for, AK-12?!!!"
+REFERENCE			VOX_WMD1_S02_497A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7Nearly there..."
+REFERENCE			VOX_WMD1_S02_498A_WEAV
+LANG_ENGLISH		"^1AK-12: ^7GOT IT!!"
+REFERENCE			VOX_WMD1_S02_499A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Hit it! Go! GO!"
+REFERENCE			VOX_WMD1_S02_500A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7The whole fucking mountain's coming down!!!"
+REFERENCE			VOX_WMD1_S02_500A_HUDS_S
+LANG_ENGLISH		"^1M16A1: ^7The whole mountain's coming down!!!"
+REFERENCE			VOX_WMD1_S02_501A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Go!! GO!!!!"
+REFERENCE			VOX_WMD1_S02_502A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7FASTER!!!"
+REFERENCE			VOX_WMD1_S02_506A_WEAV_M
+LANG_ENGLISH		"^1AK-12: ^7We're on camera. She's watching us."
+REFERENCE			VOX_WMD1_S99_802A_USC1
+LANG_ENGLISH		"^1ANGELIA: ^7Kalina - You're sending them the wrong way."
+REFERENCE			VOX_WMD1_S99_803A_USC1
+LANG_ENGLISH		"^1ANGELIA: ^7The target's the other way."
+REFERENCE			VOX_WMD1_S99_804A_USC1
+LANG_ENGLISH		"^1ANGELIA: ^7This doesn't look right, Kalina."
+REFERENCE			VOX_WMD1_S99_805A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Roger."
+REFERENCE			VOX_WMD1_S99_806A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Roger, on the move."
+REFERENCE			VOX_WMD1_S99_807A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7Moving."
+REFERENCE			VOX_WMD1_S99_808A_HUDS
+LANG_ENGLISH		"^1M16A1: ^7知道了。"
+REFERENCE			VOX_WMD1_S99_809A_BROO
+LANG_ENGLISH		"^1DELTA: ^7Clear."
+REFERENCE			VOX_WMD1_S99_810A_BROO
+LANG_ENGLISH		"^1DELTA: ^7We're clear."
+REFERENCE			VOX_WMD1_S99_811A_BROO
+LANG_ENGLISH		"^1DELTA: ^7M16 - Plant the charges."
+REFERENCE			VOX_WMD1_S99_812A_BROO
+LANG_ENGLISH		"^1DELTA: ^7Let's move."
+ENDMARKER

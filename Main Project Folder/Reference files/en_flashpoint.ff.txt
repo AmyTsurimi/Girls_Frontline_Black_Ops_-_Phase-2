@@ -1,0 +1,1656 @@
+|<Hold ^3[{+activate}]^7 to plant explosives>|
+
+|<^C1Baikonur, U.S.S.R.^C^L: Intel confirms RPK16 and Bureau group on site.^L>|
+
+|<^L0700 hrs^L^C1 November 17, 1963^C>|
+
+|<Plant C4>|
+
+|<Stop enemy scientists>|
+
+|<Breach Control Room>|
+
+|<Infiltrate Baikonur Cosmodrome>|
+
+|<Follow HK416>|
+
+|<Save AK-12>|
+
+|<Use the binoculars>|
+
+|<Get to cover>|
+
+|<Press ^3[{+activate}]^7 to use Karambit>|
+
+|<Jump over the pipe>|
+
+|<Carry the guard>|
+
+|<Hide the body>|
+
+|<Wait for HK416>|
+
+|<Use your disguise>|
+
+|<Wait for squad>|
+
+|<Meet up with squad>|
+
+|<Kill the dogs>|
+
+|<Stay low - follow HK416>|
+
+|<Stealth kill soldier>|
+
+|<Act casual - follow HK416>|
+
+|<Enter the comms building>|
+
+|<Clear Com building>|
+
+|<Raise your weapon - stay close to your squad>|
+
+|<Stop the Rocket Launch>|
+
+|<Escape the Base>|
+
+|<Stay in Stealth>|
+
+|<Obtain a Disguise>|
+
+|<Meet up with your Squad>|
+
+|<Get to the Communications Building>|
+
+|<Rescue AK-12>|
+
+|<Get to the Rocket Control Room>|
+
+|<Destroy Soyuz 2>|
+
+|<Use the disguise - stay close to your squad>|
+
+|<Use ladder to reach roof>|
+
+|<Clear Roof>|
+
+|<Clear Rooms>|
+
+|<Go to HK416>|
+
+|<Clear AK-12 Room>|
+
+|<Fire Crossbow at Target>|
+
+|<Fire missile at the rocket>|
+
+|<Kill the scientists>|
+
+|<Escape through the tunnels>|
+
+|<Grab the Rocket Launcher>|
+
+|<Deploy zipline>|
+
+|<Take the crossbow from HK416>|
+
+|<Run to Pipe>|
+
+|<In Disguise>|
+
+|<Walking rail>|
+
+|<Door kick>|
+
+|<Zipline>|
+
+|<Hide over wall>|
+
+|<C4 bunker breach>|
+
+|<Tunnels>|
+
+|<Garage>|
+
+|<BTR drive>|
+
+|<^C1UMP45^C^L, HK416 and UMP9 have orders to eliminate all threats by any means necessary.^L>|
+
+|<Exit the gas rooms>|
+
+|<Enter window>|
+
+|<Enter door>|
+
+|<CATCH>|
+
+|<RAM>|
+
+|<Get to the tunnels>|
+
+|<Assassinate Head Scientist>|
+
+|<Obtain escape vehicle>|
+
+|<You were detected and compromised the mission.>|
+
+|<Take out the Helicopter>|
+
+|<^LPresidential Order# 8-5. Designate: ZULU^L>|
+
+|<Press ^3[{+actionslot 3}]^7 to switch to explosive bolts>|
+
+|<Press ^3[{+actionslot 3}]^7 to use to Dragon's Breath shells>|
+
+|<Hold ^3[{+speed_throw}]^7 to aim guided missile at rocket>|
+
+|<Use  to guide the missile in flight>|
+
+|<Press ^3[{+melee}]^7 to Stealth takedown an enemy from behind>|
+
+|<Kill the Head Scientist>|
+
+|<Catch the Limo - take the passenger alive>|
+
+|<Find and kill RPK16>|
+
+|<Capture>|
+
+|<The target got away!>|
+
+|<Limo Destroyed!>|
+
+|<Protect UMP9 and Delta>|
+
+|<Use ^3[{+melee}]^7 to steer BTR>|
+
+|<Use ^3[{+breath_sprint}]^7 to drive forwards/backwards>|
+
+|<Press ^3[{+attack}]^7 to detonate>|
+
+|<Press ^3[{+attack}]^7 to Fire>|
+
+|<You failed to stay with your team.>|
+
+|<Your actions caused your team to be killed.>|
+
+|<Follow>|
+
+|<Take>|
+
+|<UMP9 and Delta were killed.>|
+
+|<You failed to stop the launch.>|
+
+|<Don't damage the rocket.>|
+
+|<Abort the launch at the auxillary control bunker>|
+
+|<Protect>|
+
+|<^1INTERROGATOR: ^7Was saving AK-12 more important to you 
+than your objective to kill RPK16?>|
+
+|<^1UMP45: ^7AK-12 was USSR. But she was alright.>|
+
+|<^1INTERROGATOR: ^7You saved her life. Now you had to locate 
+the Bureau Group and kill the scientists.>|
+
+|<^1UMP45: ^7No...I had to kill...RPK16.>|
+
+|<^1HK416: ^7We've been made, lose the balaclavas.>|
+
+|<^1UMP45: ^7We searched the whole base. We couldn't find the bastard anywhere.>|
+
+|<^1UMP45: ^7We stole a BTR and we were getting the fuck out.>|
+
+|<^1UMP45: ^7We stole a BTR and we were getting out.>|
+
+|<^1UMP45: ^7But then we ran into RPK16's limo. I had her.>|
+
+|<^1UMP45: ^7We searched the whole base. We couldn't find the bastard anywhere. But then we ran into RPK16's limo. I had her.>|
+
+|<^1UMP45: ^7Nyto escaped before we could get to her.>|
+
+|<^1INTERROGATOR: ^7We're losing her again.>|
+
+|<^1INTERROGATOR: ^7Stay with me 45.>|
+
+|<^1INTERROGATOR: ^7You were getting close. RPK16 was there, wasn't she?>|
+
+|<^1INTERROGATOR: ^7This is a waste of time. She's delusional.>|
+
+|<^1INTERROGATOR: ^7RPK16. Did. You. Confirm. The kill.>|
+
+|<^1HK416: ^7Yankee one three... Do you copy?>|
+
+|<^1HK416: ^7This is G-11 two niner. Do you monitor, over?>|
+
+|<^1HK416: ^7No response from AK-12... We gotta move.>|
+
+|<^1HK416: ^7Stay sharp, 45.>|
+
+|<^1HK416: ^7Somethin' ain't right...>|
+
+|<^1HK416: ^7There should not be patrols this far out.>|
+
+|<^1HK416: ^7Yankee one three - Do you copy?>|
+
+|<^1HK416: ^7Shit.>|
+
+|<^1HK416: ^7Let's go. Pick it up.>|
+
+|<^1HK416: ^7Reina come back.>|
+
+|<^1UMP9: ^7Go G-11.>|
+
+|<^1HK416: ^7Soyuz One launch is imminent. We're on our way, over.>|
+
+|<^1UMP9: ^7Roger>|
+
+|<^1HK416: ^7We're runnin' out of time, 45. Let's go.>|
+
+|<^1HK416: ^7Let's see what these rat bastards are up to.>|
+
+|<^1HK416: ^7No, no, no, somethin's wrong. There's way too much activity.>|
+
+|<^1HK416: ^7Yankee one three - report.>|
+
+|<^1HK416: ^7Yankee - one - three - report!>|
+
+|<^1HK416: ^7AK-12's gone dark...>|
+
+|<^1HK416: ^7Here, see what's out there.>|
+
+|<^1UMP45: ^7They're at final countdown.>|
+
+|<^1UMP45: ^7There's Soyuz Two. Scheduled to launch 10 minutes after Soyuz One.>|
+
+|<^1UMP45: ^7Up ahead, the comms building.>|
+
+|<^1HK416: ^745 - we got activity on the road. Check it out.>|
+
+|<^1UMP45: ^7Damn, it's AK-12... She's burnt.>|
+
+|<^1UMP45: ^7Damn it, it's AK-12... She's burnt.>|
+
+|<^1HK416: ^7Who the fuck is this?>|
+
+|<^1HK416: ^7Who is this?>|
+
+|<^1UMP45: ^7This is not good.>|
+
+|<^1UMP45: ^7It's Nyto, RPK16's second in command.>|
+
+|<^1NYTO: ^7Your colleague is unwilling to explain her presence in this facility.>|
+
+|<^1NYTO: ^7Surrender now... And you will be allowed to live.>|
+
+|<^1NYTO: ^7This is your only warning.>|
+
+|<^1HK416: ^7Nothin' we can do, 45... AK-12's done.>|
+
+|<^1UMP45: ^7I know...>|
+
+|<^1NYTO: ^7Your choice.>|
+
+|<^1AK-12: ^7RAARRARGHH!!!>|
+
+|<^1UMP45: ^7Ugh... You son of a bitch!>|
+
+|<^1UMP45: ^7Sick bastard fucking took out her eye!>|
+
+|<^1UMP45: ^7Sick bastard took out her eye!>|
+
+|<^1HK416: ^7Reina team, are you in position?>|
+
+|<^1HK416: ^79, are you in position?>|
+
+|<^1UMP9: ^7Roger G-11. Reina is covering the road.>|
+
+|<^1HK416: ^7AK-12's been compromised. Expect the base to be in elevated alert.>|
+
+|<^1HK416: ^7Hold your position. We are inbound.>|
+
+|<^1UMP9: ^7Roger.>|
+
+|<^1HK416: ^7Alright... Let's go.>|
+
+|<^1HK416: ^7Alright... Move out.>|
+
+|<^1HK416: ^7We got a chopper comin'. Get your head down.>|
+
+|<^1HK416: ^7Chopper's inbound. Move it!>|
+
+|<^1HK416: ^7Follow me and keep movin'.>|
+
+|<^1HK416: ^7Keep moving. Stay low.>|
+
+|<^1HK416: ^7We're good. Pick it up.>|
+
+|<^1HK416: ^7Get back to cover. They'll see ya!>|
+
+|<^1HK416: ^7Get your ass back over here!>|
+
+|<^1HK416: ^7Back to cover. They'll see ya!>|
+
+|<^1HK416: ^7You're givin' away our position!>|
+
+|<^1HK416: ^7Choppers inbound - move it!>|
+
+|<^1HK416: ^7Nooo! Where are you going?!!>|
+
+|<^1HK416: ^7You gotta stay outta sight!!!>|
+
+|<^1HK416: ^7We can't let the chopper see us!>|
+
+|<^1HK416: ^7The chopper's on you!>|
+
+|<^1HK416: ^7It's got you in its sights!!!>|
+
+|<^1HK416: ^745!!!>|
+
+|<^1HK416: ^7Hold.... Okay.>|
+
+|<^1HK416: ^7We need those uniforms.>|
+
+|<^1HK416: ^7I'll take the one on the ground. You get the other.>|
+
+|<^1HK416: ^7You take the one on the left, I'll get the other.>|
+
+|<^1UMP45: ^7Do it.>|
+
+|<^1HK416: ^7Clear?>|
+
+|<^1UMP45: ^7Clear.>|
+
+|<^1HK416: ^7Let's get 'em out of sight.>|
+
+|<^1HK416: ^7Hope your time in Vorkuta helped your Russian, 45.>|
+
+|<^1UMP45: ^7Well fucking better. We've gotta save AK-12.>|
+
+|<^1UMP45: ^7It better. We've gotta save AK-12.>|
+
+|<^1HK416: ^7Shit! We gotta shut them up..>|
+
+|<^1HK416: ^7Hold your fire. Work the disguise.>|
+
+|<^1HK416: ^7Eh, Sobaki proklyatye...>|
+
+|<^1HK416: ^7Da, da...>|
+
+|<^1HK416: ^7We're good.>|
+
+|<^1HK416: ^7Where the Hell are you goin'?>|
+
+|<^1HK416: ^745! Stay with me!>|
+
+|<^1HK416: ^7Get back here, 45.>|
+
+|<^1HK416: ^745! We need to silence those dogs!>|
+
+|<^1HK416: ^7We need to shut up these damn dogs!>|
+
+|<^1HK416: ^7What the fuck are you doin', 45?>|
+
+|<^1HK416: ^7What are you doin', 45?>|
+
+|<^1HK416: ^7What the Hell?!>|
+
+|<^1HK416: ^7Delta and 9 should be right up ahead.>|
+
+|<^1UMP9: ^7G-11 this is Reina. Hostiles in sight. Takin' 'em out.>|
+
+|<^1HK416: ^7Hustle up.>|
+
+|<^1HK416: ^7Nice work 9.>|
+
+|<^1UMP9: ^7What happened to AK-12?>|
+
+|<^1UMP9: ^7Hide the bodies. What happened to AK-12?>|
+
+|<^1HK416: ^7She was compromised.>|
+
+|<^1HK416: ^7She's down - Don't know how bad.>|
+
+|<^1UMP45: ^7Continued as planned - We'll make a new opportunity.>|
+
+|<^1UMP45: ^7We stay on mission.>|
+
+|<^1HK416: ^7Right... Let's move.>|
+
+|<^1HK416: ^7Don't draw any attention.>|
+
+|<^1HK416: ^7Play it cool... Don't draw attention.>|
+
+|<^1UMP9: ^7We don't have the luxury - I think they found the bodies.>|
+
+|<^1UMP9: ^7They may have found the bodies.>|
+
+|<^1HK416: ^7No, we're good. Just do what they do.>|
+
+|<^1UMP45: ^7Comms building up ahead.>|
+
+|<^1UMP9: ^7Snipers on the roof.>|
+
+|<^1UMP9: ^7We got snipers on the roof.>|
+
+|<^1UMP9: ^7Couple of men out front.>|
+
+|<^1HK416: ^7Okay... 9. Delta. Get 'em out of the way.>|
+
+|<^1HK416: ^7Okay... 9. Delta.>|
+
+|<^1UMP9: ^7E'j! Vy dvoe.>|
+
+|<^1UMP9: ^7U nas problema. Za mnoj.>|
+
+|<^1HK416: ^7You ready?>|
+
+|<^1HK416: ^7I'll take out the comm link. You get up top and deal with the snipers!>|
+
+|<^1HK416: ^7Clear each floor before you move up... I'll shut down the comm link.>|
+
+|<^1HK416: ^7Use your knife... We don't want to draw attention.>|
+
+|<^1HK416: ^7GO!>|
+
+|<^1UMP45: ^7On it.>|
+
+|<^1HK416: ^7Delta, 9... Try to find AK-12.>|
+
+|<^1UMP9: ^7On it.>|
+
+|<^1UMP45: ^7Moving up.>|
+
+|<^1UMP45: ^7U menya prikaz.>|
+
+|<^1UMP45: ^7Four targets... Hold position.>|
+
+|<^1UMP45: ^7Floor clear.>|
+
+|<^1UMP45: ^7Three more...>|
+
+|<^1HK416: ^7Nearly there - keep it up.>|
+
+|<^1UMP45: ^7We got a runner!>|
+
+|<^1HK416: ^7Get after him!>|
+
+|<^1UMP45: ^7He's down.>|
+
+|<^1HK416: ^7Comm links down.>|
+
+|<^1HK416: ^7Take out those snipers.>|
+
+|<^1UMP9: ^7G-11 come in, over.>|
+
+|<^1HK416: ^7Go ahead, 9.>|
+
+|<^1UMP45: ^7I see Delta and 9 down there.>|
+
+|<^1UMP9: ^7We just got a visual on AK-12... She's been taken to a bunker South of the Comms building.>|
+
+|<^1HK416: ^7Copy that. We're on our way.>|
+
+|<^1HK416: ^7Copy that. 45 gonna breach the building.>|
+
+|<^1HK416: ^745 - get over here.>|
+
+|<^1HK416: ^7Gunfire's drawin' attention.>|
+
+|<^1HK416: ^7Those assholes are on the way back!>|
+
+|<^1HK416: ^7Those #&%$ are on the way back!>|
+
+|<^1UMP45: ^7I think I see it.>|
+
+|<^1UMP9: ^7Enemy moving in from the North - We're pinned down!>|
+
+|<^1HK416: ^7Shit!... We've been made!>|
+
+|<^1HK416: ^7Damn!... We've been made!>|
+
+|<^1HK416: ^745!>|
+
+|<^1HK416: ^7Crossbow - explosive bolts. NOW!>|
+
+|<^1HK416: ^7I'll cover the ladder.>|
+
+|<^1HK416: ^7Take 'em out!!!>|
+
+|<^1HK416: ^7Hurry, 9 and Delta can't hold out!>|
+
+|<^1HK416: ^745, over here.>|
+
+|<^1HK416: ^7I'll secure the line. You take the shot.>|
+
+|<^1HK416: ^7I'll secure the zip line. You take the shot.>|
+
+|<^1HK416: ^7Make it quick, 45.>|
+
+|<^1HK416: ^7I'll buy us some time.>|
+
+|<^1HK416: ^7Go! GO!>|
+
+|<^1HK416: ^7I'm right behind ya!>|
+
+|<^1UMP45: ^7AK-12!>|
+
+|<^1AK-12: ^7Took you long enough, 45.>|
+
+|<^1UMP9: ^7Clear right.>|
+
+|<^1HK416: ^7Clear left.>|
+
+|<^1UMP9: ^7You able to continue on mission, AK-12?>|
+
+|<^1AK-12: ^7Let's do it.>|
+
+|<^1HK416: ^7We'll get that bastard Nyto sooner or later... Right now we need to stay on mission...>|
+
+|<^1HK416: ^7Did you sabotage the guidance system?>|
+
+|<^1AK-12: ^7I was compromised.>|
+
+|<^1UMP9: ^7Guess we're through being subtle... Move to plan B?>|
+
+|<^1AK-12: ^7There may still be time to abort the launch... We need to get to the Auxiliary Control Bunker.>|
+
+|<^1AK-12: ^7There may still be time to abort the launch... We need to get to the control bunker.>|
+
+|<^1AK-12: ^7Let's go.>|
+
+|<^1AK-12: ^7This way...>|
+
+|<^1HK416: ^745 - grab that sniper rifle...>|
+
+|<^1HK416: ^7Here - over the wall.>|
+
+|<^1HK416: ^7Targets, 100 meters, stay low!>|
+
+|<^1HK416: ^7There's the Bureau group scientists! Take out those fucking eggheads.>|
+
+|<^1HK416: ^7There's the Bureau group scientists!>|
+
+|<^1HK416: ^7Every one of them a card carrying 90WISH.>|
+
+|<^1HK416: ^79! After them!>|
+
+|<^1HK416: ^745 - on me!>|
+
+|<^1UMP45: ^7Kill them in their tracks.>|
+
+|<^1HK416: ^7Waitin' on you 45.>|
+
+|<^1HK416: ^745, take the shot!>|
+
+|<^1HK416: ^745! Shoot!>|
+
+|<^1UMP9: ^7He's running! 45, you got him?>|
+
+|<^1UMP45: ^7Yeah, I got him.>|
+
+|<^1UMP45: ^7He's down!>|
+
+|<^1UMP45: ^7Damn it! He's calling in back up!>|
+
+|<^1HK416: ^7Hold your positions.>|
+
+|<^1AK-12: ^7We have less than a minute to get to the auxiliary bunker.>|
+
+|<^1AK-12: ^7We're almost out of time!>|
+
+|<^1HK416: ^7We're pinned down!>|
+
+|<^1HK416: ^745! Nail that pilot!>|
+
+|<^1HK416: ^745! Nail that pilot!>|
+
+|<^1HK416: ^7That chopper is hammerin' us. Kill the pilot!>|
+
+|<^1HK416: ^7Shoot that damn chopper pilot, 45!>|
+
+|<^1HK416: ^7Good shootin', 45!>|
+
+|<^1HK416: ^7Move it!>|
+
+|<^1AK-12: ^7We have to destroy the rocket - no matter what!>|
+
+|<^1HK416: ^745, put a hole in that fuckin' wall!>|
+
+|<^1HK416: ^745, put a hole in that flippin' wall!>|
+
+|<^1UMP45: ^7Set.>|
+
+|<^1HK416: ^7Kill 'em all!>|
+
+|<^1HK416: ^7Move.>|
+
+|<^1HK416: ^7Make it quick AK-12!>|
+
+|<^1HK416: ^7Come on... Come on!>|
+
+|<^1HK416: ^7We're out of time!>|
+
+|<^1AK-12: ^7It's too late! I can't stop it!>|
+
+|<^1AK-12: ^7Shoot it down!>|
+
+|<^1HK416: ^7Plan B, 9 - Set it up!>|
+
+|<^1HK416: ^7Plan B! 9 - Set up the Strela! Let's blow that bottle rocket out of the sky.>|
+
+|<^1UMP9: ^7This'll do it!>|
+
+|<^1HK416: ^7Fucken - A!>|
+
+|<^1HK416: ^7Hell yeah!>|
+
+|<^1UMP45: ^7It's a Hell of a way to test a prototype!>|
+
+|<^1AK-12: ^7Blow it, 45! NOW!>|
+
+|<^1HK416: ^7Fire It!>|
+
+|<^1HK416: ^7Holy shit!>|
+
+|<^1HK416: ^7Holy crap!>|
+
+|<^1HK416: ^7Holy shit! Carnage, I love it!>|
+
+|<^1HK416: ^7Holy crap! Carnage, I love it!>|
+
+|<^1HK416: ^7Dammit... Can't stay in the open.>|
+
+|<^1HK416: ^7Get to the tunnels!>|
+
+|<^1DELTA: ^7Poor bastards...>|
+
+|<^1HK416: ^7They're 90WISH bastards... They don't deserve sympathy.>|
+
+|<^1HK416: ^7We're here to hunt 'em down.>|
+
+|<^1AK-12: ^7The rest of the Bureau group will be trying to escape the facility...>|
+
+|<^1HK416: ^79, Delta. You flank round to the North tunnel. No one sneaks out that back door!>|
+
+|<^1UMP9: ^7Got it.>|
+
+|<^1HK416: ^745 and AK-12, you're on me.>|
+
+|<^1HK416: ^7Which way, AK-12?>|
+
+|<^1AK-12: ^7To the right.>|
+
+|<^1HK416: ^7Shit! Take cover!>|
+
+|<^1HK416: ^7Take cover!>|
+
+|<^1AK-12: ^7KCCO!>|
+
+|<^1AK-12: ^7Grab your ass, we got a fight on our hands!>|
+
+|<^1HK416: ^7They bleed don't they?!!>|
+
+|<^1HK416: ^7Tricky bastard!>|
+
+|<^1HK416: ^7Stay on 'em!>|
+
+|<^1HK416: ^7KCCO's finest... My ass!>|
+
+|<^1HK416: ^7More of 'em!>|
+
+|<^1HK416: ^7Dammit!!!>|
+
+|<^1HK416: ^7Die you son of a bitch!>|
+
+|<^1HK416: ^7Die you bastard!>|
+
+|<^1AK-12: ^745! Behind the lockers!>|
+
+|<^1AK-12: ^7Clear.>|
+
+|<^1HK416: ^7Hold it...>|
+
+|<^1AK-12: ^7Tear gas!!!>|
+
+|<^1HK416: ^7Get you mask on! Go, go, go!>|
+
+|<^1HK416: ^7Can't see shit... Bastards think they got us...>|
+
+|<^1HK416: ^7Can't see anything... Bastards think they got us...>|
+
+|<^1HK416: ^7Let's prove 'em wrong.>|
+
+|<^1HK416: ^745 - shotgun...>|
+
+|<^1HK416: ^7They are tryin' to rush us!!!>|
+
+|<^1HK416: ^7Open fire!!!>|
+
+|<^1HK416: ^7Move!>|
+
+|<^1AK-12: ^7I can't breathe in this thing!>|
+
+|<^1AK-12: ^7Out of the way!>|
+
+|<^1HK416: ^7Clear.>|
+
+|<^1AK-12: ^7Blueeeerrrgh!!!>|
+
+|<^1HK416: ^7You okay, AK-12?>|
+
+|<^1HK416: ^7Quit painting the floor, AK-12. You okay?>|
+
+|<^1HK416: ^7Good to hear. Let's go.>|
+
+|<^1HK416: ^7There! He's Bureau!>|
+
+|<^1AK-12: ^7Take out his guards!>|
+
+|<^1HK416: ^7Good. Should be three more... Let's go.>|
+
+|<^1HK416: ^7You goin' soft, 45?>|
+
+|<^1HK416: ^7Too more... Keep goin'.>|
+
+|<^1HK416: ^7One more. The Bureau Group leader.>|
+
+|<^1HK416: ^7There!>|
+
+|<^1HK416: ^7Shit! We got a runner!>|
+
+|<^1HK416: ^7We got a runner!>|
+
+|<^1HK416: ^7Stay on him!>|
+
+|<^1HK416: ^7Don't let him get away!>|
+
+|<^1HK416: ^7You're not going anywhere.>|
+
+|<^1UMP9: ^7We done here?>|
+
+|<^1HK416: ^7We're done. What's the situation topside?>|
+
+|<^1UMP9: ^7Chaos. They'll be tryin' to figure out what happened for years.>|
+
+|<^1HK416: ^7Okay. Time we got the hell out of here.>|
+
+|<^1HK416: ^7Potential High Value Target... 45?>|
+
+|<^1UMP45: ^7It's her. She's here.>|
+
+|<^1HK416: ^7Who?!>|
+
+|<^1UMP45: ^7RPK16! That bastard tried to brainwash me at Vorkuta.>|
+
+|<^1HK416: ^7That's high enough value for me...>|
+
+|<^1HK416: ^7Take out the chopper!>|
+
+|<^1HK416: ^745! Over here!>|
+
+|<^1HK416: ^7Gimme some cover!>|
+
+|<^1HK416: ^7Give me some love!>|
+
+|<^1HK416: ^7Rraaarrgh!!!>|
+
+|<^1HK416: ^7There's our ride!>|
+
+|<^1HK416: ^7Everybody in!>|
+
+|<^1HK416: ^7Drive!!!>|
+
+|<^1HK416: ^7Haul ass!!!>|
+
+|<^1UMP45: ^7Not yet...>|
+
+|<^1UMP45: ^7We're going after RPK16.>|
+
+|<^1HK416: ^7Left side, 45!>|
+
+|<^1HK416: ^7On our left!>|
+
+|<^1HK416: ^7Right side!>|
+
+|<^1AK-12: ^7On our right!>|
+
+|<^1HK416: ^712 o'clock!>|
+
+|<^1HK416: ^7Dead ahead!>|
+
+|<^1HK416: ^7On our six, 45!>|
+
+|<^1HK416: ^7Behind us!>|
+
+|<^1AK-12: ^7Left side!>|
+
+|<^1AK-12: ^7Up ahead!>|
+
+|<^1HK416: ^7Snipers!!!>|
+
+|<^1AK-12: ^7More KCCO!>|
+
+|<^1HK416: ^7BTRs!>|
+
+|<^1HK416: ^7RPG!>|
+
+|<^1HK416: ^7Run right over 'em!>|
+
+|<^1HK416: ^7Ram the bastards!>|
+
+|<^1HK416: ^7Take out that RPG!>|
+
+|<^1AK-12: ^745! Take out the snipers!>|
+
+|<^1HK416: ^7Run over 'em!>|
+
+|<^1AK-12: ^7Ram the bastards!>|
+
+|<^1HK416: ^7Dammit!>|
+
+|<^1HK416: ^7Taking damage!>|
+
+|<^1AK-12: ^7We can't take much more of this!>|
+
+|<^1UMP45: ^7There she is! RPK16!>|
+
+|<^1HK416: ^7You sure it's her?>|
+
+|<^1UMP45: ^7I KNOW it is...>|
+
+|<^1UMP45: ^7I'll never forget that bastard's face.>|
+
+|<^1UMP45: ^7I'm gonna kill her.>|
+
+|<^1HK416: ^7Don't let her out of your sight!>|
+
+|<^1HK416: ^7Hit her again!>|
+
+|<^1AK-12: ^7Force her off the road!>|
+
+|<^1HK416: ^7No one's getting out.>|
+
+|<^1HK416: ^7Satisfied, 45?>|
+
+|<^1UMP45: ^7NO! No, not yet... Not until I see the body.>|
+
+|<^1HK416: ^7We ain't got time... Gotta go, 45.>|
+
+|<^1HK416: ^7Trust me... That rat bastard's a fucking charcoal briquette.>|
+
+|<^1HK416: ^7Trust me... That rat bastard's a charcoal briquette.>|
+
+|<^1HK416: ^7We got Company!>|
+
+|<^1HK416: ^7Switch to explosive tips!>|
+
+|<^1HK416: ^7They're pinned down, take out those vehicles!>|
+
+|<^1HK416: ^7Nice shot 45! They didn't teach you that in basic!>|
+
+|<^1HK416: ^7Hit the Gas!>|
+
+|<^1HK416: ^7Back up!>|
+
+|<^1HK416: ^7Hurry, we're losing them!>|
+
+|<^1HK416: ^7Turn around!>|
+
+|<^1HK416: ^7Do it quietly.>|
+
+|<^1HK416: ^7Shit, we've been spotted!>|
+
+|<^1HK416: ^7We've been spotted!>|
+
+|<^1HK416: ^7You got him.>|
+
+|<^1HK416: ^7Stay on mission>|
+
+|<^1HK416: ^7Shit, we've been found out.>|
+
+|<^1HK416: ^7We've been found out.>|
+
+|<^1HK416: ^745, with me, Delta, 9, go and clear out the scientists.>|
+
+|<^1HK416: ^7We're too late the Rocket is launching>|
+
+|<^1DELTA: ^7Clear. Movin' up.>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
