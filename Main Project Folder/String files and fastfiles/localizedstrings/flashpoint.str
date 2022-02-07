@@ -353,8 +353,7 @@ LANG_ENGLISH		"^1HK416: ^7Alright... Move out."
 REFERENCE			VOX_FLA1_S01_354A_WOOD
 LANG_ENGLISH		"^1HK416: ^7This is G-11 two niner. Do you monitor, over?"
 REFERENCE			VOX_FLA1_S01_800A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7Was saving AK-12 more important to you 
-than your objective to kill RPK16?"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Was saving AK-12 more important to you than your objective to kill RPK16?"
 REFERENCE			VOX_FLA1_S01_802A_MASO
 LANG_ENGLISH		"^1UMP45: ^7AK-12 was USSR. But she was alright."
 REFERENCE			VOX_FLA1_S01_803A_INTE
