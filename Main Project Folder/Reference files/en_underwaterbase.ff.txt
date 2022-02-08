@@ -84,9 +84,9 @@
 
 |<Use ^3[{+lookstick}]^7 to guide the missile in flight>|
 
-|<^1AK-12: ^7Alpha - we got visual on the Rusalka.>|
+|<^1AK-12: ^7AR - we got visual on the Rusalka.>|
 
-|<^1M16A1: ^7Roger that, Yankee One.>|
+|<^1M16A1: ^7Roger that, Wolf Pack One.>|
 
 |<^1AK-12: ^7Beginning approach.>|
 
@@ -100,9 +100,9 @@
 
 |<^1M16A1: ^7I think they were expecting us!>|
 
-|<^1M16A1: ^7Yankee team - Engage echelon right!>|
+|<^1M16A1: ^7Wolf Pack - Engage echelon right!>|
 
-|<^1AK-12: ^7Roger that, Alpha. Breaking off.>|
+|<^1AK-12: ^7Roger that, AR. Breaking off.>|
 
 |<^1M16A1: ^745, bring us around to port!>|
 
@@ -130,17 +130,17 @@
 
 |<^1M16A1: ^7AK-12?!>|
 
-|<^1AK-12: ^7Yankee team in position.>|
+|<^1AK-12: ^7Wolf Pack in position.>|
 
 |<^1T-DOLL PILOT: ^7Go! Go!>|
 
-|<^1M16A1: ^7Alpha, moving to provide support, over.>|
+|<^1M16A1: ^7AR, moving to provide support, over.>|
 
-|<^1AK-12: ^7Yankee two - Starboard side. Move up!>|
+|<^1AK-12: ^7Wolf Pack two - Starboard side. Move up!>|
 
 |<^1DELTA: ^7Roger that, moving in.>|
 
-|<^1AK-12: ^7Yankee one - on me.>|
+|<^1AK-12: ^7Wolf Pack one - on me.>|
 
 |<^1AK-12: ^7Go.>|
 
@@ -198,15 +198,15 @@
 
 |<^1AK-12: ^7Weapons free.>|
 
-|<^1AK-12: ^7Yankee squad pinned down!>|
+|<^1AK-12: ^7Wolf Pack pinned down!>|
 
 |<^1AK-12: ^7Taking heavy fire!>|
 
 |<^1AK-12: ^7Where's that fire support?!>|
 
-|<^1AK-12: ^7Thanks for the help, Alpha.>|
+|<^1AK-12: ^7Thanks for the help, AR.>|
 
-|<^1AK-12: ^7Yankee one, clear to move up.>|
+|<^1AK-12: ^7Wolf Pack one, clear to move up.>|
 
 |<^1AK-12: ^7All clear. Moving up.>|
 
@@ -216,19 +216,19 @@
 
 |<^1DELTA: ^7Engaging targets.>|
 
-|<^1DELTA: ^7Yankee two are pinned down!>|
+|<^1DELTA: ^7Wolf Pack two are pinned down!>|
 
-|<^1DELTA: ^7Yankee two under fire! I Say again - Yankee two under fire.>|
+|<^1DELTA: ^7Wolf Pack two under fire! I Say again - Wolf Pack two under fire.>|
 
 |<^1DELTA: ^7We need fire support!>|
 
-|<^1DELTA: ^7Nice work, Alpha.>|
+|<^1DELTA: ^7Nice work, AR.>|
 
-|<^1DELTA: ^7Yankee two, move up.>|
+|<^1DELTA: ^7Wolf Pack two, move up.>|
 
 |<^1DELTA: ^7Clear. Moving up.>|
 
-|<^1M16A1: ^7Roger that, Yankee.>|
+|<^1M16A1: ^7Roger that, Wolf Pack.>|
 
 |<^1M16A1: ^7RPGS on the Bridge!>|
 
@@ -238,13 +238,13 @@
 
 |<^1AK-12: ^7Moving to lower decks, over.>|
 
-|<^1M16A1: ^7Roger that, Yankee. Alpha team is right behind you.>|
+|<^1M16A1: ^7Roger that, Wolf Pack. Anti Rain is right behind you.>|
 
 |<^1M16A1: ^745 - Take us down.>|
 
 |<^1M16A1: ^7Jump!>|
 
-|<^1M16A1: ^7Yankee team - sitrep?>|
+|<^1M16A1: ^7Wolf Pack - sitrep?>|
 
 |<^1AK-12: ^7Moving through deck two... No sign of the transmitter.>|
 
@@ -290,7 +290,7 @@
 
 |<^1M16A1: ^7RPK16 is starting the broadcast!>|
 
-|<^1M16A1: ^7Command this is Alpha one. We have confirmed the Rusalka is the broadcast source!>|
+|<^1M16A1: ^7Command this is AR one. We have confirmed the Rusalka is the broadcast source!>|
 
 |<^1M16A1: ^7Bring in the airstrike. We are on our way out!>|
 
@@ -436,13 +436,13 @@
 
 |<^1M16A1: ^7Out of the chopper! Jump! GO GO GO!>|
 
-|<^1M16A1: ^7Yankee team, we have visual. Moving to engage.>|
+|<^1M16A1: ^7Wolf Pack, we have visual. Moving to engage.>|
 
 |<^1M16A1: ^7Enemy Hind! Evasive maneuvers!>|
 
 |<^1M16A1: ^7Take down that Hind!>|
 
-|<^1M16A1: ^7Yankee two - Fire on the Hind!>|
+|<^1M16A1: ^7Wolf Pack two - Fire on the Hind!>|
 
 |<^1M16A1: ^7Keep on 'em!>|
 

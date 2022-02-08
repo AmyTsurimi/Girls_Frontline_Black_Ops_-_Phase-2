@@ -222,7 +222,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1INTERROGATOR: ^7RPK16. Did. You. Confirm. The kill.>|
 
-|<^1HK416: ^7Yankee one three... Do you copy?>|
+|<^1HK416: ^7Wolf Pack one three... Do you copy?>|
 
 |<^1HK416: ^7This is G-11 two niner. Do you monitor, over?>|
 
@@ -234,7 +234,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7There should not be patrols this far out.>|
 
-|<^1HK416: ^7Yankee one three - Do you copy?>|
+|<^1HK416: ^7Wolf Pack one three - Do you copy?>|
 
 |<^1HK416: ^7Shit.>|
 
@@ -254,9 +254,9 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7No, no, no, somethin's wrong. There's way too much activity.>|
 
-|<^1HK416: ^7Yankee one three - report.>|
+|<^1HK416: ^7Wolf Pack one three - report.>|
 
-|<^1HK416: ^7Yankee - one - three - report!>|
+|<^1HK416: ^7Wolf Pack - one - three - report!>|
 
 |<^1HK416: ^7AK-12's gone dark...>|
 
