@@ -199,7 +199,7 @@ LANG_ENGLISH		"^1UMP45: ^7Screw you!"
 REFERENCE			VOX_FRO2_S01_007A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Where were you born?"
 REFERENCE			VOX_FRO2_S01_008A_MASO
-LANG_ENGLISH		"^1UMP45: ^7Kiss my ass."
+LANG_ENGLISH		"^1UMP45: ^7Kiss my ass!"
 REFERENCE			VOX_FRO2_S01_009A_MASO
 LANG_ENGLISH		"^1UMP45: ^7AAAARRRGH!!!"
 REFERENCE			VOX_FRO2_S01_009B_MASO
@@ -207,7 +207,7 @@ LANG_ENGLISH		"^1UMP45: ^7AAAAAARGH!!!"
 REFERENCE			VOX_FRO2_S01_009C_MASO
 LANG_ENGLISH		"^1UMP45: ^7AARRRGH!!!"
 REFERENCE			VOX_FRO2_S01_010A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7Your name is UMP 45. You were manufactured by Heckler & Koch. In 1961, you served in a Griffin assassination team known as ^1Operation 40^7. Is that correct?"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Your name is UMP 45. You were manufactured by Heckler & Koch.\nIn 1961, you served in a Griffin assassination team known as ^1Operation 40^7. Is that correct?"
 REFERENCE			VOX_FRO2_S01_011A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Is that correct?"
 REFERENCE			VOX_FRO2_S01_012A_MASO
@@ -243,7 +243,7 @@ LANG_ENGLISH		"^1UMP45: ^7Somehow -- I knew RPK16 was still alive."
 REFERENCE			VOX_FRO4_S01_002A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7She became your obsession. You spent the next five years trying to track her down."
 REFERENCE			VOX_FRO4_S01_003A_MASO
-LANG_ENGLISH		"^1UMP45: ^7he was... She was... She was ^1everywhere^7!  Just... Couldn't get her out of my head.  Just like ^1the others^7 --"
+LANG_ENGLISH		"^1UMP45: ^7She was... She was... She was ^1everywhere^7! \nJust... Couldn't get her out of my head.  Just like ^1the others^7 --"
 REFERENCE			VOX_FRO4_S01_004B_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7What do you mean by others?"
 REFERENCE			VOX_FRO4_S01_005A_WEAV

@@ -85,7 +85,7 @@ LANG_ENGLISH		"^1COMMANDER: ^7BigEye 6, cleared for takeoff runway four."
 REFERENCE			VOX_WMD1_S01_007A_USC1_F
 LANG_ENGLISH		"^1ANGELIA: ^7Copy S.K.K. My sky."
 REFERENCE			VOX_WMD1_S01_008A_USC2_F
-LANG_ENGLISH		"^1KALINA: ^7Systems check complete. Takeoff power... Mark. Your aircraft sir."
+LANG_ENGLISH		"^1KALINA: ^7Systems check complete. Takeoff power... Mark. Your aircraft ma'am."
 REFERENCE			VOX_WMD1_S01_009A_USC1_F
 LANG_ENGLISH		"^1ANGELIA: ^7Copy."
 REFERENCE			VOX_WMD1_S01_010A_USC1_F

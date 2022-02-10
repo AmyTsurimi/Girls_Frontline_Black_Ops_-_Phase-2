@@ -29,7 +29,7 @@ LANG_ENGLISH		"^1P90: ^7Your weapons are ready."
 REFERENCE			VOX_CUB1_S01_020A_WOOD_M
 LANG_ENGLISH		"^1HK416: ^7Sorry about the bar, P90."
 REFERENCE			VOX_CUB1_S01_021A_CARL_M
-LANG_ENGLISH		"^1P90: ^7No problem... My T-Dolls will dispose of the bodies..."
+LANG_ENGLISH		"^1P90: ^7No problem... My Dolls will dispose of the bodies..."
 REFERENCE			VOX_CUB1_S01_022A_CARL_M
 LANG_ENGLISH		"^1P90: ^7Take what you need."
 REFERENCE			VOX_CUB1_S01_024A_CARL_M
@@ -153,7 +153,7 @@ LANG_ENGLISH		"^1HK416: ^7We ain't got time to waste."
 REFERENCE			VOX_CUB1_S01_531A_WOOD
 LANG_ENGLISH		"^1HK416: ^7Hurry it up."
 REFERENCE			VOX_CUB1_S01_950A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7She's fading away. UMP45! You had escaped from the police. The Bay of Pigs had begun. You were heading for Castro's compound."
+LANG_ENGLISH		"^1INTERROGATOR: ^7She's fading away. UMP45! You had escaped from the police.\nThe Bay of Pigs invasion had begun. You were heading for Castro's compound."
 REFERENCE			VOX_CUB1_S01_951A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Blyat... We're losing her! Do it again, we have no choice."
 REFERENCE			VOX_CUB1_S01_952A_MASO
