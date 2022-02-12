@@ -357,7 +357,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7Was saving AK-12 more important to you than you
 REFERENCE			VOX_FLA1_S01_802A_MASO
 LANG_ENGLISH		"^1UMP45: ^7AK-12 was Soviet. But she was alright."
 REFERENCE			VOX_FLA1_S01_803A_INTE
-LANG_ENGLISH		"^INTERROGATOR: ^7You saved her life. Now you had to locate the Bureau Group and kill the scientists."
+LANG_ENGLISH		"^1INTERROGATOR: ^7You saved her life. Now you had to locate the Bureau Group and kill the scientists."
 REFERENCE			VOX_FLA1_S01_804A_MASO
 LANG_ENGLISH		"^1UMP45：^No...I had to kill...RPK16."
 REFERENCE			VOX_FLA1_S01_805A_WOOD
