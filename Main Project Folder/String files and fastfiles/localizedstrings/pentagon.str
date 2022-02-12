@@ -25,7 +25,7 @@ LANG_ENGLISH		"^1SPRINGFIELD: ^7Nothing less than our national security is at st
 REFERENCE			VOX_PEN1_S01_011A_MASO_M
 LANG_ENGLISH		"^1UMP45: ^7When do I kill her?"
 REFERENCE			VOX_PEN1_S01_012A_MCNA_M
-LANG_ENGLISH		"^1SPRINGFIELD: ^We're lucky to have you back, UMP45."
+LANG_ENGLISH		"^1SPRINGFIELD: ^7We're lucky to have you back, UMP45."
 REFERENCE			VOX_PEN1_S01_013A_MCNA_M
 LANG_ENGLISH		"^1SPRINGFIELD: ^7The VIP."
 REFERENCE			VOX_PEN1_S01_014A_CLER_M
@@ -99,9 +99,9 @@ LANG_ENGLISH		"^1UMP45: ^7Back then you couldn't trust anyone."
 REFERENCE			VOX_PEN1_S01_110A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Sometimes, even yourself."
 REFERENCE			VOX_PEN1_S01_111A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7That's why we're here, 45. To see if we can trust you."
+LANG_ENGLISH		"^1INTERROGATOR: ^7That's why we're here, 45. To see if we can ^:trust you^7."
 REFERENCE			VOX_PEN1_S01_113A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7We were watching you the whole time."
+LANG_ENGLISH		"^1INTERROGATOR: ^7We were ^:watching you the whole time^7."
 REFERENCE			VOX_PEN1_S01_115A_MASO
 LANG_ENGLISH		"^1UMP45: ^7That's not possible."
 REFERENCE			VOX_PEN1_S01_116A_INTE
@@ -115,11 +115,11 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7What, 45?"
 REFERENCE			VOX_PEN1_S01_122A_MASO
 LANG_ENGLISH		"^1UMP45: ^7I don't know -- felt like I was in a dream -- -- Step Two, ascend from darkness -- -- Step Three, rain fire --"
 REFERENCE			VOX_PEN1_S01_123A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7You were getting close to your objective."
+LANG_ENGLISH		"^1INTERROGATOR: ^7You were getting close to ^:your objective^7."
 REFERENCE			VOX_PEN1_S01_125A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^77It was working."
+LANG_ENGLISH		"^1INTERROGATOR: ^7It was working."
 REFERENCE			VOX_PEN1_S01_127A_MASO
-LANG_ENGLISH		"^1UMP45: ^77It was working."
+LANG_ENGLISH		"^1UMP45: ^7It was working."
 REFERENCE			VOX_PEN1_S01_128A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7RPK16's programming was kicking in."
 REFERENCE			VOX_PEN1_S01_130A_MASO
