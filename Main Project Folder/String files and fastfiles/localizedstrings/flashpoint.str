@@ -359,7 +359,7 @@ LANG_ENGLISH		"^1UMP45: ^7AK-12 was Soviet. But she was alright."
 REFERENCE			VOX_FLA1_S01_803A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7You saved her life. Now you had to locate the Bureau Group and kill the scientists."
 REFERENCE			VOX_FLA1_S01_804A_MASO
-LANG_ENGLISH		"^1UMP45：^No...I had to kill...RPK16."
+LANG_ENGLISH		"^1UMP45: ^7No...I had to kill...RPK16."
 REFERENCE			VOX_FLA1_S01_805A_WOOD
 LANG_ENGLISH		"^1HK416: ^7We've been made, lose the balaclavas."
 REFERENCE			VOX_FLA1_S01_807A_MASO
@@ -593,7 +593,7 @@ LANG_ENGLISH		"^1HK416: ^7Did you sabotage the guidance system?"
 REFERENCE			VOX_FLA1_S06_123A_WEAV_M
 LANG_ENGLISH		"^1AK-12: ^7I was compromised."
 REFERENCE			VOX_FLA1_S06_124A_BOWM_M
-LANG_ENGLISH		"^1UMP9: ^77Guess we're through being subtle... Move to plan B?"
+LANG_ENGLISH		"^1UMP9: ^7Guess we're through being subtle... Move to plan B?"
 REFERENCE			VOX_FLA1_S06_125A_WEAV_M
 LANG_ENGLISH		"^1AK-12: ^7There may still be time to abort the launch... We need to get to the Auxiliary Control Bunker."
 REFERENCE			VOX_FLA1_S06_126A_WEAV_M
