@@ -191,7 +191,7 @@
 |<^1INTERROGATOR: ^7Was saving AK-12 more important to you 
 than your objective to kill RPK16?>|
 
-|<^1UMP45: ^7AK-12 was Soviet. But she was alright.>|
+|<^1UMP45: ^7AK-12 was BGB. But she was alright.>|
 
 |<^1INTERROGATOR: ^7You saved her life. Now you had to locate 
 the Bureau Group and kill the scientists.>|

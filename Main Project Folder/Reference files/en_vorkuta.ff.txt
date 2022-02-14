@@ -185,7 +185,7 @@
 
 |<^1UMP40: ^7Victory cannot be achieved without sacrifice, 45...>|
 
-|<^1UMP40: ^7We U.S.S.R's know this better than anyone.>|
+|<^1UMP40: ^7We Neo-Soviets know this better than anyone.>|
 
 |<^1UMP40: ^7Prepare yourselves, men!!!>|
 
@@ -277,7 +277,7 @@
 
 |<^1UMP40: ^7Brave comrades of Vorkuta, the time has come to rise against our oppressors!>|
 
-|<^1UMP40: ^7Today we show them the hearts of true U.S.S.R's!>|
+|<^1UMP40: ^7Today we show them the hearts of true Neo-Soviets!>|
 
 |<^1UMP40: ^7We have all given our blood for the motherland.>|
 
