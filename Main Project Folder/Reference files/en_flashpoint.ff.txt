@@ -352,7 +352,7 @@ the Bureau Group and kill the scientists.>|
 
 |<^1HK416: ^7Hold.... Okay.>|
 
-|<^1HK416: ^7We need those uniforms.>|
+|<^1HK416: ^7We need those ID Tags.>|
 
 |<^1HK416: ^7I'll take the one on the ground. You get the other.>|
 
