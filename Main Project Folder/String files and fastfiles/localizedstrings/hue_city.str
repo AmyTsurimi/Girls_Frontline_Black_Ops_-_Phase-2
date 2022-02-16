@@ -93,7 +93,7 @@ LANG_ENGLISH		"^1UMP45: ^7We're here to yank a defector with vital intel on KCCO
 REFERENCE			VOX_HUE1_S01_401A_MASO
 LANG_ENGLISH		"^1UMP45: ^7We lost contact with her security team - They may be holed up in the DEFY's safe room."
 REFERENCE			VOX_HUE1_S01_402A_WOOD
-LANG_ENGLISH		"^1HK416: ^7If he's alive, we'll find him."
+LANG_ENGLISH		"^1HK416: ^7If she's alive, we'll find her."
 REFERENCE			VOX_HUE1_S01_403A_USC1_F
 LANG_ENGLISH		"^1T-DOLL PILOT: ^7404 G-11 team, hook up."
 REFERENCE			VOX_HUE1_S01_404A_USC1_F
@@ -117,9 +117,9 @@ LANG_ENGLISH		"^1HK416: ^7Dispatch is next floor down."
 REFERENCE			VOX_HUE1_S01_413A_BOWM
 LANG_ENGLISH		"^1UMP9: ^7You think the defector survived this attack?!"
 REFERENCE			VOX_HUE1_S01_414A_WOOD
-LANG_ENGLISH		"^1HK416: ^7Well, if he did, then he's one tough son of a bitch!"
+LANG_ENGLISH		"^1HK416: ^7Well, if she did, then she's one tough son of a bitch!"
 REFERENCE			VOX_HUE1_S01_414A_WOOD_S
-LANG_ENGLISH		"^1HK416: ^7Well, if he did, he's one tough son of a gun!"
+LANG_ENGLISH		"^1HK416: ^7Well, if she did, she's one tough son of a gun!"
 REFERENCE			VOX_HUE1_S01_415A_USC2_F
 LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11, this is Lima niner. Anyone who doesn't get out soon, isn't going to; the NVA have overwhelmed the entire North Wing."
 REFERENCE			VOX_HUE1_S01_416A_WOOD

@@ -184,9 +184,9 @@ LANG_ENGLISH		"^1M16A1: ^745's still dark. We need to work our way through the r
 REFERENCE			VOX_REB1_S03_085A_HUDS
 LANG_ENGLISH		"^1M16A1: ^745's still dark. We work our way through to the research facility and extract Suomi."
 REFERENCE			VOX_REB1_S03_086A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7Yankee Squad, we're moving!"
+LANG_ENGLISH		"^1AK-12: ^7Wolf Pack, we're moving!"
 REFERENCE			VOX_REB1_S03_087A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7Alpha Squad, let's roll."
+LANG_ENGLISH		"^1M16A1: ^7Anti-Rain, let's roll."
 REFERENCE			VOX_REB1_S03_088A_USS1_F
 LANG_ENGLISH		"^1T-DOLL: ^7Copy that we are on the move."
 REFERENCE			VOX_REB1_S03_089A_WEAV_F
@@ -200,9 +200,9 @@ LANG_ENGLISH		"^1AK-12: ^7Hard right! That leads to the cyber-lab."
 REFERENCE			VOX_REB1_S03_093A_WEAV_F
 LANG_ENGLISH		"^1AK-12: ^7Enemy vehicle 12 o'clock."
 REFERENCE			VOX_REB1_S03_094A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7That's the main drive up to the laboratories. Yankee Squad will flank west and meet you there."
+LANG_ENGLISH		"^1AK-12: ^7That's the main drive up to the laboratories. Wolf Pack will flank west and meet you there."
 REFERENCE			VOX_REB1_S03_095A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7Understood. Alpha squad, move up!"
+LANG_ENGLISH		"^1M16A1: ^7Understood. Anti-Rain, move up!"
 REFERENCE			VOX_REB1_S03_096A_USS1_F
 LANG_ENGLISH		"^1T-DOLL: ^7We're moving."
 REFERENCE			VOX_REB1_S03_097A_USS1_F
@@ -240,7 +240,7 @@ LANG_ENGLISH		"^1T-DOLL: ^7Shit! shit! Help! Aaaaccckk!"
 REFERENCE			VOX_REB1_S03_112A_RED1_M_S
 LANG_ENGLISH		"^1T-DOLL: ^7Help! Aaaaccckk!"
 REFERENCE			VOX_REB1_S03_113A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7Alpha Squad! we are moving forward! Protect your 16Lab firewall!"
+LANG_ENGLISH		"^1M16A1: ^7Anti-Rain! we are moving forward! Protect your 16Lab firewall!"
 REFERENCE			VOX_REB1_S03_114A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7You rupture your firewall - you'll be corrupted in minutes!"
 REFERENCE			VOX_REB1_S03_115A_RED2
@@ -256,7 +256,7 @@ LANG_ENGLISH		"^1T-DOLL: ^7I got it."
 REFERENCE			VOX_REB1_S03_120A_RED2
 LANG_ENGLISH		"^1T-DOLL: ^7It's killing us! Get off the street!"
 REFERENCE			VOX_REB1_S03_121A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7Yankee Squad has cleared the west perimeter. Moving north."
+LANG_ENGLISH		"^1AK-12: ^7Wolf Pack has cleared the west perimeter. Moving north."
 REFERENCE			VOX_REB1_S03_122A_RED2
 LANG_ENGLISH		"^1T-DOLL: ^7Keep moving to the west! Down that alley!"
 REFERENCE			VOX_REB1_S03_123A_HUDS
@@ -266,11 +266,11 @@ LANG_ENGLISH		"^1AK-12: ^7Understood. We are taking heavy fire from the helicopt
 REFERENCE			VOX_REB1_S03_125A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7Stay with it, we're about half a click south of the lab."
 REFERENCE			VOX_REB1_S03_126A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7Alpha squad, we are taking direct fire from the enemy. Requesting back up, over."
+LANG_ENGLISH		"^1AK-12: ^7Anti-Rain, we are taking direct fire from the enemy. Requesting back up, over."
 REFERENCE			VOX_REB1_S03_127A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7Almost there AK-12, hang on!"
 REFERENCE			VOX_REB1_S03_128A_WEAV_F
-LANG_ENGLISH		"^1AK-12: ^7Yankee squad get out of the BTR! We're going to get..."
+LANG_ENGLISH		"^1AK-12: ^7Wolf Pack get out of the BTR! We're going to get..."
 REFERENCE			VOX_REB1_S03_129A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7AK-12!"
 REFERENCE			VOX_REB1_S03_130A_WEAV_F

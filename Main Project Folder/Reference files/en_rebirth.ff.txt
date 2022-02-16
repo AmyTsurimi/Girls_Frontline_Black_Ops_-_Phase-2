@@ -220,9 +220,9 @@
 
 |<^1M16A1: ^745's still dark. We work our way through to the research facility and extract Suomi.>|
 
-|<^1AK-12: ^7Yankee Squad, we're moving!>|
+|<^1AK-12: ^7Wold Pack, we're moving!>|
 
-|<^1M16A1: ^7Alpha Squad, let's roll.>|
+|<^1M16A1: ^7Anti-Rain, let's roll.>|
 
 |<^1T-DOLL: ^7Copy that we are on the move.>|
 
@@ -240,9 +240,9 @@
 
 |<^1AK-12: ^7Enemy vehicle 12 o'clock.>|
 
-|<^1AK-12: ^7That's the main drive up to the laboratories. Yankee Squad will flank west and meet you there.>|
+|<^1AK-12: ^7That's the main drive up to the laboratories. Wold Pack will flank west and meet you there.>|
 
-|<^1M16A1: ^7Understood. Alpha squad, move up!>|
+|<^1M16A1: ^7Understood. Anti-Rain, move up!>|
 
 |<^1T-DOLL: ^7We're moving.>|
 
@@ -280,7 +280,7 @@
 
 |<^1T-DOLL: ^7Help! Aaaaccckk!>|
 
-|<^1M16A1: ^7Alpha Squad! we are moving forward! Protect your 16Lab firewall!>|
+|<^1M16A1: ^7Anti-Rain! we are moving forward! Protect your 16Lab firewall!>|
 
 |<^1M16A1: ^7You rupture your firewall - you'll be corrupted in minutes!>|
 
@@ -296,7 +296,7 @@
 
 |<^1T-DOLL: ^7It's killing us! Get off the street!>|
 
-|<^1AK-12: ^7Yankee Squad has cleared the west perimeter. Moving north.>|
+|<^1AK-12: ^7Wold Pack has cleared the west perimeter. Moving north.>|
 
 |<^1T-DOLL: ^7Keep moving to the west! Down that alley!>|
 
@@ -306,11 +306,11 @@
 
 |<^1M16A1: ^7Stay with it, we're about half a click south of the lab.>|
 
-|<^1AK-12: ^7Alpha squad, we are taking direct fire from the enemy. Requesting back up, over.>|
+|<^1AK-12: ^7Anti-Rain, we are taking direct fire from the enemy. Requesting back up, over.>|
 
 |<^1M16A1: ^7Almost there AK-12, hang on!>|
 
-|<^1AK-12: ^7Yankee squad get out of the BTR! We're going to get...>|
+|<^1AK-12: ^7Wold Pack get out of the BTR! We're going to get...>|
 
 |<^1AK-12: ^7We're alive M16. But they got us pinned down. They're on our east flank.>|
 

@@ -160,7 +160,7 @@
 
 |<^1UMP45: ^7We lost contact with her security team - They may be holed up in the DEFY's safe room.>|
 
-|<^1HK416: ^7If he's alive, we'll find him.>|
+|<^1HK416: ^7If she's alive, we'll find her.>|
 
 |<^1T-DOLL PILOT: ^7404 G-11 team, hook up.>|
 
@@ -210,9 +210,9 @@
 
 |<^1UMP9: ^7You think the defector survived this attack?!>|
 
-|<^1HK416: ^7Well, if he did, then he's one tough son of a bitch!>|
+|<^1HK416: ^7Well, if she did, then she's one tough son of a bitch!>|
 
-|<^1HK416: ^7Well, if he did, he's one tough son of a gun!>|
+|<^1HK416: ^7Well, if she did, she's one tough son of a gun!>|
 
 |<^1HK416: ^79, what's he sayin'?>|
 

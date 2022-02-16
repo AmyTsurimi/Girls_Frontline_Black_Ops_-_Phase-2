@@ -296,11 +296,11 @@
 
 |<^1AK-12: ^7Let's go.>|
 
-|<^1AK-12: ^7Tug boat this is Red Eye...>|
+|<^1AK-12: ^7Tug boat this is Anti-Rain...>|
 
 |<^1AK-12: ^7Immediate distraction - street level. Tower four. South side.>|
 
-|<^1AGENT: ^7Roger Red Eye... on the way.>|
+|<^1AGENT: ^7Roger Anti-Rain... on the way.>|
 
 |<^1AGENT: ^7Red Eye we are approaching EVAC. Shit, punch it!>|
 
