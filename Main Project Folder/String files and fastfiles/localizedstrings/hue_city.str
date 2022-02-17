@@ -31,13 +31,13 @@ LANG_ENGLISH		"^1T-DOLL: ^7I don't care what your orders are. You WILL shift fir
 REFERENCE			VOX_HUE1_S01_008A_USS1_F
 LANG_ENGLISH		"^1T-DOLL: ^7Fall back! Retreat!"
 REFERENCE			VOX_HUE1_S01_009A_USC1_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7DEFY compound in sight. You are jumping into some deep shit, 416."
+LANG_ENGLISH		"^1T-DOLL PILOT (Hotel Six): ^7DEFY compound in sight. You are jumping into some deep shit, 416."
 REFERENCE			VOX_HUE1_S01_009A_USC1_S_F_S
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7DEFY compound in sight. You are jumping into some deep crap, 416."
+LANG_ENGLISH		"^1T-DOLL PILOT (Hotel Six): ^7DEFY compound in sight. You are jumping into some deep crap, 416."
 REFERENCE			VOX_HUE1_S01_014A_USC1_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Quad 50! We're hit! We're hit!"
+LANG_ENGLISH		"^1T-DOLL PILOT (Hotel Six): ^7Quad 50! We're hit! We're hit!"
 REFERENCE			VOX_HUE1_S01_015A_USC1_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Lima niner, we are going down!"
+LANG_ENGLISH		"^1T-DOLL PILOT (Hotel Six): ^7Lima niner, we are going down!"
 REFERENCE			VOX_HUE1_S01_017A_USC1_F
 LANG_ENGLISH		"^1T-DOLL PILOT: ^7Hold on!..."
 REFERENCE			VOX_HUE1_S01_018A_USC2_F
@@ -95,7 +95,7 @@ LANG_ENGLISH		"^1UMP45: ^7We lost contact with her security team - They may be h
 REFERENCE			VOX_HUE1_S01_402A_WOOD
 LANG_ENGLISH		"^1HK416: ^7If she's alive, we'll find her."
 REFERENCE			VOX_HUE1_S01_403A_USC1_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7404 G-11 team, hook up."
+LANG_ENGLISH		"^1T-DOLL PILOT (Hotel Six): ^7404 G-11 team, hook up."
 REFERENCE			VOX_HUE1_S01_404A_USC1_F
 LANG_ENGLISH		"^1T-DOLL PILOT: ^7Team on the wire."
 REFERENCE			VOX_HUE1_S01_405A_WOOD
@@ -171,7 +171,7 @@ LANG_ENGLISH		"^1UMP45: ^7Good to go."
 REFERENCE			VOX_HUE1_S01_439A_MASO_M
 LANG_ENGLISH		"^1UMP45: ^7RPK16... I knew we'd see her again."
 REFERENCE			VOX_HUE1_S01_440A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7Her influence spreads like a cancer... Even the Carter does not know what she is truly planning."
+LANG_ENGLISH		"^1UMP40: ^7Her influence spreads like a cancer... Even Carter does not know what she is truly planning."
 REFERENCE			VOX_HUE1_S01_441A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7She must be stopped, 45."
 REFERENCE			VOX_HUE1_S01_442A_REZN

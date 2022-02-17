@@ -152,9 +152,9 @@
 
 |<^1T-DOLL: ^7Fall back! Retreat!>|
 
-|<^1T-DOLL PILOT: ^7DEFY compound in sight. You are jumping into some deep shit, 416.>|
+|<^1T-DOLL PILOT (Hotel Six): ^7DEFY compound in sight. You are jumping into some deep shit, 416.>|
 
-|<^1T-DOLL PILOT: ^7DEFY compound in sight. You are jumping into some deep crap, 416.>|
+|<^1T-DOLL PILOT (Hotel Six): ^7DEFY compound in sight. You are jumping into some deep crap, 416.>|
 
 |<^1UMP45: ^7We're here to yank a defector with vital intel on KCCO involvement in 'Nam...>|
 
@@ -162,19 +162,19 @@
 
 |<^1HK416: ^7If she's alive, we'll find her.>|
 
-|<^1T-DOLL PILOT: ^7404 G-11 team, hook up.>|
+|<^1T-DOLL PILOT (Hotel Six): ^7404 G-11 team, hook up.>|
 
-|<^1T-DOLL PILOT: ^7Team on the wire.>|
+|<^1T-DOLL PILOT (Hotel Six): ^7Team on the wire.>|
 
-|<^1T-DOLL PILOT: ^7Quad 50! We're hit! We're hit!>|
+|<^1T-DOLL PILOT (Hotel Six): ^7Quad 50! We're hit! We're hit!>|
 
-|<^1T-DOLL PILOT: ^7Lima niner, we are going down!>|
+|<^1T-DOLL PILOT (Hotel Six): ^7Lima niner, we are going down!>|
 
 |<^1HK416: ^7LOOK OUT!!!>|
 
-|<^1T-DOLL PILOT: ^7Hold on!...>|
+|<^1T-DOLL PILOT (Hotel Six): ^7Hold on!...>|
 
-|<^1T-DOLL PILOT: ^7Hotel Six, come back. Hotel Six, do you roger?>|
+|<^1T-DOLL PILOT (Lima niner): ^7Hotel Six, come back. Hotel Six, do you roger?>|
 
 |<^1T-DOLL PILOT: ^7Lima nine, Hotel Six is gone.>|
 
@@ -188,7 +188,7 @@
 
 |<^1HK416: ^7Light 'em up 9!>|
 
-|<^1T-DOLL PILOT: ^7Lima niner is inbound.>|
+|<^1T-DOLL PILOT (Lima niner): ^7Lima niner is inbound.>|
 
 |<^1UMP9: ^7G-11, get your heads down!>|
 
@@ -226,7 +226,7 @@
 
 |<^1UMP9: ^7Sorry bastard!>|
 
-|<^1T-DOLL PILOT: ^7G-11 this is Lima niner. Anyone who doesn't get out soon, isn't going to; the NVA have overwhelmed the entire North Wing.>|
+|<^1T-DOLL PILOT (Lima niner): ^7G-11 this is Lima niner. Anyone who doesn't get out soon, isn't going to; the NVA have overwhelmed the entire North Wing.>|
 
 |<^1HK416: ^7Roger that Lima niner. Moving on.>|
 
@@ -254,7 +254,7 @@
 
 |<^1HK416: ^7Lima niner - sitrep over!>|
 
-|<^1T-DOLL PILOT: ^7G-11 - NVA have retaken DEFY South. You are cut off.>|
+|<^1T-DOLL PILOT (Lima niner): ^7G-11 - NVA have retaken DEFY South. You are cut off.>|
 
 |<^1HK416: ^7Shit.>|
 
@@ -262,7 +262,7 @@
 
 |<^1UMP9: ^7Roger that Lima niner.>|
 
-|<^1T-DOLL PILOT: ^7You better get your asses in gear if you want an evac.>|
+|<^1T-DOLL PILOT (Lima niner): ^7You better get your asses in gear if you want an evac.>|
 
 |<^1UMP45: ^7Let's move - on me.>|
 
@@ -310,7 +310,7 @@
 
 |<^1UMP45: ^7RPK16... I knew we'd see her again.>|
 
-|<^1UMP40: ^7Her influence spreads like a cancer... Even the Carter does not know what she is truly planning.>|
+|<^1UMP40: ^7Her influence spreads like a cancer... Even Carter does not know what she is truly planning.>|
 
 |<^1UMP40: ^7She must be stopped, 45.>|
 
@@ -326,9 +326,9 @@
 
 |<^1HK416: ^7Lima niner... Where the Hell's our pickup?!!>|
 
-|<^1T-DOLL PILOT: ^7G-11 - Be advised... Griffin forces are engaged in heavy fighting West of DEFY.>|
+|<^1T-DOLL PILOT (Lima niner): ^7G-11 - Be advised... Griffin forces are engaged in heavy fighting West of DEFY.>|
 
-|<^1T-DOLL PILOT: ^7Push through to Rally Point Delta - 2 clicks North on the River.>|
+|<^1T-DOLL PILOT (Lima niner): ^7Push through to Rally Point Delta - 2 clicks North on the River.>|
 
 |<^1HK416: ^7We'll make it... You just be there...>|
 
@@ -340,19 +340,19 @@
 
 |<^1T-DOLL: ^7RT-Texas this is One Five. We need immediate air support at grid seven Delta Oscar Tango!>|
 
-|<^1T-DOLL PILOT: ^7Negative One Five. Our primary objective is DEFY South. Stay with your company.>|
+|<^1T-DOLL PILOT (Texas): ^7Negative One Five. Our primary objective is DEFY South. Stay with your company.>|
 
 |<^1T-DOLL: ^7We don't have a company! We got cut off in the attack!>|
 
-|<^1T-DOLL PILOT: ^7One Five we do not have clearance in that sector. Everyone's in the shit, son.>|
+|<^1T-DOLL PILOT (Texas): ^7One Five we do not have clearance in that sector. Everyone's in the shit, son.>|
 
-|<^1T-DOLL PILOT: ^7One Five we do not have clearance in that grid.>|
+|<^1T-DOLL PILOT (Texas): ^7One Five we do not have clearance in that grid.>|
 
 |<^1T-DOLL: ^7Son of a bitch... Fuck!>|
 
 |<^1T-DOLL: ^7Son of a...>|
 
-|<^1UMP45: ^7Pullbit together, and give me that radio.>|
+|<^1UMP45: ^7Pull it together, and give me that radio.>|
 
 |<^1T-DOLL: ^7What are you... 404?>|
 
@@ -370,7 +370,7 @@
 
 |<^1UMP45: ^7Texas this is Four Zero Four G-11. Priority one ordnance on my command. I authenticate, golf shoe, over.>|
 
-|<^1T-DOLL PILOT: ^7Roger G-11. Let us know where you need us.>|
+|<^1T-DOLL PILOT (Texas): ^7Roger G-11. Let us know where you need us.>|
 
 |<^1T-DOLL: ^7Son of a bitch... Holy shit!>|
 
@@ -380,83 +380,83 @@
 
 |<^1UMP9: ^745, give ME the damned radio if you're not gonna use it.>|
 
-|<^1T-DOLL PILOT: ^7G-11, Texas is standing by.>|
+|<^1T-DOLL PILOT (Texas): ^7G-11, Texas is standing by.>|
 
-|<^1T-DOLL PILOT: ^7Texas, waiting for ordnance command, over.>|
+|<^1T-DOLL PILOT (Texas): ^7Texas, waiting for ordnance command, over.>|
 
-|<^1T-DOLL PILOT: ^7G-11, we have no visual on targets. Request coordinates, over.>|
+|<^1T-DOLL PILOT (Texas): ^7G-11, we have no visual on targets. Request coordinates, over.>|
 
-|<^1T-DOLL PILOT: ^7Roger that G-11, targeting the 2 story building.>|
+|<^1T-DOLL PILOT (Texas): ^7Roger that G-11, targeting the 2 story building.>|
 
-|<^1T-DOLL PILOT: ^7Roger G-11, engaging the 3 story building.>|
+|<^1T-DOLL PILOT (Texas): ^7Roger G-11, engaging the 3 story building.>|
 
-|<^1T-DOLL PILOT: ^7Roger that. Wild fire on the 4 story building.>|
+|<^1T-DOLL PILOT (Texas): ^7Roger that. Wild fire on the 4 story building.>|
 
-|<^1T-DOLL PILOT: ^7Gotcha G-11. Firing on the 5 story building.>|
+|<^1T-DOLL PILOT (Texas): ^7Gotcha G-11. Firing on the 5 story building.>|
 
-|<^1T-DOLL PILOT: ^7Coordinates confirmed. Contact at the 6 story building.>|
+|<^1T-DOLL PILOT (Texas): ^7Coordinates confirmed. Contact at the 6 story building.>|
 
 |<^1UMP45: ^7Texas, I need some heat.>|
 
-|<^1T-DOLL PILOT: ^7Roger that, we are inbound.>|
+|<^1T-DOLL PILOT (Texas): ^7Roger that, we are inbound.>|
 
 |<^1UMP45: ^7Texas, ordnance on my mark.>|
 
-|<^1T-DOLL PILOT: ^7Roger G-11, hold tight.>|
+|<^1T-DOLL PILOT (Texas): ^7Roger G-11, hold tight.>|
 
 |<^1UMP45: ^7Marking coordinates. Take 'em out.>|
 
-|<^1T-DOLL PILOT: ^7Clear G-11. We are engaging.>|
+|<^1T-DOLL PILOT (Texas): ^7Clear G-11. We are engaging.>|
 
 |<^1UMP45: ^7Texas hit that nest right now. Danger close!>|
 
-|<^1T-DOLL PILOT: ^7Comin' in G-11. Keep your heads down.>|
+|<^1T-DOLL PILOT (Texas): ^7Comin' in G-11. Keep your heads down.>|
 
 |<^1UMP45: ^7Target marked. Hit 'em hard.>|
 
-|<^1T-DOLL PILOT: ^7Texas on its way.>|
+|<^1T-DOLL PILOT (Texas): ^7Texas on its way.>|
 
 |<^1UMP45: ^7Texas, your target is tagged.>|
 
-|<^1T-DOLL PILOT: ^7We see you G-11. Support on the way.>|
+|<^1T-DOLL PILOT (Texas): ^7We see you G-11. Support on the way.>|
 
-|<^1T-DOLL PILOT: ^7Negative G-11 we see friendlies on your mark.>|
+|<^1T-DOLL PILOT (Texas): ^7Negative G-11 we see friendlies on your mark.>|
 
-|<^1T-DOLL PILOT: ^7G-11 those coordinates are on friendlies. Confirm, over?>|
+|<^1T-DOLL PILOT (Texas): ^7G-11 those coordinates are on friendlies. Confirm, over?>|
 
-|<^1T-DOLL PILOT: ^7Negative G-11, that is not a valid target.>|
+|<^1T-DOLL PILOT (Texas): ^7Negative G-11, that is not a valid target.>|
 
-|<^1T-DOLL PILOT: ^7That's a negative G-11 - We see RPGs on the rooftops.>|
+|<^1T-DOLL PILOT (Texas): ^7That's a negative G-11 - We see RPGs on the rooftops.>|
 
-|<^1T-DOLL PILOT: ^7G-11 - its too hot! Clear out those RPGs!>|
+|<^1T-DOLL PILOT (Texas): ^7G-11 - its too hot! Clear out those RPGs!>|
 
-|<^1T-DOLL PILOT: ^7Understood G-11. Clear your squad from the area.>|
+|<^1T-DOLL PILOT (Texas): ^7Understood G-11. Clear your squad from the area.>|
 
-|<^1T-DOLL PILOT: ^7Understood G-11. Clear your team from the area.>|
+|<^1T-DOLL PILOT (Texas): ^7Understood G-11. Clear your team from the area.>|
 
 |<^1HK416: ^7Clear the area! Danger close!>|
 
-|<^1T-DOLL PILOT: ^7Affirmative G-11. Clear the area.>|
+|<^1T-DOLL PILOT (Texas): ^7Affirmative G-11. Clear the area.>|
 
 |<^1HK416: ^7First squad, get out of there! Inbound fires on our position.>|
 
-|<^1T-DOLL PILOT: ^7G-11 you have contact on the roof of the 4 story building.>|
+|<^1T-DOLL PILOT (Texas): ^7G-11 you have contact on the roof of the 4 story building.>|
 
-|<^1T-DOLL PILOT: ^7G-11, enemy RPG on the roof.>|
+|<^1T-DOLL PILOT (Texas): ^7G-11, enemy RPG on the roof.>|
 
-|<^1T-DOLL PILOT: ^7Target eliminated.>|
+|<^1T-DOLL PILOT (Texas): ^7Target eliminated.>|
 
-|<^1T-DOLL PILOT: ^7Enemy down.>|
+|<^1T-DOLL PILOT (Texas): ^7Enemy down.>|
 
-|<^1T-DOLL PILOT: ^7Multiple KHA. Zero is clear.>|
+|<^1T-DOLL PILOT (Texas): ^7Multiple KHA. Zero is clear.>|
 
-|<^1T-DOLL PILOT: ^7G-11, the building is secure, over.>|
+|<^1T-DOLL PILOT (Texas): ^7G-11, the building is secure, over.>|
 
-|<^1T-DOLL PILOT: ^7We have multiple confirmed kills at zero. Area secure.>|
+|<^1T-DOLL PILOT (Texas): ^7We have multiple confirmed kills at zero. Area secure.>|
 
-|<^1T-DOLL PILOT: ^7G-11 you are free to proceed. You have superiority.>|
+|<^1T-DOLL PILOT (Texas): ^7G-11 you are free to proceed. You have superiority.>|
 
-|<^1T-DOLL PILOT: ^7G-11 we have control of the building. Move up.>|
+|<^1T-DOLL PILOT (Texas): ^7G-11 we have control of the building. Move up.>|
 
 |<^1UMP40: ^7Excellent!!!>|
 
@@ -482,21 +482,21 @@
 
 |<^1UMP9: ^7That Typhon is killing us! 45, put those birds on it!>|
 
-|<^1T-DOLL PILOT: ^7Affirmative G-11. Texas raining hell.>|
+|<^1T-DOLL PILOT (Texas): ^7Affirmative G-11. Texas raining hell.>|
 
-|<^1T-DOLL PILOT: ^7Roger that G-11. Coming in for a strafing run.>|
+|<^1T-DOLL PILOT (Texas): ^7Roger that G-11. Coming in for a strafing run.>|
 
-|<^1T-DOLL PILOT: ^7Tank destroyed - G-11 you are clear to proceed.>|
+|<^1T-DOLL PILOT (Texas): ^7Tank destroyed - G-11 you are clear to proceed.>|
 
 |<^1HK416: ^7G-11, move out!>|
 
 |<^1HK416: ^7The LZ's half a click away; end of the street.>|
 
-|<^1T-DOLL PILOT: ^7Shit... evasive action... G-11 we are under heavy fire!>|
+|<^1T-DOLL PILOT (Texas): ^7Shit... evasive action... G-11 we are under heavy fire!>|
 
-|<^1T-DOLL PILOT: ^7Evasive action... G-11 we are under heavy fire!>|
+|<^1T-DOLL PILOT (Texas): ^7Evasive action... G-11 we are under heavy fire!>|
 
-|<^1T-DOLL PILOT: ^7G-11 the grid is hot. RT-Texas is pulling out. Take down that anti-air and we will return support, over.>|
+|<^1T-DOLL PILOT (Texas): ^7G-11 the grid is hot. RT-Texas is pulling out. Take down that anti-air and we will return support, over.>|
 
 |<^1UMP45: ^7Understood Texas.>|
 
@@ -558,7 +558,7 @@
 
 |<^1UMP40: ^7Good work, 45!>|
 
-|<^1T-DOLL PILOT: ^7G-11 - Air support is offline while we evacuate the wounded.>|
+|<^1T-DOLL PILOT (Texas): ^7G-11 - Air support is offline while we evacuate the wounded.>|
 
 |<^1HK416: ^7Roger that.>|
 
@@ -566,9 +566,9 @@
 
 |<^1UMP45: ^7I'm not so sure...>|
 
-|<^1T-DOLL PILOT: ^7Get the wounded first.>|
+|<^1T-DOLL PILOT (Texas): ^7Get the wounded first.>|
 
-|<^1T-DOLL PILOT: ^7More birds on their way - sit tight.>|
+|<^1T-DOLL PILOT (Texas): ^7More birds on their way - sit tight.>|
 
 |<^1BASE LOUSPEAKER: ^7Griffin T-Dolls! Your aggression towards the People's Republic of Vietnam will not un punished.>|
 
@@ -650,7 +650,7 @@
 
 |<^1UMP45: ^7Marking coordinates. Delta Squadron - Burn 'em up.>|
 
-|<^1T-DOLL PILOT: ^7Roger G-11. Target run, get your people back.>|
+|<^1T-DOLL PILOT (Delta Squadron): ^7Roger G-11. Target run, get your people back.>|
 
 |<^1UMP9: ^7PBR's here!!!>|
 
@@ -670,17 +670,17 @@
 
 |<^1UMP45: ^7RPK16.>|
 
-|<^1T-DOLL PILOT: ^7Roger G-11 - Standby for strafing run.>|
+|<^1T-DOLL PILOT (Delta Squadron): ^7Roger G-11 - Standby for strafing run.>|
 
-|<^1T-DOLL PILOT: ^7G-11 - We're coming in hot.>|
+|<^1T-DOLL PILOT (Delta Squadron): ^7G-11 - We're coming in hot.>|
 
-|<^1T-DOLL PILOT: ^7G-11, our PBR is a minute out from your position. Hold tight>|
+|<^1T-DOLL PILOT (Delta Squadron): ^7G-11, our PBR is a minute out from your position. Hold tight>|
 
-|<^1T-DOLL PILOT: ^7G-11, your EVAC is on it's way.>|
+|<^1T-DOLL PILOT (Delta Squadron): ^7G-11, your EVAC is on it's way.>|
 
-|<^1T-DOLL PILOT: ^7ETA: 2 minutes>|
+|<^1T-DOLL PILOT (Delta Squadron): ^7ETA: 2 minutes>|
 
-|<^1T-DOLL PILOT: ^7ETA: 1 minute>|
+|<^1T-DOLL PILOT (Delta Squadron): ^7ETA: 1 minute>|
 
 |<ÿÿ>|
 
