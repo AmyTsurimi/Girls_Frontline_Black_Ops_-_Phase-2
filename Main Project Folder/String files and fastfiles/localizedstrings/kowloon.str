@@ -301,7 +301,7 @@ LANG_ENGLISH		"^1AGENT: ^7Been watching the fireworks down here... Did you snatc
 REFERENCE			VOX_KOW1_S07_122A_WEAV
 LANG_ENGLISH		"^1AK-12: ^7Negative... She's dead."
 REFERENCE			VOX_KOW1_S07_123A_WEAV
-LANG_ENGLISH		"^1AK-12: ^7Red Eye out."
+LANG_ENGLISH		"^1AK-12: ^7Anti-Rain out."
 REFERENCE			VOX_KOW1_S07_124A_WEAV
 LANG_ENGLISH		"^1AK-12: ^7Come on M16... I see a way down."
 REFERENCE			VOX_KOW1_S07_125A_WEAV
@@ -313,9 +313,9 @@ LANG_ENGLISH		"^1M16A1: ^7RFB ID'd a civilian T-Doll working for RPK16. Her name
 REFERENCE			VOX_KOW1_S07_300A_WEAV
 LANG_ENGLISH		"^1AK-12: ^7Yamantau."
 REFERENCE			VOX_KOW1_S07_301A_AGT1_F
-LANG_ENGLISH		"^1AGENT: ^7Red Eye we are approaching EVAC. Shit, punch it!"
+LANG_ENGLISH		"^1AGENT: ^7Anti-Rain we are approaching EVAC. Shit, punch it!"
 REFERENCE			VOX_KOW1_S07_301A_AGT1_S_F_S
-LANG_ENGLISH		"^1AGENT: ^7Red Eye we are approaching EVAC. Punch it!"
+LANG_ENGLISH		"^1AGENT: ^7Anti-Rain we are approaching EVAC. Punch it!"
 REFERENCE			VOX_KOW1_S99_128A_CLAR
 LANG_ENGLISH		"^1RFB: ^7This way!"
 REFERENCE			VOX_KOW1_S99_129A_CLAR

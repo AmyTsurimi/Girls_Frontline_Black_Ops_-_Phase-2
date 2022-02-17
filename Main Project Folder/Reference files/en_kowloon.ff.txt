@@ -302,15 +302,15 @@
 
 |<^1AGENT: ^7Roger Anti-Rain... on the way.>|
 
-|<^1AGENT: ^7Red Eye we are approaching EVAC. Shit, punch it!>|
+|<^1AGENT: ^7Anti-Rain we are approaching EVAC. Shit, punch it!>|
 
-|<^1AGENT: ^7Red Eye we are approaching EVAC. Punch it!>|
+|<^1AGENT: ^7Anti-Rain we are approaching EVAC. Punch it!>|
 
 |<^1AGENT: ^7Been watching the fireworks down here... Did you snatch the asset?>|
 
 |<^1AK-12: ^7Negative... She's dead.>|
 
-|<^1AK-12: ^7Red Eye out.>|
+|<^1AK-12: ^7Anti-Rain out.>|
 
 |<^1AK-12: ^7Come on M16... I see a way down.>|
 
