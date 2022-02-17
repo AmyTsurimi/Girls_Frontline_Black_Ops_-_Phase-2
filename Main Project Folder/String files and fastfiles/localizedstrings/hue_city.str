@@ -39,15 +39,15 @@ LANG_ENGLISH		"^1T-DOLL PILOT (Hotel Six): ^7Quad 50! We're hit! We're hit!"
 REFERENCE			VOX_HUE1_S01_015A_USC1_F
 LANG_ENGLISH		"^1T-DOLL PILOT (Hotel Six): ^7Lima niner, we are going down!"
 REFERENCE			VOX_HUE1_S01_017A_USC1_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Hold on!..."
+LANG_ENGLISH		"^1T-DOLL PILOT (Hotel Six): ^7Hold on!..."
 REFERENCE			VOX_HUE1_S01_018A_USC2_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Hotel Six, come back. Hotel Six, do you roger?"
+LANG_ENGLISH		"^1T-DOLL PILOT (Lima niner): ^7Hotel Six, come back. Hotel Six, do you roger?"
 REFERENCE			VOX_HUE1_S01_019A_USC2_F
 LANG_ENGLISH		"^1T-DOLL PILOT: ^7Lima nine, Hotel Six is gone."
 REFERENCE			VOX_HUE1_S01_020A_WOOD_M
 LANG_ENGLISH		"^1HK416: ^7Here. SPAS-12. It'll hold your incendiaries. Where we headed 45?"
 REFERENCE			VOX_HUE1_S01_029A_USC2_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Lima niner is inbound."
+LANG_ENGLISH		"^1T-DOLL PILOT (Lima niner): ^7Lima niner is inbound."
 REFERENCE			VOX_HUE1_S01_030A_BOWM_F
 LANG_ENGLISH		"^1UMP9: ^7G-11, get your heads down!"
 REFERENCE			VOX_HUE1_S01_031A_BOWM_F
@@ -83,7 +83,7 @@ LANG_ENGLISH		"^1HK416: ^7Damn."
 REFERENCE			VOX_HUE1_S01_059A_BOWM
 LANG_ENGLISH		"^1UMP9: ^7Roger that Lima niner."
 REFERENCE			VOX_HUE1_S01_060A_USC2_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7You better get your asses in gear if you want an evac."
+LANG_ENGLISH		"^1T-DOLL PILOT (Lima niner): ^7You better get your asses in gear if you want an evac."
 REFERENCE			VOX_HUE1_S01_067A_WOOD
 LANG_ENGLISH		"^1HK416: ^7We're in Command Central. The exit's on the other side."
 REFERENCE			VOX_HUE1_S01_350A_WOOD
@@ -97,7 +97,7 @@ LANG_ENGLISH		"^1HK416: ^7If she's alive, we'll find her."
 REFERENCE			VOX_HUE1_S01_403A_USC1_F
 LANG_ENGLISH		"^1T-DOLL PILOT (Hotel Six): ^7404 G-11 team, hook up."
 REFERENCE			VOX_HUE1_S01_404A_USC1_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Team on the wire."
+LANG_ENGLISH		"^1T-DOLL PILOT (Hotel Six): ^7Team on the wire."
 REFERENCE			VOX_HUE1_S01_405A_WOOD
 LANG_ENGLISH		"^1HK416: ^7LOOK OUT!!!"
 REFERENCE			VOX_HUE1_S01_406A_WOOD
@@ -121,7 +121,7 @@ LANG_ENGLISH		"^1HK416: ^7Well, if she did, then she's one tough son of a bitch!
 REFERENCE			VOX_HUE1_S01_414A_WOOD_S
 LANG_ENGLISH		"^1HK416: ^7Well, if she did, she's one tough son of a gun!"
 REFERENCE			VOX_HUE1_S01_415A_USC2_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11, this is Lima niner. Anyone who doesn't get out soon, isn't going to; the NVA have overwhelmed the entire North Wing."
+LANG_ENGLISH		"^1T-DOLL PILOT (Lima niner): ^7G-11, this is Lima niner. Anyone who doesn't get out soon, isn't going to; the NVA have overwhelmed the entire North Wing."
 REFERENCE			VOX_HUE1_S01_416A_WOOD
 LANG_ENGLISH		"^1HK416: ^7Roger that Lima niner. Moving on."
 REFERENCE			VOX_HUE1_S01_417A_MASO
@@ -141,7 +141,7 @@ LANG_ENGLISH		"^1UMP45: ^7Let's go."
 REFERENCE			VOX_HUE1_S01_424A_WOOD
 LANG_ENGLISH		"^1HK416: ^7Lima niner - sitrep over!"
 REFERENCE			VOX_HUE1_S01_425A_USC2_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11 - NVA have retaken DEFY South. You are cut off."
+LANG_ENGLISH		"^1T-DOLL PILOT (Lima niner): ^7G-11 - NVA have retaken DEFY South. You are cut off."
 REFERENCE			VOX_HUE1_S01_426A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Let's move - on me."
 REFERENCE			VOX_HUE1_S01_427A_MASO
@@ -187,9 +187,9 @@ LANG_ENGLISH		"^1HK416: ^7What took you so long, 45? That intel better be worth 
 REFERENCE			VOX_HUE1_S01_448A_WOOD
 LANG_ENGLISH		"^1HK416: ^7Lima niner... Where the Hell's our pickup?!!"
 REFERENCE			VOX_HUE1_S01_449A_USC2_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11 - Be advised... Griffin forces are engaged in heavy fighting West of DEFY."
+LANG_ENGLISH		"^1T-DOLL PILOT (Lima niner): ^7G-11 - Be advised... Griffin forces are engaged in heavy fighting West of DEFY."
 REFERENCE			VOX_HUE1_S01_450A_USC2_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Push through to Rally Point Delta - 2 klicks North on the River."
+LANG_ENGLISH		"^1T-DOLL PILOT (Lima niner): ^7Push through to Rally Point Delta - 2 klicks North on the River."
 REFERENCE			VOX_HUE1_S01_451A_WOOD
 LANG_ENGLISH		"^1HK416: ^7We'll make it... You just be there..."
 REFERENCE			VOX_HUE1_S01_452A_WOOD
@@ -227,13 +227,13 @@ LANG_ENGLISH		"^1BASE LOUDSPEAKER: ^7Griffin T-Dolls! Put down your weapons! Thi
 REFERENCE			VOX_HUE1_S02_069A_CROS_M
 LANG_ENGLISH		"^1T-DOLL: ^7RT-Texas this is One Five. We need immediate air support at grid seven Delta Oscar Tango!"
 REFERENCE			VOX_HUE1_S02_070A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Negative One Five. Our primary objective is DEFY South. Stay with your company."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Negative One Five. Our primary objective is DEFY South. Stay with your company."
 REFERENCE			VOX_HUE1_S02_071A_CROS_M
 LANG_ENGLISH		"^1T-DOLL: ^7We don't have a company! We got cut off in the attack!"
 REFERENCE			VOX_HUE1_S02_072A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7One Five we do not have clearance in that sector. Everyone's in the shit, son."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7One Five we do not have clearance in that sector. Everyone's in the shit, son."
 REFERENCE			VOX_HUE1_S02_072A_USC3_S_F_S
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7One Five we do not have clearance in that grid."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7One Five we do not have clearance in that grid."
 REFERENCE			VOX_HUE1_S02_073A_CROS_M
 LANG_ENGLISH		"^1T-DOLL: ^7Son of a bitch... Fuck!"
 REFERENCE			VOX_HUE1_S02_073A_CROS_M_S
@@ -251,7 +251,7 @@ LANG_ENGLISH		"^1T-DOLL: ^7Good luck with that"
 REFERENCE			VOX_HUE1_S02_078A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Texas this is Four Zero Four G-11. Priority one ordnance on my command. I authenticate, golf shoe, over."
 REFERENCE			VOX_HUE1_S02_079A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Roger G-11. Let us know where you need us."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Roger G-11. Let us know where you need us."
 REFERENCE			VOX_HUE1_S02_080A_CROS_M
 LANG_ENGLISH		"^1T-DOLL: ^7Son of a bitch... Holy shit!"
 REFERENCE			VOX_HUE1_S02_080A_CROS_M_S
@@ -261,69 +261,69 @@ LANG_ENGLISH		"^1HK416: ^745, put that ordnance on the buildings!"
 REFERENCE			VOX_HUE1_S02_090A_BOWM
 LANG_ENGLISH		"^1UMP9: ^745, give ME the damned radio if you're not gonna use it."
 REFERENCE			VOX_HUE1_S02_091A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11, Texas is standing by."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7G-11, Texas is standing by."
 REFERENCE			VOX_HUE1_S02_092A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Texas, waiting for ordnance command, over."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Texas, waiting for ordnance command, over."
 REFERENCE			VOX_HUE1_S02_093A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11, we have no visual on targets. Request coordinates, over."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7G-11, we have no visual on targets. Request coordinates, over."
 REFERENCE			VOX_HUE1_S02_094A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Roger that G-11, targeting the 2 story building."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Roger that G-11, targeting the 2 story building."
 REFERENCE			VOX_HUE1_S02_095A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Roger G-11, engaging the 3 story building."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Roger G-11, engaging the 3 story building."
 REFERENCE			VOX_HUE1_S02_096A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Roger that. Wild fire on the 4 story building."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Roger that. Wild fire on the 4 story building."
 REFERENCE			VOX_HUE1_S02_097A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Gotcha G-11. Firing on the 5 story building."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Gotcha G-11. Firing on the 5 story building."
 REFERENCE			VOX_HUE1_S02_098A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Coordinates confirmed. Contact at the 6 story building."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Coordinates confirmed. Contact at the 6 story building."
 REFERENCE			VOX_HUE1_S02_099A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Texas, I need some heat."
 REFERENCE			VOX_HUE1_S02_100A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Roger that, we are inbound."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Roger that, we are inbound."
 REFERENCE			VOX_HUE1_S02_101A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Texas, ordnance on my mark."
 REFERENCE			VOX_HUE1_S02_102A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Roger G-11, hold tight."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Roger G-11, hold tight."
 REFERENCE			VOX_HUE1_S02_103A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Marking coordinates. Take 'em out."
 REFERENCE			VOX_HUE1_S02_104A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Clear G-11. We are engaging."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Clear G-11. We are engaging."
 REFERENCE			VOX_HUE1_S02_105A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Texas hit that nest right now. Danger close!"
 REFERENCE			VOX_HUE1_S02_106A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Comin' in G-11. Keep your heads down."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Comin' in G-11. Keep your heads down."
 REFERENCE			VOX_HUE1_S02_107A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Target marked. Hit 'em hard."
 REFERENCE			VOX_HUE1_S02_108A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Texas on its way."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Texas on its way."
 REFERENCE			VOX_HUE1_S02_109A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Texas, your target is tagged."
 REFERENCE			VOX_HUE1_S02_110A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7We see you G-11. Support on the way."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7We see you G-11. Support on the way."
 REFERENCE			VOX_HUE1_S02_111A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Negative G-11 we see friendlies on your mark."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Negative G-11 we see friendlies on your mark."
 REFERENCE			VOX_HUE1_S02_112A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11 those coordinates are on friendlies. Confirm, over?"
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7G-11 those coordinates are on friendlies. Confirm, over?"
 REFERENCE			VOX_HUE1_S02_113A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Negative G-11, that is not a valid target."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Negative G-11, that is not a valid target."
 REFERENCE			VOX_HUE1_S02_114A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7That's a negative G-11 - We see RPGs on the rooftops."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7That's a negative G-11 - We see RPGs on the rooftops."
 REFERENCE			VOX_HUE1_S02_115A_WOOD
 LANG_ENGLISH		"^1HK416: ^7Clear the area! Danger close!"
 REFERENCE			VOX_HUE1_S02_116A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Affirmative G-11. Clear the area."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Affirmative G-11. Clear the area."
 REFERENCE			VOX_HUE1_S02_117A_WOOD
 LANG_ENGLISH		"^1HK416: ^7First squad, get out of there! Inbound fires on our position."
 REFERENCE			VOX_HUE1_S02_118A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11 you have contact on the roof of the 4 story building."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7G-11 you have contact on the roof of the 4 story building."
 REFERENCE			VOX_HUE1_S02_119A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11, enemy RPG on the roof."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7G-11, enemy RPG on the roof."
 REFERENCE			VOX_HUE1_S02_120A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Target eliminated."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Target eliminated."
 REFERENCE			VOX_HUE1_S02_121A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Enemy down."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Enemy down."
 REFERENCE			VOX_HUE1_S02_122A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Multiple KHA. Zero is clear."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Multiple KHA. Zero is clear."
 REFERENCE			VOX_HUE1_S02_123A_BOWM
 LANG_ENGLISH		"^1UMP9: ^7APC's down! There's a fuckin' tank out there!"
 REFERENCE			VOX_HUE1_S02_123A_BOWM_S
@@ -339,15 +339,15 @@ LANG_ENGLISH		"^1UMP45: ^7Texas we have enemy armor at Victor Zulu Seven Foxtrot
 REFERENCE			VOX_HUE1_S02_128A_BOWM
 LANG_ENGLISH		"^1UMP9: ^7That Typhon is killing us! 45, put those birds on it!"
 REFERENCE			VOX_HUE1_S02_129A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Affirmative G-11. Texas raining hell."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Affirmative G-11. Texas raining hell."
 REFERENCE			VOX_HUE1_S02_130A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Roger that G-11. Coming in for a strafing run."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Roger that G-11. Coming in for a strafing run."
 REFERENCE			VOX_HUE1_S02_133A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Shit... evasive action... G-11 we are under heavy fire!"
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Shit... evasive action... G-11 we are under heavy fire!"
 REFERENCE			VOX_HUE1_S02_133A_USC3_S_F_S
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Evasive action... G-11 we are under heavy fire!"
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Evasive action... G-11 we are under heavy fire!"
 REFERENCE			VOX_HUE1_S02_134A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11 the grid is hot. RT-Texas is pulling out. Take down that anti-air and we will return support, over."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7G-11 the grid is hot. RT-Texas is pulling out. Take down that anti-air and we will return support, over."
 REFERENCE			VOX_HUE1_S02_137A_BOWM
 LANG_ENGLISH		"^1UMP9: ^7I see it! ZSU, second floor, end of street."
 REFERENCE			VOX_HUE1_S02_140A_WOOD
@@ -385,11 +385,11 @@ LANG_ENGLISH		"^1HK416: ^7What are you waiting for?... We need that radio, 45."
 REFERENCE			VOX_HUE1_S02_456A_WOOD
 LANG_ENGLISH		"^1HK416: ^7G-11 - Move out!"
 REFERENCE			VOX_HUE1_S02_457A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7That's a negative G-11 - We see RPGs on the rooftops."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7That's a negative G-11 - We see RPGs on the rooftops."
 REFERENCE			VOX_HUE1_S02_458A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11 - its too hot! Clear out those RPGs!"
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7G-11 - its too hot! Clear out those RPGs!"
 REFERENCE			VOX_HUE1_S02_459A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Understood G-11. Clear your squad from the area."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Understood G-11. Clear your squad from the area."
 REFERENCE			VOX_HUE1_S02_460A_REZN
 LANG_ENGLISH		"^1UMP40: ^7Excellent!!!"
 REFERENCE			VOX_HUE1_S02_461A_REZN
@@ -401,7 +401,7 @@ LANG_ENGLISH		"^1UMP40: ^7[laughs] It is good to fight by your side once more! U
 REFERENCE			VOX_HUE1_S02_464A_REZN
 LANG_ENGLISH		"^1UMP40: ^745! What are you waiting for?!"
 REFERENCE			VOX_HUE1_S02_465A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Tank destroyed - G-11 you are clear to proceed."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Tank destroyed - G-11 you are clear to proceed."
 REFERENCE			VOX_HUE1_S02_466A_WOOD
 LANG_ENGLISH		"^1HK416: ^7G-11, move out!"
 REFERENCE			VOX_HUE1_S02_467A_WOOD
@@ -447,7 +447,7 @@ LANG_ENGLISH		"^1UMP45: ^7We're clear! Ready, 40?"
 REFERENCE			VOX_HUE1_S02_487A_REZN
 LANG_ENGLISH		"^1UMP40: ^7Good work, 45!"
 REFERENCE			VOX_HUE1_S03_488A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11 - Air support is offline while we evacuate the wounded."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7G-11 - Air support is offline while we evacuate the wounded."
 REFERENCE			VOX_HUE1_S03_489A_WOOD
 LANG_ENGLISH		"^1HK416: ^7Roger that."
 REFERENCE			VOX_HUE1_S03_490A_WOOD
@@ -455,9 +455,9 @@ LANG_ENGLISH		"^1HK416: ^7There's our ride."
 REFERENCE			VOX_HUE1_S03_491A_MASO
 LANG_ENGLISH		"^1UMP45: ^7I'm not so sure..."
 REFERENCE			VOX_HUE1_S03_492A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Get the wounded first."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7Get the wounded first."
 REFERENCE			VOX_HUE1_S03_493A_USC3_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7More birds on their way - sit tight."
+LANG_ENGLISH		"^1T-DOLL PILOT (Texas): ^7More birds on their way - sit tight."
 REFERENCE			VOX_HUE1_S03_494A_NVA3
 LANG_ENGLISH		"^1BASE LOUDSPEAKER: ^7Griffin T-Dolls! Your aggression towards the People's Republic of Vietnam will not go unpunished."
 REFERENCE			VOX_HUE1_S03_495A_WOOD
@@ -527,7 +527,7 @@ LANG_ENGLISH		"^1HK416: ^745! - Mark that target!"
 REFERENCE			VOX_HUE1_S03_534A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Marking coordinates. Delta Squadron - Burn 'em up."
 REFERENCE			VOX_HUE1_S03_535A_USP1_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Roger G-11. Target run, get your people back."
+LANG_ENGLISH		"^1T-DOLL PILOT (Delta Squadron): ^7Roger G-11. Target run, get your people back."
 REFERENCE			VOX_HUE1_S03_536A_BOWM
 LANG_ENGLISH		"^1UMP9: ^7PBR's here!!!"
 REFERENCE			VOX_HUE1_S03_537A_WOOD
@@ -559,15 +559,15 @@ LANG_ENGLISH		"^1HK416: ^7Grab that rifle and take out those damn spotters!"
 REFERENCE			VOX_HUE1_S03_553A_WOOD
 LANG_ENGLISH		"^1HK416: ^7They're pounding us 45. Grab that rifle!"
 REFERENCE			VOX_HUE1_S99_800A_USC2_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7Roger G-11 - Standby for strafing run."
+LANG_ENGLISH		"^1T-DOLL PILOT (Delta Squadron): ^7Roger G-11 - Standby for strafing run."
 REFERENCE			VOX_HUE1_S99_801A_USC2_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11 - We're coming in hot."
+LANG_ENGLISH		"^1T-DOLL PILOT (Delta Squadron): ^7G-11 - We're coming in hot."
 REFERENCE			VOX_HUE1_S99_802A_USC4_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11, our PBR is a minute out from your position. Hold tight"
+LANG_ENGLISH		"^1T-DOLL PILOT (Delta Squadron): ^7G-11, our PBR is a minute out from your position. Hold tight"
 REFERENCE			VOX_HUE1_S99_803A_USC4_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7G-11, your EVAC is on it's way."
+LANG_ENGLISH		"^1T-DOLL PILOT (Delta Squadron): ^7G-11, your EVAC is on it's way."
 REFERENCE			VOX_HUE1_S99_804A_USC4_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7ETA: 2 minutes"
+LANG_ENGLISH		"^1T-DOLL PILOT (Delta Squadron): ^7ETA: 2 minutes"
 REFERENCE			VOX_HUE1_S99_805A_USC4_F
-LANG_ENGLISH		"^1T-DOLL PILOT: ^7ETA: 1 minute"
+LANG_ENGLISH		"^1T-DOLL PILOT (Delta Squadron): ^7ETA: 1 minute"
 ENDMARKER
