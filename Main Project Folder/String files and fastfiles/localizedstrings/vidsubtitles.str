@@ -123,17 +123,17 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7No, 45. ^1We don't know what the numbers mean^7
 REFERENCE			KOWLOON_A_VIDEO21
 LANG_ENGLISH		"^1UMP45: ^7Why don't you ask M16? Kowloon was ^1her mission^7. She interrogated RFB."
 REFERENCE			PENTAGON_A_VIDEO11
-LANG_ENGLISH		"^1INTERROGATOR: ^7After your escape, you were assigned to M16A1 at Griffin.\nHow could she trust you when she knew that UMP 40 helped you break out of Vorkuta?"
+LANG_ENGLISH		"^1INTERROGATOR: ^7After your escape, you were assigned to M16A1 at Griffin.\nHow could she trust you when she knew that\nUMP 40 helped you break out of Vorkuta?"
 REFERENCE			PENTAGON_A_VIDEO12
 LANG_ENGLISH		"^1UMP45: ^7UMP40...was my sister...but she didn't make it out."
 REFERENCE			PENTAGON_A_VIDEO13
-LANG_ENGLISH		"^1INTERROGATOR: ^7UMP 40 was a ^1Sangvis Ferri doll^7. How did Griffin know you weren't compromised?"
+LANG_ENGLISH		"^1INTERROGATOR: ^7UMP 40 was a ^1Sangvis Ferri doll^7.\nHow did Griffin know you weren't compromised?"
 REFERENCE			PENTAGON_A_VIDEO14
 LANG_ENGLISH		"^1UMP45: ^7They tested me. They knew I wouldn't break and I won't break now!"
 REFERENCE			PENTAGON_A_VIDEO15
 LANG_ENGLISH		"^1INTERROGATOR: ^7The Commander wanted RPK16. She wanted you to kill her."
 REFERENCE			PENTAGON_A_VIDEO16
-LANG_ENGLISH		"^1UMP45: ^7Yeah, and there were others. Others I was supposed to kill."
+LANG_ENGLISH		"^1UMP45: ^7Yeah, and there were others.\nOthers I was supposed to kill."
 REFERENCE			PENTAGON_A_VIDEO17
 LANG_ENGLISH		"^1INTERROGATOR: ^7Who? Who, 45?"
 REFERENCE			POW_A_VIDEO11
