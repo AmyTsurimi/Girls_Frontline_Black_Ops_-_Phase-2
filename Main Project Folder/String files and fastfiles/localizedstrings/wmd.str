@@ -3,7 +3,7 @@ LANG_ENGLISH		"^L1700 hours,^L ^C1February 18, 1968^C"
 REFERENCE			INTRO_EXTRA
 LANG_ENGLISH		"^LSite suspected of being Project Parapluie development center.^L"
 REFERENCE			INTRO_LEVELNAME
-LANG_ENGLISH		"^Transmission # 13-4-17-23-23.  Designate:  PAPA^L"
+LANG_ENGLISH		"^LTransmission # 13-4-17-23-23.  Designate:  PAPA^L"
 REFERENCE			INTRO_LOCATION
 LANG_ENGLISH		"^LKCCO base is in^L ^C1Yamantau, USSR.^L"
 REFERENCE			INTRO_NAME
