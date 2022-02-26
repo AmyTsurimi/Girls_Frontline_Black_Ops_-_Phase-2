@@ -259,7 +259,7 @@ LANG_ENGLISH		"^1SUOMI: ^7This is T-Doll Suomi."
 REFERENCE			VOX_WMD1_S02_472A_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7She's jamming our radios... She knew we'd be here."
 REFERENCE			VOX_WMD1_S02_473A_STEI_F_M
-LANG_ENGLISH		"^1SUOMI: ^7RPK16 is burying everything and everyone connected to Project Parapluie."
+LANG_ENGLISH		"^1SUOMI: ^7RPK16 is burying ^:everything^7 and ^:everyone^7 connected to Project Parapluie."
 REFERENCE			VOX_WMD1_S02_474A_STEI_F_M
 LANG_ENGLISH		"^1SUOMI: ^7I am sure I will be next."
 REFERENCE			VOX_WMD1_S02_475A_HUDS_M
@@ -267,15 +267,15 @@ LANG_ENGLISH		"^1M16A1: ^7What do you want?"
 REFERENCE			VOX_WMD1_S02_476A_WEAV_M
 LANG_ENGLISH		"^1AK-12: ^7Targets marked across the states..."
 REFERENCE			VOX_WMD1_S02_477A_STEI_F_M
-LANG_ENGLISH		"^1SUOMI: ^7All across Griffin, RPK16 has sleeper cells waiting for the signal to release the Parapluie."
+LANG_ENGLISH		"^1SUOMI: ^7All across Griffin, RPK16 has ^:sleeper cells^7 waiting for the signal to release the ^:Parapluie^7."
 REFERENCE			VOX_WMD1_S02_478A_WEAV_M
 LANG_ENGLISH		"^1AK-12: ^7Weaponized Parapluie."
 REFERENCE			VOX_WMD1_S02_479A_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7The numbers broadcasts - What do they mean?"
 REFERENCE			VOX_WMD1_S02_480A_STEI_F_M
-LANG_ENGLISH		"^1SUOMI: ^7In 36 hours, the sleeper agents will receive their final orders.  Only I can tell you how to stop the broadcast."
+LANG_ENGLISH		"^1SUOMI: ^7In ^:36 hours^7, the sleeper agents will receive their final orders. ^:Only I^7 can tell you how to stop the broadcast."
 REFERENCE			VOX_WMD1_S02_482A_STEI_F_M
-LANG_ENGLISH		"^1SUOMI: ^7I am at Rebirth Island - the Aral Sea... The choice is yours."
+LANG_ENGLISH		"^1SUOMI: ^7I am at ^:Rebirth Island^7 - the Aral Sea... The choice is yours."
 REFERENCE			VOX_WMD1_S02_483A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7We need to leave - Now!"
 REFERENCE			VOX_WMD1_S02_484A_HUDS
