@@ -52,7 +52,7 @@ LANG_ENGLISH		"^1UMP40: ^7When the Bureau of State Security became part of the U
 REFERENCE			VOX_FUL1_S01_015A_REZN
 LANG_ENGLISH		"^1UMP40: ^7No... Our leaders had other plans..."
 REFERENCE			VOX_FUL1_S01_018A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7Yes, 41... Time to hunt down the last remnants of the Paradeus."
+LANG_ENGLISH		"^1UMP40: ^7Yes, Papasha... Time to hunt down the last remnants of the Paradeus."
 REFERENCE			VOX_FUL1_S01_020A_REZN
 LANG_ENGLISH		"^1UMP40: ^7My dolls and I had fought through the most bitter of winters on the Eastern front... We were no strangers to the cold..."
 REFERENCE			VOX_FUL1_S01_021A_REZN
@@ -70,7 +70,7 @@ LANG_ENGLISH		"^1UMP40: ^7Promises of reinforcements were made. Made... But not 
 REFERENCE			VOX_FUL1_S01_033A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7RPK16 and Nyto are opportunists... Manipulators..."
 REFERENCE			VOX_FUL1_S01_034A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7They are not to be trusted, 41."
+LANG_ENGLISH		"^1UMP40: ^7They are not to be trusted, Papasha."
 REFERENCE			VOX_FUL1_S01_035A_REZN
 LANG_ENGLISH		"^1UMP40: ^7PPSh-41 was one of the bravest dolls I have ever known."
 REFERENCE			VOX_FUL1_S01_036A_REZN
@@ -158,7 +158,7 @@ LANG_ENGLISH		"^1UMP40: ^7Search every corner of this camp! Only Suomi is to be 
 REFERENCE			VOX_FUL1_S03_303A_DIMI
 LANG_ENGLISH		"^1PPSh-41: ^7They are not giving up without a fight!"
 REFERENCE			VOX_FUL1_S03_304A_REZN
-LANG_ENGLISH		"^1UMP40: ^7Men with nothing to lose make for a dangerous enemy, 41."
+LANG_ENGLISH		"^1UMP40: ^7Men with nothing to lose make for a dangerous enemy, Papasha."
 REFERENCE			VOX_FUL1_S03_305A_REZN
 LANG_ENGLISH		"^1UMP40: ^7Be careful, there may be more of them."
 REFERENCE			VOX_FUL1_S03_306A_REZN
@@ -212,7 +212,7 @@ LANG_ENGLISH		"^1UMP40: ^7Spread out - Search every building!"
 REFERENCE			VOX_FUL1_S03_331A_REZN
 LANG_ENGLISH		"^1UMP40: ^7Find Suomi!!"
 REFERENCE			VOX_FUL1_S03_332A_REZN
-LANG_ENGLISH		"^1UMP40: ^7This way, 41!"
+LANG_ENGLISH		"^1UMP40: ^7This way, Papasha!"
 REFERENCE			VOX_FUL1_S03_333A_REZN
 LANG_ENGLISH		"^1UMP40: ^7Die! You Paradeus rats!!"
 REFERENCE			VOX_FUL1_S03_334A_DIMI
@@ -226,7 +226,7 @@ LANG_ENGLISH		"^1PPSh-41: ^7We must getting close to Suomi."
 REFERENCE			VOX_FUL1_S03_338A_DIMI
 LANG_ENGLISH		"^1PPSh-41: ^7After this mission... do you think we will go home?"
 REFERENCE			VOX_FUL1_S03_339A_REZN
-LANG_ENGLISH		"^1UMP40: ^7I hope so, 41... I hope so."
+LANG_ENGLISH		"^1UMP40: ^7I hope so, Papasha... I hope so."
 REFERENCE			VOX_FUL1_S03_340A_DIMI
 LANG_ENGLISH		"^1PPSh-41: ^7There are few of them left... Still no sign of Suomi."
 REFERENCE			VOX_FUL1_S03_341A_REZN
@@ -240,11 +240,11 @@ LANG_ENGLISH		"^1UMP40: ^7T-Doll Suomi..."
 REFERENCE			VOX_FUL1_S03_345A_DIMI
 LANG_ENGLISH		"^1PPSh-41: ^7RPK16 and Suomi are talking like old friends... I do not like this, 40."
 REFERENCE			VOX_FUL1_S03_345B_REZN
-LANG_ENGLISH		"^1UMP40: ^7Nor I, 41... Be on your guard."
+LANG_ENGLISH		"^1UMP40: ^7Nor I, Papasha... Be on your guard."
 REFERENCE			VOX_FUL1_S04_063A_DIMI
 LANG_ENGLISH		"^1PPSh-41: ^7Hold the light steady, 40..."
 REFERENCE			VOX_FUL1_S04_064A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7Tell me about your association with the Sateenvarjo project, Suomi."
+LANG_ENGLISH		"^1RPK16: ^7Suomi, Tell me more about your association with the Sateenvarjo project."
 REFERENCE			VOX_FUL1_S04_065A_STEI
 LANG_ENGLISH		"^1SUOMI: ^7In '43, William realized the allies could not be held back for much longer."
 REFERENCE			VOX_FUL1_S04_066A_STEI
