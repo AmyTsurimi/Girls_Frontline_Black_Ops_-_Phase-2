@@ -340,7 +340,7 @@
 
 |<^1AK-12: ^7Weapons free! Weapons free!>|
 
-|<^1AK-12: ^7M16, flank left with me. There is cover!>|
+|<^1AK-12: ^7M16, flank left! There is cover!>|
 
 |<^1AK-12: ^7In here. This is where Suomi will be.>|
 
