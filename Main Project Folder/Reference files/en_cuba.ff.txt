@@ -1,4 +1,4 @@
-|<Your actions caused your team to be killed. >|
+ngs"|<Your actions caused your team to be killed. >|
 
 |<Zipline>|
 
@@ -114,7 +114,7 @@
 
 |<Press ^3[{+breath_sprint}]^7 to sprint>|
 
-|<^1INTERROGATOR: ^7She's fading away. UMP45! You had escaped from the police. 
+|<^1INTERROGATOR: ^7She's fading away. 45! You had escaped from the police. 
 The Bay of Pigs invasion had begun. You were heading for Castro's compound.>|
 
 |<^1INTERROGATOR: ^7We're losing her. Do it again, we have no choice.>|
