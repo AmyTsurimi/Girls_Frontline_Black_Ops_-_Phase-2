@@ -1,4 +1,4 @@
-REFERENCE			INTROSCREEN_DATE
+:REFERENCE			INTROSCREEN_DATE
 LANG_ENGLISH		"^L0500 hrs ^L ^C1 April 17, 1961 ^C"
 REFERENCE			INTROSCREEN_PLACE
 LANG_ENGLISH		"^LOP 404 team inserted with^L ^C1Bay of Pigs^C ^Lforces in^L ^C1Cuba^C^L"
@@ -153,7 +153,7 @@ LANG_ENGLISH		"^1HK416: ^7We ain't got time to waste."
 REFERENCE			VOX_CUB1_S01_531A_WOOD
 LANG_ENGLISH		"^1HK416: ^7Hurry it up."
 REFERENCE			VOX_CUB1_S01_950A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7She's fading away. UMP45! You had escaped from the police.\nThe Bay of Pigs invasion had begun. You were heading for Castro's compound."
+LANG_ENGLISH		"^1INTERROGATOR: ^7She's fading away. 45! You had escaped from the police.\nThe Bay of Pigs invasion had begun. You were heading for Castro's compound."
 REFERENCE			VOX_CUB1_S01_951A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Blyat... We're losing her! Do it again, we have no choice."
 REFERENCE			VOX_CUB1_S01_952A_MASO
