@@ -154,7 +154,7 @@
 
 |<^1PPSh-41: ^740... It is time.>|
 
-|<^1UMP40: ^7Yes, 41... Time to hunt down the last remnants of the Paradeus.>|
+|<^1UMP40: ^7Yes, Papasha... Time to hunt down the last remnants of the Paradeus.>|
 
 |<^1PPSh-41: ^7Alpha... Grab the gear... We are moving out.>|
 
@@ -188,7 +188,7 @@
 
 |<^1UMP40: ^7RPK16 and Nyto are opportunists... Manipulators...>|
 
-|<^1UMP40: ^7They are not to be trusted, 41.>|
+|<^1UMP40: ^7They are not to be trusted, Papasha.>|
 
 |<^1UMP40: ^7PPSh-41 was one of the bravest dolls I have ever known.>|
 
@@ -216,7 +216,7 @@
 
 |<^1PPSh-41: ^7They are not giving up without a fight!>|
 
-|<^1UMP40: ^7Men with nothing to lose make for a dangerous enemy, 41.>|
+|<^1UMP40: ^7Men with nothing to lose make for a dangerous enemy, Papasha.>|
 
 |<^1UMP40: ^7Be careful, there may be more of them.>|
 
@@ -276,7 +276,7 @@
 
 |<^1UMP40: ^7Find Suomi!!>|
 
-|<^1UMP40: ^7This way, 41!>|
+|<^1UMP40: ^7This way, Papasha!>|
 
 |<^1UMP40: ^7Die! You Paradeus rats!!>|
 
@@ -290,7 +290,7 @@
 
 |<^1PPSh-41: ^7After this mission... do you think we will go home?>|
 
-|<^1UMP40: ^7I hope so, 41... I hope so.>|
+|<^1UMP40: ^7I hope so, Papasha... I hope so.>|
 
 |<^1PPSh-41: ^7There are few of them left... Still no sign of Suomi.>|
 
@@ -318,7 +318,7 @@
 
 |<^1PPSh-41: ^7RPK16 and Suomi are talking like old friends... I do not like this, 40.>|
 
-|<^1UMP40: ^7Nor I, 41... Be on your guard.>|
+|<^1UMP40: ^7Nor I, Papasha... Be on your guard.>|
 
 |<^1SUOMI: ^7We must hurry... There are Paradeus who would sooner see it destroyed than captured...>|
 
@@ -552,7 +552,7 @@
 
 |<^1UMP40: ^745, listen to me...>|
 
-|<^1UMP40: ^7We are running out of time, my friend...>|
+|<^1UMP40: ^7We are running out of time, my sister...>|
 
 |<^1UMP40: ^7They will you use you as they used me. Can you trust your Commander to destroy this weapon?... Or do you think they will use it?>|
 
