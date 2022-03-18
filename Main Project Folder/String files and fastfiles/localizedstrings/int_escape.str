@@ -63,7 +63,7 @@ LANG_ENGLISH		"^1M16A1: ^7Dammit! Why can't you remember?!"
 REFERENCE			VOX_INT1_S01_009A_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^740's DEAD, 45! Do you hear me?!!! ^1She's dead^7!!! AK-12's right...we are out of time."
 REFERENCE			VOX_INT1_S01_010A_HUDS_M
-LANG_ENGLISH		"^1M16A1: ^7The KCCO fucked you up... I know you...you're not a traitor."
+LANG_ENGLISH		"^1M16A1: ^7The KCCO fucked you up... I know you... You're not a traitor."
 REFERENCE			VOX_INT1_S01_015A_DRAG
 LANG_ENGLISH		"^1RPK16: ^7Wait a few moments... Let her rest."
 REFERENCE			VOX_INT1_S01_016A_DRAG
@@ -73,11 +73,11 @@ LANG_ENGLISH		"^1SUOMI: ^7The subject has been successfully implanted with ^1the
 REFERENCE			VOX_INT1_S01_018A_DRAG_M
 LANG_ENGLISH		"^1RPK16: ^7So - what is the problem?"
 REFERENCE			VOX_INT1_S01_019A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7Her responses to our orders have been - ^1sporadic^7. ^1Unpredictable^7. She shows a remarkable ^1resilience^7."
+LANG_ENGLISH		"^1SUOMI: ^7Her responses to our orders have been - ^1sporadic^7. ^1Unpredictable^7.\nShe shows a remarkable ^1resilience^7."
 REFERENCE			VOX_INT1_S01_020A_DRAG_M
 LANG_ENGLISH		"^1RPK16: ^7Why?"
 REFERENCE			VOX_INT1_S01_021A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7She is ^1unusual^7... ^1atypical^7. Few dolls possess such will... Our other test subjects have been far more successful."
+LANG_ENGLISH		"^1SUOMI: ^7She is ^1unusual^7... ^1atypical^7. Few dolls possess such will...\nOur other test subjects have been far more successful."
 REFERENCE			VOX_INT1_S01_022A_DRAG
 LANG_ENGLISH		"^1RPK16: ^7If she will not follow ^1the orders embedded in the numbers^7, then she is of no use to me..."
 REFERENCE			VOX_INT1_S01_023A_DRAG
@@ -93,7 +93,7 @@ LANG_ENGLISH		"^1M16A1: ^7She was ^1never in the rat tunnels^7."
 REFERENCE			VOX_INT1_S01_303A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7She was ^1never at Rebirth Island^7!"
 REFERENCE			VOX_INT1_S01_082B_HUDS_M
-LANG_ENGLISH		"^1M16A1: ^7UMP 40's been dead for 5 years.^1 She died at Vorkuta during the escape^7! All the years you thought she was with you - that was ^1just in your digimind^7!"
+LANG_ENGLISH		"^1M16A1: ^7UMP 40's been dead for 5 years.^1 She died at Vorkuta during the escape^7!\nAll the years you thought she was with you - that was ^1just in your digimind^7!"
 REFERENCE			VOX_INT1_S01_083A_MASO_M
 LANG_ENGLISH		"^1UMP45: ^7I trusted her."
 REFERENCE			VOX_INT1_S01_084B_HUDS_M
@@ -111,7 +111,7 @@ LANG_ENGLISH		"^1M16A1: ^7We have the broadcasts, we played them to you over and
 REFERENCE			VOX_INT1_S01_088C_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^745, ^1this is our last shot^7. Listen, for God's sake listen again."
 REFERENCE			VOX_INT1_S01_094A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7...[indistinct] all agents.  Our new allies in Cuba have graciously permitted the construction of a new... and ^1permanent^7... ^1broadcast station^7 within their borders."
+LANG_ENGLISH		"^1RPK16: ^7...[indistinct] all agents.\nOur new allies in Cuba have graciously permitted the construction of a new... and ^1permanent^7... ^1broadcast station^7 within their borders."
 REFERENCE			VOX_INT1_S01_094B_DRAG
 LANG_ENGLISH		"^1RPK16: ^7...permanent... broadcast station within their borders."
 REFERENCE			VOX_INT1_S01_095A_DRAG
@@ -119,7 +119,7 @@ LANG_ENGLISH		"^1RPK16: ^7From now until Project Parapluie's initiation, all ins
 REFERENCE			VOX_INT1_S01_095B_DRAG
 LANG_ENGLISH		"^1RPK16: ^7...all instructions will be broadcast from the ^1Rusalka^7."
 REFERENCE			VOX_INT1_S01_096A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7Our plan to strike at the very heart of the Griffin is now in motion."
+LANG_ENGLISH		"^1RPK16: ^7Our plan to strike at the very heart of Griffin is now in motion."
 REFERENCE			VOX_INT1_S01_097A_DRAG
 LANG_ENGLISH		"^1RPK16: ^7Await further instructions."
 REFERENCE			VOX_INT1_S01_104B_MASO_M
