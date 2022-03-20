@@ -55,9 +55,9 @@ LANG_ENGLISH		"^1RFB: ^7RPK16 doesn't like loose ends... I've never even dealt w
 REFERENCE			VOX_KOW1_S01_012A_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7What was the nature of your business?"
 REFERENCE			VOX_KOW1_S01_013A_CLAR_M
-LANG_ENGLISH		"^1RFB: ^7I was hired to help stabilize certain "backdoor conversion"."
+LANG_ENGLISH		"^1RFB: ^7I was hired to help stabilize certain "backdoor conversions"."
 REFERENCE			VOX_KOW1_S01_014A_HUDS_M
-LANG_ENGLISH		"^1M16A1: ^7What kind of backdoor?!"
+LANG_ENGLISH		"^1M16A1: ^7What kind of backdoors?!"
 REFERENCE			VOX_KOW1_S01_015A_CLAR_M
 LANG_ENGLISH		"^1RFB: ^7Parapluie. A Sangvis Ferri virus."
 REFERENCE			VOX_KOW1_S01_017A_CLAR_M
@@ -145,7 +145,7 @@ LANG_ENGLISH		"^1RFB: ^7Here, help me move this!"
 REFERENCE			VOX_KOW1_S04_051A_CLAR
 LANG_ENGLISH		"^1RFB: ^7Grab what you need - They'll be here before you know it."
 REFERENCE			VOX_KOW1_S04_052A_HUDS_M
-LANG_ENGLISH		"^1M16A1: ^7You are very well prepared for a scraped doll."
+LANG_ENGLISH		"^1M16A1: ^7You are very well prepared for a scrapped doll."
 REFERENCE			VOX_KOW1_S04_053A_CLAR_M
 LANG_ENGLISH		"^1RFB: ^7Just because I accept the inevitability of my fate does not mean I'm in any hurry to embrace it!"
 REFERENCE			VOX_KOW1_S04_053B_CLAR_M
