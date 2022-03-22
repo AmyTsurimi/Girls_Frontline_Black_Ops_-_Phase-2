@@ -167,7 +167,7 @@ LANG_ENGLISH		"^1UMP45: ^7We are all comrades...we are all prisoners...Laos..."
 REFERENCE			POW_A_VIDEO25
 LANG_ENGLISH		"^1INTERROGATOR: ^7She's gone."
 REFERENCE			REBIRTH_A_VIDEO11
-LANG_ENGLISH		"^1INTERROGATOR: ^7RPK16's sleeper cells are on ^1Griffin bases^7. ^1Parapluie is weaponized^7. They will use it.\nKCCO has gone dark. We are ^1out of options^7. A pre-emptive strike on USSR is prepared. ^1The Commander ^:WILL ^1authorize^7."
+LANG_ENGLISH		"^1INTERROGATOR: ^7RPK16's sleeper cells are on ^1Griffin bases^7. ^1Parapluie is weaponized^7. They will use it.\nKCCO has gone dark. We are ^1out of options^7. A pre-emptive strike on Neo-USSR is prepared. ^1The Commander ^:WILL ^1authorize^7."
 REFERENCE			REBIRTH_A_VIDEO12
 LANG_ENGLISH		"^1INTERROGATOR: ^7UMP45! For the last time! ^1Where is the numbers station^7?!"
 REFERENCE			REBIRTH_A_VIDEO13
@@ -191,7 +191,7 @@ LANG_ENGLISH		"^1UMP45: ^7Griffin downed a KCCO cargo plane carrying Parapluie. 
 REFERENCE			RIVER_A_VIDEO18
 LANG_ENGLISH		"^1INTERROGATOR: ^7What happened?"
 REFERENCE			RIVER_A_VIDEO19
-LANG_ENGLISH		"^1UMP45: ^7I...keep...hearing...the fucking...numbers..."
+LANG_ENGLISH		"^1UMP45: ^7I...keep...hearing...the fucking...numbers...!"
 REFERENCE			RIVER_A_VIDEO20
 LANG_ENGLISH		"^1INTERROGATOR: ^7It's a broadcast, 45. The broadcast."
 REFERENCE			SO_NARRATIVE5_A_VIDEO11
@@ -205,15 +205,15 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7Just you UMP45."
 REFERENCE			SO_NARRATIVE5_A_VIDEO15
 LANG_ENGLISH		"^1UMP45: ^7No, no... 40 is still with me...since Vorkuta!"
 REFERENCE			UNDERWATERBASE_A_VIDEO11
-LANG_ENGLISH		"^1COMMANDER: ^7We are in grave danger from the Sangvis Ferri. Our freedom... Our very way of life is at risk."
+LANG_ENGLISH		"^1COMMANDER: ^7We are in grave danger from the ^:Sangvis Ferri^7. Our freedom... Our very way of life is at risk."
 REFERENCE			UNDERWATERBASE_A_VIDEO12
-LANG_ENGLISH		"^1RPK16: ^7Our plan to strike at the very heart of Griffin is now in motion."
+LANG_ENGLISH		"^1RPK16: ^7Our plan to strike at ^1the very heart of Griffin:7 is now in motion."
 REFERENCE			UNDERWATERBASE_A_VIDEO13
 LANG_ENGLISH		"^1UMP40: ^7She must be stopped, 45."
 REFERENCE			UNDERWATERBASE_A_VIDEO14
 LANG_ENGLISH		"^1SPRINGFIELD: ^7She has no fear. No conscience. No weakness."
 REFERENCE			UNDERWATERBASE_A_VIDEO15
-LANG_ENGLISH		"^1SUOMI: ^7All across Griffin, RPK16 has sleeper cells waiting for the signal to release the Parapluie."
+LANG_ENGLISH		"^1SUOMI: ^7All across Griffin, RPK16 has ^:sleeper cells^7 waiting for the signal to release the Parapluie."
 REFERENCE			UNDERWATERBASE_A_VIDEO16
 LANG_ENGLISH		"^1COMMANDER: ^7I'm told that you are the very best that we have. Anywhere."
 REFERENCE			UNDERWATERBASE_A_VIDEO17
@@ -221,7 +221,7 @@ LANG_ENGLISH		"^1UMP40: ^7RPK16... Nyto... Suomi..."
 REFERENCE			UNDERWATERBASE_A_VIDEO18
 LANG_ENGLISH		"^1COMMANDER: ^7You will need to be."
 REFERENCE			UNDERWATERBASE_A_VIDEO19
-LANG_ENGLISH		"^1UMP40: ^7These Dolls must die..."
+LANG_ENGLISH		"^1UMP40: ^7These ^:Dolls^7 must die..."
 REFERENCE			UNDERWATERBASE_A_VIDEO20
 LANG_ENGLISH		"^1COMMANDER: ^7Miss UMP 45..."
 REFERENCE			VORKUTA_A_VIDEO11
@@ -229,7 +229,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7Why didn't Castro just kill you? Why did he giv
 REFERENCE			VORKUTA_A_VIDEO12
 LANG_ENGLISH		"^1UMP45: ^7Cause, Castro and RPK16 were working together."
 REFERENCE			VORKUTA_A_VIDEO13
-LANG_ENGLISH		"^1INTERROGATOR: ^7Eh... You were ^1a gift^7."
+LANG_ENGLISH		"^1INTERROGATOR: ^7Eh... You were ^:a gift^7."
 REFERENCE			VORKUTA_A_VIDEO14
 LANG_ENGLISH		"^1UMP45: ^7Eh... Right..."
 REFERENCE			VORKUTA_A_VIDEO15
@@ -243,7 +243,7 @@ LANG_ENGLISH		"^1UMP45: ^7I was on my own -- almost a year."
 REFERENCE			VORKUTA_A_VIDEO19
 LANG_ENGLISH		"^1INTERROGATOR: ^7Think, 45...what did they do to you?"
 REFERENCE			VORKUTA_A_VIDEO20
-LANG_ENGLISH		"^1UMP45: ^7I'd given up hope of ever getting out... but UMP 40 found a way."
+LANG_ENGLISH		"^1UMP45: ^7I'd given up hope of ever getting out... but ^:UMP 40^7 found a way."
 REFERENCE			WMD_A_VIDEO11
 LANG_ENGLISH		"^1INTERROGATOR: ^7M16A1 led the attack on Yamantau."
 REFERENCE			WMD_A_VIDEO12
@@ -259,7 +259,7 @@ LANG_ENGLISH		"^1UMP45: ^7That's where M16 was contacted by Suomi -- the T-Doll 
 REFERENCE			WMD_B_VIDEO15
 LANG_ENGLISH		"^1INTERROGATOR: ^7M16A1 learned about ^1the numbers^7 there. The broadcasts -- I've been there, 45. I've been to the Yamantau complex."
 REFERENCE			WMD_B_VIDEO16
-LANG_ENGLISH		"^1UMP45: ^7Oh my God... ^1The numbers are REAL^7...!"
+LANG_ENGLISH		"^1UMP45: ^7Oh my God... ^:The numbers are REAL^7...!"
 REFERENCE			WMD_B_VIDEO17
 LANG_ENGLISH		"^1INTERROGATOR: ^7They've always been real, 45. ^1This isn't a game^7. We face annihilation unless you cooperate. Where is the broadcast station?!"
 ENDMARKER
