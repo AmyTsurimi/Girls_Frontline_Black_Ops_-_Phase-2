@@ -137,17 +137,17 @@ LANG_ENGLISH		"^1NYTO: ^7February 4th, 1968. The backdoor code supplied by T-Dol
 REFERENCE			VOX_CRE1_S01_455A_KRAV
 LANG_ENGLISH		"^1NYTO: ^7Recent field tests on the local population have shown this to be the most effective version of Parapluie produced thus far."
 REFERENCE			VOX_CRE1_S01_456A_KRAV
-LANG_ENGLISH		"^1NYTO: ^7As with previous simulation tests at Rebirth, the onset of symptoms in dolls subjects is exactly in line with our expectations."
+LANG_ENGLISH		"^1NYTO: ^7As with previous simulation tests at Rebirth, the onset of symptoms in doll subjects is exactly in line with our expectations."
 REFERENCE			VOX_CRE1_S01_457A_KRAV
-LANG_ENGLISH		"^1NYTO: ^7Within thirty seconds of infection the virus, subjects experience sudden and severe firewall breach, quickly followed by significant drop in digimind processing, leading to formating incoming OGAS data."
+LANG_ENGLISH		"^1NYTO: ^7Within thirty seconds of infection the virus, subjects experience a sudden and severe firewall breach, quickly followed by a significant drop in digimind processing, leading to formatting incoming OGAS data."
 REFERENCE			VOX_CRE1_S01_458A_KRAV
 LANG_ENGLISH		"^1NYTO: ^7After sixty seconds, rewriting of the digimind begins, followed by driver installation, updating, and transmission activation across the digimind... Effectively signaling the onset of Sangvis Ferri conversion."
 REFERENCE			VOX_CRE1_S01_459A_KRAV
-LANG_ENGLISH		"^1NYTO: ^7At this stage we have had limited success, by way of aggressive driver defragmentation, in keeping subjects controlable for short periods."
+LANG_ENGLISH		"^1NYTO: ^7At this stage we have had limited success, by way of aggressive driver defragmentation, in keeping subjects controllable for short periods."
 REFERENCE			VOX_CRE1_S01_460A_KRAV
-LANG_ENGLISH		"^1NYTO: ^7But even the fysical removal of infected digimind is not enough to prevent further spread."
+LANG_ENGLISH		"^1NYTO: ^7But even the physical removal of the infected digimind is not enough to prevent further spread."
 REFERENCE			VOX_CRE1_S01_461A_KRAV
-LANG_ENGLISH		"^1NYTO: ^7While the speed of infection appears to be consistent across T-Dolls, we have observed a more aggressive rate of formating of civilian dolls, usually leading to conversion within thirty to forty five seconds."
+LANG_ENGLISH		"^1NYTO: ^7While the speed of infection appears to be consistent across T-Dolls, we have observed a more aggressive rate of formatting of civilian dolls, usually leading to conversion within thirty to forty five seconds."
 REFERENCE			VOX_CRE1_S01_462A_KRAV
 LANG_ENGLISH		"^1NYTO: ^7We have every indication that we now have a workable code which is effective, even in the Zener network."
 REFERENCE			VOX_CRE1_S01_463A_KRAV
@@ -163,7 +163,7 @@ LANG_ENGLISH		"^1UMP40: ^7More than you could ever count, 45."
 REFERENCE			VOX_CRE1_S01_468A_MASO
 LANG_ENGLISH		"^1UMP45: ^7She's using war atrocities as a smokescreen for her experiments..."
 REFERENCE			VOX_CRE1_S01_469A_MASO
-LANG_ENGLISH		"^1UMP45: ^7Nyto's trying make it look like the Griffin is behind this."
+LANG_ENGLISH		"^1UMP45: ^7Nyto's trying make it look like Griffin is behind this."
 REFERENCE			VOX_CRE1_S01_470A_MASO
 LANG_ENGLISH		"^1UMP45: ^7She must have had supplies lowered in through here."
 REFERENCE			VOX_CRE1_S01_471A_MASO
@@ -211,7 +211,7 @@ LANG_ENGLISH		"^1HK416: ^745, you need to plant that charge."
 REFERENCE			VOX_CRE1_S01_490A_WOOD
 LANG_ENGLISH		"^1HK416: ^7Get back there and plant that charge..."
 REFERENCE			VOX_CRE1_S01_491A_WOOD
-LANG_ENGLISH		"^1HK416: ^7We need to plant the C4 45..."
+LANG_ENGLISH		"^1HK416: ^7We need to plant the C4, 45..."
 REFERENCE			VOX_CRE1_S01_492A_WOOD
 LANG_ENGLISH		"^1HK416: ^7Stay low..."
 REFERENCE			VOX_CRE1_S01_497A_BOWM_F
@@ -427,7 +427,7 @@ LANG_ENGLISH		"^1UMP45: ^7Hold."
 REFERENCE			VOX_CRE1_S04_160A_MASO
 LANG_ENGLISH		"^1UMP45: ^740... you nearly took a bullet."
 REFERENCE			VOX_CRE1_S04_161A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7No one fights alone 45"
+LANG_ENGLISH		"^1UMP40: ^7No one fights alone, 45."
 REFERENCE			VOX_CRE1_S04_162A_MASO
 LANG_ENGLISH		"^1UMP45: ^7All right, but move quietly!"
 REFERENCE			VOX_CRE1_S04_163A_SWIF_M
@@ -449,11 +449,11 @@ LANG_ENGLISH		"^1UMP40: ^7Where is your friend Zeta?"
 REFERENCE			VOX_CRE1_S04_168A_MASO_M
 LANG_ENGLISH		"^1UMP45: ^7Dead."
 REFERENCE			VOX_CRE1_S04_171A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7Your turn my friend. I will follow."
+LANG_ENGLISH		"^1UMP40: ^7Your turn my sister. I will follow."
 REFERENCE			VOX_CRE1_S04_172A_REZN
 LANG_ENGLISH		"^1UMP40: ^7Careful 45... I hear the enemy."
 REFERENCE			VOX_CRE1_S04_173A_REZN
-LANG_ENGLISH		"^1UMP40: ^7Good work my friend."
+LANG_ENGLISH		"^1UMP40: ^7Good work my sister."
 REFERENCE			VOX_CRE1_S04_188A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Shit."
 REFERENCE			VOX_CRE1_S04_188A_MASO_S
