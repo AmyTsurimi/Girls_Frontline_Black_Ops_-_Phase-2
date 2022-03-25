@@ -79,9 +79,9 @@ LANG_ENGLISH		"^1UMP45: ^7Her protection team had gone dark. ^1I couldn't accept
 REFERENCE			INT_ESCAPE_A_VIDEO11
 LANG_ENGLISH		"^1UMP40: ^745, my sister... Tell me..."
 REFERENCE			INT_ESCAPE_A_VIDEO12
-LANG_ENGLISH		"^1UMP40: ^7What is left to believe in, when you are ^1betrayed^7 by your own?"
+LANG_ENGLISH		"^1UMP40: ^7What is left to believe in, when you are ^1discarded^7 by your owners?"
 REFERENCE			INT_ESCAPE_A_VIDEO13
-LANG_ENGLISH		"^1UMP40: ^7When all that you are, all that you have done, is buried beneath the lies and the deceit of corrupt men."
+LANG_ENGLISH		"^1UMP40: ^7When all that you are, all that you have done, is coverd up by the lies and the deceit of corrupt men."
 REFERENCE			INT_ESCAPE_A_VIDEO14
 LANG_ENGLISH		"^1UMP40: ^7I will die in this wretched place... The only thing that keeps me alive is the thirst for ^1Vengeance^7."
 REFERENCE			INT_ESCAPE_A_VIDEO15
@@ -167,7 +167,7 @@ LANG_ENGLISH		"^1UMP45: ^7We are all comrades...we are all prisoners...Laos..."
 REFERENCE			POW_A_VIDEO25
 LANG_ENGLISH		"^1INTERROGATOR: ^7She's gone."
 REFERENCE			REBIRTH_A_VIDEO11
-LANG_ENGLISH		"^1INTERROGATOR: ^7RPK16's sleeper cells are on ^1Griffin bases^7. ^1Parapluie is weaponized^7. They will use it.\nKCCO has gone dark. We are ^1out of options^7. A pre-emptive strike on Neo-USSR is prepared. ^1The Commander ^:WILL ^1authorize^7."
+LANG_ENGLISH		"^1INTERROGATOR: ^7RPK16's sleeper cells are on ^1Griffin bases^7. ^1Parapluie is weaponized^7. They will use it.\nKCCO has gone dark. We are ^1out of options^7. A pre-emptive strike on USSR is prepared. ^1The Commander ^:WILL ^1authorize^7."
 REFERENCE			REBIRTH_A_VIDEO12
 LANG_ENGLISH		"^1INTERROGATOR: ^7UMP45! For the last time! ^1Where is the numbers station^7?!"
 REFERENCE			REBIRTH_A_VIDEO13
@@ -255,7 +255,7 @@ LANG_ENGLISH		"^1UMP45: ^7She went to ^1Mt. Yamantau^7 -- fuckin' KCCO doomsday 
 REFERENCE			WMD_B_VIDEO13
 LANG_ENGLISH		"^1INTERROGATOR: ^7That's right. A fully operational military complex buried deep in the Ural Mountains."
 REFERENCE			WMD_B_VIDEO14
-LANG_ENGLISH		"^1UMP45: ^7That's where M16 was contacted by Suomi -- the T-Doll that developed the initial program of Parapluie for RPK16 --"
+LANG_ENGLISH		"^1UMP45: ^7That's where M16 was contacted by Suomi -- the T-Doll that developed the initial code of Parapluie for RPK16 --"
 REFERENCE			WMD_B_VIDEO15
 LANG_ENGLISH		"^1INTERROGATOR: ^7M16A1 learned about ^1the numbers^7 there. The broadcasts -- I've been there, 45. I've been to the Yamantau complex."
 REFERENCE			WMD_B_VIDEO16

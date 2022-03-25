@@ -45,9 +45,9 @@ LANG_ENGLISH		"^1UMP45: ^7Never thought I'd see you ^1alive^7..."
 REFERENCE			VOX_INT1_S01_001A_WEAV
 LANG_ENGLISH		"^1INTERROGATOR: ^7It is no use... we are out of time!"
 REFERENCE			VOX_INT1_S01_002A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7We can't give up now. ^1She was at Vorkuta^7. She knows how to translate the codes. She's heard the broadcasts which we know contain the location. It's all in her head somewhere. ^1She does know where it is^7!"
+LANG_ENGLISH		"^1INTERROGATOR: ^7We can't give up now. ^1She was at Vorkuta^7. She knows how to translate the codes. She's heard the broadcasts which we know contain the location. It's all in her cloud somewhere. ^1She does know where it is^7!"
 REFERENCE			VOX_INT1_S01_002B_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7NO! We can't give up now. She was at Vorkuta. She knows how to translate the codes. She's heard the broadcasts which we know contains the location. It's all in her head somewhere. She does know where it is!"
+LANG_ENGLISH		"^1INTERROGATOR: ^7NO! We can't give up now. She was at Vorkuta. She knows how to translate the codes. She's heard the broadcasts which we know contains the location. It's all in her cloud somewhere. She does know where it is!"
 REFERENCE			VOX_INT1_S01_003A_WEAV
 LANG_ENGLISH		"^1INTERROGATOR: ^7We have to get to the bunker!  We're at ^1DEFCON 2^7... You've tried everything..."
 REFERENCE			VOX_INT1_S01_004A_INTE
