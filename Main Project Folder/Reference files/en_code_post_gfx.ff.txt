@@ -8402,7 +8402,7 @@ Marketplace>|
 
 |<^1UMP40: ^7What is left to believe in, when you are betrayed by your own?>|
 
-|<^1UMP40: ^7When all that you are, all that you have done, is buried beneath the lies and the deceit of corrupt men.>|
+|<^1UMP40: ^7When all that you are, all that you have done, is coverd up by the lies and the deceit of corrupt men.>|
 
 |<^1UMP40: ^7I will die in this wretched place... The only thing that keeps me alive is the thirst for Vengeance.>|
 
@@ -8576,7 +8576,7 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7That's right. A fully operational military complex buried deep in the Ural Mountains.>|
 
-|<^1UMP45: ^7That's where M16 was contacted by Suomi -- the T-Doll that developed the initial program of Parapluie for RPK16 -->|
+|<^1UMP45: ^7That's where M16 was contacted by Suomi -- the T-Doll that developed the initial code of Parapluie for RPK16 -->|
 
 |<^1INTERROGATOR: ^7M16A1 learned about the numbers there. The broadcasts -- I've been there, 45. I've been to the Yamantau complex.>|
 
