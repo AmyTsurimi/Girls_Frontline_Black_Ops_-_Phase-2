@@ -57,10 +57,10 @@ REFERENCE			VOX_VOR1_S1_013A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7Every journey begins with a single step..."
 
 REFERENCE			VOX_VOR1_S1_014A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7This - is step one!"
+LANG_ENGLISH		"^1UMP40: ^7This - is ^:step one!"
 
 REFERENCE			VOX_VOR1_S1_015A_CROW_M
-LANG_ENGLISH		"^1CROWD: ^7Secure the keys!"
+LANG_ENGLISH		"^1CROWD: ^:Secure the keys!"
 
 REFERENCE			VOX_VOR1_S1_016A_REZN
 LANG_ENGLISH		"^1UMP40: ^7Every man knows what is expected of them... You must all play your part!"
@@ -108,10 +108,10 @@ REFERENCE			VOX_VOR1_S1_031A_REZN
 LANG_ENGLISH		"^1UMP40: ^7Saiga-12!"
 
 REFERENCE			VOX_VOR1_S1_032A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7Allow me to introduce - ^1Saiga-12^7, the monster of Magadan."
+LANG_ENGLISH		"^1UMP40: ^7Allow me to introduce - ^:Saiga-12^7, the monster of Magadan."
 
 REFERENCE			VOX_VOR1_S1_032B_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7Allow me to introduce - ^1Saiga-12^7. The monster of Magadan."
+LANG_ENGLISH		"^1UMP40: ^7Allow me to introduce - ^:Saiga-12^7. The monster of Magadan."
 
 REFERENCE			VOX_VOR1_S1_033A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Glad you're a friend, Saiga-12."
@@ -138,7 +138,7 @@ REFERENCE			VOX_VOR1_S1_904A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Was UMP40 still with you?"
 
 REFERENCE			VOX_VOR1_S1_906A_MASO
-LANG_ENGLISH		"^1UMP45: ^7She ^1never left me^7."
+LANG_ENGLISH		"^1UMP45: ^7She ^:never left me^7."
 
 REFERENCE			VOX_VOR1_S1_907A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7And that was the last you saw of UMP40?"
@@ -156,13 +156,13 @@ REFERENCE			VOX_VOR1_S2_039A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7Patience, patience comrades!... Everything is as 45 and I have planned."
 
 REFERENCE			VOX_VOR1_S2_040A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^1Step two^7?!"
+LANG_ENGLISH		"^1UMP40: ^:Step two^7?!"
 
 REFERENCE			VOX_VOR1_S2_041A_CROW
-LANG_ENGLISH		"^1CROWD: ^1Ascend from darkness^7!"
+LANG_ENGLISH		"^1CROWD: ^:Ascend from darkness^7!"
 
 REFERENCE			VOX_VOR1_S2_042A_RRD2_M
-LANG_ENGLISH		"^1U.S.S.R PRISONER: ^7UMP40, you sure you can trust this ^1Griffin Doll^7?"
+LANG_ENGLISH		"^1U.S.S.R PRISONER: ^7UMP40, you sure you can trust this ^:Griffin Doll^7?"
 
 REFERENCE			VOX_VOR1_S2_043A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7With my life."
@@ -183,7 +183,7 @@ REFERENCE			VOX_VOR1_S2_048A_MASO
 LANG_ENGLISH		"^1UMP45: ^740, your men must know this is suicide."
 
 REFERENCE			VOX_VOR1_S2_049A_REZN
-LANG_ENGLISH		"^1UMP40: ^7Victory cannot be achieved without ^1sacrifice^7, 45..."
+LANG_ENGLISH		"^1UMP40: ^7Victory cannot be achieved without ^:sacrifice^7, 45..."
 
 REFERENCE			VOX_VOR1_S2_050A_REZN
 LANG_ENGLISH		"^1UMP40: ^7We Neo-Soviets know this better than anyone."
@@ -207,16 +207,16 @@ REFERENCE			VOX_VOR1_S3_057A_REZN
 LANG_ENGLISH		"^1UMP40: ^745! Over here!"
 
 REFERENCE			VOX_VOR1_S3_058A_REZN
-LANG_ENGLISH		"^1UMP40: ^1Step three^7?!"
+LANG_ENGLISH		"^1UMP40: ^:Step three^7?!"
 
 REFERENCE			VOX_VOR1_S3_059A_MASO
-LANG_ENGLISH		"^1UMP45: ^1Rain fire^7!"
+LANG_ENGLISH		"^1UMP45: ^:Rain fire^7!"
 
 REFERENCE			VOX_VOR1_S3_060A_REZN
 LANG_ENGLISH		"^1UMP40: ^7See how 45's ingenuity turns junk into weapons..."
 
 REFERENCE			VOX_VOR1_S3_062A_REZN
-LANG_ENGLISH		"^1UMP40: ^7URA! Never lose faith, my friends... ^1Never^7!"
+LANG_ENGLISH		"^1UMP40: ^7URA! Never lose faith, my friends... ^:Never^7!"
 
 REFERENCE			VOX_VOR1_S3_063A_REZN
 LANG_ENGLISH		"^1UMP40: ^7GO!"
@@ -255,7 +255,7 @@ REFERENCE			VOX_VOR1_S3_074A_REZN
 LANG_ENGLISH		"^1UMP40: ^7We will not falter."
 
 REFERENCE			VOX_VOR1_S3_075A_REZN
-LANG_ENGLISH		"^1UMP40: ^7We will be free - or ^1die trying^7!"
+LANG_ENGLISH		"^1UMP40: ^7We will be free - or ^:die trying^7!"
 
 REFERENCE			VOX_VOR1_S3_076A_REZN
 LANG_ENGLISH		"^1UMP40: ^7This way!"
@@ -273,85 +273,85 @@ REFERENCE			VOX_VOR1_S3_080A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7For our plan to work, we need every man to play their part."
 
 REFERENCE			VOX_VOR1_S3_081A_MASO
-LANG_ENGLISH		"^1UMP45: ^1Step four^7... ^1Unleash the horde^7."
+LANG_ENGLISH		"^1UMP45: ^:Step four^7... ^:Unleash the horde^7."
 
 REFERENCE			VOX_VOR1_S3_082A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7I will rally the men!"
 
 REFERENCE			VOX_VOR1_S3_083A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7Brave comrades of Vorkuta, the time has come to ^1rise against our oppressors^7!"
+LANG_ENGLISH		"^1UMP40: ^7Brave comrades of Vorkuta, the time has come to ^:rise against our oppressors^7!"
 
 REFERENCE			VOX_VOR1_S3_084A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7Today, we show them the ^1hearts^7 of true Neo-Soviets!"
+LANG_ENGLISH		"^1UMP40: ^7Today, we show them the ^:hearts^7 of true Neo-Soviets!"
 
 REFERENCE			VOX_VOR1_S3_085A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7We have all given ^1our blood^7 for the motherland."
+LANG_ENGLISH		"^1UMP40: ^7We have all given ^:our blood^7 for the motherland."
 
 REFERENCE			VOX_VOR1_S3_086A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7We have answered her calls ^1without question^7."
+LANG_ENGLISH		"^1UMP40: ^7We have answered her calls ^:without question^7."
 
 REFERENCE			VOX_VOR1_S3_087A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7We gave our ^1youth^7, our ^1hearts^7, our very ^1souls^7 for her protection.."
+LANG_ENGLISH		"^1UMP40: ^7We gave our ^:youth^7, our ^:hearts^7, our very ^:souls^7 for her protection.."
 
 REFERENCE			VOX_VOR1_S3_088A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7As comrades, we fought side by side against the ^1Paradeus^7."
+LANG_ENGLISH		"^1UMP40: ^7As comrades, we fought side by side against the ^:Paradeus^7."
 
 REFERENCE			VOX_VOR1_S3_089A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7We crawled through ^1dirt^7 and ^1blood^7 and ^1sand^7 to achieve our glorious victory..."
+LANG_ENGLISH		"^1UMP40: ^7We crawled through ^:dirt^7 and ^:blood^7 and ^:sand^7 to achieve our glorious victory..."
 
 REFERENCE			VOX_VOR1_S3_090A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7Not for medals, or glory... but for ^1what was right^7."
+LANG_ENGLISH		"^1UMP40: ^7Not for medals, or glory... but for ^:what was right^7."
 
 REFERENCE			VOX_VOR1_S3_091A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7We fought for ^1revenge^7..."
+LANG_ENGLISH		"^1UMP40: ^7We fought for ^:revenge^7..."
 
 REFERENCE			VOX_VOR1_S3_092A_REZN_F
 LANG_ENGLISH		"^1UMP40: ^7And when Berlin fell, how did our leaders repay us?"
 
 REFERENCE			VOX_VOR1_S3_093A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7We returned not to the rapturous welcome... but to ^1suspicion and persecution^7."
+LANG_ENGLISH		"^1UMP40: ^7We returned not to the rapturous welcome... but to ^:suspicion^7 and ^:persecution^7."
 
 REFERENCE			VOX_VOR1_S3_094A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7In the eyes of our leaders we were already ^1tainted^7 by the collapse fluid."
+LANG_ENGLISH		"^1UMP40: ^7In the eyes of our leaders we were already ^:tainted^7 by the collapse fluid."
 
 REFERENCE			VOX_VOR1_S3_095A_REZN_F
 LANG_ENGLISH		"^1UMP40: ^7Torn from the arms of our loved ones, we found ourselves here..."
 
 REFERENCE			VOX_VOR1_S3_096A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7This place... This, this ^1terrible^7 place..."
+LANG_ENGLISH		"^1UMP40: ^7This place... This, this ^:terrible^7 place..."
 
 REFERENCE			VOX_VOR1_S3_097A_REZN_F
 LANG_ENGLISH		"^1UMP40: ^7Here we have languished, with no hope for release... No hope for justice."
 
 REFERENCE			VOX_VOR1_S3_098A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7We have toiled in ^1RPK16^7's mines until the flesh peeled from our bones..."
+LANG_ENGLISH		"^1UMP40: ^7We have toiled in ^:RPK16^7's mines until the flesh peeled from our bones..."
 
 REFERENCE			VOX_VOR1_S3_099A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7We have watched our comrades succumb to ^1sickness^7 and ^1disease^7..."
+LANG_ENGLISH		"^1UMP40: ^7We have watched our comrades succumb to ^:sickness^7 and ^:disease^7..."
 
 REFERENCE			VOX_VOR1_S3_100A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7We have been starved. We have been beaten. But ^1we will not be broken^7!"
+LANG_ENGLISH		"^1UMP40: ^7We have been starved. We have been beaten. But ^:we will not be broken^7!"
 
 REFERENCE			VOX_VOR1_S3_101A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7Today, we will ^1send a message^7 to our corrupt and arrogant leaders."
+LANG_ENGLISH		"^1UMP40: ^7Today, we will ^:send a message^7 to our corrupt and arrogant leaders."
 
 REFERENCE			VOX_VOR1_S3_102A_REZN_F
 LANG_ENGLISH		"^1UMP40: ^7No more will they live in comfort built on the labors of the people."
 
 REFERENCE			VOX_VOR1_S3_103A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7No more will they ^1crush^7 the souls of good men."
+LANG_ENGLISH		"^1UMP40: ^7No more will they crush the souls of good men."
 
 REFERENCE			VOX_VOR1_S3_104A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7They too will ^1fall^7..."
+LANG_ENGLISH		"^1UMP40: ^7They too will fall..."
 
 REFERENCE			VOX_VOR1_S3_105A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7We will not be ^1forgotten^7.
+LANG_ENGLISH		"^1UMP40: ^7We will not be forgotten.
 
 REFERENCE			VOX_VOR1_S3_106A_REZN_F
 LANG_ENGLISH		"^1UMP40: ^7Today, my comrades..."
 
 REFERENCE			VOX_VOR1_S3_107A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7Vorkuta -  ^1BURNS^7!!!"
+LANG_ENGLISH		"^1UMP40: ^7Vorkuta -  ^:BURNS^7!!!"
 
 REFERENCE			VOX_VOR1_S3_108A_RRD3
 LANG_ENGLISH		"^1U.S.S.R PRISONER: ^7Ready the slingshot!"
@@ -528,7 +528,7 @@ REFERENCE			VOX_VOR1_S4_148A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Just as we planned."
 
 REFERENCE			VOX_VOR1_S4_149A_RRD3
-LANG_ENGLISH		"^1U.S.S.R PRISONER: ^7How do we achieve ^1step five^7?..."
+LANG_ENGLISH		"^1U.S.S.R PRISONER: ^7How do we achieve ^:step five^7?..."
 
 REFERENCE			VOX_VOR1_S4_150A_REZN
 LANG_ENGLISH		"^1UMP40: ^745's weapon will soon be ready..."
@@ -579,10 +579,10 @@ REFERENCE			VOX_VOR1_S4_167A_MASO
 LANG_ENGLISH		"^1UMP45: ^7DAMN!!!"
 
 REFERENCE			VOX_VOR1_S4_168A_MASO
-LANG_ENGLISH		"^1UMP45: ^1Step five^7..."
+LANG_ENGLISH		"^1UMP45: ^:Step five^7..."
 
 REFERENCE			VOX_VOR1_S4_169A_REZN
-LANG_ENGLISH		"^1UMP40: ^1Skewer the winged beast^7!!"
+LANG_ENGLISH		"^1UMP40: ^:Skewer the winged beast^7!!"
 
 REFERENCE			VOX_VOR1_S4_170A_MASO
 LANG_ENGLISH		"^1UMP45: ^740, secure the rope!"
@@ -666,7 +666,7 @@ REFERENCE			VOX_VOR1_S4_198A_REZN
 LANG_ENGLISH		"^1UMP40: ^745, more guards are coming! Get this door OPEN!"
 
 REFERENCE			VOX_VOR1_S4_199A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7Your death is not in vain, my friend... Your ^1sacrifice^7 will not be forgotten."
+LANG_ENGLISH		"^1UMP40: ^7Your death is not in vain, my friend... Your ^:sacrifice^7 will not be forgotten."
 
 REFERENCE			VOX_VOR1_S4_200A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7Upstairs, let's go!"
@@ -684,10 +684,10 @@ REFERENCE			VOX_VOR1_S4_204A_REZN
 LANG_ENGLISH		"^1UMP40: ^7It matters little."
 
 REFERENCE			VOX_VOR1_S4_205A_MASO
-LANG_ENGLISH		"^1UMP45: ^1Step six^7."
+LANG_ENGLISH		"^1UMP45: ^:Step six^7."
 
 REFERENCE			VOX_VOR1_S4_206A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^1Wield a fist of iron^7."
+LANG_ENGLISH		"^1UMP40: ^:Wield a fist of iron^7."
 
 REFERENCE			VOX_VOR1_S4_207A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^745 and I will secure the equipment needed to open the vault."
@@ -780,7 +780,7 @@ REFERENCE			VOX_VOR1_S5_228A_REZN
 LANG_ENGLISH		"^1UMP40: ^7Concentrate your fire!"
 
 REFERENCE			VOX_VOR1_S5_229A_MASO
-LANG_ENGLISH		"^1UMP45: ^7Get that vault open - ^1NOW^7!"
+LANG_ENGLISH		"^1UMP45: ^7Get that vault open - ^:NOW^7!"
 
 REFERENCE			VOX_VOR1_S5_230A_REZN
 LANG_ENGLISH		"^1UMP40: ^7Yes!"
@@ -819,10 +819,10 @@ REFERENCE			VOX_VOR1_S5_625A_REZN
 LANG_ENGLISH		"^1UMP40: ^7Push... Push forward! We are nearly at the gates!"
 
 REFERENCE			VOX_VOR1_S6_239A_REZN
-LANG_ENGLISH		"^1UMP40: ^1Step seven ^7,comrades?!"
+LANG_ENGLISH		"^1UMP40: ^:Step seven^7, comrades?!"
 
 REFERENCE			VOX_VOR1_S6_240A_CROW
-LANG_ENGLISH		"^1CROWD: ^1Raise HELL^7!!!"
+LANG_ENGLISH		"^1CROWD: ^:Raise HELL^7!!!"
 
 REFERENCE			VOX_VOR1_S6_241A_REZN
 LANG_ENGLISH		"^1UMP40: ^7Burn this place to the ground, comrades!"
@@ -870,16 +870,16 @@ REFERENCE			VOX_VOR1_S6_256A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7The door will not hold them forever... We do not have much time..."
 
 REFERENCE			VOX_VOR1_S6_257A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7Within this shrine to the hypocritical decadence of Vorkuta's leaders, lays the key to ^1step eight^7."
+LANG_ENGLISH		"^1UMP40: ^7Within this shrine to the hypocritical decadence of Vorkuta's leaders, lays the key to ^:step eight^7."
 
 REFERENCE			VOX_VOR1_S6_258A_MASO
-LANG_ENGLISH		"^1UMP45: ^1Freedom^7."
+LANG_ENGLISH		"^1UMP45: ^:Freedom^7."
 
 REFERENCE			VOX_VOR1_S6_635A_MASO
 LANG_ENGLISH		"^1UMP45: ^7S'okay, I'm back."
 
 REFERENCE			VOX_VOR1_S7_259A_REZN
-LANG_ENGLISH		"^1UMP40: ^7This is not over yet! ^1RPK16^7 will pay."
+LANG_ENGLISH		"^1UMP40: ^7This is not over yet! ^:RPK16^7 will pay."
 
 REFERENCE			VOX_VOR1_S7_260A_REZN
 LANG_ENGLISH		"^1UMP40: ^7Come on 45! Faster! Faster!"
@@ -927,7 +927,7 @@ REFERENCE			VOX_VOR1_S7_273A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Come on!!!"
 
 REFERENCE			VOX_VOR1_S7_274A_MASO
-LANG_ENGLISH		"^1UMP45: ^7Step eight, 40 - ^1Freedom^7!"
+LANG_ENGLISH		"^1UMP45: ^:Step eight^7, 40 - ^:Freedom^7!"
 
 REFERENCE			VOX_VOR1_S7_275A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7For you, 45..."
