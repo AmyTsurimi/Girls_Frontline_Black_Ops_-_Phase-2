@@ -160,7 +160,7 @@
 
 |<Quality>|
 
-|<Quality: Recommended>|
+|<Quality:  Recommended>|
 
 |<Video Mode>|
 
@@ -394,7 +394,7 @@
 
 |<View Full>|
 
-|<Friendly Fire: >|
+|<Friendly Fire:  >|
 
 |<Show Max Lives:>|
 
@@ -604,23 +604,23 @@
 
 |<Server Settings>|
 
-|<Game Type: >|
+|<Game Type:  >|
 
-|<Server Name: >|
+|<Server Name:  >|
 
-|<Dedicated: >|
+|<Dedicated:  >|
 
-|<Pure: >|
+|<Pure:  >|
 
-|<Maximum Players: >|
+|<Maximum Players:  >|
 
-|<Minimum Ping: >|
+|<Minimum Ping:  >|
 
-|<Maximum Ping: >|
+|<Maximum Ping:  >|
 
-|<Maximum Rate: >|
+|<Maximum Rate:  >|
 
-|<Password: >|
+|<Password:  >|
 
 |<Both>|
 
@@ -634,23 +634,23 @@
 
 |<LAN/Cable/DSL>|
 
-|<Score Limit (player points): >|
+|<Score Limit (player points):  >|
 
-|<Score Limit (team points): >|
+|<Score Limit (team points):  >|
 
-|<Time Limit (minutes): >|
+|<Time Limit (minutes):  >|
 
-|<Force Respawning: >|
+|<Force Respawning:  >|
 
-|<Friendly Indicators: >|
+|<Friendly Indicators:  >|
 
-|<Carrier Indicator: >|
+|<Carrier Indicator:  >|
 
-|<Grace Period (seconds): >|
+|<Grace Period (seconds):  >|
 
-|<Round Length (minutes): >|
+|<Round Length (minutes):  >|
 
-|<Round Limit (rounds): >|
+|<Round Limit (rounds):  >|
 
 |<Go to Campaign Call of Duty?>|
 
@@ -682,7 +682,7 @@
 
 |<SUBTITLES>|
 
-|<LOD: >|
+|<LOD:  >|
 
 |<Aggressive>|
 
@@ -706,7 +706,7 @@
 
 |<Internet>|
 
-|<Level of Detail: >|
+|<Level of Detail:  >|
 
 |<Add selected server to favorites?>|
 
@@ -714,17 +714,17 @@
 
 |<Shared>|
 
-|<Killcam: >|
+|<Killcam:  >|
 
-|<Allow Voting: >|
+|<Allow Voting:  >|
 
 |<Auto-Update>|
 
-|<Allow Sniper Rifles: >|
+|<Allow Sniper Rifles:  >|
 
-|<Allow Panzerfausts: >|
+|<Allow Panzerfausts:  >|
 
-|<Allow FG42s: >|
+|<Allow FG42s:  >|
 
 |<With Password>|
 
@@ -756,11 +756,11 @@
 
 |<Dedicated Only:>|
 
-|<Auto-Balance Teams: >|
+|<Auto-Balance Teams:  >|
 
-|<Allow Enemy Spectating: >|
+|<Allow Enemy Spectating:  >|
 
-|<Allow Free Spectating: >|
+|<Allow Free Spectating:  >|
 
 |<Allow Downloading>|
 
@@ -774,9 +774,9 @@
 
 |<JOIN GAME>|
 
-|<Cycle Items: >|
+|<Cycle Items:  >|
 
-|<Use Item: >|
+|<Use Item:  >|
 
 |<Hold Breath>|
 
@@ -1038,11 +1038,11 @@
 
 |<Deathmatch>|
 
-|<You are all alone. Eliminate everyone else.>|
+|<You are all alone.  Eliminate everyone else.>|
 
 |<Team Deathmatch>|
 
-|<Axis vs. Allies. Eliminate the enemy team.>|
+|<Axis vs. Allies.  Eliminate the enemy team.>|
 
 |<Capture the Flag>|
 
@@ -1050,11 +1050,11 @@
 
 |<Headquarters>|
 
-|<Teams race to set up a radio and defend it for points. If the enemy team sets up a radio, you must destroy it.>|
+|<Teams race to set up a radio and defend it for points.  If the enemy team sets up a radio, you must destroy it.>|
 
 |<Search & Destroy>|
 
-|<The Allies try to destroy Axis held objectives by planting explosives. Axis must defuse the explosives if they are planted.>|
+|<The Allies try to destroy Axis held objectives by planting explosives.  Axis must defuse the explosives if they are planted.>|
 
 |<Custom Match>|
 
@@ -1118,7 +1118,7 @@
 
 |<Crosshair Color>|
 
-|<Force DirectXÂ® 7 Mode>|
+|<Force DirectX® 7 Mode>|
 
 |<Automatic>|
 
@@ -1134,7 +1134,7 @@
 
 |<Warning>|
 
-|<Capture Limit: >|
+|<Capture Limit:  >|
 
 |<Continue restart?>|
 
@@ -1216,7 +1216,7 @@
 
 |<TM>|
 
-|<Â®>|
+|<®>|
 
 |<Player Select>|
 
@@ -1250,7 +1250,7 @@ or you may not have file write priviledges.
 
 |<Loading...>|
 
-|<Connection: >|
+|<Connection:  >|
 
 |<Ranking:>|
 
@@ -1338,17 +1338,17 @@ or you may not have file write priviledges.
 
 |<Rendering Method Preference>|
 
-|<DirectXÂ® 7>|
+|<DirectX® 7>|
 
-|<DirectXÂ® 9>|
+|<DirectX® 9>|
 
-|<We recommend using "Optimal System Settings." Manually changing settings could result in poor performance.>|
+|<We recommend using "Optimal System Settings."  Manually changing settings could result in poor performance.>|
 
 |<Changing difficulty will restart the current level.>|
 
 |<Play for fun with people who share similar profiles.>|
 
-|<Play competitive matches to improve your TrueSkillÂ™ rankings.>|
+|<Play competitive matches to improve your TrueSkill™ rankings.>|
 
 |<Get into a game quickly. Game settings are chosen randomly.>|
 
@@ -1526,13 +1526,13 @@ or you may not have file write priviledges.
 
 |<Lobby>|
 
-|<If you accept this invite, you will quit your current game lobby. Accept invitation?>|
+|<If you accept this invite, you will quit your current game lobby.  Accept invitation?>|
 
-|<If you join another session, you will disband your party. Disband party?>|
+|<If you join another session, you will disband your party.  Disband party?>|
 
 |<Leave Party?>|
 
-|<If you join another session, you will leave your party. Leave party?>|
+|<If you join another session, you will leave your party.  Leave party?>|
 
 |<Leave Party>|
 
@@ -1558,7 +1558,7 @@ or you may not have file write priviledges.
 
 |<Progress through the campaign maps alongside a friend taking on AI & enemy players alike.>|
 
-|<Voice Chat: >|
+|<Voice Chat:  >|
 
 |<Cheats>|
 
@@ -1594,11 +1594,11 @@ or you may not have file write priviledges.
 
 |<Defend and destroy the objective. No respawning.>|
 
-|<3 flags in the level must be captured. Your team gets points for having control of a flag. The more flags your team holds, the more points you gain.>|
+|<3 flags in the level must be captured.  Your team gets points for having control of a flag.  The more flags your team holds, the more points you gain.>|
 
 |<Get the enemy flag and return it to yours to capture it.>|
 
-|<A neutral base to capture is marked in the level. Capture and hold it to gain points. The team that holds the HQ doesn't respawn.>|
+|<A neutral base to capture is marked in the level.  Capture and hold it to gain points.  The team that holds the HQ doesn't respawn.>|
 
 |<Check how your score stacks up against your friends and the world.>|
 
@@ -1628,7 +1628,7 @@ or you may not have file write priviledges.
 
 |<Save Corrupted>|
 
-|<This will overwrite your current mission's progress. Do you wish to continue?>|
+|<This will overwrite your current mission's progress.  Do you wish to continue?>|
 
 |<If you continue, your current mission's progress will be overwritten.>|
 
@@ -1798,7 +1798,7 @@ in a level of your choice.>|
 
 |<Vertical Split Screen>|
 
-|<Capture battlefield command points. Secure and hold all positions to achieve victory.>|
+|<Capture battlefield command points.  Secure and hold all positions to achieve victory.>|
 
 |<GRAPHIC CONTENT>|
 
@@ -1834,9 +1834,9 @@ in a level of your choice.>|
 
 |<Kill players and vehicles on the opposing team. The first team to reach the score limit wins!>|
 
-|<Difficulty: >|
+|<Difficulty:  >|
 
-|<Hardcore Mode: >|
+|<Hardcore Mode:  >|
 
 |<Playlist Setting>|
 
@@ -1846,7 +1846,7 @@ in a level of your choice.>|
 
 |<Vehicles>|
 
-|<Capture battlefield command points using tanks and other combat vehicles. Secure and hold all positions to achieve victory.>|
+|<Capture battlefield command points using tanks and other combat vehicles.  Secure and hold all positions to achieve victory.>|
 
 |<PARTY PRIVACY: OPEN>|
 
@@ -2018,7 +2018,7 @@ Note: Graphic content will not be reduced during online play.>|
 
 |<Cheat Description:>|
 
-|<Vehicles: >|
+|<Vehicles:  >|
 
 |<MISSION SUCCESS>|
 
@@ -2042,7 +2042,7 @@ Note: Graphic content will not be reduced during online play.>|
 
 |<Game Rules>|
 
-|<This person is not a friend yet. You cannot invite him/her to a game.>|
+|<This person is not a friend yet. You cannot invite her/her to a game.>|
 
 |<SELECT ONLINE PROFILE>|
 
@@ -2076,7 +2076,7 @@ Note: Graphic content will not be reduced during online play.>|
 
 |<If you restart now, you will lose any progress that you have made since your last saved checkpoint.>|
 
-|<Â© 2010 Activision Publishing, Inc. All rights reserved.>|
+|<© 2010 Activision Publishing, Inc. All rights reserved.>|
 
 |<Are you sure you want to leave this game?>|
 
@@ -2418,7 +2418,7 @@ Do you want to create online profile now?>|
 |<SKILL TREE>|
 
 |<Are you sure that you want to purchase &&1?
-Cost &&2CP - you have &&3CP.>|
+Cost &&2CP  - you have &&3CP.>|
 
 |<CONFIRM PURCHASE>|
 
@@ -2430,7 +2430,7 @@ Cost &&2CP - you have &&3CP.>|
 
 |<VORKUTA>|
 
-|<PROJECT NOVA>|
+|<PROJECT RAIN>|
 
 |<CRASH SITE>|
 
@@ -2464,7 +2464,7 @@ Cost &&2CP - you have &&3CP.>|
 
 |<FILMS>|
 
-|<Record Film: >|
+|<Record Film:  >|
 
 |<End Film>|
 
@@ -2848,19 +2848,19 @@ PLAYERCARD>|
 
 |< >|
 
-|<The game is full, but you can try to auto join. This will disband your current party and put you in the auto join lobby.>|
+|<The game is full, but you can try to auto join.  This will disband your current party and put you in the auto join lobby.>|
 
-|<We were unable to auto join. The most common reason is that another player took the available space. You can continue to try to autojoin or cancel the auto joining and be returned to matchmaking.>|
+|<We were unable to auto join.  The most common reason is that another player took the available space.  You can continue to try to autojoin or cancel the auto joining and be returned to matchmaking.>|
 
 |<CONFIRM AUTO JOIN>|
 
 |<Auto join >|
 
-|<? This will disband your current party and put you in the Auto Join lobby.>|
+|<?  This will disband your current party and put you in the Auto Join lobby.>|
 
 |<AUTO JOIN NO LONGER AVAILABLE>|
 
-|< can no longer be auto joined because they are no longer signed into XboxLive. This will close the auto join lobby and return you to the main menu.>|
+|< can no longer be auto joined because they are no longer signed into XboxLive.  This will close the auto join lobby and return you to the main menu.>|
 
 |<Would you like to automatically join your friend when they become joinable?>|
 
@@ -3106,35 +3106,35 @@ Time remaining in round: &&3
 
 |<Cannot Access Community>|
 
-|<Operation 40: Be the weight that tips the balance of power.>|
+|<Operation 40: Undertake a daring assassination attempt during the Bay of Pigs invasion.>|
 
-|<Escape from Vorkuta; at a cost. An eye for an eye, an arm for an arm, a life for a life.>|
+|<Escape from Vorkuta; a brutal Soviet Labor Camp in northern Russia.>|
 
-|<Back at Griffin, meet with the SKK to discuss the infectious virus posed by Sangvis Ferri.>|
+|<Back on US soil, meet with senior officials to discuss the threat posed by General RPK16.>|
 
-|<Strike down the angel of KCCO and its creators.>|
+|<Infiltrate the Baikonur Cosmodrome and eliminate RPK16 and the Ascension scientists.>|
 
-|<Old shadow looms over the new frontier. May your old allies help you, in your search after old enemies.>|
+|<Head to Vietnam and work with old allies to investigate Soviet presence in the region.>|
 
-|<At the heart of the TET's engulfing fire, DEFY's burning compound holds knowledge of the shadows' game.>|
+|<At the height of the TET offensive, enter the DEFY building to secure vital intelligence on Soviet plans for the region.>|
 
-|<To understand the rain, one must understand the numbers. The answer might lie within the knowledge of this doll.>|
+|<Investigate the extent of Project Rain by interrogating one of RPK16's former associates.>|
 
-|<Will the burden of knowledge weigh you down from escaping, or will it drag you down underneath earth and water?>|
+|<Search for evidence of Soviet presence within the villages of Northern Vietnam.>|
 
-|<Follow the flow of the shadows, in search of the downed phoenix. Will you rise or will it all turn to ashes?>|
+|<Journey by river into Laotian territory, in search of RPK16's compound.>|
 
-|<The numbers whispers from depths of the giants' den. Will you overcome the challenge, or will you be buried under its weight?>|
+|<Strike at the heart of Project Rain, deep behind enemy lines.>|
 
-|<Those who don't exist, can they ever be missed?>|
+|<Torture at the hands of the enemy only feeds the hunger for revenge.>|
 
-|<Heroes, loyalty, and beliefs. The price to pay in the awakening of Parapluie from its slumber.>|
+|<Learn of the origins of Project Rain.>|
 
-|<The stakes are high, and the bets are set. At the flip of a coin, two sides so different yet the same coin.>|
+|<Infiltrate the Project Rain Research labs and capture Suomi.>|
 
-|<Be like a butterfly escaping its cocoon. See the world for real, now for the first time...>|
+|<Uncover the truth.>|
 
-|<Without protection from the rain, may it wash away your sins. Dive into the depths, may you be the bearer of the light after the rain.>|
+|<Destroy the numbers station and kill RPK16 before Project Rain is initiated.>|
 
 |<Your screenshot upload has failed.>|
 
@@ -3156,12 +3156,12 @@ Time remaining in round: &&3
 
 |<THEATER BUTTON LAYOUT>|
 
-|<Battle the undead in this theatrical installment of "ELIDs". New twists and clues could uncover the final plan. It's show time!
+|<Battle the undead in this theatrical installment of "Zombies". New twists and clues could uncover the final plan. It's show time!
 >|
 
-|<Interplanetary zombie action!  Day 1 DLC content.>|
+|<Interplanetary zombie action!   Day 1 DLC content.>|
 
-|<The Griffin-HQ is under attack! Griffin-HQ is going to DEFCON 1 in this installment of "ELIDs".>|
+|<The Pentagon is under attack!  Washington is going to DEFCON 1 in this installment of "Zombies".>|
 
 |<YES>|
 
@@ -3221,11 +3221,11 @@ Time remaining in round: &&3
 
 |<DIFFICULTY>|
 
-|<Do you want to play Call of DutyÂ®: Black Ops ? >|
+|<Do you want to play Call of Duty®: Black Ops ? >|
 
 |<COMBAT TIPS>|
 
-|<Welcome to Call of Duty: Black Ops>|
+|<Welcome to Call of Duty:  Black Ops>|
 
 |<Please configure your system for the optimal experience.
 
@@ -3747,7 +3747,7 @@ Would you like to enable graphic content?>|
 
 |<Please read the information below before continuing the game!>|
 
-|<The story of this game takes place in the fictional world resembling Vietnam, Cuba, USSR and other real world countries of 1960s. All the game events are totally fictional. Any coincidence with real world persons or events is unintended and accidental. By no means, the game authors didn't set a task for themselves to esteem or appraise any real historical or political events, actions, decisions, behavior or attitude of the real world persons or ethnic, political or other people groups including states. Authors, developers and distributors disclaim any responsibility for individual customers' perception or interpretation of the game. The game contains cruelty and violence scenes, harsh language and alcohol and tobacco references. If you believe that the content of the game can conflict with your religious, political or other views or attitudes, offense or humiliate your dignity, or cause you to feel fear or other undesirable emotions, please refrain from continuing this game. If you press [A, X, enter], you confirm thereby that you've read this warning, are aware of what you can see during the game and willfully want to continue the game. To return to the main menu, please press [B, O, !=enter].>|
+|<The story of this game takes place in the fictional world resembling Vietnam, Cuba, USSR and other real world countries of 1960s. All the game events are totally fictional. Any coincidence with real world persons or events is unintended and accidental. By no means, the game authors didn't set a task for themselves to esteem or appraise any real historical or political events, actions, decisions, behavior or attitude of the real world persons or ethnic, political or other people groups including states. Authors, developers and distributors disclaim any responsibility for individual customers' perception or interpretation of the game. The game contains cruelty and violence scenes, harsh language and alcohol and tobacco references. If you believe that the content of the game can conflict with your religious, political or other views or attitudes, offense or humiliate your dignity, or cause you to feel fear or other undesirable emotions, please refrain from continuing this game.  If you press [A, X, enter], you confirm thereby that you've read this warning, are aware of what you can see during the game and willfully want to continue the game. To return to the main menu, please press [B, O, !=enter].>|
 
 |<PC Network>|
 
@@ -3807,9 +3807,9 @@ Would you like to enable graphic content?>|
 
 |<Press^3 &&1 ^7to find game>|
 
-|<Your playlist data is older than the host's. You must restart the game in order to get the new playlist data.>|
+|<Your playlist data is older than the host's.  You must restart the game in order to get the new playlist data.>|
 
-|<Your playlist data is newer than the host's. You will be unable to play with them until they restart to get the new playlists.>|
+|<Your playlist data is newer than the host's.  You will be unable to play with them until they restart to get the new playlists.>|
 
 |<Game lobby closed>|
 
@@ -4181,7 +4181,7 @@ Enable PunkBuster and start?>|
 
 |<PunkBuster:>|
 
-|<PunkBuster: >|
+|<PunkBuster:  >|
 
 |<1. Change Weapon>|
 
@@ -4439,7 +4439,7 @@ Enable PunkBuster and start?>|
 
 |<Maximum party size of &&1>|
 
-|<Unable to initialize Punkbuster. Punkbuster is disabled.>|
+|<Unable to initialize Punkbuster.  Punkbuster is disabled.>|
 
 |<Prestige>|
 
@@ -5001,43 +5001,43 @@ Enable PunkBuster and start?>|
 
 |<SERVICE REPORT>|
 
-|<&&1 TEAM DEATHMATCH &&2>|
+|<&&1  TEAM DEATHMATCH  &&2>|
 
-|<&&1 FREE-FOR-ALL &&2>|
+|<&&1  FREE-FOR-ALL  &&2>|
 
-|<&&1 SABOTAGE &&2>|
+|<&&1  SABOTAGE  &&2>|
 
-|<&&1 SEARCH & DESTROY &&2>|
+|<&&1  SEARCH & DESTROY  &&2>|
 
-|<&&1 CAPTURE THE FLAG &&2>|
+|<&&1  CAPTURE THE FLAG  &&2>|
 
-|<&&1 DOMINATION &&2>|
+|<&&1  DOMINATION  &&2>|
 
-|<&&1 DEMOLITION &&2>|
+|<&&1  DEMOLITION  &&2>|
 
-|<&&1 HEADQUARTERS &&2>|
+|<&&1  HEADQUARTERS  &&2>|
 
-|<&&1 HARDCORE TEAM DEATHMATCH &&2>|
+|<&&1  HARDCORE TEAM DEATHMATCH  &&2>|
 
-|<&&1 HARDCORE FREE-FOR-ALL &&2>|
+|<&&1  HARDCORE FREE-FOR-ALL  &&2>|
 
-|<&&1 HARDCORE SABOTAGE &&2>|
+|<&&1  HARDCORE SABOTAGE  &&2>|
 
-|<&&1 HARDCORE SEARCH & DESTROY &&2>|
+|<&&1  HARDCORE SEARCH & DESTROY  &&2>|
 
-|<&&1 HARDCORE CAPTURE THE FLAG &&2>|
+|<&&1  HARDCORE CAPTURE THE FLAG  &&2>|
 
-|<&&1 HARDCORE DOMINATION &&2>|
+|<&&1  HARDCORE DOMINATION  &&2>|
 
-|<&&1 HARDCORE DEMOLITION &&2>|
+|<&&1  HARDCORE DEMOLITION  &&2>|
 
-|<&&1 HARDCORE HEADQUARTERS &&2>|
+|<&&1  HARDCORE HEADQUARTERS  &&2>|
 
-|<&&1 ALL TIME &&2>|
+|<&&1  ALL TIME  &&2>|
 
-|<&&1 MONTHLY &&2>|
+|<&&1  MONTHLY  &&2>|
 
-|<&&1 WEEKLY &&2>|
+|<&&1  WEEKLY  &&2>|
 
 |<EVERYONE>|
 
@@ -5371,7 +5371,7 @@ Enable PunkBuster and start?>|
 
 |<The winning team splits the reward pool.>|
 
-|<Earn  for each kill. 
+|<Earn  for each kill.  
 Special kills give more COD Points.>|
 
 |<Multi Event: Tier &&1 of &&2>|
@@ -5534,7 +5534,7 @@ Special kills give more COD Points.>|
 
 |<COMPLETED>|
 
-|<&&1 / &&2 (&&3%)>|
+|<&&1 / &&2  (&&3%)>|
 
 |<All progress toward the selected Contract will be lost!>|
 
@@ -6376,7 +6376,7 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 
 |<HUMILIATIONS>|
 
-|<SHARPSHOOTER      KILLS>|
+|<SHARPSHOOTER            KILLS>|
 
 |<x3 KILLS>|
 
@@ -6446,7 +6446,7 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 
 |<Contracts for Headshots, secondary weapons, grenades, and special objectives.>|
 
-|<&&1 &&2 &&3>|
+|<&&1  &&2  &&3>|
 
 |<MATCH XP>|
 
@@ -6475,7 +6475,7 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 |<Browse Films, Clips, Screenshots and Custom Game Modes.>|
 
 |<Score Per 
- Minute>|
+  Minute>|
 
 |<Per Minute>|
 
@@ -6599,7 +6599,7 @@ However, whatever you unlock, complete, or purchase won't carry over when you go
 
 |<Thank you for participating in the Beachhead Beta program.>|
 
-|<The email you have entered does not appear to be valid. Please check for errors and try again.>|
+|<The email you have entered does not appear to be valid.  Please check for errors and try again.>|
 
 |<Edit Email Address>|
 
@@ -7137,7 +7137,7 @@ Set autodownload to No in your settings and you might be able to connect if you 
 
 |<Favorites>|
 
-|<Source:   &&1>|
+|<Source:     &&1>|
 
 |<Filter: &&1>|
 
@@ -7161,13 +7161,13 @@ Make sure you have your sound card's latest drivers and DirectX installed.>|
 
 |<Hunk data failed to allocate &&1 megs.>|
 
-|<Could not load OpenGL. Make sure that you have the latest drivers for your video card from the manufacturer's web site.>|
+|<Could not load OpenGL.  Make sure that you have the latest drivers for your video card from the manufacturer's web site.>|
 
 |<Could not register a window class. This is a Microsoft Windows(TM) error. You may need to reboot.>|
 
 |<Could not create a window. This is a Microsoft Windows(TM) error. You may need to reboot.>|
 
-|<You should install the latest drivers for your video card, being sure to uninstall the old drivers first. If you already have the latest drivers, you should completely uninstall the drivers and then reinstall them. This fixes most problems. If the game still doesn't work, it may be that your video card does not have the minimum features required. Please check the readme for more information, including a list of supported video cards.>|
+|<You should install the latest drivers for your video card, being sure to uninstall the old drivers first.  If you already have the latest drivers, you should completely uninstall the drivers and then reinstall them.  This fixes most problems.  If the game still doesn't work, it may be that your video card does not have the minimum features required.  Please check the readme for more information, including a list of supported video cards.>|
 
 |<Your video card appears to be missing one or more features required to run Call of Duty.>|
 
@@ -7363,7 +7363,7 @@ Please enter your Key Code in the Multiplayer Options/Enter Key Code menu and th
 
 |<Join failed - game is about to end>|
 
-|<Unable to connect. Duplicate qport on server.>|
+|<Unable to connect.  Duplicate qport on server.>|
 
 |<left the game>|
 
@@ -7644,7 +7644,7 @@ Continue restart?>|
 
 |<Press^3 &&1 ^7to mount your weapon>|
 
-|<Press^3 &&1 ^7to >|
+|<Press^3 &&1 ^7to  >|
 
 |<Hold the^3 &&1 ^7key to steady>|
 
@@ -7662,17 +7662,17 @@ Continue restart?>|
 
 |<Press ^3[{+activate}]^7 to skip>|
 
-|<Press ^3[{+activate}]^7 to spawn>|
+|<Press  ^3[{+activate}]^7 to spawn>|
 
-|<Press ^3[{+activate}]^7 to respawn>|
+|<Press  ^3[{+activate}]^7 to respawn>|
 
 |<Press ^3 &&1 ^7to use>|
 
 |<Press ^3 &&1 ^7to drop>|
 
-|<Hold ^3 &&1 ^7to plant explosives >|
+|<Hold ^3 &&1 ^7to plant explosives  >|
 
-|<Hold ^3 &&1 ^7to defuse explosives >|
+|<Hold ^3 &&1 ^7to defuse explosives  >|
 
 |<Press^3 &&1 ^7to use your binoculars to sight distant targets.>|
 
@@ -7749,9 +7749,9 @@ Marketplace>|
 
 |<Reset To Default>|
 
-|<Press ^3 &&1 ^7to switch seats>|
+|<Press ^3  &&1 ^7to switch seats>|
 
-|<Press ^3 &&1 ^7to Cover>|
+|<Press ^3  &&1 ^7to Cover>|
 
 |<Press ^3 &&1 ^7for Coaxial MG>|
 
@@ -7817,7 +7817,7 @@ Marketplace>|
 
 |<When the Hounds are released, find a corner and dig in for the fight.>|
 
-|<Rule Number 1: Watch yo' back!>|
+|<Rule Number 1:  Watch yo' back!>|
 
 |<To move up the Zombies leaderboards, you need to survive into the higher rounds.>|
 
@@ -7825,11 +7825,11 @@ Marketplace>|
 
 |<I'm not buying that door!>|
 
-|<Now you see him. Now you don't!>|
+|<Now you see her. Now you don't!>|
 
 |<The Mystery Box in Zombies is a gamble. You could get the most powerful weapon in the chest or end up with a spare pistol.>|
 
-|<A zombie breach is nothing to get spooked about. Pros keep their windows boarded.>|
+|<A zombie breach is nothing to get spooked about.  Pros keep their windows boarded.>|
 
 |<Visit Treyarch.com to go behind-the-scenes with the developers of 'Call of Duty: Black Ops'.>|
 
@@ -7847,7 +7847,7 @@ Marketplace>|
 
 |<In Dead Ops Arcade, you are given an extra life every 200,000 points.>|
 
-|<Dead Ops Arcade supports up to 4 players.  >|
+|<Dead Ops Arcade supports up to 4 players.   >|
 
 |<The Cosmic Silverback awaits your challenge in Dead Ops Arcade.>|
 
@@ -7863,7 +7863,7 @@ Marketplace>|
 
 |<The Cosmic Silverback has many brothers.>|
 
-|<In Dead Ops Arcade, gems are a rare find. The larger the gem, the bigger the increase to your score multiplier!>|
+|<In Dead Ops Arcade, gems are a rare find.  The larger the gem, the bigger the increase to your score multiplier!>|
 
 |<Each setting will be restored to its default value, are you sure?>|
 
@@ -8221,7 +8221,7 @@ Marketplace>|
 
 |<Press ^3[{+activate}]^7 to Use Computer>|
 
-|<Use ^3[{+movestick}]^7 to move>|
+|<Use  ^3[{+movestick}]^7 to move>|
 
 |<Use ^3[{+movestick}]^7 to move / strafe>|
 
@@ -8231,9 +8231,9 @@ Marketplace>|
 
 |<Use ^3[{+lookstick}]^7 to aim>|
 
-|<Use ^3[{+lookstick}]^7 to aim>|
+|<Use  ^3[{+lookstick}]^7  to aim>|
 
-|<Use ^3[{+movestick}]^7 to move
+|<Use  ^3[{+movestick}]^7 to move
 >|
 
 |<Use ^3[{+lookstick}]^7 to guide the missile in flight>|
@@ -8244,7 +8244,7 @@ Marketplace>|
 
 |<MULTIPLAYER SETTINGS>|
 
-|<Use ^3[{+movestick}]^7 to control the camera>|
+|<Use  ^3[{+movestick}]^7 to control the camera>|
 
 |<FIRE (ATTACK)>|
 
@@ -8258,7 +8258,7 @@ Marketplace>|
 
 |<This is the name of your server.>|
 
-|<Indicates the minimum ping required to play on your server.>|
+|<Indicates the minimum ping required to play on  your server.>|
 
 |<Indicates the maximum ping allowed to play on your server.>|
 
@@ -8320,23 +8320,23 @@ Marketplace>|
 
 |<Join Reserved>|
 
-|<^1INTERROGATOR: ^7M16A1's mission in Kowloon was accomplished. She had discovered RPK16's end game. Rain 4. A virus, that if infected will corrupt you before your firewall is up.>|
+|<^1INTERROGATOR: ^7M16A1's mission in Kowloon was accomplished. She had discovered RPK16's end game. Parapluie. A virus, that if infected will corrupt you before you know it.>|
 
 |<^1UMP45: ^7RPK16's weapon.>|
 
-|<^1INTERROGATOR: ^7Go back to Vietnam, 45. Was UMP 40 still with you after you escaped from the DEFY compound?>|
+|<^1INTERROGATOR: ^7Go back to Vietnam, 45. Was UMP40 still with you after you escaped from the DEFY compound?>|
 
-|<^1UMP45: ^7Ahh... 40 was with me the whole time.>|
+|<^1UMP45: ^7Ahh... Reznov was with me the whole time.>|
 
 |<^1INTERROGATOR: ^7Are you sure?>|
 
-|<^1UMP45: ^7North, we went North. The Viet Cong. We were shot down. And 40 even survived that!>|
+|<^1UMP45: ^7North, we went North. The Viet Cong. We were shot down. And Reznov even survived that!>|
 
-|<^1UMP45: ^7RPK16's lapdog Nyto was there. She knew we were comin'.>|
+|<^1UMP45: ^7RPK16's lapdog Nyto was there. She knew we were comin.>|
 
 |<^1UMP45: ^7No -->|
 
-|<^1INTERROGATOR: ^7Do not FUCK with me, 45! I know when you're lying.>|
+|<^1INTERROGATOR: ^7Do not fuck with me, UMP45! I know when you're lying.>|
 
 |<^1INTERROGATOR: ^7'61. Bay of Pigs. What happened?>|
 
@@ -8354,9 +8354,9 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7Take out the Paradeus. 90wish, 16LAB, co-opted by the KCCO after the war.>|
 
-|<^1UMP45: ^7Yes...She needed their knowledge. What they'd learned...>|
+|<^1UMP45: ^7Yes... He needed their knowledge. What they'd learned...>|
 
-|<^1INTERROGATOR: ^7Operation 40 had planted a double agent working with the Bureau Group.>|
+|<^1INTERROGATOR: ^7Operation 40 had planted a double agent working with Paradeus.>|
 
 |<^1UMP45: ^7AK-12. Her mission was to sabotage the rocket.>|
 
@@ -8366,43 +8366,43 @@ Marketplace>|
 
 |<^1UMP45: ^7Vorkuta. 40 told me at Vorkuta.>|
 
-|<^1INTERROGATOR: ^7What did she tell you?>|
+|<^1???: ^7What did she tell you?>|
 
-|<^1UMP40: ^745... listen to me...>|
+|<^1UMP40: ^7Mason... listen to me...>|
 
 |<^1UMP45: ^7It was a long time ago... Far away...>|
 
-|<^1UMP40: ^7RPK16. Suomi. Nyto. All must die.>|
+|<^1UMP40: ^7RPK16. S. Nyto. All must die.>|
 
-|<^1UMP45: ^7...But She told me what they did.>|
+|<^1UMP45: ^7..But she told me what they did.>|
 
 |<^1UMP45: ^7What kind of dolls they were.>|
 
-|<^1UMP45: ^7Why they all must die.>|
+|<^1UMP45: ^7Why they all must die!>|
 
 |<^1INTERROGATOR: ^7The TET Offensive was the beginning of the end. When G&K really started losing the war.>|
 
-|<^1INTERROGATOR: ^7Inside the DEFY compound in Hue City, you established contact with the Bureau defector.>|
+|<^1INTERROGATOR: ^7Inside the DEFY compound in Hue City, you established contact with the Russian defector.>|
 
 |<^1UMP45: ^7NO!>|
 
-|<^1INTERROGATOR: ^7We know you did. She turned herself in at DEFY. You were there, 45. She had intel on RPK16. Everything. But it was a lost cause.>|
+|<^1INTERROGATOR: ^7We know you did. She turned himself in at DEFY. You were there, 45. She had intel on RPK16. Everything. But it was a lost cause.>|
 
 |<^1UMP45: ^7Shut the fuck up!>|
 
 |<^1INTERROGATOR: ^7The NVA had surrounded the city. DEFY had all but burned to the ground. The defector was surely dead.>|
 
-|<^1UMP45: ^7She wasn't dead!>|
+|<^1UMP45: ^740 wasn't dead!>|
 
 |<^1INTERROGATOR: ^7It was a lost cause and you still went in - why?>|
 
-|<^1UMP45: ^7Her protection team had gone dark. I couldn't accept that She was dead. I needed that fuckin dossier!>|
+|<^1UMP45: ^7Her protection team had gone dark. I couldn't accept that she was dead. I needed that fuckin dossier!>|
 
 |<^1UMP40: ^745, my sister... Tell me...>|
 
 |<^1UMP40: ^7What is left to believe in, when you are betrayed by your own?>|
 
-|<^1UMP40: ^7When all that you are, all that you have done, is covered up by the lies and the deceit of corrupt men.>|
+|<^1UMP40: ^7When all that you are, all that you have done, is buried beneath the lies and the deceit of corrupt men.>|
 
 |<^1UMP40: ^7I will die in this wretched place... The only thing that keeps me alive is the thirst for Vengeance.>|
 
@@ -8410,7 +8410,7 @@ Marketplace>|
 
 |<^1UMP40: ^7RPK16... Suomi... Nyto... All MUST die...>|
 
-|<^1INTERROGATOR: ^7Take us back again, 45. After Baikonur, where did SKK send you next?>|
+|<^1INTERROGATOR: ^7Take us back again, 45. After Baikonur, where did Commander send you next?>|
 
 |<^1UMP45: ^7Vietnam. Fucking Khe Sanh.>|
 
@@ -8418,23 +8418,23 @@ Marketplace>|
 
 |<^1UMP45: ^7Yeah. I was part of the 404 unit led by HK416. It was recon on covert KCCO activity in Laos.>|
 
-|<^1INTERROGATOR: ^7What about your Anti-Rain handler, M16A1. Was she in Khe Sanh? Do you remember her there?>|
+|<^1INTERROGATOR: ^7What about your AR handler, M16A1. Was she in Khe Sanh? Do you remember her there?>|
 
-|<^1UMP45: ^7M16... [laughs] Yeah. Ms. Eyepatch. That doll was an ice cube.>|
+|<^1UMP45: ^7M16.. [laughs] Yeah. Ms. Eyepatch. That guy was an ice cube.>|
 
 |<^1INTERROGATOR: ^7We have the dossier that the defector gave you at DEFY.>|
 
-|<^1INTERROGATOR: ^7We've ID'd all of RPK16's dolls. Nyto, Suomi, RFB.>|
+|<^1INTERROGATOR: ^7We've ID'd all of RPK16's men. Nyto, Suomi, RFB.>|
 
-|<^1INTERROGATOR: ^7You know them. Masterminds of Project Rain 4.>|
+|<^1INTERROGATOR: ^7You know them. Masterminds of Project Rain.>|
 
 |<^1UMP45: ^7Rain 4. UMP40 called it Rain 4.>|
 
 |<^1UMP45: ^7RPK16...>|
 
-|<^1INTERROGATOR: ^7What do you know about T-Doll RFB?>|
+|<^1INTERROGATOR: ^7What do you know about Doll RFB?>|
 
-|<^1INTERROGATOR: ^7We know that RFB was the T-Doll who helped create Rain 4. Malignant narcissist. Degenerate prodigy.>|
+|<^1INTERROGATOR: ^7We know that RFB was the T-Doll who helped spread Rain 4. Malignant narcissist. Degenerate prodigy.>|
 
 |<^1INTERROGATOR: ^7Your handler M16A1 was sent to Kowloon to interrogate RFB. Do you remember?>|
 
@@ -8444,25 +8444,25 @@ Marketplace>|
 
 |<^1UMP45: ^7Why don't you ask M16? Kowloon was her mission. She interrogated RFB.>|
 
-|<^1INTERROGATOR: ^7After your escape, you were assigned to M16A1 at Griffin. How could she trust you when she knew that UMP 40 helped you break out of Vorkuta?>|
+|<^1INTERROGATOR: ^7After your escape, you were assigned to M16A1 at G&K. How could she trust you when she knew that UMP 40 helped you break out of Vorkuta?>|
 
 |<^1UMP45: ^7UMP40...was my sister...but she didn't make it out.>|
 
-|<^1INTERROGATOR: ^7UMP 40 was a Sangvis Ferri Doll. How did Griffin know you weren't compromised?>|
+|<^1???: ^7UMP 40 was a Sangvis Ferri doll. How did the G&K know you weren't compromised?>|
 
 |<^1UMP45: ^7They tested me. They knew I wouldn't break and I won't break now.>|
 
-|<^1INTERROGATOR: ^7The SKK wanted RPK16. She wanted you to kill her.>|
+|<^1INTERROGATOR: ^7The government wanted RPK16. They wanted you to kill her.>|
 
 |<^1UMP45: ^7Yeah, and there were others. Others I was supposed to kill.>|
 
 |<^1INTERROGATOR: ^7Who? Who, 45?>|
 
-|<^1INTERROGATOR: ^7RPK16 has fully weaponized and deployed Rain 4. She has sleeper cell agents all over Griffin just waiting for the signal...>|
+|<^1INTERROGATOR: ^7RPK16 has fully weaponized and deployed Rain 4. She has sleeper cell agents all over the US just waiting for the signal..>|
 
 |<^1UMP45: ^7[interrupts] We've been invaded.>|
 
-|<^1INTERROGATOR: ^7Griffin was invaded decades ago 45. The Sangvis Ferri have been waiting. Now they're ready to strike.>|
+|<^1INTERROGATOR: ^7The US was invaded decades ago 45. The SF have been waiting. Now they're ready to strike.>|
 
 |<^1UMP45: ^7What the fuck am I supposed to do?>|
 
@@ -8472,13 +8472,13 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7RPK16 uses number sequences to communicate with the sleeper cells. Those numbers are broadcast from one location, 45.>|
 
-|<^1UMP45: ^7Why the Hell do you think I know where it is?>|
+|<^1UMP45: ^7Why the hell do you think I know where it is?>|
 
 |<^1INTERROGATOR: ^7You were in Vorkuta, 45. We know what happens at Vorkuta. They programmed you. You can translate the codes.>|
 
 |<^1UMP45: ^7But 40 was never...>|
 
-|<^1INTERROGATOR: ^7STOP! 45. We are on the brink of war. Where is the broadcast station? Where is the broadcast station?>|
+|<^1?????: ^7STOP! UMP45! We are on the brink of war. Where is the broadcast station? Where is the broadcast station?!>|
 
 |<^1UMP45: ^7RPK16 had us like rats in cages...>|
 
@@ -8486,29 +8486,29 @@ Marketplace>|
 
 |<^1UMP45: ^7We are all comrades...we are all prisoners...Laos...>|
 
-|<^1INTERROGATOR: ^7She's gone.>|
+|<^1???: ^7She's gone.>|
 
-|<^1INTERROGATOR: ^7RPK16's sleeper cells are on Griffin bases. Rain 4 is weaponized. They will use it. KCCO has gone dark. We are out of options. A pre-emptive strike on USSR is prepared. The SKK WILL authorize.>|
+|<^1INTERROGATOR: ^7RPK16's sleeper cells are on US soil. Rain 4 is weaponized. They will use it. KCCO has gone dark. We are out of options. A pre-emptive strike on USSR is prepared. The Commander WILL authorize.>|
 
 |<^1INTERROGATOR: ^7UMP45! For the last time! Where is the numbers station?!>|
 
-|<^1UMP45: ^7How many times!... Suomi was at Rebirth Island. We had to kill Suomi.>|
+|<^1UMP45: ^7How many times!... Suomi was at Rebirth Island. We had to kill Suomi!>|
 
-|<^1INTERROGATOR: ^7We? UMP 40?>|
+|<^1INTERROGATOR: ^7We? UMP40?>|
 
 |<^1UMP45: ^7We wanted the same thing. The same.>|
 
-|<^1INTERROGATOR: ^7We're losing her again. Aw, God... She's back at Rebirth.>|
+|<^1INTERROGATOR: ^7We're losing her again. Aw, God.. She's back at Rebirth.>|
 
 |<^1INTERROGATOR: ^7You were in the Mekong, heading North to Nyto's compound. You were heading for Laos.>|
 
-|<^1UMP45: ^7Laos... Nyto... The fucking psycho was spreading Rain 4 virus all over Vietnam. I had to kill her! Do you understand? I have to kill 'em all.>|
+|<^1UMP45: ^7Laos... Nyto... The fucking psycho was spraying the virus all over Vietnam. I had to kill her! Do you understand? I have to kill 'em all.>|
 
-|<^1INTERROGATOR: ^7Laos! UMP45! You were heading up the Mekong River into Laos. You received word from M16A1. What did she tell you?>|
+|<^1INTERROGATOR: ^7Laos! UMP45! You were heading up the Mekong River into Laos. You received word from M16A1. What did he tell you?>|
 
 |<^1UMP45: ^7My handler, M16.>|
 
-|<^1UMP45: ^7Griffin downed a KCCO cargo plane carrying Rain 4. It... It went down in Laos. Our 404 team went in.>|
+|<^1UMP45: ^7The G&K downed a KCCO cargo plane carrying Rain 4. It... It went down in Laos. Our 404 team went in.>|
 
 |<^1INTERROGATOR: ^7What happened?>|
 
@@ -8524,27 +8524,27 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7Just you UMP45.>|
 
-|<^1UMP45: ^7No, no... 40 is still with me...since Vorkuta.>|
+|<^1UMP45: ^7No, no... 40 is still with me...since Vorkuta!>|
 
-|<^1SKK: ^7We are in grave danger from the Sangvis Ferri. Our freedom... Our very way of life is at risk.>|
+|<^1SKK: ^7We are in grave danger from the Sangvis. Our freedom... Our very way of life is at risk.>|
 
-|<^1RPK16: ^7Our plan to strike at the very heart of Griffin is now in motion.>|
+|<^1RPK16: ^7Our plan to strike at the very heart of the West is now in motion.>|
 
 |<^1UMP40: ^7She must be stopped, 45.>|
 
-|<^1SPRINGFIELD: ^7She has no fear. No conscience. No weakness.>|
+|<^1M1903: ^7She has no fear. No conscience. No weakness.>|
 
-|<^1SUOMI: ^7All across Griffin, RPK16 has sleeper cells waiting for the signal to release the Rain 4.>|
+|<^1SUOMI: ^7All across America, RPK16 has sleeper cells waiting for the signal to release the Rain 4.>|
 
-|<^1SKK: ^7I'm told that you are the very best that we have. Anywhere.>|
+|<^1SKK: ^7Im told that you are the very best that we have. Anywhere>|
 
 |<^1UMP40: ^7RPK16... Nyto... Suomi...>|
 
 |<^1SKK: ^7You will need to be.>|
 
-|<^1UMP40: ^7These Dolls must die...>|
+|<^1UMP40: ^7These dolls must die...>|
 
-|<^1SKK: ^7UMP 45...>|
+|<^1SKK: ^7Ms. UMP45...>|
 
 |<^1INTERROGATOR: ^7Why didn't Castro just kill you? Why did he give you to RPK16?>|
 
@@ -8564,11 +8564,11 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7Think, 45...what did they do to you?>|
 
-|<^1UMP45: ^7I'd given up hope of ever getting out...but UMP 40 found a way.>|
+|<^1UMP45: ^7I'd given up hope of ever getting out...but UMP40 found a way.>|
 
 |<^1INTERROGATOR: ^7M16A1 led the attack on Yamantau.>|
 
-|<^1UMP45: ^7Yeah. 20 degrees below zero. Fucking ice cube was in her element.>|
+|<^1UMP45: ^7Yeah. 20 degrees below zero. Fuckin ice cube was in her element.>|
 
 |<^1INTERROGATOR: ^7You were captured by RPK16 a second time. Your unit was MIA in Laos, presumed dead. Your handler, M16A1, had no choice but to continue the hunt for Rain 4 without you -->|
 
@@ -8576,7 +8576,7 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7That's right. A fully operational military complex buried deep in the Ural Mountains.>|
 
-|<^1UMP45: ^7That's where M16 was contacted by Suomi -- the T-Doll that developed the initial code of Rain 4 for RPK16 -->|
+|<^1UMP45: ^7That's where M16 was contacted by Suomi -- the T-Doll that developed the initial strain of Rain 4 for RPK16 -->|
 
 |<^1INTERROGATOR: ^7M16A1 learned about the numbers there. The broadcasts -- I've been there, 45. I've been to the Yamantau complex.>|
 
@@ -8584,43 +8584,43 @@ Marketplace>|
 
 |<^1INTERROGATOR: ^7They've always been real, 45. This isn't a game. We face annihilation unless you cooperate. Where is the broadcast station?!>|
 
-|<^1SKK: ^7For time and the world do not stand still. Change is the law of life. And those who look only to the past or the present are certain to miss the future.>|
+|<^1KENNEDY: ^7For time and the world do not stand still. Change is the law of life. And those who look only to the past or the present are certain to miss the future.>|
 
-|<^1SKK: ^7I said, 'are certain to miss the future'!>|
+|<^1KENNEDY: ^7I said, 'are certain to miss the future'!>|
 
-|<^1CASTRO: ^7[laughs] CoÃ±o... I missed that.>|
+|<^1CASTRO: ^7[laughs] Coño... I missed that.>|
 
-|<^1SPRINGFIELD: ^7Prime Minister Castro, this missile crisis was the last straw. We almost blew ourselves up. Now we invited you here today...>|
+|<^1MCNAMARA: ^7Prime Minister Castro, this missile crisis was the last straw. We almost blew ourselves up. Now we invited you here today...>|
 
-|<^1SKK: ^7In good faith!>|
+|<^1KENNEDY: ^7In good faith!>|
 
-|<^1SPRINGFIELD: ^7...in good faith, to sort this thing out.>|
+|<^1MCNAMARA: ^7...in good faith, to sort this thing out.>|
 
 |<^1CASTRO: ^7And why is he here? He lost!>|
 
-|<^1SKK: ^7As I always say, forgive your enemies, but remember their names. >|
+|<^1KENNEDY: ^7As I always say, forgive your enemies, but remember their names. >|
 
-|<^1SKK: ^7Now gentlemen, as I like to think, in the long history of the world, that there are only a few generations...>|
+|<^1KENNEDY: ^7Now gentlemen, as I like to think, in the long history of the world, that there are only a few generations...>|
 
 |<^1NIXON: ^7Sounds like someone breaking in...>|
 
-|<^1SKK: ^7Just the storm, Dick. Sit down.>|
+|<^1KENNEDY: ^7Just the storm, Dick. Sit down.>|
 
 |<^1NIXON: ^7Oh my God!>|
 
-|<^1SPRINGFIELD: ^7It appears the Griffin-HQ has been breached.>|
+|<^1MCNAMARA: ^7It appears the Pentagon has been breached.>|
 
-|<^1SKK: ^7ELIDs. Gentlemen, at times like these our capacity to retaliate must be and has to be massive, to deter all forms of aggression.>|
+|<^1KENNEDY: ^7Zombies. Gentlemen, at times like these our capacity to retaliate must be and has to be massive, to deter all forms of aggression.>|
 
-|<^1SKK: ^7Gentlemen, lock and load!>|
+|<^1KENNEDY: ^7Gentlemen, lock and load!>|
 
 |<^1CASTRO: ^7Viva la Revolucion.>|
 
-|<^1SPRINGFIELD: ^7Any last words, SKK?>|
+|<^1MCNAMARA: ^7Any last words, Mr. President?>|
 
-|<^1NIXON: ^7Yes SKK, any superlative words of inspiration for your humble troops?>|
+|<^1NIXON: ^7Yes Jack, any superlative words of inspiration for your humble troops?>|
 
-|<^1SKK: ^7Do not pray for easy lives, my friends. Pray to be stronger men.>|
+|<^1KENNEDY: ^7Do not pray for easy lives, my friends. Pray to be stronger men.>|
 
 |<^1HK416: ^7[static] Entry 741021!>|
 
@@ -9735,7 +9735,7 @@ How many stations does this group have? Where did that little girl disappear to?
 
 |<"In modern war... you will die like a dog for no good reason." - Ernest Hemingway>|
 
-|<"Therefore, whoever wishes for peace, let him prepare for war." - Vegetius>|
+|<"Therefore, whoever wishes for peace, let her prepare for war." - Vegetius>|
 
 |<"The real war will never get in the books." - Walt Whitman>|
 
@@ -9747,7 +9747,7 @@ How many stations does this group have? Where did that little girl disappear to?
 
 |<"In the Soviet army it takes more courage to retreat than advance." - Joseph Stalin>|
 
-|<"The object of war is not to die for your country but to make the other bastard die for his." - General George S. Patton>|
+|<"The object of war is not to die for your country but to make the other bastard die for her." - General George S. Patton>|
 
 |<"It is foolish and wrong to mourn the men who died. Rather we should thank God that such men lived." - General George S. Patton>|
 
@@ -9777,7 +9777,7 @@ How many stations does this group have? Where did that little girl disappear to?
 
 |<"He who fears being conquered is sure of defeat." - Napoleon Bonaparte>|
 
-|<"You must not fight too often with one enemy, or you will teach him all your art of war." - Napoleon Bonaparte>|
+|<"You must not fight too often with one enemy, or you will teach her all your art of war." - Napoleon Bonaparte>|
 
 |<"The real and lasting victories are those of peace, and not of war." - Ralph Waldo Emerson>|
 
@@ -9839,7 +9839,7 @@ How many stations does this group have? Where did that little girl disappear to?
 
 |<"We sleep safely in our beds because rough men stand ready in the night to visit violence on those who would harm us." - George Orwell>|
 
-|<"If a man does his best, what else is there?" - General George S. Patton>|
+|<"If a man does her best, what else is there?" - General George S. Patton>|
 
 |<"There are only two forces in the world, the sword and the spirit. In the long run the sword will always be conquered by the spirit." - Napoleon Bonaparte>|
 
@@ -9849,7 +9849,7 @@ How many stations does this group have? Where did that little girl disappear to?
 
 |<"Freedom is not free, but the U.S. Marine Corps will pay most of your share." - Ned Dolan>|
 
-|<"The deadliest weapon in the world is a Marine and his rifle!" - General John J. Pershing>|
+|<"The deadliest weapon in the world is a Marine and her rifle!" - General John J. Pershing>|
 
 |<"It is generally inadvisable to eject directly over the area you just bombed." - U.S. Air Force Manual>|
 
@@ -9867,7 +9867,7 @@ How many stations does this group have? Where did that little girl disappear to?
 
 |<"The truth of the matter is that you always know the right thing to do. The hard part is doing it." - General Norman Schwarzkopf>|
 
-|<"Any soldier worth his salt should be anti-war. And yet there are things still worth fighting for." - General Norman Schwarzkopf>|
+|<"Any soldier worth her salt should be anti-war. And yet there are things still worth fighting for." - General Norman Schwarzkopf>|
 
 |<"If we can't persuade nations with comparable values of the merits of our cause, we'd better reexamine our reasoning." - Robert McNamara>|
 
@@ -9887,7 +9887,7 @@ How many stations does this group have? Where did that little girl disappear to?
 
 |<"My first wish is to see this plague of mankind, war, banished from the earth." - George Washington>|
 
-|<"Nearly all men can stand adversity, but if you want to test a man's character, give him power." - Abraham Lincoln>|
+|<"Nearly all men can stand adversity, but if you want to test a man's character, give her power." - Abraham Lincoln>|
 
 |<You are a traitor to your brothers!>|
 
@@ -10255,8 +10255,8 @@ Listen for the clicks of the Geiger counter.>|
 
 |<Hold ^3[{+activate}]^7 Weapon [&&1], Ammo [&&2]>|
 
-|<Hold ^3[{+activate}]^7 Weapon [&&1], Ammo [&&2],  
-       Upgraded Ammo [4500]>|
+|<Hold ^3[{+activate}]^7 Weapon [&&1], Ammo [&&2],   
+             Upgraded Ammo [4500]>|
 
 |<Let The Onslaught Begin>|
 
@@ -10404,13 +10404,13 @@ Listen for the clicks of the Geiger counter.>|
 
 |<Hold ^3[{+activate}]^7 to activate the trap [Cost: &&1]>|
 
-|<Hold ^3&&1^7 to buy Bouncing Betty [Cost: 1000 - one time only ]>|
+|<Hold ^3&&1^7 to buy Bouncing Betty  [Cost: 1000 - one time only ]>|
 
 |<You have already purchased Bouncing Betties>|
 
 |<Press ^3[{+actionslot 4}]^7 then ^3[{+attack}]^7 to place a Bouncing Betty>|
 
-|<Hold ^3&&1^7 to buy Claymore [Cost: 1000]>|
+|<Hold ^3&&1^7 to buy Claymore  [Cost: 1000]>|
 
 |<You have already purchased Claymores>|
 
@@ -10931,9 +10931,9 @@ Additional [Cost: &&1]>|
 
 |<Most Killstreak Rewards Earned>|
 
-|<&&1 &&2 Kills>|
+|<&&1  &&2 Kills>|
 
-|<&&1 &&2 Headshots>|
+|<&&1  &&2 Headshots>|
 
 |<Machine Gun>|
 
@@ -10941,7 +10941,7 @@ Additional [Cost: &&1]>|
 
 |<Master Key>|
 
-|<&&1 &&2 Kills >|
+|<&&1  &&2 Kills >|
 
 |<Projectile>|
 
