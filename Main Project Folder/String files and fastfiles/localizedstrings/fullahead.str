@@ -76,7 +76,7 @@ LANG_ENGLISH		"^1UMP40: ^7PPSh-41 was one of the bravest dolls I have ever known
 REFERENCE			VOX_FUL1_S01_036A_REZN
 LANG_ENGLISH		"^1UMP40: ^7She fought by my side from the Siege of Stalingrad to the fall of Berlin..."
 REFERENCE			VOX_FUL1_S01_037A_REZN
-LANG_ENGLISH		"^1UMP40: ^7The damage she sustained ensuring our victory should have earned her a Hero's welcome in Russia..."
+LANG_ENGLISH		"^1UMP40: ^7The damage she sustained ensuring our victory should have earned her a Hero's welcome to Russia..."
 REFERENCE			VOX_FUL1_S01_038A_REZN
 LANG_ENGLISH		"^1UMP40: ^7But Carter had little need for T-Dolls."
 REFERENCE			VOX_FUL1_S01_042A_REZN
@@ -192,17 +192,17 @@ LANG_ENGLISH		"^1PPSh-41: ^7Throw it outside!"
 REFERENCE			VOX_FUL1_S03_321A_DIMI
 LANG_ENGLISH		"^1PPSh-41: ^7Outside, 40!"
 REFERENCE			VOX_FUL1_S03_322A_RRD9_F
-LANG_ENGLISH		"^1USSR T-DOLL: ^7We have your target."
+LANG_ENGLISH		"^1HOC T-DOLL: ^7We have your target."
 REFERENCE			VOX_FUL1_S03_323A_RRD9_F
-LANG_ENGLISH		"^1USSR T-DOLL: ^7Stand by for mortars."
+LANG_ENGLISH		"^1HOC T-DOLL: ^7Stand by for mortars."
 REFERENCE			VOX_FUL1_S03_324A_RRD9_F
-LANG_ENGLISH		"^1USSR T-DOLL: ^7Firing mortars."
+LANG_ENGLISH		"^1HOC T-DOLL: ^7Firing mortars."
 REFERENCE			VOX_FUL1_S03_325A_RRD9_F
-LANG_ENGLISH		"^1USSR T-DOLL: ^7Firing - Stand by."
+LANG_ENGLISH		"^1HOC T-DOLL: ^7Firing - Stand by."
 REFERENCE			VOX_FUL1_S03_326A_RRD9_F
-LANG_ENGLISH		"^1USSR T-DOLL: ^7Mortars inbound."
+LANG_ENGLISH		"^1HOC T-DOLL: ^7Mortars inbound."
 REFERENCE			VOX_FUL1_S03_327A_RRD9_F
-LANG_ENGLISH		"^1USSR T-DOLL: ^7We don't have a clear shot!"
+LANG_ENGLISH		"^1HOC T-DOLL: ^7We don't have a clear shot!"
 REFERENCE			VOX_FUL1_S03_328A_REZN
 LANG_ENGLISH		"^1UMP40: ^7URA!!!"
 REFERENCE			VOX_FUL1_S03_329A_CROW
