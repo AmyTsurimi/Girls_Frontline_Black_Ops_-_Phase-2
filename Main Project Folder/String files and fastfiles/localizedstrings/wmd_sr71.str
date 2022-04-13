@@ -161,11 +161,11 @@ LANG_ENGLISH		"^1M16A1: ^7Roger. Engaging target."
 REFERENCE			VOX_WMD1_S01_064A_HUDS_F
 LANG_ENGLISH		"^1M16A1: ^7Understood. Taking him down."
 REFERENCE			VOX_WMD1_S01_065A_USC2_F
-LANG_ENGLISH		"^1KALINA: ^7Three enemies in range. Eliminate them."
+LANG_ENGLISH		"^1KALINA: ^7Two targets sighted. Kill 'em."
 REFERENCE			VOX_WMD1_S01_066A_HUDS_F
 LANG_ENGLISH		"^1M16A1: ^7Roger that, Bigeye."
 REFERENCE			VOX_WMD1_S01_067A_USC2_F
-LANG_ENGLISH		"^1KALINA: ^7AR I have two targets on Tac. Lose them."
+LANG_ENGLISH		"^1KALINA: ^7AR I have two targets on the Tac. Lose them."
 REFERENCE			VOX_WMD1_S01_068A_HUDS_F
 LANG_ENGLISH		"^1M16A1: ^7On it."
 REFERENCE			VOX_WMD1_S01_069A_USC2_F
@@ -209,9 +209,9 @@ LANG_ENGLISH		"^1M16A1: ^7On it."
 REFERENCE			VOX_WMD1_S01_115A_USC2_F
 LANG_ENGLISH		"^1KALINA: ^7AR, stop and drop."
 REFERENCE			VOX_WMD1_S01_116A_HUDS_F
-LANG_ENGLISH		"^1KALINA: ^7Good job AR."
+LANG_ENGLISH		"^1KALINA: ^7Holding position."
 REFERENCE			VOX_WMD1_S01_117A_USC2_F
-LANG_ENGLISH		"^1KALINA: ^7Nice work Anti Rain."
+LANG_ENGLISH		"^1KALINA: ^7Good job, AR."
 REFERENCE			VOX_WMD1_S01_118A_USC2_F
 LANG_ENGLISH		"^1KALINA: ^7AR you are clear."
 REFERENCE			VOX_WMD1_S01_119A_USC2_F
@@ -223,7 +223,7 @@ LANG_ENGLISH		"^1KALINA: ^7You nailed it."
 REFERENCE			VOX_WMD1_S01_122A_USC2_F
 LANG_ENGLISH		"^1KALINA: ^7Objective complete."
 REFERENCE			VOX_WMD1_S01_123A_USC2_F
-LANG_ENGLISH		"^1KALINA: ^7Good job AR."
+LANG_ENGLISH		"^1KALINA: ^7Nice work, Anti Rain."
 REFERENCE			VOX_WMD1_S01_124A_USC2_F
 LANG_ENGLISH		"^1KALINA: ^7Nice sweep. We're moving on."
 REFERENCE			VOX_WMD1_S01_125A_USC2_F
@@ -247,7 +247,7 @@ LANG_ENGLISH		"^1KALINA: ^7Wait, no. Enemy has stopped in front of the house."
 REFERENCE			VOX_WMD1_S01_367A_USC2_F
 LANG_ENGLISH		"^1KALINA: ^7Enemy coming inside. Exit through the rear and take cover on the bluff behind the structure. Position marked on tac. Go now."
 REFERENCE			VOX_WMD1_S01_368A_USC2_F
-LANG_ENGLISH		"^1KALINA: ^7Enemy vehicle ahead on the side of the road. On the tac. Move."
+LANG_ENGLISH		"^1KALINA: ^7Enemy vehicle ahead on the side of the road. Move."
 REFERENCE			VOX_WMD1_S01_400A_USC3_F
 LANG_ENGLISH		"^1COMMANDER: ^7BigEye 6, cleared for takeoff runway four."
 REFERENCE			VOX_WMD1_S01_401A_USC1_F
@@ -275,7 +275,7 @@ LANG_ENGLISH		"^1ANGELIA: ^7Kalina - I see large patrol inbound."
 REFERENCE			VOX_WMD1_S01_413A_USC2_F
 LANG_ENGLISH		"^1KALINA: ^7Confirmed Anti Rain - You are out of sight."
 REFERENCE			VOX_WMD1_S01_414A_USC2_F
-LANG_ENGLISH		"^1KALINA: ^7Nice sweep. We're moving on."
+LANG_ENGLISH		"^1KALINA: ^7Good job. Move up."
 REFERENCE			VOX_WMD1_S01_415A_USC2_F
 LANG_ENGLISH		"^1KALINA: ^7All clear, Anti Rain."
 REFERENCE			VOX_WMD1_S01_416A_USC2_F
@@ -295,7 +295,7 @@ LANG_ENGLISH		"^1KALINA: ^7Stop and drop. Stay out of sight."
 REFERENCE			VOX_WMD1_S01_423A_HUDS_F
 LANG_ENGLISH		"^1M16A1: ^7Roger that, Bigeye... digging in."
 REFERENCE			VOX_WMD1_S01_424A_USC2_F
-LANG_ENGLISH		"^1KALINA: ^7S.K.K - Anti Rain neutralized."
+LANG_ENGLISH		"^1KALINA: ^7S.K.K - Anti Rain has been neutralized."
 REFERENCE			VOX_WMD1_S01_425A_USC2_F
 LANG_ENGLISH		"^1KALINA: ^7Anti Rain? Come in Anti Rain.."
 REFERENCE			VOX_WMD1_S01_426A_USC2_F
