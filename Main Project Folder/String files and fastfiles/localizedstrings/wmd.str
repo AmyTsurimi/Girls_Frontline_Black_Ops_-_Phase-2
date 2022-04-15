@@ -227,7 +227,7 @@ LANG_ENGLISH		"^1UMP45: ^7Yeah. 20 degrees below zero. Fucking ice cube was in h
 REFERENCE			VOX_WMD1_S01_901A_MASO_S
 LANG_ENGLISH		"^1UMP45: ^7Yeah. 20 degrees below zero. Damn ice cube was in her element."
 REFERENCE			VOX_WMD1_S01_902A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7The avalanche buried the entire base, but M16A1 and AK-12 made it out alive. It was almost all over, 45."
+LANG_ENGLISH		"^1INTERROGATOR: ^7The avalanche buried the entire base, but M16A1 and AK-12 made it out alive. It was almost over, 45."
 REFERENCE			VOX_WMD1_S02_454A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7Shit... They've already started clearing house - Move!"
 REFERENCE			VOX_WMD1_S02_454A_HUDS_S
@@ -331,7 +331,7 @@ LANG_ENGLISH		"^1ANGELIA: ^7The target's the other way."
 REFERENCE			VOX_WMD1_S99_804A_USC1
 LANG_ENGLISH		"^1ANGELIA: ^7This doesn't look right, Kalina."
 REFERENCE			VOX_WMD1_S99_805A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7Roger."
+LANG_ENGLISH		"^1M16A1: ^7Roger that."
 REFERENCE			VOX_WMD1_S99_806A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7Roger, on the move."
 REFERENCE			VOX_WMD1_S99_807A_HUDS
