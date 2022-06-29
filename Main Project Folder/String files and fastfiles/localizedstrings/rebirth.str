@@ -44,7 +44,7 @@ LANG_ENGLISH		"Escape the island"
 REFERENCE			VOX_REB1_S01_002A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7We are here."
 REFERENCE			VOX_REB1_S01_004A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7Rebirth Island... Source of RPK16's virus."
+LANG_ENGLISH		"^1UMP40: ^7Rebirth Island... Source of RPK-16's virus."
 REFERENCE			VOX_REB1_S01_006A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7They are preparing to deliver Parapluie."
 REFERENCE			VOX_REB1_S01_011A_REZN_M
@@ -138,7 +138,7 @@ LANG_ENGLISH		"^1UMP40: ^7Be cautious, sis..."
 REFERENCE			VOX_REB1_S02_063A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7Let us end this..."
 REFERENCE			VOX_REB1_S02_064A_STEI_M
-LANG_ENGLISH		"^1SUOMI: ^7RPK16's men are rounding up everyone on the island..."
+LANG_ENGLISH		"^1SUOMI: ^7RPK-16's men are rounding up everyone on the island..."
 REFERENCE			VOX_REB1_S02_065A_STEI_M
 LANG_ENGLISH		"^1SUOMI: ^7Those no longer essential to her plans are being executed!"
 REFERENCE			VOX_REB1_S02_066A_STEI_M
@@ -364,7 +364,7 @@ LANG_ENGLISH		"^1AK-12: ^7Watch her..."
 REFERENCE			VOX_REB1_S03_173A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7What the hell did they do to you, 45?"
 REFERENCE			VOX_REB1_S03_300A_STEI_F
-LANG_ENGLISH		"^1SUOMI: ^7RPK16's men are rounding up everyone on the island..."
+LANG_ENGLISH		"^1SUOMI: ^7RPK-16's men are rounding up everyone on the island..."
 REFERENCE			VOX_REB1_S03_301A_STEI_F
 LANG_ENGLISH		"^1SUOMI: ^7Those no longer essential to her plans are being executed!"
 REFERENCE			VOX_REB1_S03_302A_STEI_F

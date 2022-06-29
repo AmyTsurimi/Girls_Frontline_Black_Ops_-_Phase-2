@@ -77,7 +77,7 @@ LANG_ENGLISH		"^1COMMANDER: ^7Sit."
 REFERENCE			VOX_PEN1_S01_039A_KENN_M
 LANG_ENGLISH		"^1COMMANDER: ^7We are in grave danger from the Sangvis. Our freedom... Our very way of life is at risk."
 REFERENCE			VOX_PEN1_S01_040A_KENN_M
-LANG_ENGLISH		"^1COMMANDER: ^7RPK16."
+LANG_ENGLISH		"^1COMMANDER: ^7RPK-16."
 REFERENCE			VOX_PEN1_S01_041A_KENN_M
 LANG_ENGLISH		"^1COMMANDER: ^7I'm told you are the very best that we have. Anywhere. - You will need to be. - Miss UMP 45, take care of it."
 REFERENCE			VOX_PEN1_S01_042A_HUDS_M
@@ -91,7 +91,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7Why Griffin HQ?"
 REFERENCE			VOX_PEN1_S01_105A_MASO
 LANG_ENGLISH		"^1UMP45: ^7M16 couldn't tell me. She didn't have clearance."
 REFERENCE			VOX_PEN1_S01_106A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7You recognized RPK16. From Cuba."
+LANG_ENGLISH		"^1INTERROGATOR: ^7You recognized RPK-16. From Cuba."
 REFERENCE			VOX_PEN1_S01_108A_MASO
 LANG_ENGLISH		"^1UMP45: ^7I felt like everyone was watching us. Watching me."
 REFERENCE			VOX_PEN1_S01_109A_MASO
@@ -121,11 +121,11 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7It was working."
 REFERENCE			VOX_PEN1_S01_127A_MASO
 LANG_ENGLISH		"^1UMP45: ^7It was working."
 REFERENCE			VOX_PEN1_S01_128A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7RPK16's programming was kicking in."
+LANG_ENGLISH		"^1INTERROGATOR: ^7RPK-16's programming was kicking in."
 REFERENCE			VOX_PEN1_S01_130A_MASO
 LANG_ENGLISH		"^1UMP45: ^7I am."
 REFERENCE			VOX_PEN1_S01_500A_DRAG_M
-LANG_ENGLISH		"^1RPK16: ^7She will know suffering beyond her darkest fears..."
+LANG_ENGLISH		"^1RPK-16: ^7She will know suffering beyond her darkest fears..."
 REFERENCE			VOX_PEN1_S01_501A_SWIF_M
 LANG_ENGLISH		"^1SWIFT: ^7What the fuck's wrong with you?"
 REFERENCE			VOX_PEN1_S01_501A_SWIF_M_S

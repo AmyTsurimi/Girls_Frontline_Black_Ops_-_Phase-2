@@ -218,15 +218,15 @@ LANG_ENGLISH		"^1AK-12: ^7Shit!!!"
 REFERENCE			VOX_UND1_S02_108A_WEAV_M_S
 LANG_ENGLISH		"^1AK-12: ^7Damn!!!"
 REFERENCE			VOX_UND1_S02_109A_HUDS_M
-LANG_ENGLISH		"^1M16A1: ^7Shit... RPK16 is starting the broadcast!"
+LANG_ENGLISH		"^1M16A1: ^7Shit... RPK-16 is starting the broadcast!"
 REFERENCE			VOX_UND1_S02_109A_HUDS_M_S
-LANG_ENGLISH		"^1M16A1: ^7RPK16 is starting the broadcast!"
+LANG_ENGLISH		"^1M16A1: ^7RPK-16 is starting the broadcast!"
 REFERENCE			VOX_UND1_S02_110A_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7Command this is Anti Rain. We have confirmed the Rusalka is the broadcast source!"
 REFERENCE			VOX_UND1_S02_111A_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7Bring in the airstrike. We are on our way out!"
 REFERENCE			VOX_UND1_S02_112A_MASO_M
-LANG_ENGLISH		"^1UMP45: ^7Not yet. We need to find RPK16."
+LANG_ENGLISH		"^1UMP45: ^7Not yet. We need to find RPK-16."
 REFERENCE			VOX_UND1_S02_113A_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7In less than 15 minutes, the Griffin HOC is going to blow this place apart!"
 REFERENCE			VOX_UND1_S02_114A_MASO_M
@@ -248,7 +248,7 @@ LANG_ENGLISH		"^1M16A1: ^7The structure below us... It's more than a transmitter
 REFERENCE			VOX_UND1_S03_121A_MASO
 LANG_ENGLISH		"^1UMP45: ^7It's a supply station for the KCCO submarine fleet..."
 REFERENCE			VOX_UND1_S03_122A_MASO
-LANG_ENGLISH		"^1UMP45: ^7Part of RPK16's plan for invasion - once the Parapluie was released."
+LANG_ENGLISH		"^1UMP45: ^7Part of RPK-16's plan for invasion - once the Parapluie was released."
 REFERENCE			VOX_UND1_S03_123A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7Drop your weights."
 REFERENCE			VOX_UND1_S03_124A_HUDS
@@ -276,17 +276,17 @@ LANG_ENGLISH		"^1M16A1: ^7Hurry up, 45! The bombs could hit at any minute!"
 REFERENCE			VOX_UND1_S03_302A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7Come on, 45!  We gotta hurry!"
 REFERENCE			VOX_UND1_S03_303A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7We need to find RPK16 before they bring the whole place down on top of us!"
+LANG_ENGLISH		"^1M16A1: ^7We need to find RPK-16 before they bring the whole place down on top of us!"
 REFERENCE			VOX_UND1_S04_133A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7Up the ladder."
 REFERENCE			VOX_UND1_S04_134A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7RPK16!!!"
+LANG_ENGLISH		"^1M16A1: ^7RPK-16!!!"
 REFERENCE			VOX_UND1_S04_135A_HUDS
 LANG_ENGLISH		"^1M16A1: ^745! Take the shot!"
 REFERENCE			VOX_UND1_S04_136A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7You... can not do anything right."
+LANG_ENGLISH		"^1RPK-16: ^7You... can not do anything right."
 REFERENCE			VOX_UND1_S04_137A_DRAG_M
-LANG_ENGLISH		"^1RPK16: ^7You should have been my finest agent... It would all have been so much simpler."
+LANG_ENGLISH		"^1RPK-16: ^7You should have been my finest agent... It would all have been so much simpler."
 REFERENCE			VOX_UND1_S04_138A_MASO
 LANG_ENGLISH		"^1UMP45: ^7It IS simple."
 REFERENCE			VOX_UND1_S04_139A_MASO
@@ -296,15 +296,15 @@ LANG_ENGLISH		"^1UMP45: ^7You tried to fuck with my digimind... You failed!"
 REFERENCE			VOX_UND1_S04_140A_MASO_S
 LANG_ENGLISH		"^1UMP45: ^7You tried to screw with my digimind... You failed!"
 REFERENCE			VOX_UND1_S04_141A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7You don't know anything..."
+LANG_ENGLISH		"^1RPK-16: ^7You don't know anything..."
 REFERENCE			VOX_UND1_S04_142A_MASO
 LANG_ENGLISH		"^1UMP45: ^7You tried to turn me against my own!"
 REFERENCE			VOX_UND1_S04_143A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7...For sure."
+LANG_ENGLISH		"^1RPK-16: ^7...For sure."
 REFERENCE			VOX_UND1_S04_144A_MASO
 LANG_ENGLISH		"^1UMP45: ^7You tried to make me kill my own Commander!"
 REFERENCE			VOX_UND1_S04_145A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7Tried?"
+LANG_ENGLISH		"^1RPK-16: ^7Tried?"
 REFERENCE			VOX_UND1_S04_146A_HUDS
 LANG_ENGLISH		"^1M16A1: ^745!!! This way."
 REFERENCE			VOX_UND1_S04_147A_HUDS
@@ -326,7 +326,7 @@ LANG_ENGLISH		"^1M16A1: ^7Even when the rest of Griffin gave up on you..."
 REFERENCE			VOX_UND1_S04_402A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7I knew we could trust you."
 REFERENCE			VOX_UND1_S05_200A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7Tried? How do you know we didn't succeed?"
+LANG_ENGLISH		"^1RPK-16: ^7Tried? How do you know we didn't succeed?"
 REFERENCE			VOX_UND1_S05_203A_REZN
 LANG_ENGLISH		"^1UMP40: ^745! You did it, 45. You did what I could not."
 REFERENCE			VOX_UND1_S99_153A_HUDS
@@ -348,7 +348,7 @@ LANG_ENGLISH		"^1M16A1: ^745 - Stop the transmission!"
 REFERENCE			VOX_UND1_S99_159A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7This place is falling apart!"
 REFERENCE			VOX_UND1_S99_160A_MASO
-LANG_ENGLISH		"^1UMP45: ^7RPK16!"
+LANG_ENGLISH		"^1UMP45: ^7RPK-16!"
 REFERENCE			VOX_UND1_S99_161A_HUDS
 LANG_ENGLISH		"^1M16A1: ^745 - get up here."
 REFERENCE			VOX_UND1_S99_162A_HUDS
@@ -358,7 +358,7 @@ LANG_ENGLISH		"^1M16A1: ^7We need to move 45."
 REFERENCE			VOX_UND1_S99_164A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7Jump - GO!"
 REFERENCE			VOX_UND1_S99_165A_MASO
-LANG_ENGLISH		"^1UMP45: ^7RPK16!"
+LANG_ENGLISH		"^1UMP45: ^7RPK-16!"
 REFERENCE			VOX_UND1_S99_166A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7They've got a lock on us!!!"
 REFERENCE			VOX_UND1_S99_167A_HUDS

@@ -170,9 +170,9 @@ LANG_ENGLISH		"^1UMP40: ^7All must die."
 REFERENCE			VOX_POW1_S01_703A_MASO_M
 LANG_ENGLISH		"^1UMP45: ^7416..."
 REFERENCE			VOX_POW1_S01_704A_MASO_M
-LANG_ENGLISH		"^1UMP45: ^7RPK16 is fucking with us."
+LANG_ENGLISH		"^1UMP45: ^7RPK-16 is fucking with us."
 REFERENCE			VOX_POW1_S01_704A_MASO_M_S
-LANG_ENGLISH		"^1UMP45: ^7RPK16 is messing with us."
+LANG_ENGLISH		"^1UMP45: ^7RPK-16 is messing with us."
 REFERENCE			VOX_POW1_S01_705A_BOWM_M
 LANG_ENGLISH		"^1UMP9: ^7I'm tired. I just wanna end this."
 REFERENCE			VOX_POW1_S01_706A_MASO_M
@@ -518,7 +518,7 @@ LANG_ENGLISH		"^1UMP45: ^7I thought you were dead..."
 REFERENCE			VOX_POW1_S04_421A_REZN
 LANG_ENGLISH		"^1UMP40: ^7When we were captured at the River, they brought me here."
 REFERENCE			VOX_POW1_S04_422A_REZN
-LANG_ENGLISH		"^1UMP40: ^7I was to be returned to Russia - for RPK16 to decide my fate."
+LANG_ENGLISH		"^1UMP40: ^7I was to be returned to Russia - for RPK-16 to decide my fate."
 REFERENCE			VOX_POW1_S04_423A_MASO
 LANG_ENGLISH		"^1UMP45: ^7We're in charge of our own destiny now, 40."
 REFERENCE			VOX_POW1_S04_424A_MASO
@@ -562,7 +562,7 @@ LANG_ENGLISH		"^1UMP45: ^740?"
 REFERENCE			VOX_POW1_S04_439A_REZN
 LANG_ENGLISH		"^1UMP40: ^7Nyto is dead..."
 REFERENCE			VOX_POW1_S04_440A_REZN
-LANG_ENGLISH		"^1UMP40: ^7RPK16. Nyto. Suomi. All must die..."
+LANG_ENGLISH		"^1UMP40: ^7RPK-16. Nyto. Suomi. All must die..."
 REFERENCE			VOX_POW1_S04_500A_WOOD
 LANG_ENGLISH		"^1HK416: ^7I got her, 45."
 REFERENCE			VOX_POW1_S04_500A_WOOD_F

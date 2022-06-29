@@ -33,7 +33,7 @@ LANG_ENGLISH		"Shoot the Canister"
 REFERENCE			VOX_KOW1_S01_001A_CLAR_M
 LANG_ENGLISH		"^1RFB: ^7Don't you morons get it?"
 REFERENCE			VOX_KOW1_S01_002A_CLAR_M
-LANG_ENGLISH		"^1RFB: ^7If you think your government sponsored brutality intimidates me, you clearly don't know anything about RPK16..."
+LANG_ENGLISH		"^1RFB: ^7If you think your government sponsored brutality intimidates me, you clearly don't know anything about RPK-16..."
 REFERENCE			VOX_KOW1_S01_003A_CLAR_M
 LANG_ENGLISH		"^1RFB: ^7I have nothing to gain by talking to you."
 REFERENCE			VOX_KOW1_S01_004A_HUDS_M
@@ -51,7 +51,7 @@ LANG_ENGLISH		"^1RFB: ^7...And if you found me, so will they... They know everyt
 REFERENCE			VOX_KOW1_S01_010A_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7Why?"
 REFERENCE			VOX_KOW1_S01_011A_CLAR_M
-LANG_ENGLISH		"^1RFB: ^7RPK16 doesn't like loose ends... I've never even dealt with her directly, only Suomi - The SMG Doll..."
+LANG_ENGLISH		"^1RFB: ^7RPK-16 doesn't like loose ends... I've never even dealt with her directly, only Suomi - The SMG Doll..."
 REFERENCE			VOX_KOW1_S01_012A_HUDS_M
 LANG_ENGLISH		"^1M16A1: ^7What was the nature of your business?"
 REFERENCE			VOX_KOW1_S01_013A_CLAR_M
@@ -65,7 +65,7 @@ LANG_ENGLISH		"^1RFB: ^7You led them right to me!"
 REFERENCE			VOX_KOW1_S01_700A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7One minute RFB was being tortured by M16A1, the next RFB was helping her. Why?"
 REFERENCE			VOX_KOW1_S01_701A_MASO
-LANG_ENGLISH		"^1UMP45: ^7Why? The AR just wanted RFB's intel. RPK16 wanted her head."
+LANG_ENGLISH		"^1UMP45: ^7Why? The AR just wanted RFB's intel. RPK-16 wanted her head."
 REFERENCE			VOX_KOW1_S01_702A_WEAV
 LANG_ENGLISH		"^1AK-12: ^7M16! Get to the van."
 REFERENCE			VOX_KOW1_S01_703A_WEAV
@@ -191,7 +191,7 @@ LANG_ENGLISH		"^1M16A1: ^7No problem."
 REFERENCE			VOX_KOW1_S05_073A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7I got 'em."
 REFERENCE			VOX_KOW1_S05_074A_WEAV
-LANG_ENGLISH		"^1AK-12: ^7RPK16 is going to a lot of trouble to shut you up... What are you not telling us?"
+LANG_ENGLISH		"^1AK-12: ^7RPK-16 is going to a lot of trouble to shut you up... What are you not telling us?"
 REFERENCE			VOX_KOW1_S05_075A_CLAR
 LANG_ENGLISH		"^1RFB: ^7I told you about Parapluie..."
 REFERENCE			VOX_KOW1_S05_076A_WEAV
@@ -205,7 +205,7 @@ LANG_ENGLISH		"^1RFB: ^7That's where you'll find her pet doll Suomi - In final p
 REFERENCE			VOX_KOW1_S05_079A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7What else?... Whispers. Rumors... ANYTHING?!"
 REFERENCE			VOX_KOW1_S05_080A_CLAR
-LANG_ENGLISH		"^1RFB: ^7Suomi talked with RPK16 about numbers..."
+LANG_ENGLISH		"^1RFB: ^7Suomi talked with RPK-16 about numbers..."
 REFERENCE			VOX_KOW1_S05_081A_HUDS
 LANG_ENGLISH		"^1M16A1: ^7What kind of numbers?"
 REFERENCE			VOX_KOW1_S05_082A_CLAR
@@ -221,9 +221,9 @@ LANG_ENGLISH		"^1RFB: ^7... They've sent in a clean up crew to steal what's left
 REFERENCE			VOX_KOW1_S06_086B_CLAR_M
 LANG_ENGLISH		"^1RFB: ^7... They're bringing in a clean up crew to steal what's left of my research."
 REFERENCE			VOX_KOW1_S06_087A_CLAR_M
-LANG_ENGLISH		"^1RFB: ^7Well, no thank you, RPK16... I can clean up my own mess! [laughs]"
+LANG_ENGLISH		"^1RFB: ^7Well, no thank you, RPK-16... I can clean up my own mess! [laughs]"
 REFERENCE			VOX_KOW1_S06_087B_CLAR_M
-LANG_ENGLISH		"^1RFB: ^7No thank you, RPK16... I can clean up my own mess!"
+LANG_ENGLISH		"^1RFB: ^7No thank you, RPK-16... I can clean up my own mess!"
 REFERENCE			VOX_KOW1_S06_088A_CLAR_M
 LANG_ENGLISH		"^1RFB: ^7Either of you two low on Ammo? - we still have a ways to go."
 REFERENCE			VOX_KOW1_S06_089A_CLAR
@@ -309,7 +309,7 @@ LANG_ENGLISH		"^1AK-12: ^7This way."
 REFERENCE			VOX_KOW1_S07_126A_AGT1_M
 LANG_ENGLISH		"^1AGENT: ^7Where we headed?"
 REFERENCE			VOX_KOW1_S07_127A_HUDS
-LANG_ENGLISH		"^1M16A1: ^7RFB ID'd a civilian T-Doll working for RPK16. Her name's Suomi. We're going to Russia. Mt. Yamantau."
+LANG_ENGLISH		"^1M16A1: ^7RFB ID'd a civilian T-Doll working for RPK-16. Her name's Suomi. We're going to Russia. Mt. Yamantau."
 REFERENCE			VOX_KOW1_S07_300A_WEAV
 LANG_ENGLISH		"^1AK-12: ^7Yamantau."
 REFERENCE			VOX_KOW1_S07_301A_AGT1_F

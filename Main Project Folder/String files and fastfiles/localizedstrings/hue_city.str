@@ -163,19 +163,19 @@ LANG_ENGLISH		"^1UMP45: ^7You're our defector?"
 REFERENCE			VOX_HUE1_S01_435A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7I am here with a warning your Commander would do well to heed..."
 REFERENCE			VOX_HUE1_S01_436A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7RPK16 is planning an attack on the West."
+LANG_ENGLISH		"^1UMP40: ^7RPK-16 is planning an attack on the West."
 REFERENCE			VOX_HUE1_S01_437A_WOOD_F_M
 LANG_ENGLISH		"^1HK416: ^745!... You get what you came for?"
 REFERENCE			VOX_HUE1_S01_438A_MASO_M
 LANG_ENGLISH		"^1UMP45: ^7Good to go."
 REFERENCE			VOX_HUE1_S01_439A_MASO_M
-LANG_ENGLISH		"^1UMP45: ^7RPK16... I knew we'd see her again."
+LANG_ENGLISH		"^1UMP45: ^7RPK-16... I knew we'd see her again."
 REFERENCE			VOX_HUE1_S01_440A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7Her influence spreads like a cancer... Even Carter does not know what she is truly planning."
 REFERENCE			VOX_HUE1_S01_441A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7She must be stopped, 45."
 REFERENCE			VOX_HUE1_S01_442A_REZN
-LANG_ENGLISH		"^1UMP40: ^7RPK16... Nyto... Suomi... ^1All must die^7."
+LANG_ENGLISH		"^1UMP40: ^7RPK-16... Nyto... Suomi... ^1All must die^7."
 REFERENCE			VOX_HUE1_S01_443A_REZN
 LANG_ENGLISH		"^1UMP40: ^7Are these your men?"
 REFERENCE			VOX_HUE1_S01_444A_MASO
@@ -219,9 +219,9 @@ LANG_ENGLISH		"^1UMP45: ^7I couldn't believe 40 was here in Hue City. That she w
 REFERENCE			VOX_HUE1_S01_703A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7She came back for you 45. UMP40 was back."
 REFERENCE			VOX_HUE1_S01_704A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7NUMBERS... construction....NUMBERS Broadcast station.... NUMBERS..."
+LANG_ENGLISH		"^1RPK-16: ^7NUMBERS... construction....NUMBERS Broadcast station.... NUMBERS..."
 REFERENCE			VOX_HUE1_S01_705A_DRAG
-LANG_ENGLISH		"^1RPK16: ^7Parapluie [indistinct]....NUMBERS... Rusalka... NUMBERS."
+LANG_ENGLISH		"^1RPK-16: ^7Parapluie [indistinct]....NUMBERS... Rusalka... NUMBERS."
 REFERENCE			VOX_HUE1_S02_068A_NVA3
 LANG_ENGLISH		"^1BASE LOUDSPEAKER: ^7Griffin T-Dolls! Put down your weapons! This is not your war. We wish you no harm. The People's Army of Vietnam is here to liberate you!"
 REFERENCE			VOX_HUE1_S02_069A_CROS_M
@@ -545,7 +545,7 @@ LANG_ENGLISH		"^1UMP9: ^7So much for the Tet cease fire."
 REFERENCE			VOX_HUE1_S03_543A_REZN_M
 LANG_ENGLISH		"^1UMP40: ^7The enemy's courage could be the result of their new found ally..."
 REFERENCE			VOX_HUE1_S03_544A_MASO
-LANG_ENGLISH		"^1UMP45: ^7RPK16."
+LANG_ENGLISH		"^1UMP45: ^7RPK-16."
 REFERENCE			VOX_HUE1_S03_546A_BOWM
 LANG_ENGLISH		"^1UMP9: ^745, grab that scoped rifle and take out those spotters!"
 REFERENCE			VOX_HUE1_S03_549A_BOWM

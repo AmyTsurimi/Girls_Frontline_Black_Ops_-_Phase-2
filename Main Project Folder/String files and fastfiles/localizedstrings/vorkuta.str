@@ -117,10 +117,10 @@ REFERENCE			VOX_VOR1_S1_033A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Glad you're a friend, Saiga-12."
 
 REFERENCE			VOX_VOR1_S1_035A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7Saiga-12 mocked RPK16 in front of the wrong people..."
+LANG_ENGLISH		"^1UMP40: ^7Saiga-12 mocked RPK-16 in front of the wrong people..."
 
 REFERENCE			VOX_VOR1_S1_036A_REZN_M
-LANG_ENGLISH		"^1UMP40: ^7For her insolence, RPK16 cut out her tongue with a rusted sickle..."
+LANG_ENGLISH		"^1UMP40: ^7For her insolence, RPK-16 cut out her tongue with a rusted sickle..."
 
 REFERENCE			VOX_VOR1_S1_600A_MASO_M
 LANG_ENGLISH		"^1UMP45: ^7Damn! Do you have to hit so hard?"
@@ -324,7 +324,7 @@ REFERENCE			VOX_VOR1_S3_097A_REZN_F
 LANG_ENGLISH		"^1UMP40: ^7Here we have languished, with no hope for release... No hope for justice."
 
 REFERENCE			VOX_VOR1_S3_098A_REZN_F
-LANG_ENGLISH		"^1UMP40: ^7We have toiled in ^:RPK16^7's mines until the flesh peeled from our bones..."
+LANG_ENGLISH		"^1UMP40: ^7We have toiled in ^:RPK-16^7's mines until the flesh peeled from our bones..."
 
 REFERENCE			VOX_VOR1_S3_099A_REZN_F
 LANG_ENGLISH		"^1UMP40: ^7We have watched our comrades succumb to ^:sickness^7 and ^:disease^7..."
@@ -879,7 +879,7 @@ REFERENCE			VOX_VOR1_S6_635A_MASO
 LANG_ENGLISH		"^1UMP45: ^7S'okay, I'm back."
 
 REFERENCE			VOX_VOR1_S7_259A_REZN
-LANG_ENGLISH		"^1UMP40: ^7This is not over yet! ^:RPK16^7 will pay."
+LANG_ENGLISH		"^1UMP40: ^7This is not over yet! ^:RPK-16^7 will pay."
 
 REFERENCE			VOX_VOR1_S7_260A_REZN
 LANG_ENGLISH		"^1UMP40: ^7Come on 45! Faster! Faster!"

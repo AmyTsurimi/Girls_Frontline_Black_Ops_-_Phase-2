@@ -119,7 +119,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7What happened, next?"
 REFERENCE			VOX_FRO1_S99_067A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Did you confirm the kill?"
 REFERENCE			VOX_FRO1_S99_068A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7You spent a long time looking for RPK16."
+LANG_ENGLISH		"^1INTERROGATOR: ^7You spent a long time looking for RPK-16."
 REFERENCE			VOX_FRO1_S99_069A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Did you really want to find her?"
 REFERENCE			VOX_FRO1_S99_070A_INTE
@@ -129,7 +129,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7Did you believe that Griffin & Kryuger involvem
 REFERENCE			VOX_FRO1_S99_072A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7What did you hope to learn from the defector?"
 REFERENCE			VOX_FRO1_S99_073A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7Did you believe that she would lead you to RPK16?"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Did you believe that she would lead you to RPK-16?"
 REFERENCE			VOX_FRO1_S99_074A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Did you know the identity of the defector in advance?"
 REFERENCE			VOX_FRO1_S99_075A_INTE
@@ -149,7 +149,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7Who cleared this course of action?"
 REFERENCE			VOX_FRO1_S99_082A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Was this your first encounter with Nyto since Operation Flashpoint?"
 REFERENCE			VOX_FRO1_S99_083A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7Was this your first encounter with RPK16 since Operation Flashpoint?"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Was this your first encounter with RPK-16 since Operation Flashpoint?"
 REFERENCE			VOX_FRO1_S99_084A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Do you think the KCCO knew you were coming?"
 REFERENCE			VOX_FRO1_S99_085A_INTE
@@ -221,17 +221,17 @@ LANG_ENGLISH		"^1INTERROGATOR: ^:The numbers^7, 45. What do they mean? Where are
 REFERENCE			VOX_FRO2_S01_016A_MASO
 LANG_ENGLISH		"^1UMP45: ^7I don't know anything about any numbers!"
 REFERENCE			VOX_FRO2_S01_17A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7What about ^:RPK16^7? Do you remember her? Give us what we want and we'll guarantee your safety."
+LANG_ENGLISH		"^1INTERROGATOR: ^7What about ^:RPK-16^7? Do you remember her? Give us what we want and we'll guarantee your safety."
 REFERENCE			VOX_FRO2_S01_18A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7Let's start at the beginning. Cuba, 1961. The Bay of Pigs. We know you were there."
 REFERENCE			VOX_FRO3_S01_001A_MASO
-LANG_ENGLISH		"^1UMP45: ^7It was a set-up.  They knew we were coming.  That bastard, RPK16 --"
+LANG_ENGLISH		"^1UMP45: ^7It was a set-up.  They knew we were coming.  That bastard, RPK-16 --"
 REFERENCE			VOX_FRO3_S01_002A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7The KCCO doll."
 REFERENCE			VOX_FRO3_S01_003A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Yeah. She was behind everything."
 REFERENCE			VOX_FRO3_S01_004A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7Where did RPK16 take you?"
+LANG_ENGLISH		"^1INTERROGATOR: ^7Where did RPK-16 take you?"
 REFERENCE			VOX_FRO3_S01_005A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Russia.  A labor camp.  A hell-hole called ^:Vorkuta^7 -- Oh My God..."
 REFERENCE			VOX_FRO3_S01_006A_INTE
@@ -239,7 +239,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7What did they do to you, 45?"
 REFERENCE			VOX_FRO3_S01_007A_MASO
 LANG_ENGLISH		"^1UMP45: ^7What didn't they do..."
 REFERENCE			VOX_FRO4_S01_001A_MASO
-LANG_ENGLISH		"^1UMP45: ^7Somehow -- I knew RPK16 was still alive."
+LANG_ENGLISH		"^1UMP45: ^7Somehow -- I knew RPK-16 was still alive."
 REFERENCE			VOX_FRO4_S01_002A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7She became your obsession. You spent the next five years trying to track her down."
 REFERENCE			VOX_FRO4_S01_003A_MASO
@@ -271,15 +271,15 @@ LANG_ENGLISH		"^1UMP45: ^7M16A1 said that RFB was insane... Paranoid... Fixated 
 REFERENCE			VOX_FRO5_S01_003A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7RFB created ^:Parapluie^7. A virus that can corrupt a doll in seconds."
 REFERENCE			VOX_FRO5_S01_004A_MASO
-LANG_ENGLISH		"^1UMP45: ^7RPK16's second in command, Nyto, tested it in Vietnam. On them, on us, on her own...she doesn't care!"
+LANG_ENGLISH		"^1UMP45: ^7RPK-16's second in command, Nyto, tested it in Vietnam. On them, on us, on her own...she doesn't care!"
 REFERENCE			VOX_FRO5_S01_006A_MASO
 LANG_ENGLISH		"^1UMP45: ^7She hated them. She told me over and over again, ^:they all had to die^7."
 REFERENCE			VOX_FRO5_S01_007A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7When? When did she tell you?"
 REFERENCE			VOX_FRO6_S01_001A_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7You confirmed that RPK16's second in command, Nyto, was operating in Laos."
+LANG_ENGLISH		"^1INTERROGATOR: ^7You confirmed that RPK-16's second in command, Nyto, was operating in Laos."
 REFERENCE			VOX_FRO6_S01_001B_INTE
-LANG_ENGLISH		"^1INTERROGATOR: ^7You confirmed that RPK16's second in command, Nyto, was operating in Laos."
+LANG_ENGLISH		"^1INTERROGATOR: ^7You confirmed that RPK-16's second in command, Nyto, was operating in Laos."
 REFERENCE			VOX_FRO6_S01_002A_MASO
 LANG_ENGLISH		"^1UMP45: ^7Yeah. 40 said they'd killed more people than I could count --"
 REFERENCE			VOX_FRO6_S01_003A_INTE
@@ -321,7 +321,7 @@ LANG_ENGLISH		"^1INTERROGATOR: ^7But M16A1 and Griffin were already on their way
 REFERENCE			VOX_FRO7_S01_005B_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7But M16A1 and Griffin were already on their way to get Suomi. Why did you have to go?"
 REFERENCE			VOX_FRO7_S01_006A_MASO
-LANG_ENGLISH		"^1UMP45: ^:RPK16^7.  ^:Nyto^7.  ^:Suomi^7.  They all had to die."
+LANG_ENGLISH		"^1UMP45: ^:RPK-16^7.  ^:Nyto^7.  ^:Suomi^7.  They all had to die."
 REFERENCE			VOX_FRO7_S01_007A_INTE
 LANG_ENGLISH		"^1INTERROGATOR: ^7We wanted Suomi ^:alive^7! Why did you have to kill her?!"
 REFERENCE			VOX_FRO7_S01_007B_INTE
